@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Recherche intelligente – France Territoriale</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Marianne:wght@400;500;700&display=swap');
+  *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+  :root{
+    --bleu:#003189;--bleu-cl:#e8edf8;--vert:#1e7a4a;--vert-cl:#e6f4ec;
+    --ocre:#c9621a;--gris:#4a5568;--fond:#f7f6f2;--blanc:#fff;
+    --border:#ddd8ce;--shadow:0 2px 16px rgba(0,49,137,.10);
+  }
+  html,body{font-family:'Marianne','Segoe UI',system-ui,sans-serif;background:var(--fond);color:#1a1a2e;font-size:15px;line-height:1.6;min-height:100vh}
+  .widget{max-width:860px;margin:0 auto;padding:24px 20px 40px}
+
+  /* Header */
+  .header{display:flex;align-items:center;gap:12px;margin-bottom:22px}
+  .header-icon{width:44px;height:44px;background:var(--bleu);border-radius:10px;display:flex;align-items:center;justify-content:center;flex-shrink:0}
+  .header-icon svg{width:24px;height:24px;fill:white}
+  .header-text h1{font-size:1.15rem;font-weight:700;color:var(--bleu);letter-spacing:-.3px}
+  .header-text p{font-size:.82rem;color:var(--gris)}
+
+  /* Badge Mistral */
+  .mistral-badge{display:inline-flex;align-items:center;gap:5px;padding:3px 10px;background:#fff3e6;border:1px solid #f5a623;border-radius:20px;font-size:.74rem;font-weight:600;color:#c9621a;margin-top:4px}
+
+  /* Barre de recherche */
+  .search-bar{display:flex;gap:8px;margin-bottom:14px}
+  .search-input-wrap{flex:1;position:relative}
+  .search-input{width:100%;padding:13px 16px 13px 44px;border:2px solid var(--border);border-radius:10px;font-size:.95rem;font-family:inherit;background:var(--blanc);color:#1a1a2e;transition:border-color .2s,box-shadow .2s;outline:none}
+  .search-input:focus{border-color:var(--bleu);box-shadow:0 0 0 3px rgba(0,49,137,.12)}
+  .search-icon{position:absolute;left:14px;top:50%;transform:translateY(-50%);color:var(--gris);pointer-events:none}
+  .btn-search{padding:13px 22px;background:var(--bleu);color:white;border:none;border-radius:10px;font-size:.9rem;font-weight:600;cursor:pointer;font-family:inherit;white-space:nowrap;transition:background .2s,transform .1s;display:flex;align-items:center;gap:6px}
+  .btn-search:hover{background:#002070}
+  .btn-search:active{transform:scale(.97)}
+  .btn-search:disabled{background:#a0aec0;cursor:not-allowed}
+
+  /* Suggestions */
+  .suggestions{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:20px}
+  .suggestions-label{width:100%;font-size:.78rem;color:var(--gris);margin-bottom:2px}
+  .chip{padding:5px 12px;background:var(--blanc);border:1px solid var(--border);border-radius:20px;font-size:.8rem;cursor:pointer;transition:all .15s;color:var(--bleu)}
+  .chip:hover{background:var(--bleu-cl);border-color:var(--bleu)}
+
+  /* Loader */
+  .loader{display:none;flex-direction:column;gap:10px;padding:28px 24px;background:var(--blanc);border-radius:12px;border:1px solid var(--border);box-shadow:var(--shadow)}
+  .loader.visible{display:flex}
+  .loader-step{display:flex;align-items:center;gap:10px;font-size:.85rem;color:var(--gris);opacity:.35;transition:opacity .3s}
+  .loader-step.active{opacity:1;color:var(--bleu)}
+  .loader-step.done{opacity:1;color:var(--vert)}
+  .spinner{width:16px;height:16px;border:2px solid currentColor;border-top-color:transparent;border-radius:50%;animation:spin .7s linear infinite;flex-shrink:0}
+  @keyframes spin{to{transform:rotate(360deg)}}
+
+  /* Réponse */
+  .answer-box{display:none;background:var(--blanc);border-radius:12px;border:1px solid var(--border);box-shadow:var(--shadow);overflow:hidden}
+  .answer-box.visible{display:block}
+  .answer-header{padding:14px 20px;background:var(--bleu);color:white;display:flex;align-items:flex-start;gap:10px;font-size:.88rem;font-weight:600}
+  .answer-header svg{width:18px;height:18px;fill:white;flex-shrink:0;margin-top:1px}
+  .answer-body{padding:20px 24px;font-size:.92rem;line-height:1.75;color:#1a1a2e}
+  .answer-body p{margin-bottom:.9em}
+  .answer-body ul{padding-left:1.4em;margin-bottom:.9em}
+  .answer-body li{margin-bottom:.35em}
+  .answer-body strong{color:var(--bleu)}
+  .answer-body a{color:var(--bleu);text-decoration:underline;text-underline-offset:2px}
+  .answer-body a:hover{color:var(--ocre)}
+
+  /* Sources */
+  .sources{padding:14px 24px 18px;border-top:1px solid var(--bleu-cl);background:var(--bleu-cl)}
+  .sources-title{font-size:.78rem;font-weight:700;color:var(--bleu);text-transform:uppercase;letter-spacing:.8px;margin-bottom:10px}
+  .source-list{display:flex;flex-direction:column;gap:7px}
+  .source-item{display:flex;align-items:baseline;gap:10px;font-size:.82rem}
+  .source-badge{padding:2px 8px;border-radius:4px;font-size:.72rem;font-weight:700;white-space:nowrap;flex-shrink:0;text-transform:uppercase;letter-spacing:.3px}
+  .badge-wiki{background:var(--bleu-cl);color:var(--bleu);border:1px solid var(--bleu)}
+  .badge-ext{background:var(--vert-cl);color:var(--vert);border:1px solid var(--vert)}
+  .source-info{display:flex;flex-direction:column;gap:1px}
+  .source-link{color:var(--bleu);text-decoration:none;font-weight:500}
+  .source-link:hover{text-decoration:underline;color:var(--ocre)}
+  .source-pertinence{font-size:.77rem;color:var(--gris)}
+
+  /* Actions */
+  .answer-actions{padding:12px 20px;border-top:1px solid var(--border);display:flex;gap:8px;justify-content:flex-end;flex-wrap:wrap}
+  .btn-action{padding:7px 14px;border-radius:7px;font-size:.8rem;font-family:inherit;cursor:pointer;transition:all .15s;display:flex;align-items:center;gap:5px}
+  .btn-reset{background:transparent;border:1px solid var(--border);color:var(--gris)}
+  .btn-reset:hover{background:#f0f0f0}
+  .btn-copy{background:var(--vert-cl);border:1px solid var(--vert);color:var(--vert)}
+  .btn-copy:hover{background:#c6ecd5}
+
+  /* Empreinte */
+  .eco-bar{margin-top:12px;padding:12px 16px;background:#f0faf4;border:1px solid #a8d5b8;border-radius:10px;display:none;flex-direction:column;gap:8px}
+  .eco-bar.visible{display:flex}
+  .eco-header{display:flex;align-items:center;justify-content:space-between;gap:8px}
+  .eco-title{font-size:.78rem;font-weight:700;color:var(--vert);text-transform:uppercase;letter-spacing:.7px}
+  .eco-toggle{font-size:.75rem;color:var(--vert);cursor:pointer;background:none;border:none;padding:2px 6px;border-radius:4px;font-family:inherit;text-decoration:underline;text-underline-offset:2px}
+  .eco-toggle:hover{color:var(--bleu)}
+  .eco-metrics{display:flex;gap:10px;flex-wrap:wrap}
+  .eco-metric{flex:1;min-width:80px;background:white;border:1px solid #c6e8d4;border-radius:8px;padding:8px 10px;text-align:center}
+  .eco-metric-value{font-size:1.1rem;font-weight:700;color:var(--vert);line-height:1.2}
+  .eco-metric-label{font-size:.72rem;color:var(--gris);margin-top:2px}
+  .eco-equiv{font-size:.8rem;color:#2d6a4f;background:#d8f3e3;border-radius:6px;padding:6px 10px}
+  .eco-detail{display:none;font-size:.77rem;color:var(--gris);line-height:1.6;padding:6px 0 0;border-top:1px dashed #c6e8d4;margin-top:4px}
+  .eco-detail.open{display:block}
+  .eco-detail a{color:var(--vert)}
+  .eco-cumul{margin-top:16px;padding:10px 14px;background:#fffbf0;border:1px solid #f0d98a;border-radius:8px;font-size:.8rem;color:#6b5a1e;display:none}
+  .eco-cumul.visible{display:block}
+  .eco-cumul strong{color:var(--ocre)}
+
+  /* Erreur */
+  .error-box{display:none;padding:14px 18px;background:#fef2f2;border:1px solid #fca5a5;border-radius:10px;font-size:.87rem;color:#b91c1c}
+  .error-box.visible{display:block}
+
+  /* Historique */
+  .history{margin-top:24px}
+  .history-title{font-size:.78rem;font-weight:700;color:var(--gris);text-transform:uppercase;letter-spacing:.8px;margin-bottom:10px}
+  .history-list{display:flex;flex-direction:column;gap:6px}
+  .history-item{padding:9px 14px;background:var(--blanc);border:1px solid var(--border);border-radius:8px;font-size:.83rem;cursor:pointer;display:flex;justify-content:space-between;align-items:center;transition:background .15s;color:#1a1a2e}
+  .history-item:hover{background:var(--bleu-cl)}
+  .h-time{font-size:.74rem;color:var(--gris);white-space:nowrap;margin-left:10px}
+
+  @media(max-width:540px){
+    .search-bar{flex-direction:column}
+    .btn-search{width:100%;justify-content:center}
+    .answer-body{padding:16px}
+    .sources{padding:12px 16px 16px}
+    .eco-metrics{gap:6px}
+    .eco-metric-value{font-size:.95rem}
+  }
+</style>
+</head>
+<body>
+<div class="widget">
+
+  <div class="header">
+    <div class="header-icon">
+      <svg viewBox="0 0 24 24"><path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>
+    </div>
+    <div class="header-text">
+      <h1>Moteur de recherche intelligent</h1>
+      <p>Posez votre question — je parcours les ressources du wiki et les sites référencés</p>
+      <span class="mistral-badge">🇫🇷 Propulsé par Mistral AI · Données hébergées en Europe</span>
+    </div>
+  </div>
+
+  <div class="search-bar">
+    <div class="search-input-wrap">
+      <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/>
+      </svg>
+      <input type="text" id="queryInput" class="search-input"
+             placeholder="Ex : Comment financer une démarche de participation citoyenne ?"
+             onkeydown="if(event.key==='Enter') search()">
+    </div>
+    <button class="btn-search" id="btnSearch" onclick="search()">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"/></svg>
+      Rechercher
+    </button>
+  </div>
+
+  <div class="suggestions">
+    <span class="suggestions-label">Suggestions :</span>
+    <span class="chip" onclick="useChip(this)">Financer la transition écologique d'une commune</span>
+    <span class="chip" onclick="useChip(this)">Modèle de délibération pour budget participatif</span>
+    <span class="chip" onclick="useChip(this)">Outils de coopération interterritoriale</span>
+    <span class="chip" onclick="useChip(this)">Formation des agents territoriaux</span>
+    <span class="chip" onclick="useChip(this)">Créer un tiers-lieu dans ma collectivité</span>
+  </div>
+
+  <div class="loader" id="loader">
+    <div class="loader-step" id="step1"><div class="spinner"></div><span>Analyse de la question et sélection des ressources…</span></div>
+    <div class="loader-step" id="step2"><div class="spinner"></div><span>Exploration des sites référencés…</span></div>
+    <div class="loader-step" id="step3"><div class="spinner"></div><span>Formulation de la réponse…</span></div>
+  </div>
+
+  <div class="error-box" id="errorBox"></div>
+
+  <div class="answer-box" id="answerBox">
+    <div class="answer-header">
+      <svg viewBox="0 0 24 24"><path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2z"/></svg>
+      <span id="answerQuestion"></span>
+    </div>
+    <div class="answer-body" id="answerBody"></div>
+    <div class="sources" id="sourcesSection" style="display:none">
+      <div class="sources-title">📎 Sources consultées</div>
+      <div class="source-list" id="sourceList"></div>
+    </div>
+    <div class="answer-actions">
+      <button class="btn-action btn-reset" onclick="reset()">↺ Nouvelle question</button>
+      <button class="btn-action btn-copy" id="btnCopy" onclick="copyAnswer()">⎘ Copier la réponse</button>
+    </div>
+  </div>
+
+  <!-- Module empreinte environnementale -->
+  <div class="eco-bar" id="ecoBar">
+    <div class="eco-header">
+      <span class="eco-title">🌿 Empreinte de cette requête</span>
+      <button class="eco-toggle" onclick="toggleEcoDetail()">Voir le détail</button>
+    </div>
+    <div class="eco-metrics">
+      <div class="eco-metric"><div class="eco-metric-value" id="ecoCo2">—</div><div class="eco-metric-label">g CO₂</div></div>
+      <div class="eco-metric"><div class="eco-metric-value" id="ecoWh">—</div><div class="eco-metric-label">Wh énergie</div></div>
+      <div class="eco-metric"><div class="eco-metric-value" id="ecoTokens">—</div><div class="eco-metric-label">tokens traités</div></div>
+      <div class="eco-metric"><div class="eco-metric-value" id="ecoEau">—</div><div class="eco-metric-label">mL eau</div></div>
+    </div>
+    <div class="eco-equiv" id="ecoEquiv">—</div>
+    <div class="eco-detail" id="ecoDetail">
+      <p><strong>Méthodologie :</strong> estimation basée sur Mistral Small — architecture MoE qui n'active que les paramètres nécessaires, environ <strong>~0,06 Wh</strong> et <strong>0,03 g CO₂</strong> par requête standard (~4 000 tokens), soit 3 à 4× moins énergivore que Claude Haiku. La consommation d'eau (~1,9 mL/Wh) est estimée sur la base du WUE moyen des datacenters européens. Ces valeurs sont des <em>estimations orientatives</em> — Mistral AI ne publie pas encore ses données d'impact opérationnel.</p>
+      <p style="margin-top:6px">Sources :
+        <a href="https://www.greenit.fr/2026/04/22/sept-reflexes-pour-une-ia-plus-frugale/" target="_blank">GreenIT.fr 2026</a> ·
+        <a href="https://carboncredits.com/chatgpt-vs-claude-ai-carbon-footprints-pentagon-deal-and-energy-impact/" target="_blank">CarbonCredits.com 2026</a>
+      </p>
+    </div>
+  </div>
+
+  <div class="eco-cumul" id="ecoCumul"></div>
+
+  <div class="history" id="historySection" style="display:none">
+    <div class="history-title">Recherches récentes</div>
+    <div class="history-list" id="historyList"></div>
+  </div>
+
+</div>
+
+<script>
+  // ════════════════════════════════════════════════════
+  // ⚙️ CONFIGURATION — remplacez l'URL après déploiement
+  // ════════════════════════════════════════════════════
+  const PROXY_URL = 'https://ft-search.maisons-france.workers.dev/';
+
+  let searchHistory=[], lastAnswerText='';
+
+  // 🌿 Empreinte — Mistral Small MoE : ~0,06 Wh / 0,03 g CO₂ / ~4000 tokens
+  const ECO={tokensRef:4000,whRef:0.06,co2Ref:0.03,wueRef:1.9};
+  let sCo2=0,sWh=0,sTokens=0,sCount=0;
+
+  function calcEco(pT,cT){
+    const t=((pT||0)+(cT||0))||ECO.tokensRef, r=t/ECO.tokensRef;
+    return{tokens:t,wh:+(ECO.whRef*r).toFixed(3),co2:+(ECO.co2Ref*r).toFixed(3),eau:+(ECO.whRef*r*ECO.wueRef).toFixed(1)};
+  }
+  function equiv(c){
+    if(c<0.15) return '🚶 ~'+(c/0.00006).toFixed(0)+' m de marche à pied';
+    if(c<1)    return '📱 ~'+(c/0.014).toFixed(0)+' min d\'utilisation de smartphone';
+    return '☕ ~'+(c/21).toFixed(3)+' tasse(s) de café expresso';
+  }
+  function showEco(pT,cT){
+    const e=calcEco(pT,cT);
+    document.getElementById('ecoCo2').textContent=e.co2;
+    document.getElementById('ecoWh').textContent=e.wh;
+    document.getElementById('ecoTokens').textContent=e.tokens.toLocaleString('fr-FR');
+    document.getElementById('ecoEau').textContent=e.eau;
+    document.getElementById('ecoEquiv').textContent=equiv(e.co2);
+    document.getElementById('ecoBar').classList.add('visible');
+    sCo2+=e.co2;sWh+=e.wh;sTokens+=e.tokens;sCount++;
+    if(sCount>=2){
+      const el=document.getElementById('ecoCumul');
+      el.classList.add('visible');
+      el.innerHTML='🔢 <strong>Session ('+sCount+' requêtes) :</strong> <strong>'+sCo2.toFixed(2)+' g CO₂</strong> · '+sWh.toFixed(2)+' Wh · '+sTokens.toLocaleString('fr-FR')+' tokens';
+    }
+  }
+  function toggleEcoDetail(){
+    const d=document.getElementById('ecoDetail'),btn=document.querySelector('.eco-toggle');
+    btn.textContent=d.classList.toggle('open')?'Masquer le détail':'Voir le détail';
+  }
+
+  function useChip(el){document.getElementById('queryInput').value=el.textContent;search();}
+
+  async function search(){
+    const query=document.getElementById('queryInput').value.trim();
+    if(!query) return;
+    ['answerBox','errorBox','ecoBar'].forEach(id=>document.getElementById(id).classList.remove('visible'));
+    document.getElementById('ecoDetail').classList.remove('open');
+    document.getElementById('btnSearch').disabled=true;
+    showLoader();stepActive(1);
+    try{
+      const resp=await fetch(PROXY_URL,{
+        method:'POST',
+        headers:{'Content-Type':'application/json'},
+        body:JSON.stringify({query})
+      });
+      stepActive(2);
+      if(!resp.ok){const e=await resp.json().catch(()=>({}));throw new Error(e.error||'Erreur '+resp.status);}
+      const data=await resp.json();
+      stepActive(3);
+
+      // data.content = string JSON, data.usage = {prompt_tokens, completion_tokens}
+      const pT=data.usage?.prompt_tokens||0;
+      const cT=data.usage?.completion_tokens||0;
+
+      let parsed;
+      try{
+        const raw=typeof data.content==='string'?data.content:JSON.stringify(data.content);
+        parsed=JSON.parse(raw.replace(/```json|```/g,'').trim());
+      }catch{
+        parsed={reponse:'<p>'+(data.content||'Erreur de parsing.')+'</p>',sources:[]};
+      }
+
+      hideLoader();
+      showAnswer(query,parsed);
+      showEco(pT,cT);
+      addToHistory(query);
+    }catch(err){
+      hideLoader();showError(err.message);
+    }finally{
+      document.getElementById('btnSearch').disabled=false;
+    }
+  }
+
+  function showLoader(){
+    document.getElementById('loader').classList.add('visible');
+    [1,2,3].forEach(n=>{const el=document.getElementById('step'+n);el.classList.remove('active','done');});
+  }
+  function hideLoader(){document.getElementById('loader').classList.remove('visible');}
+  function stepActive(n){
+    for(let i=1;i<n;i++){
+      const el=document.getElementById('step'+i);
+      el.classList.remove('active');el.classList.add('done');
+      el.innerHTML='<svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="flex-shrink:0;color:var(--vert)"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg><span>'+el.querySelector('span').textContent+'</span>';
+    }
+    const el=document.getElementById('step'+n);if(el)el.classList.add('active');
+  }
+
+  function showAnswer(query,parsed){
+    document.getElementById('answerQuestion').textContent=query;
+    document.getElementById('answerBody').innerHTML=parsed.reponse||'<p>Aucune réponse générée.</p>';
+    lastAnswerText=document.getElementById('answerBody').innerText;
+    const sl=document.getElementById('sourceList'),ss=document.getElementById('sourcesSection');
+    sl.innerHTML='';
+    if(parsed.sources&&parsed.sources.length>0){
+      ss.style.display='block';
+      parsed.sources.forEach(s=>{
+        const iw=s.type==='wiki'||(s.url||'').includes('france-territoriale');
+        const bc=iw?'badge-wiki':'badge-ext',bl=iw?'Wiki':'Externe';
+        sl.innerHTML+='<div class="source-item"><span class="source-badge '+bc+'">'+bl+'</span><div class="source-info"><a href="'+escHtml(s.url)+'" target="_blank" rel="noopener" class="source-link">'+escHtml(s.titre)+'</a>'+(s.pertinence?'<span class="source-pertinence">'+escHtml(s.pertinence)+'</span>':'')+'</div></div>';
+      });
+    }else{ss.style.display='none';}
+    document.getElementById('answerBox').classList.add('visible');
+    document.getElementById('answerBox').scrollIntoView({behavior:'smooth',block:'start'});
+  }
+
+  function escHtml(s){return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
+  function showError(msg){const el=document.getElementById('errorBox');el.textContent='⚠️ '+msg;el.classList.add('visible');}
+  function reset(){
+    ['answerBox','errorBox','ecoBar'].forEach(id=>document.getElementById(id).classList.remove('visible'));
+    document.getElementById('queryInput').value='';
+    document.getElementById('queryInput').focus();
+  }
+  function copyAnswer(){
+    navigator.clipboard.writeText(lastAnswerText).then(()=>{
+      const btn=document.getElementById('btnCopy'),orig=btn.textContent;
+      btn.textContent='✓ Copié !';setTimeout(()=>btn.textContent=orig,2000);
+    });
+  }
+  function addToHistory(q){
+    searchHistory.unshift({query:q,time:new Date()});
+    if(searchHistory.length>5)searchHistory.pop();
+    renderHistory();
+  }
+  function renderHistory(){
+    const hs=document.getElementById('historySection'),hl=document.getElementById('historyList');
+    if(!searchHistory.length){hs.style.display='none';return;}
+    hs.style.display='block';
+    hl.innerHTML=searchHistory.map((h,i)=>'<div class="history-item" onclick="reuseHistory('+i+')"><span>'+(h.query.length>80?h.query.slice(0,77)+'…':escHtml(h.query))+'</span><span class="h-time">'+h.time.toLocaleTimeString('fr-FR',{hour:'2-digit',minute:'2-digit'})+'</span></div>').join('');
+  }
+  function reuseHistory(i){document.getElementById('queryInput').value=searchHistory[i].query;search();}
+</script>
+</body>
+</html>
