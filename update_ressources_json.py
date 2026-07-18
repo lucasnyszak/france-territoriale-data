@@ -21,7 +21,7 @@ import feedparser
 
 BASE_FILE   = Path("ressources_base.json")
 OUTPUT_FILE = Path("ressources.json")
-MAX_AGE_DAYS = 7
+MAX_AGE_DAYS = 30   # filtre large : on préfère trop d'actus que pas assez
 MAX_PER_FEED = 5
 
 RSS_SOURCES = [
@@ -103,6 +103,21 @@ def fetch_rss_articles():
     return articles
 
 
+def load_previous_actus():
+    """Charge les actus déjà présentes dans ressources.json (fallback si RSS échoue)."""
+    if not OUTPUT_FILE.exists():
+        return []
+    try:
+        with open(OUTPUT_FILE, encoding="utf-8") as f:
+            existing = json.load(f)
+        actus = [e for e in existing if e.get("bf_formulaire") == "actu"]
+        print(f"  Fallback : {len(actus)} actus deja presentes dans {OUTPUT_FILE}")
+        return actus
+    except Exception as e:
+        print(f"  Impossible de lire {OUTPUT_FILE} pour fallback : {e}")
+        return []
+
+
 def main():
     # 1. Charger la base stable
     if not BASE_FILE.exists():
@@ -116,11 +131,16 @@ def main():
     # 2. Recuperer les actus RSS
     print("\nActualites RSS...")
     articles = fetch_rss_articles()
-    print(f"  -> {len(articles)} articles")
+    print(f"  -> {len(articles)} articles frais")
 
-    # 3. Assembler : base d'abord, actus ensuite
+    # 3. Fallback si aucun article récupéré
+    if not articles:
+        print("  Aucun article RSS recupere — utilisation des actus precedentes.")
+        articles = load_previous_actus()
+
+    # 4. Assembler : base d'abord, actus ensuite
     result = base + articles
-    print(f"\nTotal : {len(result)} entrees")
+    print(f"\nTotal : {len(result)} entrees ({len(base)} ressources + {len(articles)} actus)")
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
