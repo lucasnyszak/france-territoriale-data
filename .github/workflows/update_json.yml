@@ -1,0 +1,38 @@
+name: Mise à jour ressources.json
+
+on:
+  schedule:
+    - cron: '30 6 * * *'   # 6h30 Paris (après fetch_news.py à 7h)
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    permissions:
+      contents: write   # pour git push
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Installer les dépendances
+        run: pip install feedparser requests
+
+      - name: Mettre à jour ressources.json
+        run: python update_ressources_json.py
+
+      - name: Commiter et pousser si changements
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add ressources.json
+          git diff --cached --quiet || git commit -m "chore: mise à jour ressources + actus $(date +'%d/%m/%Y')"
+          git push
