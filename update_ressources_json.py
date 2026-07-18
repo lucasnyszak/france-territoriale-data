@@ -1,14 +1,15 @@
 #!/usr/bin/env python3
 """
-Met a jour ressources.json avec :
-  - Les 142 ressources de la gare centrale (formulaire 8)
-  - Les documents prets a l'emploi (formulaire 6)
-  - Les actualites recentes des flux RSS (formulaire "actu")
+Met a jour ressources.json en combinant :
+  - ressources_base.json  : ressources stables de la gare centrale (143 entrees)
+                            Ce fichier ne change que si vous ajoutez manuellement
+                            de nouvelles ressources au wiki.
+  - Flux RSS              : actualites des 7 derniers jours (genere automatiquement)
 
 Usage :
-  pip install feedparser requests
+  pip install feedparser
   python update_ressources_json.py
-  -> genere ressources.json a pousser sur GitHub
+  -> genere ressources.json a pousser sur GitHub (ou commit auto via Actions)
 """
 
 import json
@@ -17,16 +18,11 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import feedparser
-import requests
 
-# ---------------------------------------------------------------------------
-# CONFIG
-# ---------------------------------------------------------------------------
-
-WIKI_API      = "https://france-territoriale.yeswiki.pro/?api/forms/{id}/entries"
-OUTPUT_FILE   = Path("ressources.json")
-MAX_AGE_DAYS  = 7       # Articles plus vieux que N jours ignores
-MAX_PER_FEED  = 5       # Articles max par flux RSS
+BASE_FILE   = Path("ressources_base.json")
+OUTPUT_FILE = Path("ressources.json")
+MAX_AGE_DAYS = 7
+MAX_PER_FEED = 5
 
 RSS_SOURCES = [
     {
@@ -56,42 +52,6 @@ RSS_SOURCES = [
 ]
 
 
-# ---------------------------------------------------------------------------
-# RESSOURCES WIKI
-# ---------------------------------------------------------------------------
-
-def fetch_wiki_form(form_id):
-    print(f"  Chargement formulaire {form_id}...")
-    try:
-        resp = requests.get(
-            WIKI_API.format(id=form_id),
-            headers={"User-Agent": "FranceTerritoriale-Bot/1.0"},
-            timeout=20,
-        )
-        entries = resp.json()
-        print(f"    -> {len(entries)} entrees")
-        return entries
-    except Exception as e:
-        print(f"    ERREUR : {e}")
-        return []
-
-
-def normalize_wiki_entry(entry, form_id):
-    return {
-        "bf_titre":       entry.get("bf_titre", ""),
-        "bf_lien":        entry.get("bf_lien", ""),
-        "bf_categorie":   entry.get("bf_categorie", ""),
-        "bf_description": entry.get("bf_description", ""),
-        "bf_tags":        entry.get("bf_tags", ""),
-        "bf_type":        entry.get("bf_type", ""),
-        "bf_formulaire":  str(form_id),
-    }
-
-
-# ---------------------------------------------------------------------------
-# FLUX RSS
-# ---------------------------------------------------------------------------
-
 def strip_html(text):
     return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", text or "")).strip()
 
@@ -112,7 +72,6 @@ def fetch_rss_articles():
                 for entry in feed.entries:
                     if count >= MAX_PER_FEED:
                         break
-                    # Date
                     pub = None
                     for attr in ("published_parsed", "updated_parsed"):
                         val = getattr(entry, attr, None)
@@ -126,17 +85,15 @@ def fetch_rss_articles():
                     if not title or not link or link in seen:
                         continue
                     seen.add(link)
-                    raw  = entry.get("summary", entry.get("description", ""))
-                    desc = strip_html(raw)[:300]
+                    desc = strip_html(entry.get("summary", entry.get("description", "")))[:300]
                     articles.append({
                         "bf_titre":       title,
                         "bf_lien":        link,
                         "bf_categorie":   source["categorie"],
                         "bf_description": desc,
-                        "bf_tags":        "",
+                        "bf_tags":        source["name"],
                         "bf_type":        "Actualite",
                         "bf_formulaire":  "actu",
-                        "bf_source":      source["name"],
                     })
                     print(f"    OK  {title[:65]}")
                     count += 1
@@ -146,38 +103,28 @@ def fetch_rss_articles():
     return articles
 
 
-# ---------------------------------------------------------------------------
-# MAIN
-# ---------------------------------------------------------------------------
-
 def main():
-    result = []
+    # 1. Charger la base stable
+    if not BASE_FILE.exists():
+        print(f"ERREUR : {BASE_FILE} introuvable.")
+        raise SystemExit(1)
 
-    print("\n1. Ressources de la gare centrale (form 8)...")
-    for entry in fetch_wiki_form(8):
-        if entry.get("bf_titre"):
-            result.append(normalize_wiki_entry(entry, 8))
-    print(f"   -> {len(result)} ressources")
+    with open(BASE_FILE, encoding="utf-8") as f:
+        base = json.load(f)
+    print(f"Base chargee : {len(base)} ressources")
 
-    count_before = len(result)
-    print("\n2. Documents prets a l'emploi (form 6)...")
-    for entry in fetch_wiki_form(6):
-        if entry.get("bf_titre"):
-            result.append(normalize_wiki_entry(entry, 6))
-    print(f"   -> {len(result) - count_before} documents")
-
-    print("\n3. Actualites RSS (7 derniers jours)...")
+    # 2. Recuperer les actus RSS
+    print("\nActualites RSS...")
     articles = fetch_rss_articles()
-    result.extend(articles)
-    print(f"   -> {len(articles)} articles")
+    print(f"  -> {len(articles)} articles")
 
+    # 3. Assembler : base d'abord, actus ensuite
+    result = base + articles
     print(f"\nTotal : {len(result)} entrees")
-    print(f"Ecriture dans {OUTPUT_FILE}...")
+
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
     print(f"OK -> {OUTPUT_FILE}")
-    print("\nPousser sur GitHub :")
-    print("  git add ressources.json && git commit -m 'update: ressources + actus' && git push")
 
 
 if __name__ == "__main__":
