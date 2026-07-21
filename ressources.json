@@ -1287,6 +1287,24 @@
     "bf_formulaire": "6"
   },
   {
+    "bf_titre": "Réfection des étanchéités sur les ouvrages d'art : retour sur la conférence technique territoriale du Cerema du 18 juin 2026",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/refection-etancheites-ouvrages-art-retour-conference",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Mardi 21 juillet 2026 Ouvrages d’art Visite d&#039;un ouvrage lors de la CTT 42 personnes représentant les principaux maitres d’ouvrages d’infrastructures routières des régions Normande et Centre à savoir les conseils départementaux 76, 50, 27, 45, 37, 41, 14, 28, 18, la DIRNO, la Communau",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Un réseau national pour observer les états de mer : les travaux de l'observatoire Candhis géré par le Cerema",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/reseau-national-observer-etats-mer-travaux-observatoire",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Mardi 21 juillet 2026 Observation, planification et gestion du littoral et de la mer Entretien du houlographe de Belle-Ile en 2025 Les états de mer sont la résultante des fortes houles venant du large, et des mers de vent générées au droit des tempêtes, et leur suivi permet d&#039;alimente",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "Un prototype d'outil de pilotage pour accompagner l'ouverture nocturne des fenêtres dans les bâtiments publics",
     "bf_lien": "https://www.cerema.fr/fr/actualites/prototype-outil-pilotage-accompagner-ouverture-nocturne",
     "bf_categorie": "Transitions",
@@ -1309,24 +1327,6 @@
     "bf_lien": "https://www.cerema.fr/fr/actualites/mettre-situation-renforcer-resilience-projets-amenagement",
     "bf_categorie": "Transitions",
     "bf_description": "Publié le Lundi 20 juillet 2026 Participation citoyenne et association des parties prenantes Plateau de jeu Le Cerema accompagne les collectivités à différents stades de leurs projets d’aménagement, jusqu’à leur mise en œuvre opérationnelle. Parmi les méthodes mobilisées, les formats ludiques d’atel",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Faire du développement des énergies renouvelables un atout pour vos territoires",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/faire-du-developpement-energies-renouvelables-atout-vos",
-    "bf_categorie": "Transitions",
-    "bf_description": "Publié le Vendredi 17 juillet 2026 Energies renouvelables terrestres et maritimes Panneaux photovoltaïques en toiture Chaque territoire dispose de ressources mobilisables pour produire des énergies renouvelables (ENR), qu’il s’agisse de gisements de géothermie, bois énergie, chaleur industrielle, su",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Partage de données pour l’analyse des mobilités : état des lieux et retours d’expériences. Retour sur le rendez-vous mobilités du 2 juillet 2026",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/partage-donnees-analyse-mobilites-etat-lieux-retours",
-    "bf_categorie": "Transitions",
-    "bf_description": "Publié le Vendredi 17 juillet 2026 Connaissance, modélisation et évaluation de la mobilité Arrêt de tramway à Paris Les données sont essentielles pour comprendre, analyser, et concevoir des solutions afin d’améliorer les mobilités et accélérer leur transition écologique. Les données disponibles sont",
     "bf_tags": "CEREMA",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1422,46 +1422,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Impôts locaux : un début de mandat sous le signe d'une grande modération",
-    "bf_lien": "https://www.banquedesterritoires.fr/impots-locaux-un-debut-de-mandat-sous-le-signe-dune-grande-moderation?pk_campaign=Flux%20RSS&pk_kwd=2026-07-20&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Biodiversité : une stratégie \"qui n'a jamais reçu les moyens de ses objectifs\", pointe un rapport sénatorial",
+    "bf_lien": "https://www.banquedesterritoires.fr/biodiversite-une-strategie-qui-na-jamais-recu-les-moyens-de-ses-objectifs-pointe-un-rapport?pk_campaign=Flux%20RSS&pk_kwd=2026-07-21&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "En dépit de contraintes financières parfois soutenues, les villes de plus de 40.000 habitants et leurs intercommunalités ont été très peu nombreuses à relever au début de l'année leurs taux de fiscalité locale - notamment de taxes foncières -, selon une étude du cabinet FSL. Mais celles qui ont acti",
+    "bf_description": "Près de quatre ans après son élaboration, la stratégie nationale biodiversité pour la période 2023-2030 (SNB 2030) a été victime d'une \"promesse de Gascon\", constate un rapport de la commission des finances du Sénat présenté ce 8 juillet. Outre \"un non-respect significatif\" de la trajectoire financi",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Moyens de la sécurité civile : la pression monte sur l’exécutif",
-    "bf_lien": "https://www.banquedesterritoires.fr/moyens-de-la-securite-civile-la-pression-monte-sur-la-lexecutif?pk_campaign=Flux%20RSS&pk_kwd=2026-07-20&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Achats durables : un rapport dresse un état des lieux contrasté du déploiement des Spaser",
+    "bf_lien": "https://www.banquedesterritoires.fr/achats-durables-un-rapport-dresse-un-etat-des-lieux-contraste-du-deploiement-des-spaser?pk_campaign=Flux%20RSS&pk_kwd=2026-07-21&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Après deux semaines noires sur le front des incendies, des députés écologistes ont présenté, jeudi 16 juillet, une proposition de loi \"de modernisation de notre modèle de&nbsp;sécurité civile\". Histoire de mettre la pression sur le gouvernement dont le projet de loi issu du \"Beauvau de la sécurité c",
+    "bf_description": "Malgré des niveaux d’appropriation encore disparates, les pratiques observées par le Commissariat général au développement durable (CGDD) témoignent du rôle central désormais occupé par les schémas de promotion des achats socialement et écologiquement responsables (Spaser) pour catalyser ces considé",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Sécurité civile : un rapport parlementaire suggère que la \"valeur du sauvé\" prenne du galon",
-    "bf_lien": "https://www.banquedesterritoires.fr/securite-civile-un-rapport-parlementaire-suggere-que-la-valeur-du-sauve-prenne-du-galon?pk_campaign=Flux%20RSS&pk_kwd=2026-07-20&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Atlas 2026 des services publics locaux : la réalité des territoires dépasse les couleurs politiques",
+    "bf_lien": "https://www.banquedesterritoires.fr/atlas-2026-des-services-publics-locaux-la-realite-des-territoires-depasse-les-couleurs-politiques?pk_campaign=Flux%20RSS&pk_kwd=2026-07-21&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Deux parlementaires plaident pour prendre davantage en compte la \"valeur du sauvé\" pour financer les Sdis, tout en soulignant les limites du concept.",
+    "bf_description": "À moins d'un an de la présidentielle, l'Institut de la gestion déléguée (IGD), en partenariat avec France urbaine et Intercommunalités de France, publie la 4e édition de son Atlas des services publics locaux. Fondée sur l'observation de 176 intercommunalités sur treize ans, l'étude confirme l'absenc",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Forêt : le décret sur les aides au reboisement subit la coupe rase du Conseil d’Etat",
-    "bf_lien": "https://www.banquedesterritoires.fr/foret-le-decret-sur-les-aides-au-reboisement-subit-la-coupe-rase-du-conseil-detat?pk_campaign=Flux%20RSS&pk_kwd=2026-07-20&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "TNT : l'Arcom autorise un test de réduction de couverture",
+    "bf_lien": "https://www.banquedesterritoires.fr/tnt-larcom-autorise-un-test-de-reduction-de-couverture?pk_campaign=Flux%20RSS&pk_kwd=2026-07-21&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Saisie par l'association de protection des forêts Canopée, la Haute Juridiction administrative a annulé ce 15 juillet le décret du 2 mai 2025 qui organisait les aides en faveur du renouvellement forestier, dans la continuité du plan visant à planter 1 milliard d'arbres d'ici 2032 voulu par Emmanuel ",
+    "bf_description": "Le régulateur a validé l'extinction de trois émetteurs TNT dans le Cantal, la Savoie et l'Ardèche à compter du 24 novembre 2026. Une expérimentation qui intervient alors que les chaînes nationales demandent une réduction bien plus large du réseau et que l'avenir même de la plateforme hertzienne est ",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Urgences : six personnalités appellent à \"faire des parcours des personnes âgées une priorité absolue\"",
-    "bf_lien": "https://www.banquedesterritoires.fr/urgences-six-personnalites-appellent-faire-des-parcours-des-personnes-agees-une-priorite-absolue?pk_campaign=Flux%20RSS&pk_kwd=2026-07-20&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Aides publiques aux entreprises : priorité à l’évaluation, selon le Haut-Commissariat à la stratégie et au plan",
+    "bf_lien": "https://www.banquedesterritoires.fr/aides-publiques-aux-entreprises-priorite-levaluation-selon-le-haut-commissariat-la-strategie-et-au?pk_campaign=Flux%20RSS&pk_kwd=2026-07-21&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Pour sauver les urgences, et plus globalement le système de santé, un changement de paradigme est nécessaire, selon six personnalités du monde hospitalier qui viennent de remettre un rapport à la ministre Stéphanie Rist. Cela passerait par l'élaboration, par toutes les parties prenantes et sous l'ég",
+    "bf_description": "L'enjeu n'est plus seulement de savoir combien coûtent les aides aux entreprises, mais d'en mesurer l'efficacité. Dans un nouveau rapport, le Haut-Commissariat à la stratégie et au plan (HCSP) propose un cadre commun de suivi et d'évaluation des dispositifs, fondé sur une définition stabilisée et de",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
