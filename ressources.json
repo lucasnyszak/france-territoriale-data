@@ -1299,7 +1299,7 @@
     "bf_titre": "Un réseau national pour observer les états de mer : les travaux de l'observatoire Candhis géré par le Cerema",
     "bf_lien": "https://www.cerema.fr/fr/actualites/reseau-national-observer-etats-mer-travaux-observatoire",
     "bf_categorie": "Transitions",
-    "bf_description": "Publié le Mardi 21 juillet 2026 Observation, planification et gestion du littoral et de la mer Entretien du houlographe de Belle-Ile en 2025 Les états de mer sont la résultante des fortes houles venant du large, et des mers de vent générées au droit des tempêtes, et leur suivi permet d&#039;alimente",
+    "bf_description": "Publié le Mardi 21 juillet 2026 Observation, planification et gestion du littoral et de la mer Récupération d&#039;un houlographe à Belle-Ile Les états de mer sont la résultante des fortes houles venant du large, et des mers de vent générées au droit des tempêtes, et leur suivi permet d&#039;aliment",
     "bf_tags": "CEREMA",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1328,6 +1328,15 @@
     "bf_categorie": "Transitions",
     "bf_description": "Publié le Lundi 20 juillet 2026 Participation citoyenne et association des parties prenantes Plateau de jeu Le Cerema accompagne les collectivités à différents stades de leurs projets d’aménagement, jusqu’à leur mise en œuvre opérationnelle. Parmi les méthodes mobilisées, les formats ludiques d’atel",
     "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Etat des lieux du développement de l&#039;autopartage en France",
+    "bf_lien": "https://librairie.ademe.fr/mobilite-et-transports/9494-etat-des-lieux-du-developpement-de-l-autopartage-en-france.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;&lt;span style=&quot;background-color:#FFFFFF;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;&lt;span style=&quot;color:#7d4e5b;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;L’autopartage connaît un développement régulier en Fra",
+    "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
@@ -1363,15 +1372,6 @@
     "bf_lien": "https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9490-climagriR-un-outil-et-une-demarche-sur-l-agriculture-et-le-climat-pour-les-territoires-9791029727313.html",
     "bf_categorie": "Transitions",
     "bf_description": "&lt;p&gt;ClimAgri&lt;span style=&quot;font-size:9pt;&quot;&gt;® &lt;/span&gt;est à la fois un outil de diagnostic et une démarche d&#039;animation des acteurs locaux sur les enjeux climatiques (en particulier émissions de gaz à effet de serre et stockage de carbone) du secteur agricole à l&#039;éche",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Installations de méthanisation :  facteurs d&#039;émission des fuites biogaz",
-    "bf_lien": "https://librairie.ademe.fr/energies/9489-installations-de-methanisation-facteurs-d-emission-des-fuites-biogaz.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;&lt;span style=&quot;color:#1d1d1b;&quot;&gt;Le projet de recherche FELeaks fait suite au projet de recherche TrackyLeaks qui a permis le développement d’une méthode d’estimation des flux de méthane appliqués aux émissions fugitives des sites de ",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1422,46 +1422,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Biodiversité : une stratégie \"qui n'a jamais reçu les moyens de ses objectifs\", pointe un rapport sénatorial",
-    "bf_lien": "https://www.banquedesterritoires.fr/biodiversite-une-strategie-qui-na-jamais-recu-les-moyens-de-ses-objectifs-pointe-un-rapport?pk_campaign=Flux%20RSS&pk_kwd=2026-07-21&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "La base adresse, entre succès avéré et avenir en pointillé",
+    "bf_lien": "https://www.banquedesterritoires.fr/la-base-adresse-entre-succes-avere-et-avenir-en-pointille?pk_campaign=Flux%20RSS&pk_kwd=2026-07-22&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Près de quatre ans après son élaboration, la stratégie nationale biodiversité pour la période 2023-2030 (SNB 2030) a été victime d'une \"promesse de Gascon\", constate un rapport de la commission des finances du Sénat présenté ce 8 juillet. Outre \"un non-respect significatif\" de la trajectoire financi",
+    "bf_description": "Quatre ans après la loi 3DS, qui a fait de chaque commune l'autorité unique sur son adressage, 80% des communes ont publié leur base adresse locale (BAL). Le programme, porté par l'ANCT pour l'accompagnement des communes et par l'IGN pour l'agrégation nationale et la diffusion, se concentre désormai",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Achats durables : un rapport dresse un état des lieux contrasté du déploiement des Spaser",
-    "bf_lien": "https://www.banquedesterritoires.fr/achats-durables-un-rapport-dresse-un-etat-des-lieux-contraste-du-deploiement-des-spaser?pk_campaign=Flux%20RSS&pk_kwd=2026-07-21&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Adaptation de la forêt au changement climatique : le gouvernement présente un plan pour \"accélérer la mobilisation\"",
+    "bf_lien": "https://www.banquedesterritoires.fr/adaptation-de-la-foret-au-changement-climatique-le-gouvernement-presente-un-plan-pour-accelerer-la?pk_campaign=Flux%20RSS&pk_kwd=2026-07-22&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Malgré des niveaux d’appropriation encore disparates, les pratiques observées par le Commissariat général au développement durable (CGDD) témoignent du rôle central désormais occupé par les schémas de promotion des achats socialement et écologiquement responsables (Spaser) pour catalyser ces considé",
+    "bf_description": "La ministre de la Transition écologique Monique Barbut a appelé ce 21 juillet à \"accélérer la mobilisation\" pour le renouvellement de la forêt française face au changement climatique. Le plan gouvernemental prévoit notamment un programme budgétaire dédié, non chiffré pour le moment, et 100 millions ",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Atlas 2026 des services publics locaux : la réalité des territoires dépasse les couleurs politiques",
-    "bf_lien": "https://www.banquedesterritoires.fr/atlas-2026-des-services-publics-locaux-la-realite-des-territoires-depasse-les-couleurs-politiques?pk_campaign=Flux%20RSS&pk_kwd=2026-07-21&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Les ETI freinent sur l'emploi pour préserver leurs investissements, selon le Meti",
+    "bf_lien": "https://www.banquedesterritoires.fr/les-eti-freinent-sur-lemploi-pour-preserver-leurs-investissements-selon-le-meti?pk_campaign=Flux%20RSS&pk_kwd=2026-07-22&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "À moins d'un an de la présidentielle, l'Institut de la gestion déléguée (IGD), en partenariat avec France urbaine et Intercommunalités de France, publie la 4e édition de son Atlas des services publics locaux. Fondée sur l'observation de 176 intercommunalités sur treize ans, l'étude confirme l'absenc",
+    "bf_description": "Confrontées à une dégradation de leur environnement économique et financier, les entreprises de taille intermédiaire (ETI) revoient leurs priorités. Selon les dernières enquêtes de conjoncture du Mouvement des entreprises de taille intermédiaire (Meti) publiées le 21 juillet 2026, elles ralentissent",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "TNT : l'Arcom autorise un test de réduction de couverture",
-    "bf_lien": "https://www.banquedesterritoires.fr/tnt-larcom-autorise-un-test-de-reduction-de-couverture?pk_campaign=Flux%20RSS&pk_kwd=2026-07-21&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "La Commission européenne présente à son tour son plan électrification et veut réviser son marché carbone",
+    "bf_lien": "https://www.banquedesterritoires.fr/la-commission-europeenne-presente-son-tour-son-plan-electrification-et-veut-reviser-son-marche?pk_campaign=Flux%20RSS&pk_kwd=2026-07-22&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le régulateur a validé l'extinction de trois émetteurs TNT dans le Cantal, la Savoie et l'Ardèche à compter du 24 novembre 2026. Une expérimentation qui intervient alors que les chaînes nationales demandent une réduction bien plus large du réseau et que l'avenir même de la plateforme hertzienne est ",
+    "bf_description": "Alors que la demande stagne, la Commission européenne a présenté son plan d'électrification visant à multiplier par deux d'ici à 2040 la part de l'électricité dans la consommation d'énergie finale de l'UE. Elle propose par ailleurs de réviser le marché carbone, singulièrement pour donner un peu d'ai",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Aides publiques aux entreprises : priorité à l’évaluation, selon le Haut-Commissariat à la stratégie et au plan",
-    "bf_lien": "https://www.banquedesterritoires.fr/aides-publiques-aux-entreprises-priorite-levaluation-selon-le-haut-commissariat-la-strategie-et-au?pk_campaign=Flux%20RSS&pk_kwd=2026-07-21&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Dans les quartiers prioritaires, seule une personne sur deux en âge de travailler est en emploi",
+    "bf_lien": "https://www.banquedesterritoires.fr/dans-les-quartiers-prioritaires-seule-une-personne-sur-deux-en-age-de-travailler-est-en-emploi?pk_campaign=Flux%20RSS&pk_kwd=2026-07-22&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "L'enjeu n'est plus seulement de savoir combien coûtent les aides aux entreprises, mais d'en mesurer l'efficacité. Dans un nouveau rapport, le Haut-Commissariat à la stratégie et au plan (HCSP) propose un cadre commun de suivi et d'évaluation des dispositifs, fondé sur une définition stabilisée et de",
+    "bf_description": "En 2024, 49,8% des habitants des quartiers prioritaires de la politique de la ville travaillent, soit 20 points de moins que dans les territoires environnants, selon l’Observatoire national de la politique de la ville.&nbsp;",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
