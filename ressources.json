@@ -1332,6 +1332,15 @@
     "bf_formulaire": "actu"
   },
   {
+    "bf_titre": "Mai à vélo 2025 : cinquième édition en faveur d&#039;une mobilité durable au Gros-Morne (97213)",
+    "bf_lien": "https://librairie.ademe.fr/air/9496-mai-a-velo-2025-cinquieme-edition-en-faveur-d-une-mobilite-durable-au-gros-morne-97213.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;&quot;Mai à Vélo&quot; est un évènement local s’inscrit dans une dynamique nationale visant à promouvoir les mobilités douces et à faire évoluer les comportements en leur faveur, contribuant ainsi à l’amélioration de la qualité de l’air.&lt;/p&gt;",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "AVIS de l&#039;ADEME - L&#039;intelligence artificielle générative : des impacts environnementaux importants",
     "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9495-avis-de-l-ademe-l-intelligence-artificielle-generative-des-impacts-environnementaux-importants.html",
     "bf_categorie": "Transitions",
@@ -1363,15 +1372,6 @@
     "bf_lien": "https://librairie.ademe.fr/air/9491-performances-environnementales-d-un-poele-a-granules.html",
     "bf_categorie": "Transitions",
     "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;Les poêles à granulés sont reconnus pour leurs bonnes performances énergétiques et environnementales, mais leurs émissions polluantes en conditions réelles restent peu étudiées. &lt;/span&gt;&lt;/span",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Demain mon territoire",
-    "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9105-demain-mon-territoire-9791029725425.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;L’urgence environnementale figure parmi les principales sources de préoccupation des Français. À leur échelle, tous œuvrent à faire mieux en matière de protection de l’environnement et préservation des ressources et de la biodiversité. Mais on le sait, sans action volontariste au plus près ",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1422,46 +1422,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Budget 2027 : la mission sur les finances locales prône une juste contribution des collectivités",
-    "bf_lien": "https://www.banquedesterritoires.fr/budget-2027-la-mission-sur-les-finances-locales-prone-une-juste-contribution-des-collectivites?pk_campaign=Flux%20RSS&pk_kwd=2026-07-23&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Monuments historiques : le Sénat appelle à définir un nouvel horizon",
+    "bf_lien": "https://www.banquedesterritoires.fr/monuments-historiques-le-senat-appelle-definir-un-nouvel-horizon?pk_campaign=Flux%20RSS&pk_kwd=2026-07-24&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Dans une note qu'ils ont remise au gouvernement, les trois parlementaires chargés d'une mission sur les finances locales plaident pour une contribution soutenable et équitable des collectivités à la maîtrise des finances publiques. Ils appellent à la mise à l'arrêt des prélèvements effectués dans le",
+    "bf_description": "Un rapport d'information de la commission de la culture du Sénat constate l'état de dégradation de nombreux monuments historiques et le manque de moyens budgétaires pour y faire face. Il plaide pour la création d'un ministère du Patrimoine et du Tourisme et pointe le gisement économique que représen",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Protection des enfants : l'Assemblée nationale adopte le projet de loi",
-    "bf_lien": "https://www.banquedesterritoires.fr/protection-des-enfants-lassemblee-nationale-adopte-le-projet-de-loi?pk_campaign=Flux%20RSS&pk_kwd=2026-07-23&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Cinq axes, 10 objectifs chiffrés, 108 actions… Que contient la stratégie nationale de l'ESS ?",
+    "bf_lien": "https://www.banquedesterritoires.fr/cinq-axes-10-objectifs-chiffres-108-actions-que-contient-la-strategie-nationale-de-less?pk_campaign=Flux%20RSS&pk_kwd=2026-07-24&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Ce sont essentiellement les voix du centre, de la droite et du RN qui ont permis l'approbation, en première lecture le 21 juillet 2026, de ce projet de loi aux contours particuliers. Le texte comporte trois facettes : des mesures s'appliquant au champ de la protection de l'enfance, dont la création ",
+    "bf_description": "Douze ans après la loi Hamon ayant posé des jalons structurants pour l'économie sociale et solidaire, la France s'est dotée d'une stratégie nationale de l'ESS, avec des objectifs de développement à horizon 2030 et 2035. Des mesures sont destinées à renforcer les stratégies régionales, structurer enc",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Une fin de parcours brouillonne pour le projet de loi d'urgence agricole",
-    "bf_lien": "https://www.banquedesterritoires.fr/une-fin-de-parcours-brouillonne-pour-le-projet-de-loi-durgence-agricole?pk_campaign=Flux%20RSS&pk_kwd=2026-07-23&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Pollution liée aux feux de forêt : l'Anses livre ses recommandations en matière de santé et d'environnement",
+    "bf_lien": "https://www.banquedesterritoires.fr/pollution-liee-aux-feux-de-forets-lanses-livre-ses-recommandations-en-matiere-de-sante-et?pk_campaign=Flux%20RSS&pk_kwd=2026-07-24&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le Parlement a définitivement adopté le projet de loi d’urgence pour la protection et la souveraineté agricoles, mardi 21 juillet, dans une ambiance électrique autour de la réautorisation de deux pesticides et du stockage de l'eau, conduisant à une crise au sein du gouvernement.",
+    "bf_description": "Alors que la fréquence des feux de végétation, dont les feux de forêt, ne cesse d'augmenter et que les surfaces brûlées s'étendent, en France et dans le monde, l'Anses a publié ce 20 juillet un état des connaissances sur les effets de ces incendies de grande ampleur, sur la santé de la population et",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "La proposition de loi \"pour une montagne vivante\" définitivement adoptée",
-    "bf_lien": "https://www.banquedesterritoires.fr/la-proposition-de-loi-pour-une-montagne-vivante-definitivement-adoptee?pk_campaign=Flux%20RSS&pk_kwd=2026-07-23&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "FNADT : de la souplesse… au risque d'une dilution ?",
+    "bf_lien": "https://www.banquedesterritoires.fr/fnadt-de-la-souplesse-au-risque-dune-dilution?pk_campaign=Flux%20RSS&pk_kwd=2026-07-24&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "La proposition de loi \"pour une montagne vivante et souveraine\" a été définitivement adoptée mardi soir, par un ultime vote du Sénat, un jour après celui de l'Assemblée. Le texte préparé par l'Anem entend constituer un \"acte III\" pour la montagne après les lois de 1985 et 2016.",
+    "bf_description": "La Cour des comptes vient de consacrer un rapport au fonds national d'aménagement et de développement du territoire (FNADT). Selon elle, la gestion déconcentrée et souple des crédits de ce fonds nuit à sa lisibilité et à sa pertinence. Elle ne va toutefois pas jusqu'à préconiser sa suppression, reco",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Après l'adoption du projet de loi Ripost, les élus attendent celui sur les polices municipales",
-    "bf_lien": "https://www.banquedesterritoires.fr/apres-ladoption-du-projet-de-loi-ripost-les-elus-attendent-celui-sur-les-polices-municipales?pk_campaign=Flux%20RSS&pk_kwd=2026-07-23&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Hausse des prix du carburant : une vie \"rétrécie\" pour six automobilistes sur dix",
+    "bf_lien": "https://www.banquedesterritoires.fr/hausse-des-prix-du-carburant-une-vie-retrecie-pour-six-automobilistes-sur-dix?pk_campaign=Flux%20RSS&pk_kwd=2026-07-24&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Sénateurs et députés ont tour à tour définitivement adopté ce 21 juillet, à une large majorité, le projet de loi Ripost visant à lutter contre les raves-parties illégales, les rodéos motorisés ou encore le mésusage du protoxyde d'azote. Reste désormais à savoir si le Conseil constitutionnel sera ou ",
+    "bf_description": "Moins de loisirs, moins de visites à des proches, des rendez-vous médicaux reportés, des projets de vacances revus à la baisse... Près de six automobilistes sur dix (58%) estiment que leur \"vie quotidienne s'est rétrécie\" ces derniers mois avec l'envol du prix des carburants lié à la guerre au Moyen",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
