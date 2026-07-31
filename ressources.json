@@ -1332,6 +1332,15 @@
     "bf_formulaire": "actu"
   },
   {
+    "bf_titre": "Défis et perspectives du CCUS : présentation de l&#039;avis ADEME",
+    "bf_lien": "https://librairie.ademe.fr/industrie-et-production-durable/9502-defis-et-perspectives-du-ccus-presentation-de-l-avis-ademe.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:11pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;L’ADEME publie un nouvel avis d’expert analysant le contexte et les évolutions récentes du positionnement du captage et stockage du carbone (CCS) et de l’utilisation du CO₂ (CCU) dans les politiques ",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "Elaborer des stratégies territoriales en faveur de l&#039;objectif zéro artificialisation nette",
     "bf_lien": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9501-elaborer-des-strategies-territoriales-en-faveur-de-l-objectif-zero-artificialisation-nette.html",
     "bf_categorie": "Transitions",
@@ -1363,15 +1372,6 @@
     "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9498-recyclage-quand-nantet-reinvente-le-cycle-de-vie-du-platre.html",
     "bf_categorie": "Transitions",
     "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:11pt;&quot;&gt;L&#039;entreprise savoyarde Nantet a modernisé son unité de recyclage de déchets de chantier pour séparer le gypse, le papier et le polystyrène. L&#039;objectif est de doubler sa capacité (87 000 tonnes par an) pour fournir l&#039;usine voisine ",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Mai à vélo 2025 : cinquième édition en faveur d&#039;une mobilité durable au Gros-Morne (97213)",
-    "bf_lien": "https://librairie.ademe.fr/air/9496-mai-a-velo-2025-cinquieme-edition-en-faveur-d-une-mobilite-durable-au-gros-morne-97213.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&quot;Mai à Vélo&quot; est un évènement local s’inscrit dans une dynamique nationale visant à promouvoir les mobilités douces et à faire évoluer les comportements en leur faveur, contribuant ainsi à l’amélioration de la qualité de l’air.&lt;/p&gt;",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1422,46 +1422,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Priorité au retour à l'emploi, approche \"multidimensionnelle\" : quelle stratégie – et quels moyens – pour inverser la courbe de la pauvreté ?",
-    "bf_lien": "https://www.banquedesterritoires.fr/priorite-au-retour-lemploi-approche-multidimensionnelle-quelle-strategie-et-quels-moyens-pour?pk_campaign=Flux%20RSS&pk_kwd=2026-07-30&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "ÉDITION SPÉCIALE – Un été en pente abrupte, des lendemains en clair-obscur",
+    "bf_lien": "https://www.banquedesterritoires.fr/edition-speciale-un-ete-en-pente-abrupte-des-lendemains-en-clair-obscur?pk_campaign=Flux%20RSS&pk_kwd=2026-07-31&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Selon les dernières données de l'Insee, le taux de pauvreté s'est stabilisé en 2024 au niveau historiquement élevé de 15,4%, soit 9,8 millions de personnes vivant avec moins de 1.337 euros par mois et par unité de consommation. Recueillies par le CNLE, les remontées des professionnels de terrain lai",
+    "bf_description": "Localtis interrompt ses éditions quotidiennes jusqu'à fin août. En vous proposant entre-temps comme à l'accoutumée une série d'articles récapitulatifs et de dossiers thématiques d'actualité. En cette mi-été, l'actualité immédiate était évidemment surtout marquée par les incendies et les épisodes can",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Aurélie Mézière : \"Être élu, c'est être animateur de territoire\"",
-    "bf_lien": "https://www.banquedesterritoires.fr/aurelie-meziere-etre-elu-cest-etre-animateur-de-territoire?pk_campaign=Flux%20RSS&pk_kwd=2026-07-30&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "DOSSIER - Vagues de chaleur, sécheresse, incendies : 2026, l'été de toutes les crises",
+    "bf_lien": "https://www.banquedesterritoires.fr/dossier-vagues-de-chaleur-secheresse-incendies-2026-lete-de-toutes-les-crises?pk_campaign=Flux%20RSS&pk_kwd=2026-07-31&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Plusieurs fois récompensée pour sa démocratie participative, la commune de Plessé (Loire-Atlantique) s'est appuyée sur des comités consultatifs pour imaginer le socle de sa politique agricole et alimentaire communale. Sa maire, Aurélie Mézière, revient pour Localtis sur cette expérience, citée en ex",
+    "bf_description": "Les conséquences du réchauffement climatique se sont rarement autant manifestées que ces derniers mois, avec leur lot d'événements extrêmes s'enchaînant à une vitesse inédite. Fin juillet, la France en était déjà à son 4e épisode caniculaire depuis le mois de mai. Le précédent, qui avait débuté le 4",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Un nouveau plaidoyer en faveur de la relance de la péréquation",
-    "bf_lien": "https://www.banquedesterritoires.fr/un-nouveau-plaidoyer-en-faveur-de-la-relance-de-la-perequation?pk_campaign=Flux%20RSS&pk_kwd=2026-07-30&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "DOSSIER - Des stratégies territoriales pour consolider le commerce de proximité",
+    "bf_lien": "https://www.banquedesterritoires.fr/dossier-des-strategies-territoriales-pour-consolider-le-commerce-de-proximite?pk_campaign=Flux%20RSS&pk_kwd=2026-07-31&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Après plusieurs années de stabilité des ressources affectées globalement à la solidarité financière au profit des collectivités territoriales et entre collectivités, l'idée d'accélérer leur progression refait surface. Après la Cour des comptes en mars et la mission sur les finances locales mi-juille",
+    "bf_description": "Concurrence du commerce en ligne, multiplication des crises du pouvoir d'achat, évolution des modes de consommation, loyers trop élevés... Le commerce de centre-ville traverse une crise profonde, avec un taux de vacance de 11,7% en 2025, contre 10,8% l’année précédente, selon les dernières données C",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Transition écologique : Amorce publie des retours d'expérience des coopérations entre collectivités et monde agricole",
-    "bf_lien": "https://www.banquedesterritoires.fr/transition-ecologique-amorce-publie-des-retours-dexperience-des-cooperations-entre-collectivites-et?pk_campaign=Flux%20RSS&pk_kwd=2026-07-30&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Budget 2027 : l'exécutif attendu de pied ferme sur les modalités de la contribution des collectivités",
+    "bf_lien": "https://www.banquedesterritoires.fr/budget-2027-lexecutif-attendu-de-pied-ferme-sur-les-modalites-de-la-contribution-des-collectivites?pk_campaign=Flux%20RSS&pk_kwd=2026-07-31&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Après les débats houleux suscités par le projet de loi d'urgence agricole, Amorce vient de publier un recueil d'expériences montrant qu'en matière de transition écologique des territoires, les coopérations entre collectivités et monde agricole peuvent être fructueuses, qu'il s'agisse de protéger la ",
+    "bf_description": "Le gouvernement l'a confirmé mi-juillet : le projet de budget pour 2027, qui sera dévoilé au début de l'automne, prévoira une contribution des collectivités au rétablissement des comptes publics. Mais l'exécutif ne pourra se contenter de reconduire les diverses ponctions mises en place par la loi de",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Le maire devra procéder au changement d'école d'un élève dont un parent menace les personnels",
-    "bf_lien": "https://www.banquedesterritoires.fr/le-maire-devra-proceder-au-changement-decole-dun-eleve-dont-un-parent-menace-les-personnels?pk_campaign=Flux%20RSS&pk_kwd=2026-07-30&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Éducation : des chantiers tous azimuts pour la rentrée 2026",
+    "bf_lien": "https://www.banquedesterritoires.fr/education-des-chantiers-tous-azimuts-pour-la-rentree-2026?pk_campaign=Flux%20RSS&pk_kwd=2026-07-31&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Un décret prévoit le changement d'école ou d'établissement scolaire d'un élève dont un parent menace la sécurité d'un membre de la communauté éducative. Le maire devra procéder à la radiation puis à la réinscription de l'enfant, lequel fera l'objet de mesures d'accompagnement.",
+    "bf_description": "La rentrée scolaire 2026-2027 sera marquée par de nombreux chantiers pour les collectivités locales. Si les questions récurrentes portant sur la carte scolaire, l'adaptation du bâti scolaire au changement climatique ou les AESH demeurent, l'interdiction des téléphones portables au lycée et les nouve",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
