@@ -1287,6 +1287,15 @@
     "bf_formulaire": "6"
   },
   {
+    "bf_titre": "Centres‑villes vivants : produire et maintenir l’habitat par le renouvellement urbain. 4ᵉ Rencontres Ligériennes des Acteurs de l’Aménagement",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/centres-villes-vivants-produire-maintenir-habitat",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Lundi 3 août 2026 Aménagement durable : revitalisation et renouvellement urbain Logements individuels HQE à Saint-Herblain Samuel Meunier, directeur du Cerema Ouest, a rappelé en introduction que « la revitalisation des centres-bourgs ne peut réussir sans une approche globale, associant lo",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "JUNN, Des jumeaux numériques pour nos territoires, lauréat des Trophées Innovation & Transformation Numérique 2026",
     "bf_lien": "https://www.cerema.fr/fr/actualites/junn-jumeaux-numeriques-nos-territoires-laureat-trophees",
     "bf_categorie": "Transitions",
@@ -1323,11 +1332,20 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Un prototype d'outil de pilotage pour accompagner l'ouverture nocturne des fenêtres dans les bâtiments publics",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/prototype-outil-pilotage-accompagner-ouverture-nocturne",
+    "bf_titre": "Optimiser la prise de décision en contexte d&#039;incertitude dans le domaine de la réhabilitation des sites et sols pollués",
+    "bf_lien": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9504-optimiser-la-prise-de-decision-en-contexte-d-incertitude-dans-le-domaine-de-la-rehabilitation-des-sites-et-sols-pollues.html",
     "bf_categorie": "Transitions",
-    "bf_description": "Publié le Lundi 20 juillet 2026 Solutions d&#039;adaptation des bâtiments au changement climatique Un prototype d&#039;outil de pilotage pour accompagner l&#039;ouverture nocturne des fenêtres dans les bâtiments publics Face à la multiplication des épisodes de forte chaleur, la surventilation noctur",
-    "bf_tags": "CEREMA",
+    "bf_description": "&lt;p&gt;Le projet Polival est né au sein du groupe de travail Incertitude Sites et Sols Pollués (SSP). À l’initiative de l&#039;ADEME, les partenaires eOde, Phimeca et Cloud Spotting ont été réunis autour d’une question centrale : comment communiquer l’incertitude dans les projets de réhabilitation",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Monitoring des gaz et des contaminants organiques de sites pollués en cours de remédiation",
+    "bf_lien": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9503-monitoring-des-gaz-et-des-contaminants-organiques-de-sites-pollues-en-cours-de-remediation.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;Pour améliorer le diagnostic sur site et/ou le suivi et l’optimisation des procédés de dépollution in situ, il est essentiel de posséder des outils utilisables sur site ou in situ et une méthodologie adaptée. Le projet MONIC vise à développer une méthodologie pour faire des diagnostics sur ",
+    "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
@@ -1354,24 +1372,6 @@
     "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9497-augmentation-de-capacite-d-incorporation-de-matieres-premieres-recyclees-pour-la-production-de-pots-de-jardin.html",
     "bf_categorie": "Transitions",
     "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:12pt;&quot;&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt;TRIPLE C, entreprise spécialisée dans l&#039;injection de pièces plastiques techniques et d’aspects dans divers segments ; Sanitaire, Bâtiment, Jardinerie, Électronique, a bénéficié du soutien de l&#0",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "PROCÉDURE DE MISE EN CONCURRENCE AVEC DIALOGUE CONCURRENTIEL - SOUTIEN A LA PRODUCTION D&#039;HYDROGÈNE RENOUVELABLE OU BAS-CARBONE",
-    "bf_lien": "https://librairie.ademe.fr/energies/9499-procedure-de-mise-en-concurrence-avec-dialogue-concurrentiel-soutien-a-la-production-d-hydrogene-renouvelable-ou-bas-carbone.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;L’ADEME, en appui à la DGEC, réalise l’analyse des offres reçues à la première période du dispositif de soutien à la production d’hydrogène renouvelable ou bas carbone par électrolyse de l’eau. Le présent rapport détaille l’analyse des offres reçues, et la proposition de sélection des trois",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Recyclage : Quand Nantet réinvente le cycle de vie du plâtre",
-    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9498-recyclage-quand-nantet-reinvente-le-cycle-de-vie-du-platre.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:11pt;&quot;&gt;L&#039;entreprise savoyarde Nantet a modernisé son unité de recyclage de déchets de chantier pour séparer le gypse, le papier et le polystyrène. L&#039;objectif est de doubler sa capacité (87 000 tonnes par an) pour fournir l&#039;usine voisine ",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1423,7 +1423,7 @@
   },
   {
     "bf_titre": "ÉDITION SPÉCIALE – Un été en pente abrupte, des lendemains en clair-obscur",
-    "bf_lien": "https://www.banquedesterritoires.fr/edition-speciale-un-ete-en-pente-abrupte-des-lendemains-en-clair-obscur?pk_campaign=Flux%20RSS&pk_kwd=2026-08-02&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_lien": "https://www.banquedesterritoires.fr/edition-speciale-un-ete-en-pente-abrupte-des-lendemains-en-clair-obscur?pk_campaign=Flux%20RSS&pk_kwd=2026-08-03&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
     "bf_description": "Localtis interrompt ses éditions quotidiennes jusqu'à fin août. En vous proposant entre-temps comme à l'accoutumée une série d'articles récapitulatifs et de dossiers thématiques d'actualité. En cette mi-été, l'actualité immédiate était évidemment surtout marquée par les incendies et les épisodes can",
     "bf_tags": "Banque des Territoires",
@@ -1432,7 +1432,7 @@
   },
   {
     "bf_titre": "DOSSIER - Vagues de chaleur, sécheresse, incendies : 2026, l'été de toutes les crises",
-    "bf_lien": "https://www.banquedesterritoires.fr/dossier-vagues-de-chaleur-secheresse-incendies-2026-lete-de-toutes-les-crises?pk_campaign=Flux%20RSS&pk_kwd=2026-08-02&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_lien": "https://www.banquedesterritoires.fr/dossier-vagues-de-chaleur-secheresse-incendies-2026-lete-de-toutes-les-crises?pk_campaign=Flux%20RSS&pk_kwd=2026-08-03&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
     "bf_description": "Les conséquences du réchauffement climatique se sont rarement autant manifestées que ces derniers mois, avec leur lot d'événements extrêmes s'enchaînant à une vitesse inédite. Fin juillet, la France en était déjà à son 4e épisode caniculaire depuis le mois de mai. Le précédent, qui avait débuté le 4",
     "bf_tags": "Banque des Territoires",
@@ -1441,7 +1441,7 @@
   },
   {
     "bf_titre": "DOSSIER - Des stratégies territoriales pour consolider le commerce de proximité",
-    "bf_lien": "https://www.banquedesterritoires.fr/dossier-des-strategies-territoriales-pour-consolider-le-commerce-de-proximite?pk_campaign=Flux%20RSS&pk_kwd=2026-08-02&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_lien": "https://www.banquedesterritoires.fr/dossier-des-strategies-territoriales-pour-consolider-le-commerce-de-proximite?pk_campaign=Flux%20RSS&pk_kwd=2026-08-03&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
     "bf_description": "Concurrence du commerce en ligne, multiplication des crises du pouvoir d'achat, évolution des modes de consommation, loyers trop élevés... Le commerce de centre-ville traverse une crise profonde, avec un taux de vacance de 11,7% en 2025, contre 10,8% l’année précédente, selon les dernières données C",
     "bf_tags": "Banque des Territoires",
@@ -1450,7 +1450,7 @@
   },
   {
     "bf_titre": "Budget 2027 : l'exécutif attendu de pied ferme sur les modalités de la contribution des collectivités",
-    "bf_lien": "https://www.banquedesterritoires.fr/budget-2027-lexecutif-attendu-de-pied-ferme-sur-les-modalites-de-la-contribution-des-collectivites?pk_campaign=Flux%20RSS&pk_kwd=2026-08-02&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_lien": "https://www.banquedesterritoires.fr/budget-2027-lexecutif-attendu-de-pied-ferme-sur-les-modalites-de-la-contribution-des-collectivites?pk_campaign=Flux%20RSS&pk_kwd=2026-08-03&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
     "bf_description": "Le gouvernement l'a confirmé mi-juillet : le projet de budget pour 2027, qui sera dévoilé au début de l'automne, prévoira une contribution des collectivités au rétablissement des comptes publics. Mais l'exécutif ne pourra se contenter de reconduire les diverses ponctions mises en place par la loi de",
     "bf_tags": "Banque des Territoires",
@@ -1459,7 +1459,7 @@
   },
   {
     "bf_titre": "Éducation : des chantiers tous azimuts pour la rentrée 2026",
-    "bf_lien": "https://www.banquedesterritoires.fr/education-des-chantiers-tous-azimuts-pour-la-rentree-2026?pk_campaign=Flux%20RSS&pk_kwd=2026-08-02&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_lien": "https://www.banquedesterritoires.fr/education-des-chantiers-tous-azimuts-pour-la-rentree-2026?pk_campaign=Flux%20RSS&pk_kwd=2026-08-03&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
     "bf_description": "La rentrée scolaire 2026-2027 sera marquée par de nombreux chantiers pour les collectivités locales. Si les questions récurrentes portant sur la carte scolaire, l'adaptation du bâti scolaire au changement climatique ou les AESH demeurent, l'interdiction des téléphones portables au lycée et les nouve",
     "bf_tags": "Banque des Territoires",
