@@ -110,32 +110,13 @@
     display: flex; align-items: flex-start; gap: 10px; font-size: .88rem; font-weight: 600;
   }
   .answer-header svg { width: 18px; height: 18px; fill: white; flex-shrink: 0; margin-top: 1px; }
-  .answer-body { display: block; padding: 18px 20px 4px; }
+  .answer-body { display: block; padding: 18px 20px 16px; }
   .answer-body p { margin-bottom: .9em; }
   .answer-body ul { padding-left: 1.4em; margin-bottom: .9em; }
   .answer-body li { margin-bottom: .35em; }
   .answer-body strong { color: var(--bleu); }
   .answer-body a { color: var(--bleu); text-decoration: underline; text-underline-offset: 2px; }
   .answer-body a:hover { color: var(--ocre); }
-
-  /* ── Sources ── */
-  .sources { padding: 14px 24px 18px; border-top: 1px solid var(--bleu-cl); background: var(--bleu-cl); }
-  .sources-title {
-    font-size: .78rem; font-weight: 700; color: var(--bleu);
-    text-transform: uppercase; letter-spacing: .8px; margin-bottom: 10px;
-  }
-  .source-list { display: flex; flex-direction: column; gap: 7px; }
-  .source-item { display: flex; align-items: baseline; gap: 10px; font-size: .82rem; }
-  .source-badge {
-    padding: 2px 8px; border-radius: 4px; font-size: .72rem; font-weight: 700;
-    white-space: nowrap; flex-shrink: 0; text-transform: uppercase; letter-spacing: .3px;
-  }
-  .badge-wiki { background: var(--bleu-cl); color: var(--bleu); border: 1px solid var(--bleu); }
-  .badge-ext  { background: var(--vert-cl);  color: var(--vert); border: 1px solid var(--vert); }
-  .source-info { display: flex; flex-direction: column; gap: 1px; }
-  .source-link { color: var(--bleu); text-decoration: none; font-weight: 500; }
-  .source-link:hover { text-decoration: underline; color: var(--ocre); }
-  .source-pertinence { font-size: .77rem; color: var(--gris); }
 
   /* ── Actions ── */
   .answer-actions {
@@ -283,7 +264,6 @@
     .search-bar { flex-direction: column; }
     .btn-search { width: 100%; justify-content: center; }
     .answer-body { padding: 16px; }
-    .sources { padding: 12px 16px 16px; }
     .eco-metrics { gap: 6px; }
     .eco-metric-value { font-size: .95rem; }
   }
@@ -344,10 +324,6 @@
       <span id="answerQuestion"></span>
     </div>
     <div class="answer-body" id="answerBody"></div>
-    <div class="sources" id="sourcesSection" style="display:none">
-      <div class="sources-title">📎 Sources consultées</div>
-      <div class="source-list" id="sourceList"></div>
-    </div>
     <div class="answer-actions">
       <button class="btn-action btn-reset" onclick="reset()">
         ↺ Nouvelle question
@@ -393,7 +369,7 @@
       <p style="margin-top:6px">
         Sources :
         <a href="https://carboncredits.com/chatgpt-vs-claude-ai-carbon-footprints-pentagon-deal-and-energy-impact/" target="_blank" style="color:var(--vert)">CarbonCredits.com 2026</a> ·
-        <a href="https://www.greenit.fr/2026/04/22/sept-reflexes-pour-une-ia-plus-frugale/" target="_blank" style="color:var(--vert)">GreenIT.fr 2026</a>
+        <a href="https://www.greenit.fr/2026/04/22/sept-reflexes-pour-une-ia-frugale/" target="_blank" style="color:var(--vert)">GreenIT.fr 2026</a>
       </p>
     </div>
   </div>
@@ -497,23 +473,6 @@
     document.getElementById('answerQuestion').textContent=query;
     document.getElementById('answerBody').innerHTML=formatAnswer(data.answer);
     lastAnswerText=data.answer||'';
-    const sl=document.getElementById('sourceList'),ss=document.getElementById('sourcesSection');
-    sl.innerHTML='';
-    document.querySelector('.sources-title').textContent='📚 Ressources sélectionnées';
-    const sources=data.sources||[];
-    if(sources.length>0){
-      ss.style.display='block';
-      sources.forEach(s=>{
-        const iw=(s.url||'').includes('france-territoriale');
-        const bc=iw?'badge-wiki':'badge-ext', bl=iw?'Wiki':'Externe';
-        const cat=s.type?'<span class="source-pertinence">'+escHtml(s.type)+'</span>':'';
-        sl.innerHTML+='<div class="source-item"><span class="source-badge '+bc+'">'+bl+'</span><div class="source-info"><a href="'+escHtml(s.url)+'" target="_blank" rel="noopener" class="source-link">'+escHtml(s.title)+'</a>'+cat+'</div></div>';
-      });
-      lastAnswerText+='\n\n'+sources.map(s=>s.title+' : '+s.url).join('\n');
-    }else{
-      ss.style.display='block';
-      sl.innerHTML='<p style="color:var(--gris);font-size:.85rem;padding:8px 0">Aucune ressource trouvée pour cette question dans le wiki.</p>';
-    }
     document.getElementById('answerBox').classList.add('visible');
     document.getElementById('answerBox').scrollIntoView({behavior:'smooth',block:'start'});
   }
