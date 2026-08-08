@@ -110,7 +110,7 @@
     display: flex; align-items: flex-start; gap: 10px; font-size: .88rem; font-weight: 600;
   }
   .answer-header svg { width: 18px; height: 18px; fill: white; flex-shrink: 0; margin-top: 1px; }
-  .answer-body { display: none; }
+  .answer-body { display: block; padding: 18px 20px 4px; }
   .answer-body p { margin-bottom: .9em; }
   .answer-body ul { padding-left: 1.4em; margin-bottom: .9em; }
   .answer-body li { margin-bottom: .35em; }
@@ -410,7 +410,7 @@
 </div>
 
 <script>
-  const PROXY_URL = 'https://ft-search.maisons-france.workers.dev';
+  const PROXY_URL = 'https://wiki-rag-search.maisons-france.workers.dev/search';
   let searchHistory=[], lastAnswerText='';
 
   /* 🌿 EMPREINTE — Haiku ref: 0.22 Wh / 0.10 g CO2 / 5000 tokens */
@@ -448,6 +448,15 @@
 
   function useChip(el){document.getElementById('queryInput').value=el.textContent;search();}
 
+  function formatAnswer(text){
+    // Transformation légère du markdown renvoyé par Claude (titres ##, gras **, retours à la ligne)
+    let html=escHtml(text||'');
+    html=html.replace(/^## (.*)$/gm,'<br><strong>$1</strong><br>');
+    html=html.replace(/\*\*(.*?)\*\*/g,'<strong>$1</strong>');
+    html=html.replace(/\n\n/g,'</p><p>').replace(/\n/g,'<br>');
+    return '<p>'+html+'</p>';
+  }
+
   async function search(){
     const query=document.getElementById('queryInput').value.trim();
     if(!query) return;
@@ -456,25 +465,14 @@
     document.getElementById('btnSearch').disabled=true;
     showLoader(); stepActive(1);
     try{
-      const resp=await fetch(PROXY_URL,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({query})});
+      const resp=await fetch(PROXY_URL,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({question:query})});
       stepActive(2);
       if(!resp.ok){const e=await resp.json().catch(()=>({}));throw new Error(e.error||'Erreur '+resp.status);}
       const data=await resp.json();
       stepActive(3);
       const iT=data.usage?.input_tokens||0, oT=data.usage?.output_tokens||0;
-      const rawText = typeof data.content==='string' ? data.content : JSON.stringify(data.content||'');
-      if(!rawText) throw new Error('Réponse vide.');
-      let parsed;
-      try{
-        const clean=rawText.replace(/```json|```/g,'').trim();
-        const start=clean.indexOf('{'), end=clean.lastIndexOf('}');
-        parsed=JSON.parse(clean.slice(start,end+1));
-        // Le worker retourne {sources:[...]} — on s'assure que sources existe
-        if(!parsed.sources) parsed={sources:[]};
-      }
-      catch{parsed={sources:[]};}
       hideLoader();
-      showAnswer(query,parsed);
+      showAnswer(query,data);
       showEco(iT,oT);
       addToHistory(query);
     }catch(err){hideLoader();showError(err.message);}
@@ -495,23 +493,23 @@
     const el=document.getElementById('step'+n);if(el)el.classList.add('active');
   }
 
-  function showAnswer(query,parsed){
+  function showAnswer(query,data){
     document.getElementById('answerQuestion').textContent=query;
-    document.getElementById('answerBody').innerHTML='';
-    lastAnswerText='';
+    document.getElementById('answerBody').innerHTML=formatAnswer(data.answer);
+    lastAnswerText=data.answer||'';
     const sl=document.getElementById('sourceList'),ss=document.getElementById('sourcesSection');
     sl.innerHTML='';
     document.querySelector('.sources-title').textContent='📚 Ressources sélectionnées';
-    if(parsed.sources&&parsed.sources.length>0){
+    const sources=data.sources||[];
+    if(sources.length>0){
       ss.style.display='block';
-      parsed.sources.forEach(s=>{
+      sources.forEach(s=>{
         const iw=(s.url||'').includes('france-territoriale');
         const bc=iw?'badge-wiki':'badge-ext', bl=iw?'Wiki':'Externe';
-        const cat=s.categorie?'<span class="source-pertinence">'+escHtml(s.categorie)+'</span>':'';
-        const pert=s.pertinence?'<span class="source-pertinence" style="color:var(--bleu)">→ '+escHtml(s.pertinence)+'</span>':'';
-        sl.innerHTML+='<div class="source-item"><span class="source-badge '+bc+'">'+bl+'</span><div class="source-info"><a href="'+escHtml(s.url)+'" target="_blank" rel="noopener" class="source-link">'+escHtml(s.titre)+'</a>'+cat+pert+'</div></div>';
+        const cat=s.type?'<span class="source-pertinence">'+escHtml(s.type)+'</span>':'';
+        sl.innerHTML+='<div class="source-item"><span class="source-badge '+bc+'">'+bl+'</span><div class="source-info"><a href="'+escHtml(s.url)+'" target="_blank" rel="noopener" class="source-link">'+escHtml(s.title)+'</a>'+cat+'</div></div>';
       });
-      lastAnswerText=parsed.sources.map(s=>s.titre+' : '+s.url+(s.pertinence?' — '+s.pertinence:'')).join('\n');
+      lastAnswerText+='\n\n'+sources.map(s=>s.title+' : '+s.url).join('\n');
     }else{
       ss.style.display='block';
       sl.innerHTML='<p style="color:var(--gris);font-size:.85rem;padding:8px 0">Aucune ressource trouvée pour cette question dans le wiki.</p>';
