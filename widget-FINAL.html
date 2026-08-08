@@ -33,7 +33,6 @@
 
   .widget { max-width: 860px; margin: 0 auto; padding: 24px 20px 40px; }
 
-  /* ── Header ── */
   .header { display: flex; align-items: center; gap: 12px; margin-bottom: 22px; }
   .header-icon {
     width: 44px; height: 44px; background: var(--bleu); border-radius: 10px;
@@ -43,7 +42,6 @@
   .header-text h1 { font-size: 1.15rem; font-weight: 700; color: var(--bleu); letter-spacing: -.3px; }
   .header-text p { font-size: .82rem; color: var(--gris); }
 
-  /* ── Barre de recherche ── */
   .search-bar { display: flex; gap: 8px; margin-bottom: 14px; }
   .search-input-wrap { flex: 1; position: relative; }
   .search-input {
@@ -68,7 +66,6 @@
   .btn-search:active { transform: scale(.97); }
   .btn-search:disabled { background: #a0aec0; cursor: not-allowed; }
 
-  /* ── Suggestions ── */
   .suggestions { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 20px; }
   .suggestions-label { width: 100%; font-size: .78rem; color: var(--gris); margin-bottom: 2px; }
   .chip {
@@ -77,7 +74,6 @@
   }
   .chip:hover { background: var(--bleu-cl); border-color: var(--bleu); }
 
-  /* ── Loader ── */
   .loader {
     display: none; flex-direction: column; gap: 10px; padding: 28px 24px;
     background: var(--blanc); border-radius: 12px; border: 1px solid var(--border); box-shadow: var(--shadow);
@@ -99,7 +95,6 @@
   }
   @keyframes spin { to { transform: rotate(360deg); } }
 
-  /* ── Réponse ── */
   .answer-box {
     display: none; background: var(--blanc); border-radius: 12px;
     border: 1px solid var(--border); box-shadow: var(--shadow); overflow: hidden;
@@ -115,10 +110,13 @@
   .answer-body ul { padding-left: 1.4em; margin-bottom: .9em; }
   .answer-body li { margin-bottom: .35em; }
   .answer-body strong { color: var(--bleu); }
-  .answer-body a { color: var(--bleu); text-decoration: underline; text-underline-offset: 2px; }
-  .answer-body a:hover { color: var(--ocre); }
+  .answer-body a.cite-link {
+    color: var(--ocre); text-decoration: none; font-weight: 600;
+    background: var(--vert-cl); padding: 1px 6px; border-radius: 4px; font-size: .88em;
+    white-space: nowrap;
+  }
+  .answer-body a.cite-link:hover { background: var(--bleu-cl); color: var(--bleu); text-decoration: underline; }
 
-  /* ── Actions ── */
   .answer-actions {
     padding: 12px 20px; border-top: 1px solid var(--border);
     display: flex; gap: 8px; justify-content: flex-end; flex-wrap: wrap;
@@ -132,14 +130,12 @@
   .btn-copy { background: var(--vert-cl); border: 1px solid var(--vert); color: var(--vert); }
   .btn-copy:hover { background: #c6ecd5; }
 
-  /* ── Erreur ── */
   .error-box {
     display: none; padding: 14px 18px; background: #fef2f2;
     border: 1px solid #fca5a5; border-radius: 10px; font-size: .87rem; color: #b91c1c;
   }
   .error-box.visible { display: block; }
 
-  /* ── Historique ── */
   .history { margin-top: 24px; }
   .history-title {
     font-size: .78rem; font-weight: 700; color: var(--gris);
@@ -155,111 +151,46 @@
   .history-item:hover { background: var(--bleu-cl); }
   .history-item .h-time { font-size: .74rem; color: var(--gris); white-space: nowrap; margin-left: 10px; }
 
-  /* ── Empreinte environnementale ── */
   .eco-bar {
-    margin-top: 12px;
-    padding: 12px 16px;
-    background: #f0faf4;
-    border: 1px solid #a8d5b8;
-    border-radius: 10px;
-    display: none;
-    flex-direction: column;
-    gap: 8px;
+    margin-top: 12px; padding: 12px 16px; background: #f0faf4;
+    border: 1px solid #a8d5b8; border-radius: 10px; display: none;
+    flex-direction: column; gap: 8px;
   }
   .eco-bar.visible { display: flex; }
-
-  .eco-header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 8px;
-  }
+  .eco-header { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
   .eco-title {
-    font-size: .78rem;
-    font-weight: 700;
-    color: var(--vert);
-    text-transform: uppercase;
-    letter-spacing: .7px;
-    display: flex;
-    align-items: center;
-    gap: 5px;
+    font-size: .78rem; font-weight: 700; color: var(--vert);
+    text-transform: uppercase; letter-spacing: .7px; display: flex; align-items: center; gap: 5px;
   }
   .eco-toggle {
-    font-size: .75rem;
-    color: var(--vert);
-    cursor: pointer;
-    background: none;
-    border: none;
-    padding: 2px 6px;
-    border-radius: 4px;
-    font-family: inherit;
-    text-decoration: underline;
-    text-underline-offset: 2px;
+    font-size: .75rem; color: var(--vert); cursor: pointer; background: none; border: none;
+    padding: 2px 6px; border-radius: 4px; font-family: inherit;
+    text-decoration: underline; text-underline-offset: 2px;
   }
   .eco-toggle:hover { color: var(--bleu); }
-
-  .eco-metrics {
-    display: flex;
-    gap: 10px;
-    flex-wrap: wrap;
-  }
+  .eco-metrics { display: flex; gap: 10px; flex-wrap: wrap; }
   .eco-metric {
-    flex: 1;
-    min-width: 80px;
-    background: white;
-    border: 1px solid #c6e8d4;
-    border-radius: 8px;
-    padding: 8px 10px;
-    text-align: center;
+    flex: 1; min-width: 80px; background: white; border: 1px solid #c6e8d4;
+    border-radius: 8px; padding: 8px 10px; text-align: center;
   }
-  .eco-metric-value {
-    font-size: 1.1rem;
-    font-weight: 700;
-    color: var(--vert);
-    line-height: 1.2;
-  }
-  .eco-metric-label {
-    font-size: .72rem;
-    color: var(--gris);
-    margin-top: 2px;
-  }
-
+  .eco-metric-value { font-size: 1.1rem; font-weight: 700; color: var(--vert); line-height: 1.2; }
+  .eco-metric-label { font-size: .72rem; color: var(--gris); margin-top: 2px; }
   .eco-equiv {
-    font-size: .8rem;
-    color: #2d6a4f;
-    background: #d8f3e3;
-    border-radius: 6px;
-    padding: 6px 10px;
-    display: flex;
-    align-items: center;
-    gap: 6px;
+    font-size: .8rem; color: #2d6a4f; background: #d8f3e3; border-radius: 6px;
+    padding: 6px 10px; display: flex; align-items: center; gap: 6px;
   }
-
   .eco-detail {
-    display: none;
-    font-size: .77rem;
-    color: var(--gris);
-    line-height: 1.6;
-    padding: 6px 0 0;
-    border-top: 1px dashed #c6e8d4;
-    margin-top: 4px;
+    display: none; font-size: .77rem; color: var(--gris); line-height: 1.6;
+    padding: 6px 0 0; border-top: 1px dashed #c6e8d4; margin-top: 4px;
   }
   .eco-detail.open { display: block; }
-
   .eco-cumul {
-    margin-top: 16px;
-    padding: 10px 14px;
-    background: #fffbf0;
-    border: 1px solid #f0d98a;
-    border-radius: 8px;
-    font-size: .8rem;
-    color: #6b5a1e;
-    display: none;
+    margin-top: 16px; padding: 10px 14px; background: #fffbf0;
+    border: 1px solid #f0d98a; border-radius: 8px; font-size: .8rem; color: #6b5a1e; display: none;
   }
   .eco-cumul.visible { display: block; }
   .eco-cumul strong { color: var(--ocre); }
 
-  /* Mobile */
   @media (max-width: 540px) {
     .search-bar { flex-direction: column; }
     .btn-search { width: 100%; justify-content: center; }
@@ -272,7 +203,6 @@
 <body>
 <div class="widget">
 
-  <!-- Barre de recherche -->
   <div class="search-bar">
     <div class="search-input-wrap">
       <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -288,16 +218,15 @@
     </button>
   </div>
 
-  <!-- Suggestions rapides -->
   <div class="suggestions">
     <span class="suggestions-label">Suggestions :</span>
-    <span class="chip" onclick="useChip(this)">Comment financer la transition écologique d'une commune ?</span>
-    <span class="chip" onclick="useChip(this)">Modèle de délibération pour budget participatif ?</span>
-    <span class="chip" onclick="useChip(this)">Des modèles de chartes IA ?</span>
-    <span class="chip" onclick="useChip(this)">Des exemples de réseaux de chaleur bois ?</span>
+    <span class="chip" onclick="useChip(this)">Financer la transition écologique d'une commune</span>
+    <span class="chip" onclick="useChip(this)">Modèle de délibération pour budget participatif</span>
+    <span class="chip" onclick="useChip(this)">Outils de coopération interterritoriale</span>
+    <span class="chip" onclick="useChip(this)">Formation des agents territoriaux</span>
+    <span class="chip" onclick="useChip(this)">Créer un tiers-lieu dans ma collectivité</span>
   </div>
 
-  <!-- Loader -->
   <div class="loader" id="loader">
     <div class="loader-step" id="step1">
       <div class="spinner"></div>
@@ -313,10 +242,8 @@
     </div>
   </div>
 
-  <!-- Erreur -->
   <div class="error-box" id="errorBox"></div>
 
-  <!-- Réponse -->
   <div class="answer-box" id="answerBox">
     <div class="answer-header">
       <svg viewBox="0 0 24 24"><path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2z"/></svg>
@@ -333,7 +260,6 @@
     </div>
   </div>
 
-  <!-- Empreinte environnementale -->
   <div class="eco-bar" id="ecoBar">
     <div class="eco-header">
       <span class="eco-title">🌿 Empreinte de cette requête</span>
@@ -368,15 +294,13 @@
       <p style="margin-top:6px">
         Sources :
         <a href="https://carboncredits.com/chatgpt-vs-claude-ai-carbon-footprints-pentagon-deal-and-energy-impact/" target="_blank" style="color:var(--vert)">CarbonCredits.com 2026</a> ·
-        <a href="https://www.greenit.fr/2026/04/22/sept-reflexes-pour-une-ia-frugale/" target="_blank" style="color:var(--vert)">GreenIT.fr 2026</a>
+        <a href="https://www.greenit.fr/2026/04/22/sept-reflexes-pour-une-ia-plus-frugale/" target="_blank" style="color:var(--vert)">GreenIT.fr 2026</a>
       </p>
     </div>
   </div>
 
-  <!-- Compteur cumulé de session -->
   <div class="eco-cumul" id="ecoCumul"></div>
 
-  <!-- Historique -->
   <div class="history" id="historySection" style="display:none">
     <div class="history-title">Recherches récentes</div>
     <div class="history-list" id="historyList"></div>
@@ -388,7 +312,6 @@
   const PROXY_URL = 'https://wiki-rag-search.maisons-france.workers.dev/search';
   let searchHistory=[], lastAnswerText='';
 
-  /* 🌿 EMPREINTE — Haiku ref: 0.22 Wh / 0.10 g CO2 / 5000 tokens */
   const ECO={tokensRef:5000,whRef:0.22,co2Ref:0.10,wueRef:1.9};
   let sCo2=0,sWh=0,sTokens=0,sCount=0;
 
@@ -423,13 +346,22 @@
 
   function useChip(el){document.getElementById('queryInput').value=el.textContent;search();}
 
-  function formatAnswer(text){
-    // Transformation légère du markdown renvoyé par Claude (titres ##, gras **, retours à la ligne)
-    let html=escHtml(text||'');
-    html=html.replace(/^## (.*)$/gm,'<br><strong>$1</strong><br>');
-    html=html.replace(/\*\*(.*?)\*\*/g,'<strong>$1</strong>');
-    html=html.replace(/\n\n/g,'</p><p>').replace(/\n/g,'<br>');
-    return '<p>'+html+'</p>';
+  function escHtml(s){return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
+
+  function formatAnswer(text, citations){
+    let html = escHtml(text || '');
+
+    // Transforme chaque [Source N] en lien cliquable vers la ressource correspondante
+    html = html.replace(/\[Source (\d+)\]/g, (match, n) => {
+      const c = citations && citations[parseInt(n, 10) - 1];
+      if (!c || !c.url) return match;
+      return '<a class="cite-link" href="' + escHtml(c.url) + '" target="_blank" rel="noopener">' + escHtml(c.title) + '</a>';
+    });
+
+    html = html.replace(/^## (.*)$/gm, '<br><strong>$1</strong><br>');
+    html = html.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+    html = html.replace(/\n\n/g, '</p><p>').replace(/\n/g, '<br>');
+    return '<p>' + html + '</p>';
   }
 
   async function search(){
@@ -470,13 +402,12 @@
 
   function showAnswer(query,data){
     document.getElementById('answerQuestion').textContent=query;
-    document.getElementById('answerBody').innerHTML=formatAnswer(data.answer);
+    document.getElementById('answerBody').innerHTML=formatAnswer(data.answer, data.citations);
     lastAnswerText=data.answer||'';
     document.getElementById('answerBox').classList.add('visible');
     document.getElementById('answerBox').scrollIntoView({behavior:'smooth',block:'start'});
   }
 
-  function escHtml(s){return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
   function showError(msg){const el=document.getElementById('errorBox');el.textContent='⚠️ '+msg;el.classList.add('visible');}
   function reset(){
     ['answerBox','errorBox','ecoBar'].forEach(id=>document.getElementById(id).classList.remove('visible'));
