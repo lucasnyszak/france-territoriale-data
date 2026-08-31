@@ -1287,6 +1287,15 @@
     "bf_formulaire": "6"
   },
   {
+    "bf_titre": "Le design actif, aménager les villes et villages avec peu de moyens pour favoriser la santé et le lien social",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/design-actif-amenager-villes-villages-peu-moyens-favoriser",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Lundi 31 août 2026 Aménagement durable : revitalisation et renouvellement urbain, Stratégies, résilience et projets de transition Banc en bord de route en territoire peu dense La définition du Design Actif est encore peu connue en France même si cette démarche, née en Amérique du Nord et d",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "Les ruissellements, un phénomène complexe à fort impact sur les territoires : les travaux du Cerema",
     "bf_lien": "https://www.cerema.fr/fr/actualites/ruissellements-phenomene-complexe-fort-impact-territoires",
     "bf_categorie": "Transitions",
@@ -1323,15 +1332,6 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Gestion de patrimoine immobilier : quand le diagnostic alimente la stratégie",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/gestion-patrimoine-immobilier-quand-diagnostic-alimente",
-    "bf_categorie": "Transitions",
-    "bf_description": "Publié le Jeudi 20 août 2026 Gestion de patrimoines immobiliers Grenoble-The Babel Community-Unanime Architectes Alpes Palmarès Réhab XX Cet article a été publié initialement par notre partenaire (…) Lire la suite",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
     "bf_titre": "Relance du réseau de lutte contre le gaspillage alimentaire (REGAL) à la Réunion",
     "bf_lien": "https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9551-relance-du-reseau-de-lutte-contre-le-gaspillage-alimentaire-regal-a-la-reunion.html",
     "bf_categorie": "Transitions",
@@ -1341,19 +1341,19 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Sitcom Côte Sud des Landes: le défi sobriété heureuse",
-    "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9528-sitcom-cote-sud-des-landes-le-defi-sobriete-heureuse.html",
+    "bf_titre": "Besançon: sobriété énergétique",
+    "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9529-besancon-sobriete-energetique.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;&lt;span style=&quot;color:#1d1d1b;&quot;&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt;Afin d’engager une réflexion d’amont sur les modes de vie et de mobiliser l’ensemble des acteurs du territoire, le Sitcom Cote Sud des Landes a intégré un o",
+    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt;Depuis les années 2007 et à plus forte raison depuis la crise énergétique de 2022, la Ville et la Communauté Urbaine de Besançon ont adopté des mesures de réduction de la consommation d’énergie par la sobriété énergétique notamment. &lt;/span&gt;",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Besançon: sobriété énergétique",
-    "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9529-besancon-sobriete-energetique.html",
+    "bf_titre": "Sitcom Côte Sud des Landes: le défi sobriété heureuse",
+    "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9528-sitcom-cote-sud-des-landes-le-defi-sobriete-heureuse.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt;Depuis les années 2007 et à plus forte raison depuis la crise énergétique de 2022, la Ville et la Communauté Urbaine de Besançon ont adopté des mesures de réduction de la consommation d’énergie par la sobriété énergétique notamment. &lt;/span&gt;",
+    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;&lt;span style=&quot;color:#1d1d1b;&quot;&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt;Afin d’engager une réflexion d’amont sur les modes de vie et de mobiliser l’ensemble des acteurs du territoire, le Sitcom Cote Sud des Landes a intégré un o",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
