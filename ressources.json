@@ -1287,6 +1287,15 @@
     "bf_formulaire": "6"
   },
   {
+    "bf_titre": "Risques naturels en zone de montagne : le Cerema évalue les impacts de deux tempêtes survenues en Corse",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/risques-naturels-zone-montagne-cerema-evalue-impacts-deux",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Mardi 1 septembre 2026 Risques inondations et mouvements de terrain Glissement de terrain après une tempête dans la vallée de la Restonica en Corse La vallée de la Restonica et la ville de Corte en Corse ont connu d’importants dégâts à la suite des tempêtes Ciaran et Domingos, survenues su",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "Le design actif, aménager les villes et villages avec peu de moyens pour favoriser la santé et le lien social",
     "bf_lien": "https://www.cerema.fr/fr/actualites/design-actif-amenager-villes-villages-peu-moyens-favoriser",
     "bf_categorie": "Transitions",
@@ -1323,11 +1332,11 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Retrait et gonflement des sols argileux : partir d'un diagnostic pour identifier les solutions préventives adaptées au contexte",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/retrait-gonflement-sols-argileux-partir-diagnostic",
+    "bf_titre": "Communauté de Communes du Thouarsais : un état des lieux de la sobriété pour mobiliser élus et services",
+    "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9549-communaute-de-communes-du-thouarsais-un-etat-des-lieux-de-la-sobriete-pour-mobiliser-elus-et-services.html",
     "bf_categorie": "Transitions",
-    "bf_description": "Publié le Lundi 24 août 2026 Risques inondations et mouvements de terrain Maisons sinistrées par le retrait et gonflement des sols à Halluin (Hauts-de-France) Le phénomène de RGA, principalement localisé dans le centre et le sud de la France il y a une dizaine d’années, touche désormais la majeure p",
-    "bf_tags": "CEREMA",
+    "bf_description": "&lt;p&gt;La communauté de communes du Thouarsais a réalisé un état des lieux de la sobriété au sein de la collectivité. Elle a mis en place un outil &quot;baromètre de la sobriété&quot; pour classer chaque politique publique en fonction de son degré de sobriété, ainsi qu&#039;un plan de sobriété éne",
+    "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
@@ -1363,15 +1372,6 @@
     "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9530-region-grand-est-structuration-d-une-communaute-numerique-responsable.html",
     "bf_categorie": "Transitions",
     "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt;La Région Grand Est fait figure de territoire pilote du programme Alt Impact, co-porté par l’ADEME, le CNRS et l’INRIA pour aider les acteurs à maîtriser les impacts du numérique. Ce programme permet d’accompagner et de financer un poste de charg",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "La Rochelle: feuille de route sobriété numérique",
-    "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9531-la-rochelle-feuille-de-route-sobriete-numerique.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt; Pour atteindre la neutralité carbone en 2040 et respecter la loi REEN, l’agglomération de La Rochelle a lancé en 2024 une Stratégie numérique responsable au sein de laquelle la sobriété numérique constitue l’un des 6 axes. Ce retour d&#039;expér",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1418,6 +1418,51 @@
     "bf_categorie": "Transitions",
     "bf_description": "Voici une sélection de publications diffusées depuis un an sur la forêt, biomasse et les produits biosourcés.",
     "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "La loi d’urgence agricole promulguée : tout ce qu’il faut en retenir",
+    "bf_lien": "https://www.banquedesterritoires.fr/la-loi-durgence-agricole-promulguee-tout-ce-quil-faut-en-retenir?pk_campaign=Flux%20RSS&pk_kwd=2026-09-01&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_categorie": "Finances",
+    "bf_description": "Censée répondre au mouvement de colère de l’hiver 2026, la loi d'urgence pour la protection et la souveraineté agricoles a été publiée au Journal officiel le 19 août après sa validation par le Conseil constitutionnel quelques jours plus tôt. Décryptage des nombreuses dispositions intéressant les col",
+    "bf_tags": "Banque des Territoires",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Édouard Geffray veut faire de l'offre scolaire un élément de dynamique territoriale",
+    "bf_lien": "https://www.banquedesterritoires.fr/edouard-geffray-veut-faire-de-loffre-scolaire-un-element-de-dynamique-territoriale?pk_campaign=Flux%20RSS&pk_kwd=2026-09-01&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_categorie": "Finances",
+    "bf_description": "Lors de sa conférence de presse de rentrée, le ministre de l'Éducation nationale a annoncé la généralisation de l'expérimentation portant sur la coconstruction de la carte scolaire. Il ambitionne aussi, en lien avec les collectivités, de faire de l'offre scolaire un élément-clé de l'aménagement du t",
+    "bf_tags": "Banque des Territoires",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Incendies : les annonces du gouvernement pour reconstruire et adapter les collectivités sinistrées",
+    "bf_lien": "https://www.banquedesterritoires.fr/incendies-les-annonces-du-gouvernement-pour-reconstruire-et-adapter-les-collectivites-sinistrees?pk_campaign=Flux%20RSS&pk_kwd=2026-09-01&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_categorie": "Finances",
+    "bf_description": "En déplacement à Mérignac (Gironde), le Premier ministre, Sébastien Lecornu, a présenté, mi-août, plusieurs mesures destinées à accompagner les territoires sinistrés par les feux majeurs ayant touché la Gironde et les Landes cet été. Douze millions d'euros vont être débloqués pour les deux départeme",
+    "bf_tags": "Banque des Territoires",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Evénements climatiques et géologiques : l'enveloppe de la DESF portée à 70 millions d'euros pour les collectivités touchées",
+    "bf_lien": "https://www.banquedesterritoires.fr/evenements-climatiques-et-geologiques-lenveloppe-de-la-desf-portee-70-millions-deuros-pour-les?pk_campaign=Flux%20RSS&pk_kwd=2026-09-01&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_categorie": "Finances",
+    "bf_description": "La ministre de l'Aménagement du territoire et de la Décentralisation a annoncé ce 25 août un doublement de l'enveloppe de la dotation de solidarité en faveur de l’équipement des collectivités et de leurs groupements (DSEC). Le décret paru au Journal officiel ce 15 août, qui simplifie les conditions ",
+    "bf_tags": "Banque des Territoires",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Projet de budget pour 2027 : le gouvernement affûte ses mesures et sa stratégie",
+    "bf_lien": "https://www.banquedesterritoires.fr/projet-de-budget-pour-2027-le-gouvernement-affute-ses-mesures-et-sa-strategie?pk_campaign=Flux%20RSS&pk_kwd=2026-09-01&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_categorie": "Finances",
+    "bf_description": "Rien n'a filtré des échanges que l'équipe gouvernementale a tenus ce 31 août sur la préparation des projets de loi de finances et de financement de la sécurité sociale pour 2027. Mais le Premier ministre avait dévoilé samedi des pistes, telles qu'une moindre revalorisation des pensions des plus aisé",
+    "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   }
