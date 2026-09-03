@@ -1287,6 +1287,33 @@
     "bf_formulaire": "6"
   },
   {
+    "bf_titre": "Cartofriches : près de 20 500 sites en friches répertoriés et caractérisés, des données intégrées à l'outil d'observation foncière UrbanSIMUL",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/cartofriches-pres-20-500-sites-friches-repertories",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Jeudi 3 septembre 2026 Lutte contre l&#039;artificialisation des sols et sobriété foncière, Stratégies, résilience et projets de transition Interface 2024 Cartofriches (Article du 05/02/2025, mis à jour)Le Cerema met régulièrement à jour&amp;nbsp;les données de Cartofriches, dont la base d",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Écoles en surchauffe : un problème qui se joue avant tout à l’échelle des salles de classe",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/ecoles-surchauffe-probleme-qui-se-joue-echelle-salles-classe",
+    "bf_categorie": "Transitions",
+    "bf_description": "",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Gestion de Patrimoine Immobilier : L'application de la méthode SURFAC²E pour les petites communes",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/gestion-patrimoine-immobilier-application-methode-surfac2e",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Jeudi 3 septembre 2026 Gestion de patrimoines immobiliers Châtenois-les-Forges (90) - Le chalet, ancienne maison de maître, actuelle crèche et bibliothèque Les petites communes de moins de 2&amp;nbsp;000 habitants font aujourd’hui face à de nombreux enjeux&amp;nbsp;: baisse démographique e",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "Risques naturels en zone de montagne : le Cerema évalue les impacts de deux tempêtes survenues en Corse",
     "bf_lien": "https://www.cerema.fr/fr/actualites/risques-naturels-zone-montagne-cerema-evalue-impacts-deux",
     "bf_categorie": "Transitions",
@@ -1305,73 +1332,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Les ruissellements, un phénomène complexe à fort impact sur les territoires : les travaux du Cerema",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/ruissellements-phenomene-complexe-fort-impact-territoires",
+    "bf_titre": "Projet CECOB : Confort d&#039;été dans la Construction Ossature Bois",
+    "bf_lien": "https://librairie.ademe.fr/batiment/9559-projet-cecob-confort-d-ete-dans-la-construction-ossature-bois.html",
     "bf_categorie": "Transitions",
-    "bf_description": "Publié le Vendredi 28 août 2026 Risques inondations et mouvements de terrain Ruissellement à Paillet Le ruissellement peut faire d&#039;importants dégâts dans les territoires exposés : le Cerema construit des méthodes et des outils pour caractériser le risque de ruissellement à l&#039;échelle de gra",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Un indicateur national de l’érosion côtière enrichi pour mieux connaître les dynamiques du littoral",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/indicateur-national-erosion-cotiere-enrichi-mieux-connaitre",
-    "bf_categorie": "Transitions",
-    "bf_description": "Publié le Mercredi 26 août 2026 Observation, planification et gestion du littoral et de la mer Falaise à Corsen Mis en place dans le cadre de la Stratégie nationale de gestion intégrée du trait de côte qui est désormais fixée jusqu&#039;en 2030, l’indicateur national d’érosion côtière permet d’objec",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "La valorisation des graves en travaux publics : guide d'utilisation des graves de déconstruction",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/valorisation-graves-travaux-publics-guide-utilisation-graves",
-    "bf_categorie": "Transitions",
-    "bf_description": "Publié le Lundi 24 août 2026 Infrastructures routières et ferroviaires, Economie circulaire du BTP couverture Ce document est la mise à jour d&#039;un guide réalisé en Rhône-Alpes, intégrant les évolutions réglementaires et méthodologiques. Il a été réalisé par le Cerema en collaboration avec l’Unic",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Do the &quot;nutritional values&quot; of food influence food waste ?",
-    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9554-do-the-nutritional-values-of-food-influence-food-waste-.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;The objective of this study is to better understand the extent to which the “values” individuals assign to food influence the act of discarding it, and to identify, based on this analysis, more effective levers and messages for reducing food waste. It is set against a backdrop where reducin",
+    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:12pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;Le projet CECOB vise à mieux caractériser le confort d’été dans les bâtiments à structure bois en croisant mesures in situ, enquêtes auprès des occupants et modélisation thermique.&lt;/span&gt;&lt;/s",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "PFAS dans les sols : devenir et écotoxicologie des mélanges",
-    "bf_lien": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9553-pfas-dans-les-sols-devenir-et-ecotoxicologie-des-melanges.html",
+    "bf_titre": "CAP sur la géothermie en Bourgogne-Franche-Comté !",
+    "bf_lien": "https://librairie.ademe.fr/energies/9558-cap-sur-la-geothermie-en-bourgogne-franche-comte-.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Les substances per- et polyfluoroalkylées (PFAS) sont définies essentiellement comme des substances contenant au moins un groupement méthyl (CF3–) ou méthylène (–CF2–) perfluoré. Plus de 7 millions de substances répondent à cette définition et sont utilisées lors de processus industriels, e",
+    "bf_description": "&lt;p&gt;Ce nouveau numéro de POL’EN met en lumière le potentiel de la géothermie en Bourgogne-Franche-Comté comme levier majeur de la transition énergétique. Energie renouvelable, faiblement émettrice de gaz à effet de serre, la géothermie constitue une solution performante pour produire chauffage,",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Communauté de Communes du Thouarsais : un état des lieux de la sobriété pour mobiliser élus et services",
-    "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9549-communaute-de-communes-du-thouarsais-un-etat-des-lieux-de-la-sobriete-pour-mobiliser-elus-et-services.html",
+    "bf_titre": "Projet CLIMESTIM : Outil simplifié pour estimer les consommations de climatisation des bureaux à La Réunion et en Métropole",
+    "bf_lien": "https://librairie.ademe.fr/batiment/9550-projet-climestim-outil-simplifie-pour-estimer-les-consommations-de-climatisation-des-bureaux-a-la-reunion-et-en-metropole.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;La communauté de communes du Thouarsais a réalisé un état des lieux de la sobriété au sein de la collectivité. Elle a mis en place un outil &quot;baromètre de la sobriété&quot; pour classer chaque politique publique en fonction de son degré de sobriété, ainsi qu&#039;un plan de sobriété éne",
+    "bf_description": "&lt;p&gt;L’objectif du projet CLIMESTIM était d’établir un moteur de calcul « réaliste » de la demande de froid ET d’électricité liée à la climatisation d’un bâtiment tertiaire en fonction de ses caractéristiques, basé sur des résultats de mesure couplés à une approche STD. Dans le cadre du projet, ",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Relance du réseau de lutte contre le gaspillage alimentaire (REGAL) à la Réunion",
-    "bf_lien": "https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9551-relance-du-reseau-de-lutte-contre-le-gaspillage-alimentaire-regal-a-la-reunion.html",
+    "bf_titre": "Rapport d&#039;activités du partenariat ADEME - FABRIQUE DES MOBILITES - S2 2025",
+    "bf_lien": "https://librairie.ademe.fr/mobilite-et-transports/9557-rapport-d-activites-du-partenariat-ademe-fabrique-des-mobilites-s2-2025.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;A la Réunion, le gaspillage revêt une forte importance car le territoire fait face à des vulnérabilités structurelles et territoriales. Marquée par son insularité, l&#039;île dépend à 77 % des importations pour son alimentation, ce qui renchérit le coût des denrées.&lt;/p&gt; &lt;p&gt;L&#03",
+    "bf_description": "&lt;p&gt;L’ADEME est impliquée dans des projets communs avec la FabMob depuis plusieurs années, et participe aux actions et événements de celle-ci. Cela contribue, en interne, à expérimenter de nouvelles façons de comprendre et soutenir l’innovation ; et en externe, cela facilite la capacité de l’AD",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Région Grand Est: structuration d&#039;une communauté numérique responsable",
-    "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9530-region-grand-est-structuration-d-une-communaute-numerique-responsable.html",
+    "bf_titre": "Aller de soi – inspirations pour favoriser l&#039;écomobilité des enfants",
+    "bf_lien": "https://librairie.ademe.fr/mobilite-et-transports/9556-aller-de-soi-inspirations-pour-favoriser-l-ecomobilite-des-enfants.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt;La Région Grand Est fait figure de territoire pilote du programme Alt Impact, co-porté par l’ADEME, le CNRS et l’INRIA pour aider les acteurs à maîtriser les impacts du numérique. Ce programme permet d’accompagner et de financer un poste de charg",
+    "bf_description": "&lt;p&gt;Face aux défis environnementaux, sanitaires et sociaux, redonner aux enfants la possibilité de se déplacer de manière autonome constitue un levier essentiel pour construire des territoires plus vivables. Si chaque territoire possède ses propres contraintes, les expériences menées partout en",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1422,46 +1422,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Rodéos, mortiers, protoxyde d’azote, rave parties… la loi Ripost est promulguée",
-    "bf_lien": "https://www.banquedesterritoires.fr/rodeos-mortiers-protoxyde-dazote-rave-parties-la-loi-ripost-entre-en-vigueur?pk_campaign=Flux%20RSS&pk_kwd=2026-09-02&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Loi Montagne : un \"acte III\" très resserré",
+    "bf_lien": "https://www.banquedesterritoires.fr/loi-montagne-un-acte-iii-tres-resserre?pk_campaign=Flux%20RSS&pk_kwd=2026-09-03&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "La loi Ripost a été publiée au Journal officiel après avoir été partiellement censurée par le Conseil constitutionnel. Les mesures phares de ce texte visant à lutter contre l'insécurité du quotidien n'ont cependant pas été touchées. Tour d'horizon des nombreuses dispositions intéressant les collecti",
+    "bf_description": "Après validation par le Conseil constitutionnel, la loi \"pour une montagne vivante et souveraine\" a été publiée le 19 août. Assimilée à un \"acte III\" de la loi Montagne de 1985, après une première révision en 2016, elle vient surtout conforter le principe de différenciation territoriale dans un nomb",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Casse-tête en vue pour l'interdiction des téléphones portables au lycée",
-    "bf_lien": "https://www.banquedesterritoires.fr/casse-tete-en-vue-pour-linterdiction-des-telephones-portables-au-lycee?pk_campaign=Flux%20RSS&pk_kwd=2026-09-02&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Transition écologique : le Haut-commissariat à la stratégie mise beaucoup sur les collectivités territoriales",
+    "bf_lien": "https://www.banquedesterritoires.fr/transition-ecologique-le-haut-commissariat-la-strategie-mise-beaucoup-sur-les-collectivites?pk_campaign=Flux%20RSS&pk_kwd=2026-09-03&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "La mise en œuvre de l'interdiction de l'usage des téléphones portables au lycée le 1er septembre 2026 pose de nombreux problèmes aux établissements. Révision du règlement intérieur, détermination des espaces concernés par l'interdiction ou choix d'une solution pratique de rangement des téléphones so",
+    "bf_description": "L’été 2026 n’est qu’un avant-goût de ce qui nous attend… Canicules, inondations, crise agricole et raréfaction de l'eau menacent l’habilité des territoires. A travers un exercice de prospective à horizons 2035 et 2050, le Haut-commissariat à la stratégie et au plan (HCSP) invite à agir vite pour s'a",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Contrôles sanitaires, eaux non conventionnelles : florilège des derniers textes pour préserver la ressource",
-    "bf_lien": "https://www.banquedesterritoires.fr/controles-sanitaires-eaux-non-conventionnelles-florilege-des-derniers-textes-pour-preserver-la?pk_campaign=Flux%20RSS&pk_kwd=2026-09-02&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Logement social : l’État étudie des scénarios de coupes budgétaires massives",
+    "bf_lien": "https://www.banquedesterritoires.fr/logement-social-letat-etudie-des-scenarios-de-coupes-budgetaires-massives?pk_campaign=Flux%20RSS&pk_kwd=2026-09-03&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "La promulgation de la loi n° 2026-796 du 18 août 2026 d'urgence pour la protection et la souveraineté agricoles, dont l’important volet lié à l’eau a fait beaucoup de remous, ne doit pas occulter d’autres textes attendus et parus cet été au Journal officiel. Un nouvel arrêté permet de recourir aux e",
+    "bf_description": "Vente accrue de HLM, réforme des aides et fiscalité des bailleurs : alors que la demande de logements sociaux n’a jamais été aussi forte, un rapport de l’inspection générale des finances et de l’inspection générale de l’environnement et du développement durable identifie des pistes de réforme permet",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Agences régionales de santé : l'échelon départemental renforcé par deux décrets",
-    "bf_lien": "https://www.banquedesterritoires.fr/agences-regionales-de-sante-lechelon-departemental-renforce-par-deux-decrets?pk_campaign=Flux%20RSS&pk_kwd=2026-09-02&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Vacance des locaux d'habitation : le mode d'emploi de la nouvelle taxe deux-en-un est paru",
+    "bf_lien": "https://www.banquedesterritoires.fr/vacance-des-locaux-dhabitation-le-mode-demploi-de-la-nouvelle-taxe-deux-en-un-est-paru?pk_campaign=Flux%20RSS&pk_kwd=2026-09-03&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le directeur départemental de l'ARS sera en particulier responsable du dialogue avec les collectivités de son territoire. Il coprésidera, avec le préfet de département et le président du conseil départemental, un comité de l'accès aux soins de premiers recours.",
+    "bf_description": "Un décret paru fin août précise le périmètre de la nouvelle taxe sur la vacance des locaux d'habitation (TVLH) venant remplacer deux taxes sur les logements vacants. Avec toutefois toujours des différences selon que l'on se situe en zone tendue ou pas.",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Rénovation énergétique : les grands changements du DPE et de MaPrimeRénov’ parus cet été",
-    "bf_lien": "https://www.banquedesterritoires.fr/renovation-energetique-les-grands-changements-du-dpe-et-de-maprimerenov-parus-cet-ete?pk_campaign=Flux%20RSS&pk_kwd=2026-09-02&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Véhicules de livraison autonomes : un arrêté ouvre la voie à leur homologation",
+    "bf_lien": "https://www.banquedesterritoires.fr/vehicules-de-livraison-autonomes-un-arrete-ouvre-la-voie-leur-homologation?pk_campaign=Flux%20RSS&pk_kwd=2026-09-03&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Ont été publiés au Journal officiel à la fin du mois d'août une série de textes réglementaires qui viennent modifier le paysage de la rénovation énergétique. Tour d’horizon des principaux changements à connaître et de leur calendrier d’entrée en vigueur.",
+    "bf_description": "Un arrêté publié le 7 août dernier au Journal officiel ouvre la voie à l'homologation des premiers véhicules autonomes de livraison, nouvelle étape réglementaire vers \"leur mise en circulation sur la voie publique\", selon un communiqué du ministère des Transports.",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
