@@ -1287,6 +1287,24 @@
     "bf_formulaire": "6"
   },
   {
+    "bf_titre": "MobiTC : logiciel d’analyse de la MOBIlité du Trait de Côte",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/mobitc-logiciel-analyse-mobilite-du-trait-cote",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Lundi 7 septembre 2026 Observation, planification et gestion du littoral et de la mer Analyse de la MOBIlité du Trait de Côte (Article du 18 juillet 2017, mis à (…) Lire la suite",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Guide de réhabilitation énergétique du bâti d’intérêt patrimonial : les clés pour concevoir un projet adapté au bâti ancien",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/guide-rehabilitation-energetique-du-bati-interet-patrimonial",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Lundi 7 septembre 2026 Performances environnementales et énergétiques Village médiéval avec des maisons en pierres Le bâti ancien, construit avant 1948, n’est pas constitué de matériaux standardisés et possède souvent un intérêt patrimonial. Les techniques de construction, les matériaux di",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "Cartofriches : près de 20 500 sites en friches répertoriés et caractérisés, des données intégrées à l'outil d'observation foncière UrbanSIMUL",
     "bf_lien": "https://www.cerema.fr/fr/actualites/cartofriches-pres-20-500-sites-friches-repertories",
     "bf_categorie": "Transitions",
@@ -1309,24 +1327,6 @@
     "bf_lien": "https://www.cerema.fr/fr/actualites/gestion-patrimoine-immobilier-application-methode-surfac2e",
     "bf_categorie": "Transitions",
     "bf_description": "Publié le Jeudi 3 septembre 2026 Gestion de patrimoines immobiliers Châtenois-les-Forges (90) - Le chalet, ancienne maison de maître, actuelle crèche et bibliothèque Les petites communes de moins de 2&amp;nbsp;000 habitants font aujourd’hui face à de nombreux enjeux&amp;nbsp;: baisse démographique e",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Risques naturels en zone de montagne : le Cerema évalue les impacts de deux tempêtes survenues en Corse",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/risques-naturels-zone-montagne-cerema-evalue-impacts-deux",
-    "bf_categorie": "Transitions",
-    "bf_description": "Publié le Mardi 1 septembre 2026 Risques inondations et mouvements de terrain Glissement de terrain après une tempête dans la vallée de la Restonica en Corse La vallée de la Restonica et la ville de Corte en Corse ont connu d’importants dégâts à la suite des tempêtes Ciaran et Domingos, survenues su",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Le design actif, aménager les villes et villages avec peu de moyens pour favoriser la santé et le lien social",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/design-actif-amenager-villes-villages-peu-moyens-favoriser",
-    "bf_categorie": "Transitions",
-    "bf_description": "Publié le Lundi 31 août 2026 Aménagement durable : revitalisation et renouvellement urbain, Stratégies, résilience et projets de transition Banc en bord de route en territoire peu dense La définition du Design Actif est encore peu connue en France même si cette démarche, née en Amérique du Nord et d",
     "bf_tags": "CEREMA",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1423,7 +1423,7 @@
   },
   {
     "bf_titre": "Conférence nationale du handicap : le temps du bilan, plus que des grandes annonces",
-    "bf_lien": "https://www.banquedesterritoires.fr/conference-nationale-du-handicap-le-temps-du-bilan-plus-que-des-grandes-annonces-0?pk_campaign=Flux%20RSS&pk_kwd=2026-09-06&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_lien": "https://www.banquedesterritoires.fr/conference-nationale-du-handicap-le-temps-du-bilan-plus-que-des-grandes-annonces-0?pk_campaign=Flux%20RSS&pk_kwd=2026-09-07&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
     "bf_description": "En cette fin de quinquennat, Emmanuel Macron a présidé ce 4 septembre 2026 sa troisième et dernière Conférence nationale du handicap. S'il a promis d'agir \"jusqu'au dernier quart d'heure\", le chef de l'État ne s'est pas, sans surprise, engagé sur de nouveaux chantiers d'importance. L'accessibilité é",
     "bf_tags": "Banque des Territoires",
@@ -1432,7 +1432,7 @@
   },
   {
     "bf_titre": "Agriculture : un plan d’un milliard d’euros qui ne convainc pas les syndicats",
-    "bf_lien": "https://www.banquedesterritoires.fr/agriculture-un-plan-dun-milliard-deuros-qui-ne-convainc-pas-les-syndicats?pk_campaign=Flux%20RSS&pk_kwd=2026-09-06&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_lien": "https://www.banquedesterritoires.fr/agriculture-un-plan-dun-milliard-deuros-qui-ne-convainc-pas-les-syndicats?pk_campaign=Flux%20RSS&pk_kwd=2026-09-07&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
     "bf_description": "La ministre de l'Agriculture Annie Genevard a présenté, vendredi 4 septembre, un plan de plus d'un milliard d'euros pour éviter les faillites des exploitations et relancer la production après un été catastrophique. Pour l'heure, les syndicats d'agriculteurs jugent les montants bien insuffisants au r",
     "bf_tags": "Banque des Territoires",
@@ -1441,7 +1441,7 @@
   },
   {
     "bf_titre": "Trait de côte : la France se dote d’une nouvelle stratégie nationale de gestion intégrée jusqu’en 2030",
-    "bf_lien": "https://www.banquedesterritoires.fr/trait-de-cote-la-france-se-dote-dune-nouvelle-strategie-nationale-de-gestion-integree-jusquen-2030?pk_campaign=Flux%20RSS&pk_kwd=2026-09-06&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_lien": "https://www.banquedesterritoires.fr/trait-de-cote-la-france-se-dote-dune-nouvelle-strategie-nationale-de-gestion-integree-jusquen-2030?pk_campaign=Flux%20RSS&pk_kwd=2026-09-07&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
     "bf_description": "L’ambition de la stratégie nationale de gestion intégrée du trait de côte révisée est d’encourager les territoires à développer des politiques locales d’adaptation opérationnelles. Mais sans financements pérennes, ni de fonds national dédié, cette stratégie reste pour les élus littoraux sans moyens ",
     "bf_tags": "Banque des Territoires",
@@ -1450,7 +1450,7 @@
   },
   {
     "bf_titre": "Le gouvernement renonce à imposer la consigne des bouteilles plastiques aux collectivités",
-    "bf_lien": "https://www.banquedesterritoires.fr/le-gouvernement-renonce-imposer-la-consigne-des-bouteilles-plastiques-aux-collectivites?pk_campaign=Flux%20RSS&pk_kwd=2026-09-06&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_lien": "https://www.banquedesterritoires.fr/le-gouvernement-renonce-imposer-la-consigne-des-bouteilles-plastiques-aux-collectivites?pk_campaign=Flux%20RSS&pk_kwd=2026-09-07&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
     "bf_description": "Les ministres Mathieu Lefèvre et Françoise Gatel ont annoncé ce 4 septembre qu'\"aucun dispositif de consigne obligatoire ne sera mis en place\", le gouvernement misant désormais uniquement sur \"la mise en place de la consigne à l'échelle des seules collectivités volontaires\".",
     "bf_tags": "Banque des Territoires",
@@ -1459,7 +1459,7 @@
   },
   {
     "bf_titre": "La Cour des comptes épingle le désordre du Fonds national d’accompagnement vers et dans le logement",
-    "bf_lien": "https://www.banquedesterritoires.fr/la-cour-des-comptes-epingle-le-desordre-du-fonds-national-daccompagnement-vers-et-dans-le-logement?pk_campaign=Flux%20RSS&pk_kwd=2026-09-06&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_lien": "https://www.banquedesterritoires.fr/la-cour-des-comptes-epingle-le-desordre-du-fonds-national-daccompagnement-vers-et-dans-le-logement?pk_campaign=Flux%20RSS&pk_kwd=2026-09-07&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
     "bf_description": "Situation financière excédentaire, enchevêtrement illisible d'aides publiques et faillite de l'État dans le paiement de ses propres amendes : les magistrats de la rue Cambon dressent un bilan relativement sévère du Fonds national d’accompagnement vers et dans le logement (FNAVDL), et formulent trois",
     "bf_tags": "Banque des Territoires",
