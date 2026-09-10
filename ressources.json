@@ -1287,6 +1287,15 @@
     "bf_formulaire": "6"
   },
   {
+    "bf_titre": "CleanAirBouw : Surveillance de l'air et processus de dépollution pour des bâtiments plus sains : lancement du Win’Air Challenge dans 20 écoles en France et en Belgique",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/cleanairbouw-surveillance-air-processus-depollution-0",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Jeudi 10 septembre 2026 Qualité des environnements intérieurs et ventilation Win&#039;air challenge À l&#039;occasion de la rentrée scolaire de septembre 2026, vingt écoles élémentaires réparties entre les Hauts-de-France, la Wallonie et la Flandre occidentale participeront au Win&#039;Air",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "Une approche multi-enjeux et participative pour imaginer l’avenir d’une friche en contexte littoral",
     "bf_lien": "https://www.cerema.fr/fr/actualites/approche-multi-enjeux-participative-imaginer-avenir-friche",
     "bf_categorie": "Transitions",
@@ -1323,11 +1332,20 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Cartofriches : près de 20 500 sites en friches répertoriés et caractérisés, des données intégrées à l'outil d'observation foncière UrbanSIMUL",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/cartofriches-pres-20-500-sites-friches-repertories",
+    "bf_titre": "Baromètre - les Français et les énergies – vague 12",
+    "bf_lien": "https://librairie.ademe.fr/energies/9576-barometre-les-francais-et-les-energies-vague-12.html",
     "bf_categorie": "Transitions",
-    "bf_description": "Publié le Jeudi 3 septembre 2026 Lutte contre l&#039;artificialisation des sols et sobriété foncière, Stratégies, résilience et projets de transition Interface 2024 Cartofriches (Article du 05/02/2025, mis à jour)Le Cerema met régulièrement à jour&amp;nbsp;les données de Cartofriches, dont la base d",
-    "bf_tags": "CEREMA",
+    "bf_description": "&lt;p&gt;L’écart de perception entre la filière solaire photovoltaïque et la filière nucléaire se résorbe en partie. Les Français affirment en majorité leur volonté que le nucléaire et les filières renouvelables coexistent dans le mix électrique. Les Français sont de moins en moins convaincus que la",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Isolation hygroscopique et biosourcés des batiments anciens",
+    "bf_lien": "https://librairie.ademe.fr/batiment/9575-isolation-hygroscopique-et-biosources-des-batiments-anciens.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;Face à l’hétérogénéité du patrimoine bâti ancien en France, la réhabilitation énergétique nécessite une approche prudente. Les bâtiments anciens, composés de matériaux sensibles à l’humidité (pierres, bois, torchis…), ne peuvent être traités comme les constructions modernes.&lt;br /&gt; Le ",
+    "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
@@ -1354,24 +1372,6 @@
     "bf_lien": "https://librairie.ademe.fr/industrie-et-production-durable/9572-decarbonation-de-l-industrie-en-nouvelle-aquitaine-secteur-industrie-agro-alimentaire.html",
     "bf_categorie": "Transitions",
     "bf_description": "&lt;p&gt;Secteur emblématique de Nouvelle-Aquitaine, l&#039;IAA concentre des enjeux énergétiques importants : procédés thermiques, chaîne du froid, utilités vapeur. Les leviers de décarbonation y sont variés et accessibles à des niveaux d&#039;investissement très différents, des PME aux grands site",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Décarbonation de l&#039;industrie en Nouvelle-Aquitaine - Secteur Verrier",
-    "bf_lien": "https://librairie.ademe.fr/industrie-et-production-durable/9571-decarbonation-de-l-industrie-en-nouvelle-aquitaine-secteur-verrier.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Le secteur verrier est l&#039;un des plus difficiles à décarboner : ses fours fonctionnent à plus de 1 400°C en continu, avec des cycles de vie de plusieurs décennies qui limitent les fenêtres d&#039;intervention. Pourtant, des leviers existent — électrification partielle des fours, optimis",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Décarbonation de l&#039;industrie en Nouvelle-Aquitaine - Secteur Chimie",
-    "bf_lien": "https://librairie.ademe.fr/industrie-et-production-durable/9570-decarbonation-de-l-industrie-en-nouvelle-aquitaine-secteur-chimie.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;La chimie néo-aquitaine est à la fois un secteur prioritaire pour la décarbonation régionale et un secteur en prise directe avec l&#039;actualité nationale. Catalyseurs, traitement des fumées, fluides biosourcés, récupération de chaleur fatale : les leviers sont nombreux et les approches tr",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1422,46 +1422,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Modernisation de la sécurité civile : un \"catalogue sur le choix du papier peint\", dénoncent les syndicats",
-    "bf_lien": "https://www.banquedesterritoires.fr/modernisation-de-la-securite-civile-un-catalogue-sur-le-choix-du-papier-peint-denoncent-les?pk_campaign=Flux%20RSS&pk_kwd=2026-09-09&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Crise agricole : les régions et les chambres montent en première ligne",
+    "bf_lien": "https://www.banquedesterritoires.fr/crise-agricole-les-regions-et-les-chambres-montent-en-premiere-ligne?pk_campaign=Flux%20RSS&pk_kwd=2026-09-10&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Les sapeurs-pompiers, qui ont entamé ce mardi 8 septembre un mouvement de grève de six semaines, sont sortis \"désabusés\" de la présentation du futur projet de loi de modernisation de la sécurité civile au ministère de l'Intérieur. Texte qui, selon leurs syndicats, s'apparente plus à un \"toilettage\" ",
+    "bf_description": "Face à une crise agricole exceptionnelle liée à la sécheresse de l'été, régions et chambres d'agriculture prennent le relais du gouvernement, après le lancement de son plan d'urgence d'un milliard d'euros. Au-delà des problèmes de trésorerie, les régions s'investissent de plus en plus dans les équip",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Pour réduire la fiscalité sur les entreprises, une mission sénatoriale cible le versement mobilité",
-    "bf_lien": "https://www.banquedesterritoires.fr/pour-reduire-la-fiscalite-sur-les-entreprises-une-mission-senatoriale-cible-le-versement-mobilite?pk_campaign=Flux%20RSS&pk_kwd=2026-09-09&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Les associations d'élus déplorent le nouveau report de l'examen du projet de loi Polices municipales",
+    "bf_lien": "https://www.banquedesterritoires.fr/les-associations-delus-deplorent-le-nouveau-report-de-lexamen-du-projet-de-loi-polices-municipales?pk_campaign=Flux%20RSS&pk_kwd=2026-09-10&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "La mission d'information du Sénat consacrée au poids des prélèvements obligatoires sur les entreprises a appelé le 3 septembre à la poursuite de la réduction des impôts de production. Dans son viseur figure notamment le versement mobilité, qui sert à financer les transports en commun. Son rapport pl",
+    "bf_description": "Faute de session extraordinaire, l'examen en séance publique au Palais Bourbon du projet de loi Polices municipales est une fois encore reporté sine die. Un énième délestage vertement dénoncé par les associations d'élus, lesquelles demandent au gouvernement d'inscrire au plus vite le projet à l'ordr",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Adaptation des hôpitaux et Ehpad publics au changement climatique : la FHF demande un fonds vert de 1 milliard d'euros par an",
-    "bf_lien": "https://www.banquedesterritoires.fr/adaptation-des-hopitaux-et-ehpad-publics-au-changement-climatique-la-fhf-demande-un-fonds-vert-de-1?pk_campaign=Flux%20RSS&pk_kwd=2026-09-09&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Transition climatique : France urbaine compte sur des recettes à la hauteur des investissements nécessaires",
+    "bf_lien": "https://www.banquedesterritoires.fr/transition-climatique-france-urbaine-compte-sur-des-recettes-la-hauteur-des-investissements?pk_campaign=Flux%20RSS&pk_kwd=2026-09-10&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "L'adaptation au changement climatique est devenue \"une nécessité existentielle\", a plaidé le président de la Fédération hospitalière de France ce 8 septembre 2026. Après un été particulièrement éprouvant, les hôpitaux et établissements médicosociaux publics demandent les moyens d'investir, via un fo",
+    "bf_description": "L'été caniculaire qui s'achève a rendu plus palpables que jamais les investissements qu'il va falloir réaliser face au changement climatique, tant sur l'adaptation que l'atténuation. Surtout sur les grands territoires urbains. L'association qui les représente appelle le gouvernement à en tenir compt",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Dans le logement social, les charges ont bondi de 24% en cinq ans",
-    "bf_lien": "https://www.banquedesterritoires.fr/dans-le-logement-social-les-charges-ont-bondi-de-24-en-cinq-ans?pk_campaign=Flux%20RSS&pk_kwd=2026-09-09&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Universités : sélection, droits d'inscription, gouvernance... le Sénat propose une réforme de rupture",
+    "bf_lien": "https://www.banquedesterritoires.fr/universites-selection-droits-dinscription-gouvernance-le-senat-propose-une-reforme-de-rupture?pk_campaign=Flux%20RSS&pk_kwd=2026-09-10&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "La hausse des charges et des loyers pèse de plus en plus sur les locataires du parc social : selon le panorama 2026 de l’Ancols, les charges ont augmenté de 24% entre 2019 et 2024, atteignant 300 euros par mois en moyenne. Parallèlement, le taux de mobilité des locataires est tombé à 7,7%, contribua",
+    "bf_description": "Mettre fin au droit quasi automatique d'accès à l'université après le baccalauréat, porter les droits d'inscription à 900 euros en licence et 1.300 euros en master, donner davantage d'autonomie aux établissements et revoir leur gouvernance : la commission d'enquête du Sénat sur l'excellence académiq",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Agrivoltaïsme : signature d'une charte nationale en faveur de projets \"territoriaux et concertés\"",
-    "bf_lien": "https://www.banquedesterritoires.fr/agrivoltaisme-signature-dune-charte-nationale-en-faveur-de-projets-territoriaux-et-concertes?pk_campaign=Flux%20RSS&pk_kwd=2026-09-09&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Les touristes extra-européens, une \"impasse\", selon Réseau Action Climat",
+    "bf_lien": "https://www.banquedesterritoires.fr/les-touristes-extra-europeens-une-impasse-selon-reseau-action-climat?pk_campaign=Flux%20RSS&pk_kwd=2026-09-10&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Après plusieurs mois de concertation entre les représentants des collectivités locales, les développeurs agrivoltaïques et les acteurs agricoles, Amorce et France renouvelables ont signé ce 3 septembre la première charte nationale en faveur de projets agrivoltaïques \"territoriaux et concertés\".",
+    "bf_description": "Un rapport du collectif Réseau Action Climat dénonce la montée en gamme du tourisme français qui encouragerait les visiteurs venus de loin au détriment des touristes français et européens et nuirait au climat ainsi qu'au cadre de vie des habitants.",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
