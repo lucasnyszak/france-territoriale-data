@@ -1287,6 +1287,24 @@
     "bf_formulaire": "6"
   },
   {
+    "bf_titre": "Base nautique d'avenir : des fiches sur l'aménagement des bases nautiques adaptées aux enjeux de demain",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/base-nautique-avenir-fiches-amenagement-bases-nautiques",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Lundi 14 septembre 2026 Stratégies, résilience et projets de transition, Ports et voies navigables couverture Comment penser l&#039;aménagement d&#039;une base nautique pour qu&#039;elle soit fonctionnelle et attractive tout en réduisant l&#039;impact environnemental, et en l&#039;inscriva",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Action Cœur de Ville 2: le Cerema accompagne la Ville d’Ajaccio dans l’étude de son potentiel de renaturation, de l’analyse foncière à la stratégie",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/action-coeur-ville-2-cerema-accompagne-ville-ajaccio-etude",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Lundi 14 septembre 2026 Stratégies, résilience et projets de transition, Aménager avec la biodiversité Place végétalisée à Ajaccio Cet accompagnement s’est d’abord appuyé sur l’animation d’une démarche collective entre acteurs locaux de l’aménagement, organisée autour d&#039;une balade sen",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "CleanAirBouw : Surveillance de l'air et processus de dépollution pour des bâtiments plus sains : lancement du Win’Air Challenge dans 20 écoles en France et en Belgique",
     "bf_lien": "https://www.cerema.fr/fr/actualites/cleanairbouw-surveillance-air-processus-depollution-0",
     "bf_categorie": "Transitions",
@@ -1314,20 +1332,20 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "MobiTC : logiciel d’analyse de la MOBIlité du Trait de Côte",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/mobitc-logiciel-analyse-mobilite-du-trait-cote",
+    "bf_titre": "Gestion des déchets amiantés",
+    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9579-gestion-des-dechets-amiantes.html",
     "bf_categorie": "Transitions",
-    "bf_description": "Publié le Lundi 7 septembre 2026 Observation, planification et gestion du littoral et de la mer Analyse de la MOBIlité du Trait de Côte (Article du 18 juillet 2017, mis à (…) Lire la suite",
-    "bf_tags": "CEREMA",
+    "bf_description": "&lt;p style=&quot;margin-left:38px;&quot;&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;&lt;span style=&quot;color:#1d1d1b;&quot;&gt;L’amiante est un minerai naturellement fibreux avec des propriétés d’isolation et de résistance qui ont généré son utilisation massive jusqu’à son interdiction en Fr",
+    "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Guide de réhabilitation énergétique du bâti d’intérêt patrimonial : les clés pour concevoir un projet adapté au bâti ancien",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/guide-rehabilitation-energetique-du-bati-interet-patrimonial",
+    "bf_titre": "Méthode géomatique des pré identification des friches",
+    "bf_lien": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9569-methode-geomatique-des-pre-identification-des-friches-9791029727351.html",
     "bf_categorie": "Transitions",
-    "bf_description": "Publié le Lundi 7 septembre 2026 Performances environnementales et énergétiques Village médiéval avec des maisons en pierres Le bâti ancien, construit avant 1948, n’est pas constitué de matériaux standardisés et possède souvent un intérêt patrimonial. Les techniques de construction, les matériaux di",
-    "bf_tags": "CEREMA",
+    "bf_description": "&lt;p&gt;Dans un contexte de forte pression foncière et de nécessité de limiter l’artificialisation des sols, les inventaires et observatoires des friches sont des outils précieux pour les collectivités locales. Ils leur permettent d’identifier les espaces susceptibles de contribuer au renouvellemen",
+    "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
@@ -1354,24 +1372,6 @@
     "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9577-evaluation-des-conversations-carbone.html",
     "bf_categorie": "Transitions",
     "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:11pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;Ce rapport présente les résultats de travaux scientifiques visant à évaluer l&#039;impact des Conversations Carbone sur les changements de comportement des participants et préfigurer une méthodologie",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Les agriculteurs et le changement climatique",
-    "bf_lien": "https://librairie.ademe.fr/changement-climatique/9070-les-agriculteurs-et-le-changement-climatique.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Depuis 2000, l’ADEME conduit une enquête administrée chaque année auprès d&#039;échantillons représentatifs de la population française permettant de dresser un tableau des représentations sociales du changement climatique et de leurs évolutions. L&#039;enquête est également réalisée auprès ",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Baromètre - les Français et les énergies – vague 12",
-    "bf_lien": "https://librairie.ademe.fr/energies/9576-barometre-les-francais-et-les-energies-vague-12.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;L’écart de perception entre la filière solaire photovoltaïque et la filière nucléaire se résorbe en partie. Les Français affirment en majorité leur volonté que le nucléaire et les filières renouvelables coexistent dans le mix électrique. Les Français sont de moins en moins convaincus que la",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1423,7 +1423,7 @@
   },
   {
     "bf_titre": "Les \"territoires d'électrification\" enfin dévoilés",
-    "bf_lien": "https://www.banquedesterritoires.fr/les-territoires-delectrification-enfin-devoiles?pk_campaign=Flux%20RSS&pk_kwd=2026-09-13&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_lien": "https://www.banquedesterritoires.fr/les-territoires-delectrification-enfin-devoiles?pk_campaign=Flux%20RSS&pk_kwd=2026-09-14&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
     "bf_description": "Les – finalement – 109 lauréats du programme \"territoires d'électrification\" annoncé par le gouvernement en avril dernier ont été dévoilés ce 11 septembre. Représentant \"près d'un Français sur quatre\", ces \"laboratoires de l'électrification\" ont désormais jusqu'au 1er&nbsp;décembre pour fixer leur f",
     "bf_tags": "Banque des Territoires",
@@ -1432,7 +1432,7 @@
   },
   {
     "bf_titre": "Le gouvernement annonce 1,3 milliard d'euros d'économies supplémentaires dans le budget de l'État",
-    "bf_lien": "https://www.banquedesterritoires.fr/finances-0?pk_campaign=Flux%20RSS&pk_kwd=2026-09-13&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_lien": "https://www.banquedesterritoires.fr/finances-0?pk_campaign=Flux%20RSS&pk_kwd=2026-09-14&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
     "bf_description": "La décision, dévoilée ce 11 septembre, passe par l'annulation de 500 millions d’euros de crédits et le gel de 783 millions d'euros de crédits supplémentaires (en crédits de paiement). Le plan d'aide à l'agriculture et le ralentissement économique pèsent sur les comptes publics. L'exécutif en a tiré ",
     "bf_tags": "Banque des Territoires",
@@ -1441,7 +1441,7 @@
   },
   {
     "bf_titre": "Logement abordable : la Commission européenne propose un cadre juridique pour sécuriser l'action des villes",
-    "bf_lien": "https://www.banquedesterritoires.fr/logement-abordable-la-commission-europeenne-propose-un-cadre-juridique-pour-securiser-laction-des?pk_campaign=Flux%20RSS&pk_kwd=2026-09-13&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_lien": "https://www.banquedesterritoires.fr/logement-abordable-la-commission-europeenne-propose-un-cadre-juridique-pour-securiser-laction-des?pk_campaign=Flux%20RSS&pk_kwd=2026-09-14&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
     "bf_description": "La Commission européenne a présenté, le 9 septembre 2026, son \"Affordable Housing Act\". Ce texte entend sécuriser juridiquement les interventions locales, notamment dans les zones tendues, tout en accélérant la construction et la rénovation. Une réponse qui place les villes au cœur de la lutte contr",
     "bf_tags": "Banque des Territoires",
@@ -1450,7 +1450,7 @@
   },
   {
     "bf_titre": "Le projet de loi de modernisation de la sécurité civile modifie à nouveau les plans communaux/intercommunaux de sauvegarde, en les généralisant",
-    "bf_lien": "https://www.banquedesterritoires.fr/le-projet-de-loi-de-modernisation-de-la-securite-civile-modifie-nouveau-les-plans?pk_campaign=Flux%20RSS&pk_kwd=2026-09-13&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_lien": "https://www.banquedesterritoires.fr/le-projet-de-loi-de-modernisation-de-la-securite-civile-modifie-nouveau-les-plans?pk_campaign=Flux%20RSS&pk_kwd=2026-09-14&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
     "bf_description": "Le futur projet de loi de modernisation de la sécurité civile prévoit de modifier à nouveau, après la récente loi Matras, les plans communaux/intercommunaux de sauvegarde, qui seraient généralisés à toutes les communes. Il entend de même instituer l'obligation pour les propriétaires ou gestionnaires",
     "bf_tags": "Banque des Territoires",
@@ -1459,7 +1459,7 @@
   },
   {
     "bf_titre": "La réindustrialisation verte, un \"outil puissant d'aménagement du territoire\", d'après la Fondation Jean-Jaurès",
-    "bf_lien": "https://www.banquedesterritoires.fr/la-reindustrialisation-verte-un-outil-puissant-damenagement-du-territoire-dapres-la-fondation-jean?pk_campaign=Flux%20RSS&pk_kwd=2026-09-13&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_lien": "https://www.banquedesterritoires.fr/la-reindustrialisation-verte-un-outil-puissant-damenagement-du-territoire-dapres-la-fondation-jean?pk_campaign=Flux%20RSS&pk_kwd=2026-09-14&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
     "bf_description": "Le chantier de la décarbonation mobilise déjà &nbsp;près de 170.000 emplois et pourrait en représenter le double d'ici à 2032. C'est l'estimation d'un rapport intitulé \"Electro-puissance : le choix français de la réindustrialisation et de la protection\" publié par la Fondation Jean-Jaurès. Les \"bast",
     "bf_tags": "Banque des Territoires",
