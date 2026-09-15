@@ -1287,6 +1287,33 @@
     "bf_formulaire": "6"
   },
   {
+    "bf_titre": "L'annexe environnementale : un levier pour la transition écologique. Un Essentiel du Cerema réalisé avec AFL, la banque des collectivités locales",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/annexe-environnementale-levier-transition-ecologique",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Mardi 15 septembre 2026 Aménager avec la biodiversité couverture Réalisé en partenariat entre le Cerema et AFL, la banque des collectivités locales, cet essentiel explore les potentialités de l&#039;évaluation environnementale des investissements, introduite en 2025, et présente une approc",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Réussir son projet territorial Energie Climat : une formation du Cerema en novembre 2026",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/reussir-son-projet-territorial-energie-climat-formation-du",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Mardi 15 septembre 2026 Stratégies, résilience et projets de transition, Energies renouvelables terrestres et maritimes Ville verte L’aménagement du territoire doit aujourd’hui être mis en perspective avec l’évolution du climat, à la fois la réduction des émissions de gaz à effet de serre ",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Cartographie des LCZ : un outil pour des villes plus fraîches. Le Cerema présente sa méthode",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/cartographie-lcz-outil-villes-plus-fraiches-cerema-presente",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Mardi 15 septembre 2026 Aménagement durable : revitalisation et renouvellement urbain couverture Article du 8 juillet 2026 mis à jour.Les épisodes de forte chaleur impactent fortement les espaces urbains très minéralisés, où on observe le phénomène d&#039;îlot de chaleur. Afin d&#039;objec",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "Base nautique d'avenir : des fiches sur l'aménagement des bases nautiques adaptées aux enjeux de demain",
     "bf_lien": "https://www.cerema.fr/fr/actualites/base-nautique-avenir-fiches-amenagement-bases-nautiques",
     "bf_categorie": "Transitions",
@@ -1305,33 +1332,6 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "CleanAirBouw : Surveillance de l'air et processus de dépollution pour des bâtiments plus sains : lancement du Win’Air Challenge dans 20 écoles en France et en Belgique",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/cleanairbouw-surveillance-air-processus-depollution-0",
-    "bf_categorie": "Transitions",
-    "bf_description": "Publié le Jeudi 10 septembre 2026 Qualité des environnements intérieurs et ventilation Win&#039;air challenge À l&#039;occasion de la rentrée scolaire de septembre 2026, vingt écoles élémentaires réparties entre les Hauts-de-France, la Wallonie et la Flandre occidentale participeront au Win&#039;Air",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Une approche multi-enjeux et participative pour imaginer l’avenir d’une friche en contexte littoral",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/approche-multi-enjeux-participative-imaginer-avenir-friche",
-    "bf_categorie": "Transitions",
-    "bf_description": "Publié le Mardi 8 septembre 2026 Aménagement durable : revitalisation et renouvellement urbain Le domaine des pins - Port Bail sur Mer Une stratégie de requalification pour un site aux multiples enjeuxDans le cadre d’une convention tripartite entre l’ANCT, la commune de Port-Bail-sur-Mer (2520 habit",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Analyse de la pollution lumineuse et propositions d’améliorations sur le territoire du Pays Castelroussin Val de l’Indre",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/analyse-pollution-lumineuse-propositions-ameliorations",
-    "bf_categorie": "Transitions",
-    "bf_description": "Publié le Mardi 8 septembre 2026 Aménager avec la biodiversité Eclairage nocturne et biodiversité Le Pays Castelroussin Val de l’Indre avait déjà investi le sujet des continuités écologiques (verte et bleue), avec un programme d’actions visant à préserver, améliorer et restaurer celles-ci. Depuis 20",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
     "bf_titre": "Gestion des déchets amiantés",
     "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9579-gestion-des-dechets-amiantes.html",
     "bf_categorie": "Transitions",
@@ -1341,8 +1341,8 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Méthode géomatique des pré identification des friches",
-    "bf_lien": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9569-methode-geomatique-des-pre-identification-des-friches-9791029727351.html",
+    "bf_titre": "Méthode géomatique de pré-identification des friches",
+    "bf_lien": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9569-methode-geomatique-de-pre-identification-des-friches-9791029727351.html",
     "bf_categorie": "Transitions",
     "bf_description": "&lt;p&gt;Dans un contexte de forte pression foncière et de nécessité de limiter l’artificialisation des sols, les inventaires et observatoires des friches sont des outils précieux pour les collectivités locales. Ils leur permettent d’identifier les espaces susceptibles de contribuer au renouvellemen",
     "bf_tags": "ADEME - Librairie",
@@ -1422,46 +1422,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Les \"territoires d'électrification\" enfin dévoilés",
-    "bf_lien": "https://www.banquedesterritoires.fr/les-territoires-delectrification-enfin-devoiles?pk_campaign=Flux%20RSS&pk_kwd=2026-09-14&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Le projet d'accord-cadre entend garantir une IA au service de l'humain dans la fonction publique",
+    "bf_lien": "https://www.banquedesterritoires.fr/le-projet-daccord-cadre-entend-garantir-une-ia-au-service-de-lhumain-dans-la-fonction-publique?pk_campaign=Flux%20RSS&pk_kwd=2026-09-15&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Les – finalement – 109 lauréats du programme \"territoires d'électrification\" annoncé par le gouvernement en avril dernier ont été dévoilés ce 11 septembre. Représentant \"près d'un Français sur quatre\", ces \"laboratoires de l'électrification\" ont désormais jusqu'au 1er&nbsp;décembre pour fixer leur f",
+    "bf_description": "Le projet d'accord-cadre sur l'usage de l'intelligence artificielle dans la fonction publique est entré dans sa dernière ligne droite de négociation. Le texte place \"l'humain au centre\" et propose plusieurs mesures pour éviter de potentielles dérives. Au-delà de principes partagés, il instaure une g",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Le gouvernement annonce 1,3 milliard d'euros d'économies supplémentaires dans le budget de l'État",
-    "bf_lien": "https://www.banquedesterritoires.fr/finances-0?pk_campaign=Flux%20RSS&pk_kwd=2026-09-14&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Benjamin Morel : le pouvoir local s'exerce désormais par \"l’empêchement de la décision\"",
+    "bf_lien": "https://www.banquedesterritoires.fr/benjamin-morel-le-pouvoir-local-sexerce-desormais-par-lempechement-de-la-decision?pk_campaign=Flux%20RSS&pk_kwd=2026-09-15&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "La décision, dévoilée ce 11 septembre, passe par l'annulation de 500 millions d’euros de crédits et le gel de 783 millions d'euros de crédits supplémentaires (en crédits de paiement). Le plan d'aide à l'agriculture et le ralentissement économique pèsent sur les comptes publics. L'exécutif en a tiré ",
+    "bf_description": "Dans une étude publiée le 10 septembre, le constitutionnaliste Benjamin Morel critique sévèrement les dernières réformes de l'organisation territoriale. À l'inverse, il promeut la subsidiarité, \"seul principe capable de relancer et de stabiliser la décentralisation française\". Les élus locaux et leu",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Logement abordable : la Commission européenne propose un cadre juridique pour sécuriser l'action des villes",
-    "bf_lien": "https://www.banquedesterritoires.fr/logement-abordable-la-commission-europeenne-propose-un-cadre-juridique-pour-securiser-laction-des?pk_campaign=Flux%20RSS&pk_kwd=2026-09-14&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Sénatoriales : les candidatures sont publiées",
+    "bf_lien": "https://www.banquedesterritoires.fr/senatoriales-les-candidatures-sont-publiees?pk_campaign=Flux%20RSS&pk_kwd=2026-09-15&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "La Commission européenne a présenté, le 9 septembre 2026, son \"Affordable Housing Act\". Ce texte entend sécuriser juridiquement les interventions locales, notamment dans les zones tendues, tout en accélérant la construction et la rénovation. Une réponse qui place les villes au cœur de la lutte contr",
+    "bf_description": "Le ministère de l'Intérieur a publié le 12 septembre les données des candidatures relatives aux élections sénatoriales du 27 septembre. Ces candidatures dessinent les enjeux d'une échéance particulièrement scrutée à sept mois de la présidentielle, entre alliances locales et ambitions nationales. Tou",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Le projet de loi de modernisation de la sécurité civile modifie à nouveau les plans communaux/intercommunaux de sauvegarde, en les généralisant",
-    "bf_lien": "https://www.banquedesterritoires.fr/le-projet-de-loi-de-modernisation-de-la-securite-civile-modifie-nouveau-les-plans?pk_campaign=Flux%20RSS&pk_kwd=2026-09-14&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Écoles : quand canicule et déclin démographique obligent les collectivités à repenser le modèle",
+    "bf_lien": "https://www.banquedesterritoires.fr/ecoles-quand-canicule-et-declin-demographique-obligent-les-collectivites-repenser-le-modele?pk_campaign=Flux%20RSS&pk_kwd=2026-09-15&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le futur projet de loi de modernisation de la sécurité civile prévoit de modifier à nouveau, après la récente loi Matras, les plans communaux/intercommunaux de sauvegarde, qui seraient généralisés à toutes les communes. Il entend de même instituer l'obligation pour les propriétaires ou gestionnaires",
+    "bf_description": "Longtemps pensées pour accueillir toujours plus d'élèves, les écoles se retrouvent confrontées à un nouveau défi : adapter des bâtiments souvent vieillissants à des épisodes de chaleur de plus en plus fréquents, tout en anticipant une baisse durable des effectifs scolaires. Dans une note publiée déb",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "La réindustrialisation verte, un \"outil puissant d'aménagement du territoire\", d'après la Fondation Jean-Jaurès",
-    "bf_lien": "https://www.banquedesterritoires.fr/la-reindustrialisation-verte-un-outil-puissant-damenagement-du-territoire-dapres-la-fondation-jean?pk_campaign=Flux%20RSS&pk_kwd=2026-09-14&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Le haut-commissariat au plan plaide pour un objectif contraignant de neutralité en \"empreinte carbone\" d'ici 2060",
+    "bf_lien": "https://www.banquedesterritoires.fr/le-haut-commissariat-au-plan-plaide-pour-un-objectif-contraignant-de-neutralite-en-empreinte?pk_campaign=Flux%20RSS&pk_kwd=2026-09-15&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le chantier de la décarbonation mobilise déjà &nbsp;près de 170.000 emplois et pourrait en représenter le double d'ici à 2032. C'est l'estimation d'un rapport intitulé \"Electro-puissance : le choix français de la réindustrialisation et de la protection\" publié par la Fondation Jean-Jaurès. Les \"bast",
+    "bf_description": "Le haut-commissariat à la stratégie et au plan (HCSP) propose, dans une nouvelle note publiée ce 14 septembre, de fixer un objectif de neutralité en \"empreinte carbone\" en complément de la neutralité territoriale déjà poursuivie pour 2050. Une telle approche réorienterait la consommation vers une pr",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
