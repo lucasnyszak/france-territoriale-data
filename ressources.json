@@ -1287,6 +1287,24 @@
     "bf_formulaire": "6"
   },
   {
+    "bf_titre": "A Lyon, le Cerema participe au projet Aventure fraîcheur",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/lyon-cerema-participe-au-projet-aventure-fraicheur",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Mercredi 16 septembre 2026 Stratégies, résilience et projets de transition, Solutions d&#039;adaptation des bâtiments au changement climatique Démarche aventure fraîcheur à Lyon en 2026 Depuis 2024 la ville de Lyon a développé le projet la Fabrique du Climat, qui vise notamment à partager ",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Bonnétage (Doubs) : le Cerema propose des mesures inspirantes pour les modes actifs au secteur du Grand Communal",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/bonnetage-doubs-cerema-propose-mesures-inspirantes-modes",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Mercredi 16 septembre 2026 Aménagement de la voirie et éclairage public Bonnétage Bonnétage, commune de 1&amp;nbsp;000 habitants située dans le département du Doubs, est frontalière de la Suisse. Le village est traversé par trois routes départementales (RD) supportant un trafic relativemen",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "L'annexe environnementale : un levier pour la transition écologique. Un Essentiel du Cerema réalisé avec AFL, la banque des collectivités locales",
     "bf_lien": "https://www.cerema.fr/fr/actualites/annexe-environnementale-levier-transition-ecologique",
     "bf_categorie": "Transitions",
@@ -1314,20 +1332,11 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Base nautique d'avenir : des fiches sur l'aménagement des bases nautiques adaptées aux enjeux de demain",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/base-nautique-avenir-fiches-amenagement-bases-nautiques",
+    "bf_titre": "Analyse technique et économique de filières industrielles low-tech en Méditerranée occidentale",
+    "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9580-analyse-technique-et-economique-de-filieres-industrielles-low-tech-en-mediterranee-occidentale.html",
     "bf_categorie": "Transitions",
-    "bf_description": "Publié le Lundi 14 septembre 2026 Stratégies, résilience et projets de transition, Ports et voies navigables couverture Comment penser l&#039;aménagement d&#039;une base nautique pour qu&#039;elle soit fonctionnelle et attractive tout en réduisant l&#039;impact environnemental, et en l&#039;inscriva",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Action Cœur de Ville 2: le Cerema accompagne la Ville d’Ajaccio dans l’étude de son potentiel de renaturation, de l’analyse foncière à la stratégie",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/action-coeur-ville-2-cerema-accompagne-ville-ajaccio-etude",
-    "bf_categorie": "Transitions",
-    "bf_description": "Publié le Lundi 14 septembre 2026 Stratégies, résilience et projets de transition, Aménager avec la biodiversité Place végétalisée à Ajaccio Cet accompagnement s’est d’abord appuyé sur l’animation d’une démarche collective entre acteurs locaux de l’aménagement, organisée autour d&#039;une balade sen",
-    "bf_tags": "CEREMA",
+    "bf_description": "&lt;p&gt;La Méditerranée est confrontée à des défis climatiques et environnementaux majeurs : réchauffement accéléré, raréfaction des ressources en eau, pollution plastique, dépendance aux énergies fossiles et aux importations.&lt;/p&gt; &lt;p&gt;Dans ce contexte, cette étude explore des alternative",
+    "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
@@ -1363,15 +1372,6 @@
     "bf_lien": "https://librairie.ademe.fr/energies/9578-creche-halte-garderie-a-marvejols-48-chaufferie-geothermique-sur-sondes.html",
     "bf_categorie": "Transitions",
     "bf_description": "&lt;p&gt;Construite en 2015, la crèche–halte-garderie de Marvejols accueille jusqu’à 55 enfants de 0 à 4 ans. Afin de remplacer une installation aérothermique devenue peu fiable, la Communauté de Communes du Gévaudan a réalisé une étude de faisabilité comparant plusieurs solutions de chauffage. À l’",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "EVALUATION DES CONVERSATIONS CARBONE",
-    "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9577-evaluation-des-conversations-carbone.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:11pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;Ce rapport présente les résultats de travaux scientifiques visant à évaluer l&#039;impact des Conversations Carbone sur les changements de comportement des participants et préfigurer une méthodologie",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1422,46 +1422,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Le projet d'accord-cadre entend garantir une IA au service de l'humain dans la fonction publique",
-    "bf_lien": "https://www.banquedesterritoires.fr/le-projet-daccord-cadre-entend-garantir-une-ia-au-service-de-lhumain-dans-la-fonction-publique?pk_campaign=Flux%20RSS&pk_kwd=2026-09-15&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Budget : la Cour des comptes cible à son tour le FCTVA",
+    "bf_lien": "https://www.banquedesterritoires.fr/budget-la-cour-des-comptes-cible-son-tour-le-fctva?pk_campaign=Flux%20RSS&pk_kwd=2026-09-16&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le projet d'accord-cadre sur l'usage de l'intelligence artificielle dans la fonction publique est entré dans sa dernière ligne droite de négociation. Le texte place \"l'humain au centre\" et propose plusieurs mesures pour éviter de potentielles dérives. Au-delà de principes partagés, il instaure une g",
+    "bf_description": "Dans un rapport rendu public ce 15 septembre, la Cour des comptes plaide pour des évolutions du fonds de compensation pour la taxe sur la valeur ajoutée (FCTVA), dispositif de 8,1 milliards d'euros en 2025, qui \"représente plus des deux-tiers du soutien financier de l’État à l’investissement public ",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Benjamin Morel : le pouvoir local s'exerce désormais par \"l’empêchement de la décision\"",
-    "bf_lien": "https://www.banquedesterritoires.fr/benjamin-morel-le-pouvoir-local-sexerce-desormais-par-lempechement-de-la-decision?pk_campaign=Flux%20RSS&pk_kwd=2026-09-15&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Forêts : Monique Barbut présente des mesures tous azimuts pour accélérer l’adaptation",
+    "bf_lien": "https://www.banquedesterritoires.fr/forets-monique-barbut-presente-des-mesures-tous-azimuts-pour-accelerer-ladaptation?pk_campaign=Flux%20RSS&pk_kwd=2026-09-16&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Dans une étude publiée le 10 septembre, le constitutionnaliste Benjamin Morel critique sévèrement les dernières réformes de l'organisation territoriale. À l'inverse, il promeut la subsidiarité, \"seul principe capable de relancer et de stabiliser la décentralisation française\". Les élus locaux et leu",
+    "bf_description": "Planification, gouvernance, moyens… tous les leviers seront activés pour accélérer l’adaptation de la forêt française face au changement climatique, qui s’est manifesté lors de cet été exceptionnellement chaud et sec par de nombreux incendies dans des massifs emblématiques. La ministre de la Transit",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Sénatoriales : les candidatures sont publiées",
-    "bf_lien": "https://www.banquedesterritoires.fr/senatoriales-les-candidatures-sont-publiees?pk_campaign=Flux%20RSS&pk_kwd=2026-09-15&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Logement social : 2,9 millions de demandeurs... et 8,6 milliards d'euros nécessaires pour affronter les canicules",
+    "bf_lien": "https://www.banquedesterritoires.fr/logement-social-29-millions-de-demandeurs-et-86-milliards-deuros-necessaires-pour-affronter-les?pk_campaign=Flux%20RSS&pk_kwd=2026-09-16&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le ministère de l'Intérieur a publié le 12 septembre les données des candidatures relatives aux élections sénatoriales du 27 septembre. Ces candidatures dessinent les enjeux d'une échéance particulièrement scrutée à sept mois de la présidentielle, entre alliances locales et ambitions nationales. Tou",
+    "bf_description": "Alors que 2,913 millions de ménages sont désormais en attente d’un logement, l’Union sociale pour l’habitat (USH), qui se réunit bientôt en congrès à Bordeaux, alerte sur une crise qui gagne de nouveaux territoires. Face au blocage du secteur privé, ainsi qu'à l’intensification des canicules, les ba",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Écoles : quand canicule et déclin démographique obligent les collectivités à repenser le modèle",
-    "bf_lien": "https://www.banquedesterritoires.fr/ecoles-quand-canicule-et-declin-demographique-obligent-les-collectivites-repenser-le-modele?pk_campaign=Flux%20RSS&pk_kwd=2026-09-15&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "L'Éducation nationale range l'uniforme au placard",
+    "bf_lien": "https://www.banquedesterritoires.fr/leducation-nationale-range-luniforme-au-placard?pk_campaign=Flux%20RSS&pk_kwd=2026-09-16&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Longtemps pensées pour accueillir toujours plus d'élèves, les écoles se retrouvent confrontées à un nouveau défi : adapter des bâtiments souvent vieillissants à des épisodes de chaleur de plus en plus fréquents, tout en anticipant une baisse durable des effectifs scolaires. Dans une note publiée déb",
+    "bf_description": "Après deux ans d'expérimentation, l'uniforme à l'école ne sera plus cofinancé par le ministère de l'Éducation nationale. Malgré ce retrait, quelques collectivités ont décidé de maintenir le dispositif en prenant l'intégralité des coûts à leur charge.",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Le haut-commissariat au plan plaide pour un objectif contraignant de neutralité en \"empreinte carbone\" d'ici 2060",
-    "bf_lien": "https://www.banquedesterritoires.fr/le-haut-commissariat-au-plan-plaide-pour-un-objectif-contraignant-de-neutralite-en-empreinte?pk_campaign=Flux%20RSS&pk_kwd=2026-09-15&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Gratuité des transports publics : une idée qui fait son chemin",
+    "bf_lien": "https://www.banquedesterritoires.fr/gratuite-des-transports-publics-une-idee-qui-fait-son-chemin?pk_campaign=Flux%20RSS&pk_kwd=2026-09-16&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le haut-commissariat à la stratégie et au plan (HCSP) propose, dans une nouvelle note publiée ce 14 septembre, de fixer un objectif de neutralité en \"empreinte carbone\" en complément de la neutralité territoriale déjà poursuivie pour 2050. Une telle approche réorienterait la consommation vers une pr",
+    "bf_description": "Alors que se déroule du 16 au 22 septembre la 20e édition de la Rentrée du transport public sur le thème \"Écoute ton corps, prends les transports\", une nouvelle étude publiée par la Fondation Jean-Jaurès propose une analyse historique, politique et économique de la gratuité des transports, qui a pro",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
