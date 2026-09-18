@@ -1287,8 +1287,17 @@
     "bf_formulaire": "6"
   },
   {
-    "bf_titre": "Le réemploi, une solution pour décarboner les activités de travaux publics",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/reemploi-solution-decarboner-activites-travaux-publics",
+    "bf_titre": "L’accessibilité des espaces publics : pour des bases de données au service des usagers et de l’attractivité des territoires",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/accessibilite-espaces-publics-bases-donnees-au-service",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Jeudi 17 septembre 2026 Vélo, marche, accessibilité Espace public, place d&#039;un village Chaque commune de plus de 1000 habitants, ou son intercommunalité si elle est compétente, doit ainsi rédiger un Plan de mise en Accessibilité de la Voirie et des aménagements des Espaces publics (PAV",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Le réemploi, une solution pour décarboner les chantiers de travaux publics",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/reemploi-solution-decarboner-chantiers-travaux-publics",
     "bf_categorie": "Transitions",
     "bf_description": "Publié le Jeudi 17 septembre 2026 Economie circulaire du BTP Tranchée avec terres axcavées Le territoire du Sillon Rhodanien a mené, avec le Cerema, des expérimentations sur ses chantiers afin d’identifier les potentialités de réemploi des matériaux, valider le réemploi avec tous les acteurs du chan",
     "bf_tags": "CEREMA",
@@ -1323,11 +1332,20 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "L'annexe environnementale : un levier pour la transition écologique. Un Essentiel du Cerema réalisé avec AFL, la banque des collectivités locales",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/annexe-environnementale-levier-transition-ecologique",
+    "bf_titre": "Guide évènement 100% réemploi",
+    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9594-guide-evenement-100-reemploi.html",
     "bf_categorie": "Transitions",
-    "bf_description": "Publié le Mardi 15 septembre 2026 Aménager avec la biodiversité couverture Réalisé en partenariat entre le Cerema et AFL, la banque des collectivités locales, cet essentiel explore les potentialités de l&#039;évaluation environnementale des investissements, introduite en 2025, et présente une approc",
-    "bf_tags": "CEREMA",
+    "bf_description": "&lt;p&gt;Un outil pensé pour répondre aux questions concrètes des organisateurs, proposer une méthode, partager des retours d’expérience de terrain et identifier les acteurs capables d’accompagner, dès aujourd’hui, des événements en réemploi des emballages.&lt;/p&gt;",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "CLEANFLEET CONNECT - Plateforme collaborative de mesure, de certification, digitalisation et décarbonation du transport",
+    "bf_lien": "https://librairie.ademe.fr/mobilite-et-transports/9602-cleanfleet-connect-plateforme-collaborative-de-mesure-de-certification-digitalisation-et-decarbonation-du-transport.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;CleanFleet Connect a pour objectif de concevoir, consolider et démontrer une plateforme souveraine de mesure, traçabilité et attribution carbone fondée sur des données physiques réelles, répondant aux exigences réglementaires et opérationnelles du transport routier de marchandises.&lt;/p&gt",
+    "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
@@ -1341,37 +1359,19 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Analyse technique et économique de filières industrielles low-tech en Méditerranée occidentale",
-    "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9580-analyse-technique-et-economique-de-filieres-industrielles-low-tech-en-mediterranee-occidentale.html",
+    "bf_titre": "OPTIM&#039;IA - Décarboner le dernier kilomètre par l&#039;IA logistique",
+    "bf_lien": "https://librairie.ademe.fr/mobilite-et-transports/9585-optim-ia-decarboner-le-dernier-kilometre-par-l-ia-logistique.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;La Méditerranée est confrontée à des défis climatiques et environnementaux majeurs : réchauffement accéléré, raréfaction des ressources en eau, pollution plastique, dépendance aux énergies fossiles et aux importations.&lt;/p&gt; &lt;p&gt;Dans ce contexte, cette étude explore des alternative",
+    "bf_description": "&lt;p&gt;OPTIM&#039;IA vise à décarboner les derniers kilomètres de livraisons via quatre axes : (1) Concevoir un Plan de Transport Bas Carbone (PTBC) avec massification urbaine et flottes décarbonées, (2) Optimiser les flux nationaux par modélisation numérique et jumeaux numériques (REMUS), (3) Aut",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Gestion des déchets amiantés",
-    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9579-gestion-des-dechets-amiantes.html",
+    "bf_titre": "SMILE - Piloter la logistique urbaine durable grâce aux données mobiles",
+    "bf_lien": "https://librairie.ademe.fr/mobilite-et-transports/9586-smile-piloter-la-logistique-urbaine-durable-grace-aux-donnees-mobiles.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p style=&quot;margin-left:38px;&quot;&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;&lt;span style=&quot;color:#1d1d1b;&quot;&gt;L’amiante est un minerai naturellement fibreux avec des propriétés d’isolation et de résistance qui ont généré son utilisation massive jusqu’à son interdiction en Fr",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Méthode géomatique de pré-identification des friches",
-    "bf_lien": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9569-methode-geomatique-de-pre-identification-des-friches-9791029727351.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Dans un contexte de forte pression foncière et de nécessité de limiter l’artificialisation des sols, les inventaires et observatoires des friches sont des outils précieux pour les collectivités locales. Ils leur permettent d’identifier les espaces susceptibles de contribuer au renouvellemen",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Journées Françaises de l&#039;Evaluation 2025 : &quot;Evaluation et Transition(s)&quot;",
-    "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9500-journees-francaises-de-l-evaluation-2025-evaluation-et-transitions.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Organisées tous les deux ans par la Société Française de l’Évaluation (SFE), les Journées Françaises de l’Évaluation réunissent près de 400 participants issus des collectivités, de la recherche, des institutions publiques et du monde de l’évaluation. Cet événement national vise à renforcer ",
+    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;Le projet SMILE vise à créer un observatoire de la logistique urbaine fondé sur les données du réseau mobile. &lt;/span&gt;&lt;/p&gt;",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1422,46 +1422,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Un discours sur l’état de l’Union résolument marqué par la canicule et les incendies de l'été",
-    "bf_lien": "https://www.banquedesterritoires.fr/un-discours-sur-letat-de-lunion-resolument-marque-par-la-canicule-et-les-incendies-de-lete?pk_campaign=Flux%20RSS&pk_kwd=2026-09-17&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "CSFPT : employeurs et syndicats appellent à une hausse \"significative\" des salaires des agents territoriaux",
+    "bf_lien": "https://www.banquedesterritoires.fr/csfpt-employeurs-et-syndicats-appellent-une-hausse-significative-des-salaires-des-agents?pk_campaign=Flux%20RSS&pk_kwd=2026-09-18&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le changement climatique et l’intelligence artificielle constituent des \"points de bascule\", a estimé Ursula von der Leyen dans son sixième discours sur \"l’état de l’Union\" prononcé au Parlement européen ce 16 septembre 2026. Parmi un florilège de réformes, la présidente de la Commission européenne ",
+    "bf_description": "Ce 16 septembre, à deux semaines d'une journée de grève et de manifestations pour les salaires dans la fonction publique (le 29 septembre), le Conseil supérieur de la fonction publique territoriale (CSFPT) a adopté à l'unanimité une \"note flash\" sur les rémunérations des agents territoriaux, dans la",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "L'Anel appelle à \"actualiser\" la loi Littoral",
-    "bf_lien": "https://www.banquedesterritoires.fr/lanel-appelle-actualiser-la-loi-littoral?pk_campaign=Flux%20RSS&pk_kwd=2026-09-17&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Fonction publique territoriale : un petit coup de jeune en vue pour la filière culturelle",
+    "bf_lien": "https://www.banquedesterritoires.fr/fonction-publique-territoriale-un-petit-coup-de-jeune-en-vue-pour-la-filiere-culturelle?pk_campaign=Flux%20RSS&pk_kwd=2026-09-18&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "L'Association nationale des élus des littoraux (Anel) plaide pour \"actualiser\" la loi Littoral afin de prendre en compte les \"profondes transformations\" à l'œuvre depuis son adoption, il y a tout juste 40 ans cette année. Mais aussi pour aplanir les \"difficultés\" que ce texte jugé imprécis continuen",
+    "bf_description": "La filière créée en 1991 va subir un lifting, avec notamment la fusion des deux actuels cadres d'emplois de la catégorie A et une rénovation des concours. Le projet de réorganisation était au menu du Conseil supérieur de la fonction publique territoriale (CSFPT) ce 16 septembre. Résultat : un vote u",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Souveraineté numérique : la protection des données, priorité des Français",
-    "bf_lien": "https://www.banquedesterritoires.fr/souverainete-numerique-la-protection-des-donnees-priorite-des-francais?pk_campaign=Flux%20RSS&pk_kwd=2026-09-17&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Projet de loi \"casseurs-payeurs\" : de nouvelles possibilités d’indemnisation pour les collectivités",
+    "bf_lien": "https://www.banquedesterritoires.fr/projet-de-loi-casseurs-payeurs-de-nouvelles-possibilites-dindemnisation-pour-les-collectivites?pk_campaign=Flux%20RSS&pk_kwd=2026-09-18&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "La souveraineté numérique fait désormais partie des attentes des Français, selon un sondage. Si l'indépendance numérique est une vue de l'esprit, les leviers d'actions pour regagner une autonomie stratégique sont réels, notamment aux mains des administrations. Et les freins sont avant tout culturels",
+    "bf_description": "Quatre mois après les scènes de pillage qui ont entaché la finale de la Ligue des champions, le gouvernement a sorti un projet de loi visant à faciliter le principe de \"casseur-payeur\", en rendant solidairement responsable tout participant à de telles manifestations de violence. Concrètement, les co",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Santé : \"Investir dans la prévention primordiale autant que dans le soin\", prône le député Cyrille Isaac-Sibille",
-    "bf_lien": "https://www.banquedesterritoires.fr/sante-investir-dans-la-prevention-primordiale-autant-que-dans-le-soin-prone-le-depute-cyrille-isaac?pk_campaign=Flux%20RSS&pk_kwd=2026-09-17&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Les pistes du haut-commissariat à la stratégie et au plan pour \"repenser les solidarités dans une France vieillissante\"",
+    "bf_lien": "https://www.banquedesterritoires.fr/les-pistes-du-haut-commissariat-la-strategie-et-au-plan-pour-repenser-les-solidarites-dans-une?pk_campaign=Flux%20RSS&pk_kwd=2026-09-18&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "L'enjeu est d'éviter que la santé des Français et les comptes sociaux ne continuent à se détériorer, selon le député Modem qui vient de rendre public son rapport récemment remis au gouvernement. Une véritable politique de prévention santé passe selon lui par un pilotage national clair, des moyens et",
+    "bf_description": "Les recompositions démographiques à l'œuvre ne se traduisent pas de la même façon d'un territoire à l'autre. Cela impose, selon le&nbsp;haut-commissariat à la stratégie et au plan, de planifier finement, à l'échelle départementale, l'évolution des services publics, des infrastructures (écoles, trans",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "1,4 million de personnes sans domicile en Europe",
-    "bf_lien": "https://www.banquedesterritoires.fr/14-million-de-personnes-sans-domicile-en-europe?pk_campaign=Flux%20RSS&pk_kwd=2026-09-17&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Forte chute des formations de demandeurs d’emploi financées par les régions",
+    "bf_lien": "https://www.banquedesterritoires.fr/forte-chute-des-formations-de-demandeurs-demploi-financees-par-les-regions?pk_campaign=Flux%20RSS&pk_kwd=2026-09-18&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Derrière les chiffres vertigineux du 11ᵉ rapport sur le mal-logement en Europe, une réalité largement ignorée émerge : l'explosion du mal-logement chez les personnes âgées, piégées entre précarité financière, bâti inadapté et saturation des secours.",
+    "bf_description": "En 2025, plus de 271.000 demandeurs d’emploi sont entrés en formation à la suite d’une commande régionale. La diminution, en 2026, des dotations pour les plans régionaux, et leur suppression annoncée l’an prochain, va amplifier la chute de ces formations.",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
