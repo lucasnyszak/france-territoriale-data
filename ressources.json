@@ -1287,6 +1287,15 @@
     "bf_formulaire": "6"
   },
   {
+    "bf_titre": "Accessibilité des transports urbains et interurbains : résultats de la 5ème enquête auprès des AOM et collectivités",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/accessibilite-transports-urbains-interurbains-resultats-5eme",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Mardi 22 septembre 2026 Vélo, marche, accessibilité, Transports collectifs, partagés et intermodalité Accessibilité des arrêts de transports en commun Article du 19 février 2026, mis à jour.La DGITM, la Délégation Ministérielle à l’Accessibilité (DMA) et le Cerema remercient une nouvelle f",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "Rue de l’Héritan à Mâcon : objectiver les effets d’un sens unique pour sécuriser un itinéraire cyclable",
     "bf_lien": "https://www.cerema.fr/fr/actualites/rue-heritan-macon-objectiver-effets-sens-unique-securiser",
     "bf_categorie": "Transitions",
@@ -1323,11 +1332,38 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Le Cerema accompagne la Ville de Thiers pour développer les modes actifs dans un secteur central contraint",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/cerema-accompagne-ville-thiers-developper-modes-actifs",
+    "bf_titre": "Qualité de l&#039;air intérieur des salles de sport",
+    "bf_lien": "https://librairie.ademe.fr/air/9368-qualite-de-l-air-interieur-des-salles-de-sport.html",
     "bf_categorie": "Transitions",
-    "bf_description": "Publié le Jeudi 17 septembre 2026 Enjeux des politiques de mobilités, Vélo, marche, accessibilité, Aménagement de la voirie et éclairage public Thiers Place Antonin Chastel&amp;nbsp;: conforter une centralité traversée par la RD2089 Ville de Thiers / Cerema À Thiers, la place Antonin Chastel et ses ",
-    "bf_tags": "CEREMA",
+    "bf_description": "&lt;p style=&quot;margin-left:38px;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;Le projet QAI-Sport est original et présente des résultats sur &lt;strong&gt;la qualité de l’air intérieur de différents types de salles de sport&lt;/strong&gt;.&lt;/span&gt;&lt;/p&gt; &lt;p style=&quot;margin-",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Présentation des offres ADEME à destination des collectivités en Centre-Val de Loire",
+    "bf_lien": "https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9610-presentation-des-offres-ademe-a-destination-des-collectivites-en-centre-val-de-loire.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;Présentation des offres ADEME dédiées aux collectivités&lt;/p&gt;",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Présentation des offres ADEME aux entreprises en Centre-Val de Loire",
+    "bf_lien": "https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9609-presentation-des-offres-ademe-aux-entreprises-en-centre-val-de-loire.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;Présentation des différentes offres ADEME à destination des entreprises&lt;/p&gt;",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Qualité  de l&#039;air intérieur des salles omnisports",
+    "bf_lien": "https://librairie.ademe.fr/air/9369-qualite-de-l-air-interieur-des-salles-omnisports.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;&lt;span style=&quot;background-color:#FFFFFF;&quot;&gt;Dans la perspective des Jeux Olympiques et Paralympiques de Paris en 2024, les équipements sportifs (dont dispose la région parisienne) constituent un enjeu majeur pour favoriser la pratiqu",
+    "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
@@ -1336,42 +1372,6 @@
     "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9608-economie-circulaire-les-nouveaux-modeles-economiques.html",
     "bf_categorie": "Transitions",
     "bf_description": "&lt;p&gt;&lt;strong&gt;ORÉE&lt;/strong&gt; dévoile un cycle inédit de quatre publications consacrées aux nouveaux modèles économiques, réalisé avec le soutien de &lt;strong&gt;l’ADEME&lt;/strong&gt;. Fruit de plusieurs années de travaux du groupe de travail « Nouveaux modèles économiques », ce cycle",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Traçabilités de l&#039;électricité et du gaz",
-    "bf_lien": "https://librairie.ademe.fr/energies/9607-tracabilites-de-l-electricite-et-du-gaz.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt; &lt;span style=&quot;font-size:10pt;&quot;&gt;Une “garantie d’origine” (GO) est un certificat de traçabilité de l’électricité ou du gaz pouvant être émis par le producteur, pour une unité d’énergie (MWh), par exemple renouvelable. Une fois émise, cette GO peut être achetée par un consommat",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Eolien terrestre et Cigogne noire",
-    "bf_lien": "https://librairie.ademe.fr/energies/9606-eolien-terrestre-et-cigogne-noire.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Cette synthèse bibliographique a été réalisée en appui aux réflexions du groupe de travail national (GT) « Cigogne noire (&lt;em&gt;Ciconia nigra&lt;/em&gt; (L.)) et éolien terrestre » mis en place fin 2025 par les Ministères chargés de la biodiversité, de la prévention des risques et de l’",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Guide évènement 100% réemploi",
-    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9594-guide-evenement-100-reemploi.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Un outil pensé pour répondre aux questions concrètes des organisateurs, proposer une méthode, partager des retours d’expérience de terrain et identifier les acteurs capables d’accompagner, dès aujourd’hui, des événements en réemploi des emballages.&lt;/p&gt;",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Recueil de retours d&#039;expérience PACTE Industrie",
-    "bf_lien": "https://librairie.ademe.fr/industrie-et-production-durable/9603-recueil-de-retours-d-experience-pacte-industrie.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Ce recueil met en lumière des témoignages d’industriels ayant engagé sa transition énergétique et de décarbonation avec le programme PACTE Industrie.&lt;/p&gt; &lt;p&gt;Leurs retours d’expérience illustrent les bénéfices en matière de performance, d’économies d’énergie, de modernisation des",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1422,46 +1422,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Budget 2027 : le gouvernement prévoit un effort inédit de 54 milliards d'euros",
-    "bf_lien": "https://www.banquedesterritoires.fr/budget-2027-le-gouvernement-prevoit-un-effort-inedit-de-54-milliards-deuros?pk_campaign=Flux%20RSS&pk_kwd=2026-09-21&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Réforme européenne de la commande publique : le projet de règlement sort du bois",
+    "bf_lien": "https://www.banquedesterritoires.fr/reforme-europeenne-de-la-commande-publique-le-projet-de-reglement-sort-du-bois?pk_campaign=Flux%20RSS&pk_kwd=2026-09-22&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le Premier ministre, Sébastien Lecornu a dévoilé ce 17 septembre les grandes lignes de son budget pour l'an prochain. Pour limiter le déficit public à 5% du PIB, l'exécutif serre encore la vis. Sans compter les dépenses nouvelles liées à la dette et aux Armées, le budget de l'État sera gelé en valeu",
+    "bf_description": "La Commission européenne a présenté le 9 septembre sa proposition de règlement \"Public Procurement Act\" visant à remplacer les trois directives actuelles sur l’achat public.&nbsp;Simplification des procédures, standard d'attribution selon le meilleur rapport qualité/prix, recours généralisé à la nég",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Journée nationale de l'Anru : la rénovation urbaine au défi du brasier climatique et du choc politique",
-    "bf_lien": "https://www.banquedesterritoires.fr/journee-nationale-de-lanru-la-renovation-urbaine-au-defi-du-brasier-climatique-et-du-choc-politique?pk_campaign=Flux%20RSS&pk_kwd=2026-09-21&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Transition écologique : les régions préviennent qu'elles ne pourront pas faire plus avec moins",
+    "bf_lien": "https://www.banquedesterritoires.fr/transition-ecologique-les-regions-previennent-quelles-ne-pourront-pas-faire-plus-avec-moins?pk_campaign=Flux%20RSS&pk_kwd=2026-09-22&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Élus, chercheurs et responsables associatifs se sont retrouvés jeudi 17 septembre à Saint-Denis pour la journée nationale de l'Anru. Entre le bilan du NPRU (77.000 logements rénovés ou construits, 372 équipements créés), les tensions autour du projet de loi Logement et l'urgence d'adapter les quarti",
+    "bf_description": "Une étude de Régions de France et de La Banque Postale estime que les \"investissements climat\" annuels des régions, déjà en forte progression ces dernières années, devraient quasiment doubler dans les cinq ans pour répondre aux objectifs de la troisième stratégie nationale bas carbone (SNBC3). Or, c",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Relancer l'industrie par les territoires : des moyens sous-dimensionnés",
-    "bf_lien": "https://www.banquedesterritoires.fr/relancer-lindustrie-par-les-territoires-des-moyens-sous-dimensionnes?pk_campaign=Flux%20RSS&pk_kwd=2026-09-21&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Un tiers des agents publics doivent souvent renoncer à la qualité de leur travail",
+    "bf_lien": "https://www.banquedesterritoires.fr/un-tiers-des-agents-publics-doivent-souvent-renoncer-la-qualite-de-leur-travail?pk_campaign=Flux%20RSS&pk_kwd=2026-09-22&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Alors que le gouvernement planche sur sa stratégie nationale d'aménagement du territoire, les dispositifs nationaux apparaissent sous-dimensionnés pour espérer relancer l'industrie à partir des territoires.",
+    "bf_description": "Une enquête du collectif \"Nos services publics\" qui vient d'être publiée s'intéresse au \"vécu\" des agents publics, en apportant des éclairages inédits sur leurs conditions de travail et le sentiment d'une dégradation de celles-ci. Il en ressort par exemple qu'un tiers des agents publics se voient co",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "La ville de 2050, si loin, si proche",
-    "bf_lien": "https://www.banquedesterritoires.fr/la-ville-de-2050-si-loin-si-proche?pk_campaign=Flux%20RSS&pk_kwd=2026-09-21&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Accueil des jeunes enfants : Stéphanie Rist annonce un plan d'urgence de 90 millions d'euros",
+    "bf_lien": "https://www.banquedesterritoires.fr/accueil-des-jeunes-enfants-stephanie-rist-annonce-un-plan-durgence-de-90-millions-deuros?pk_campaign=Flux%20RSS&pk_kwd=2026-09-22&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Icade a de nouveau fait plancher élus et experts sur les contours de \"la ville de 2050\". Ou plutôt les villes de 2050, tant il apparaît nécessaire de tenir compte de la disparité des situations. Même si certaines tendances lourdes se dégagent, au premier rang desquelles figure le défi démographique.",
+    "bf_description": "Le conseil d'administration de la Cnaf devrait adopter ce plan d'urgence début octobre, pour qu'un tiers des crédits soient débloqués dès la fin de l'année. Il s'agit en particulier de revaloriser&nbsp;la prestation de service unique (PSU) afin de \"soutenir l'équilibre économique des crèches\", d'aug",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Les MJC entre contraintes budgétaires et enjeux de liberté associative",
-    "bf_lien": "https://www.banquedesterritoires.fr/les-mjc-entre-contraintes-budgetaires-et-enjeux-de-liberte-associative?pk_campaign=Flux%20RSS&pk_kwd=2026-09-21&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Hausse des prix des carburants : une proposition de \"pass Navigo\" rural pour faciliter le passage à la mobilité électrique",
+    "bf_lien": "https://www.banquedesterritoires.fr/hausse-des-prix-des-carburants-une-proposition-de-pass-navigo-rural-pour-faciliter-le-passage-la?pk_campaign=Flux%20RSS&pk_kwd=2026-09-22&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "À quelques mois de la présidentielle de 2027, les Maisons des jeunes et de la culture (MJC) alertent sur leur situation financière, certes moins dégradée qu'en 2022 mais sous tension. La deuxième édition de l'Observatoire des MJC montre que ce redressement a souvent été obtenu au prix de hausses tar",
+    "bf_description": "Une note d'analyse de la Fondation Jean-Jaurès publiée ce 18 septembre défend la création d'un \"pass Navigo\" rural à 50 euros par mois pour permettre aux habitants des territoires ruraux tributaires de la voiture pour leurs déplacements quotidiens d'accéder à un véhicule électrique grâce à un dispos",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
