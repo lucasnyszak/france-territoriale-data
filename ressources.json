@@ -1305,8 +1305,8 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Évaluer les \"rues des enfants\" à Lyon par une analyse spatialisée des usages",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/evaluer-rues-enfants-lyon-analyse-spatialisee-usages",
+    "bf_titre": "Évaluer les \"rues aux enfants\" à Lyon par une analyse spatialisée des usages",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/evaluer-rues-aux-enfants-lyon-analyse-spatialisee-usages",
     "bf_categorie": "Transitions",
     "bf_description": "Publié le Vendredi 18 septembre 2026 Connaissance, modélisation et évaluation de la mobilité, Vélo, marche, accessibilité, Aménagement de la voirie et éclairage public rue aux Enfants à Lyon, apaisement de la circulation devant l&#039;école Comment les enfants, parents, quand ils sont cyclistes ou p",
     "bf_tags": "CEREMA",
@@ -1332,136 +1332,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Qualité de l&#039;air intérieur des salles de sport",
-    "bf_lien": "https://librairie.ademe.fr/air/9368-qualite-de-l-air-interieur-des-salles-de-sport.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p style=&quot;margin-left:38px;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;Le projet QAI-Sport est original et présente des résultats sur &lt;strong&gt;la qualité de l’air intérieur de différents types de salles de sport&lt;/strong&gt;.&lt;/span&gt;&lt;/p&gt; &lt;p style=&quot;margin-",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Présentation des offres ADEME à destination des collectivités en Centre-Val de Loire",
-    "bf_lien": "https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9610-presentation-des-offres-ademe-a-destination-des-collectivites-en-centre-val-de-loire.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Présentation des offres ADEME dédiées aux collectivités&lt;/p&gt;",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Présentation des offres ADEME aux entreprises en Centre-Val de Loire",
-    "bf_lien": "https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9609-presentation-des-offres-ademe-aux-entreprises-en-centre-val-de-loire.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Présentation des différentes offres ADEME à destination des entreprises&lt;/p&gt;",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Qualité  de l&#039;air intérieur des salles omnisports",
-    "bf_lien": "https://librairie.ademe.fr/air/9369-qualite-de-l-air-interieur-des-salles-omnisports.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;&lt;span style=&quot;background-color:#FFFFFF;&quot;&gt;Dans la perspective des Jeux Olympiques et Paralympiques de Paris en 2024, les équipements sportifs (dont dispose la région parisienne) constituent un enjeu majeur pour favoriser la pratiqu",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Economie circulaire : les nouveaux modèles économiques",
-    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9608-economie-circulaire-les-nouveaux-modeles-economiques.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;strong&gt;ORÉE&lt;/strong&gt; dévoile un cycle inédit de quatre publications consacrées aux nouveaux modèles économiques, réalisé avec le soutien de &lt;strong&gt;l’ADEME&lt;/strong&gt;. Fruit de plusieurs années de travaux du groupe de travail « Nouveaux modèles économiques », ce cycle",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Expé URBA SanTé : relever les défis de l&#039;urbanisme favorable à la santé",
-    "bf_lien": "https://librairie.ademe.fr/actualites/expe-urba-sante-relever-les-defis-de-l-urbanisme-favorable-a-la-sante-n33",
-    "bf_categorie": "Transitions",
-    "bf_description": "Entre 2024 et 2025, l’ADEME et l’Ecolab du CGDD (Ministère de la Transition écologique) ont accompagné 8 territoires pour intégrer la santé au cœur de leurs projets urbains.",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Panel usages électrodomestiques  : des données fiables pour comprendre nos consommations",
-    "bf_lien": "https://librairie.ademe.fr/actualites/panel-usages-electrodomestiques-annee-6-des-donnees-fiables-pour-comprendre-nos-consommations-n32",
-    "bf_categorie": "Transitions",
-    "bf_description": "Depuis 6 ans, le projet Panel Elecdom fournit une vision claire, fiable et actualisée des consommations électrodomestiques en France.",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Alimentation et gaspillage alimentaire, publications récentes",
-    "bf_lien": "https://librairie.ademe.fr/actualites/alimentation-et-gaspillage-alimentaire-publications-recentes-n31",
-    "bf_categorie": "Transitions",
-    "bf_description": "Voici une sélection de documents diffusés sur l&#039;alimentation et le gaspillage alimentaire.",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Occitanie : 3 bilans sur la gestion des déchets",
-    "bf_lien": "https://librairie.ademe.fr/actualites/occitanie-3-bilans-sur-la-gestion-des-dechets-n30",
-    "bf_categorie": "Transitions",
-    "bf_description": "L’ADEME Occitanie a publié, fin 2025, trois documents-bilans sur la gestion des déchets (période 2015-2024).",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Forêt, biomasse et produits biosourcés, publications récentes",
-    "bf_lien": "https://librairie.ademe.fr/actualites/foret-biomasse-et-produits-biosources-n29",
-    "bf_categorie": "Transitions",
-    "bf_description": "Voici une sélection de publications diffusées depuis un an sur la forêt, biomasse et les produits biosourcés.",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Réforme européenne de la commande publique : le projet de règlement sort du bois",
-    "bf_lien": "https://www.banquedesterritoires.fr/reforme-europeenne-de-la-commande-publique-le-projet-de-reglement-sort-du-bois?pk_campaign=Flux%20RSS&pk_kwd=2026-09-22&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Emmanuelle Cosse : \"Il n'est jamais trop tard pour bien faire\"",
+    "bf_lien": "https://www.banquedesterritoires.fr/emmanuelle-cosse-il-nest-jamais-trop-tard-pour-bien-faire?pk_campaign=Flux%20RSS&pk_kwd=2026-09-23&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "La Commission européenne a présenté le 9 septembre sa proposition de règlement \"Public Procurement Act\" visant à remplacer les trois directives actuelles sur l’achat public.&nbsp;Simplification des procédures, standard d'attribution selon le meilleur rapport qualité/prix, recours généralisé à la nég",
+    "bf_description": "En ouvrant le 86e congrès HLM, ce mardi 22 septembre à Bordeaux, Emmanuelle Cosse, présidente de l'Union sociale pour l'habitat (USH), a reconnu une \"inflexion\" de la politique gouvernementale du logement. \"Il n'est jamais trop tard pour bien faire\", a lancé l'ancienne ministre, avant de demander au",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Transition écologique : les régions préviennent qu'elles ne pourront pas faire plus avec moins",
-    "bf_lien": "https://www.banquedesterritoires.fr/transition-ecologique-les-regions-previennent-quelles-ne-pourront-pas-faire-plus-avec-moins?pk_campaign=Flux%20RSS&pk_kwd=2026-09-22&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Avant 2027, les fédérations HLM font bloc autour d’une \"République sociale\"",
+    "bf_lien": "https://www.banquedesterritoires.fr/avant-2027-les-federations-hlm-font-bloc-autour-dune-republique-sociale?pk_campaign=Flux%20RSS&pk_kwd=2026-09-23&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Une étude de Régions de France et de La Banque Postale estime que les \"investissements climat\" annuels des régions, déjà en forte progression ces dernières années, devraient quasiment doubler dans les cinq ans pour répondre aux objectifs de la troisième stratégie nationale bas carbone (SNBC3). Or, c",
+    "bf_description": "Un large consensus s'est dégagé ce mardi 22 septembre lors de la traditionnelle table ronde du 86e congrès HLM réunissant les présidents des cinq fédérations du mouvement, quant à la nécessité de défendre les principes de solidarité et d'humanité d'une \"République sociale\", selon l'expression de Val",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Un tiers des agents publics doivent souvent renoncer à la qualité de leur travail",
-    "bf_lien": "https://www.banquedesterritoires.fr/un-tiers-des-agents-publics-doivent-souvent-renoncer-la-qualite-de-leur-travail?pk_campaign=Flux%20RSS&pk_kwd=2026-09-22&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Budget 2027 : \"On nous présentera la facture après les sénatoriales\", s'agace l'AMF",
+    "bf_lien": "https://www.banquedesterritoires.fr/budget-2027-nous-presentera-la-facture-apres-les-senatoriales-sagace-lamf?pk_campaign=Flux%20RSS&pk_kwd=2026-09-23&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Une enquête du collectif \"Nos services publics\" qui vient d'être publiée s'intéresse au \"vécu\" des agents publics, en apportant des éclairages inédits sur leurs conditions de travail et le sentiment d'une dégradation de celles-ci. Il en ressort par exemple qu'un tiers des agents publics se voient co",
+    "bf_description": "Les dernières déclarations du Premier ministre sur les finances des collectivités, qui auraient pu leur redonner un peu d'optimisme n'ont en fait pas rassuré le duo exécutif de l'Association des maires de France (AMF), qui prenait la parole ce 22 septembre lors d'une conférence de presse de rentrée.",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Accueil des jeunes enfants : Stéphanie Rist annonce un plan d'urgence de 90 millions d'euros",
-    "bf_lien": "https://www.banquedesterritoires.fr/accueil-des-jeunes-enfants-stephanie-rist-annonce-un-plan-durgence-de-90-millions-deuros?pk_campaign=Flux%20RSS&pk_kwd=2026-09-22&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Prix des carburants : les aides prolongées",
+    "bf_lien": "https://www.banquedesterritoires.fr/prix-des-carburants-les-aides-prolongees?pk_campaign=Flux%20RSS&pk_kwd=2026-09-23&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le conseil d'administration de la Cnaf devrait adopter ce plan d'urgence début octobre, pour qu'un tiers des crédits soient débloqués dès la fin de l'année. Il s'agit en particulier de revaloriser&nbsp;la prestation de service unique (PSU) afin de \"soutenir l'équilibre économique des crèches\", d'aug",
+    "bf_description": "Face aux prix des carburants qui restent au plus haut, le gouvernement a annoncé la prolongation – et parfois l'extension – de plusieurs dispositifs d'aides jusqu'à la fin de l'année. Il a également proposé l'institutionnalisation d'une \"règle d'or\" assurant \"qu'aucun profit ne sera jamais fait par ",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Hausse des prix des carburants : une proposition de \"pass Navigo\" rural pour faciliter le passage à la mobilité électrique",
-    "bf_lien": "https://www.banquedesterritoires.fr/hausse-des-prix-des-carburants-une-proposition-de-pass-navigo-rural-pour-faciliter-le-passage-la?pk_campaign=Flux%20RSS&pk_kwd=2026-09-22&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Fragilisation de l'économie sociale et solidaire : l'Udes pointe le risque d'une \"France à deux vitesses\" dans l'accès aux services essentiels",
+    "bf_lien": "https://www.banquedesterritoires.fr/fragilisation-de-leconomie-sociale-et-solidaire-ludes-pointe-le-risque-dune-france-deux-vitesses?pk_campaign=Flux%20RSS&pk_kwd=2026-09-23&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Une note d'analyse de la Fondation Jean-Jaurès publiée ce 18 septembre défend la création d'un \"pass Navigo\" rural à 50 euros par mois pour permettre aux habitants des territoires ruraux tributaires de la voiture pour leurs déplacements quotidiens d'accéder à un véhicule électrique grâce à un dispos",
+    "bf_description": "Perte d'emplois, moindre accès aux services et donc diminution de la \"capacité de travailler\" d'une partie des Français, impact sur la cohésion sociale… Le président de l'Union des employeurs de l'économie sociale et solidaire (Udes) a insisté, ce 22 septembre 2026, sur \"les conséquences&nbsp;économ",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
