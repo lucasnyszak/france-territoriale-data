@@ -1332,46 +1332,136 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Emmanuelle Cosse : \"Il n'est jamais trop tard pour bien faire\"",
-    "bf_lien": "https://www.banquedesterritoires.fr/emmanuelle-cosse-il-nest-jamais-trop-tard-pour-bien-faire?pk_campaign=Flux%20RSS&pk_kwd=2026-09-23&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Qualité de l&#039;air intérieur des salles de sport",
+    "bf_lien": "https://librairie.ademe.fr/air/9368-qualite-de-l-air-interieur-des-salles-de-sport.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p style=&quot;margin-left:38px;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;Le projet QAI-Sport est original et présente des résultats sur &lt;strong&gt;la qualité de l’air intérieur de différents types de salles de sport&lt;/strong&gt;.&lt;/span&gt;&lt;/p&gt; &lt;p style=&quot;margin-",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Structurer l&#039;adaptation territoriale en incertitude profonde : analyse méthodologique de la démarche TACCT",
+    "bf_lien": "https://librairie.ademe.fr/changement-climatique/9614-structurer-l-adaptation-territoriale-en-incertitude-profonde-analyse-methodologique-de-la-demarche-tacct.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;Réalisé dans le cadre de la thèse ADEME &lt;em&gt;Agir pour le climat en incertitude profonde&lt;/em&gt;, ce rapport porte sur la démarche TACCT (Trajectoires d’adaptation au changement climatique des territoires), conçue pour accompagner les co",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Acteurs de la gestion des déchets : S&#039;adapter pour faire face au changement climatique",
+    "bf_lien": "https://librairie.ademe.fr/changement-climatique/9613-acteurs-de-la-gestion-des-dechets-s-adapter-pour-faire-face-au-changement-climatique-9791029726729.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;Afin d’accompagner les acteurs de la gestion des déchets à construire leur stratégie d’adaptation au changement climatique, l’association RECORD a développé un guide méthodologique dédié, avec l’accompagnement méthodologique et le soutien financier de l’ADEME, le soutien opérationnel du Cit",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Baromètre des transitions : écouter les habitants pour mieux agir",
+    "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9612-barometre-des-transitions-ecouter-les-habitants-pour-mieux-agir.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt;Les collectivités définissent des stratégies territoriales et multiplient les actions en faveur de la transition écologique : rénovation énergétique, mobilités alternatives, réduction des déchets, évolution des pratiques alimentaires... Pourtant,",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Politiques de sobriété en Europe : où en est-on ?",
+    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9611-politiques-de-sobriete-en-europe-ou-en-est-on-.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;La sobriété apparaît aujourd’hui comme une nécessité stratégique pour l’Union européenne dans un contexte de tensions accrues autour des ressources naturelles et de l’énergie et face aux conséquences majeures des bouleversements climatiques qui impactent les territoires. Cette note décrypte",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Expé URBA SanTé : relever les défis de l&#039;urbanisme favorable à la santé",
+    "bf_lien": "https://librairie.ademe.fr/actualites/expe-urba-sante-relever-les-defis-de-l-urbanisme-favorable-a-la-sante-n33",
+    "bf_categorie": "Transitions",
+    "bf_description": "Entre 2024 et 2025, l’ADEME et l’Ecolab du CGDD (Ministère de la Transition écologique) ont accompagné 8 territoires pour intégrer la santé au cœur de leurs projets urbains.",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Panel usages électrodomestiques  : des données fiables pour comprendre nos consommations",
+    "bf_lien": "https://librairie.ademe.fr/actualites/panel-usages-electrodomestiques-annee-6-des-donnees-fiables-pour-comprendre-nos-consommations-n32",
+    "bf_categorie": "Transitions",
+    "bf_description": "Depuis 6 ans, le projet Panel Elecdom fournit une vision claire, fiable et actualisée des consommations électrodomestiques en France.",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Alimentation et gaspillage alimentaire, publications récentes",
+    "bf_lien": "https://librairie.ademe.fr/actualites/alimentation-et-gaspillage-alimentaire-publications-recentes-n31",
+    "bf_categorie": "Transitions",
+    "bf_description": "Voici une sélection de documents diffusés sur l&#039;alimentation et le gaspillage alimentaire.",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Occitanie : 3 bilans sur la gestion des déchets",
+    "bf_lien": "https://librairie.ademe.fr/actualites/occitanie-3-bilans-sur-la-gestion-des-dechets-n30",
+    "bf_categorie": "Transitions",
+    "bf_description": "L’ADEME Occitanie a publié, fin 2025, trois documents-bilans sur la gestion des déchets (période 2015-2024).",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Forêt, biomasse et produits biosourcés, publications récentes",
+    "bf_lien": "https://librairie.ademe.fr/actualites/foret-biomasse-et-produits-biosources-n29",
+    "bf_categorie": "Transitions",
+    "bf_description": "Voici une sélection de publications diffusées depuis un an sur la forêt, biomasse et les produits biosourcés.",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "La Banque des Territoires actualise et renforce son dispositif de soutien en faveur du logement abordable",
+    "bf_lien": "https://www.banquedesterritoires.fr/la-banque-des-territoires-actualise-et-renforce-son-dispositif-de-soutien-en-faveur-du-logement?pk_campaign=Flux%20RSS&pk_kwd=2026-09-24&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "En ouvrant le 86e congrès HLM, ce mardi 22 septembre à Bordeaux, Emmanuelle Cosse, présidente de l'Union sociale pour l'habitat (USH), a reconnu une \"inflexion\" de la politique gouvernementale du logement. \"Il n'est jamais trop tard pour bien faire\", a lancé l'ancienne ministre, avant de demander au",
+    "bf_description": "Le soutien apporté par la Banque des Territoires au logement abordable n’a jamais été aussi élevé. À Bordeaux, lors du 86e congrès de l’Union sociale de l’habitat, Olivier Sichel, le directeur général de la Caisse des Dépôts, Antoine Saintoyant, directeur de la Banque des Territoires, accompagné de ",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Avant 2027, les fédérations HLM font bloc autour d’une \"République sociale\"",
-    "bf_lien": "https://www.banquedesterritoires.fr/avant-2027-les-federations-hlm-font-bloc-autour-dune-republique-sociale?pk_campaign=Flux%20RSS&pk_kwd=2026-09-23&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Emploi public : la Cour des comptes prône une baisse de 140.000 agents dans les collectivités \"d'ici 2032\"",
+    "bf_lien": "https://www.banquedesterritoires.fr/emploi-public-la-cour-des-comptes-prone-une-baisse-de-140000-agents-dans-les-collectivites-dici?pk_campaign=Flux%20RSS&pk_kwd=2026-09-24&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Un large consensus s'est dégagé ce mardi 22 septembre lors de la traditionnelle table ronde du 86e congrès HLM réunissant les présidents des cinq fédérations du mouvement, quant à la nécessité de défendre les principes de solidarité et d'humanité d'une \"République sociale\", selon l'expression de Val",
+    "bf_description": "Dans une note synthétique rendue publique le 21 septembre, la Cour des comptes appelle à des efforts sur la masse salariale des 5,9 millions d'agents publics, par la maîtrise des rémunérations et la réduction des effectifs, notamment dans la fonction publique territoriale.&nbsp;",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Budget 2027 : \"On nous présentera la facture après les sénatoriales\", s'agace l'AMF",
-    "bf_lien": "https://www.banquedesterritoires.fr/budget-2027-nous-presentera-la-facture-apres-les-senatoriales-sagace-lamf?pk_campaign=Flux%20RSS&pk_kwd=2026-09-23&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Règle d'or sur les taxes des carburants : pour les régions, \"ce n'est pas sérieux\"",
+    "bf_lien": "https://www.banquedesterritoires.fr/regle-dor-sur-les-taxes-des-carburants-pour-les-regions-ce-nest-pas-serieux?pk_campaign=Flux%20RSS&pk_kwd=2026-09-24&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Les dernières déclarations du Premier ministre sur les finances des collectivités, qui auraient pu leur redonner un peu d'optimisme n'ont en fait pas rassuré le duo exécutif de l'Association des maires de France (AMF), qui prenait la parole ce 22 septembre lors d'une conférence de presse de rentrée.",
+    "bf_description": "Les régions se disent \"surprises\" des annonces gouvernementales de mardi soir concernant la mise en place d'une \"règle d'or\" sur les prix des carburants. De manière générale, elles dénoncent la politique du fait accompli qui se généralise à l'approche du débat budgétaire, pointant un risque importan",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Prix des carburants : les aides prolongées",
-    "bf_lien": "https://www.banquedesterritoires.fr/prix-des-carburants-les-aides-prolongees?pk_campaign=Flux%20RSS&pk_kwd=2026-09-23&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Refondation de la protection de l'enfance : le comité scientifique identifie \"six grands champs de vulnérabilité\" et une trentaine de mesures prioritaires",
+    "bf_lien": "https://www.banquedesterritoires.fr/refondation-de-la-protection-de-lenfance-le-comite-scientifique-identifie-six-grands-champs-de?pk_campaign=Flux%20RSS&pk_kwd=2026-09-24&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Face aux prix des carburants qui restent au plus haut, le gouvernement a annoncé la prolongation – et parfois l'extension – de plusieurs dispositifs d'aides jusqu'à la fin de l'année. Il a également proposé l'institutionnalisation d'une \"règle d'or\" assurant \"qu'aucun profit ne sera jamais fait par ",
+    "bf_description": "À l'occasion d'un deuxième comité stratégique interministériel de refondation de la protection de l'enfance, le gouvernement a annoncé l'extension de l'expérimentation sur la transformation de l'offre aux départements de&nbsp;l'Essonne et de la Loire-Atlantique,&nbsp;et fait valoir des avancées dans",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Fragilisation de l'économie sociale et solidaire : l'Udes pointe le risque d'une \"France à deux vitesses\" dans l'accès aux services essentiels",
-    "bf_lien": "https://www.banquedesterritoires.fr/fragilisation-de-leconomie-sociale-et-solidaire-ludes-pointe-le-risque-dune-france-deux-vitesses?pk_campaign=Flux%20RSS&pk_kwd=2026-09-23&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "\"Faire mieux avec moins\" : la gestion déléguée revendique sa place dans la modernisation des services publics",
+    "bf_lien": "https://www.banquedesterritoires.fr/faire-mieux-avec-moins-la-gestion-deleguee-revendique-sa-place-dans-la-modernisation-des-services?pk_campaign=Flux%20RSS&pk_kwd=2026-09-24&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Perte d'emplois, moindre accès aux services et donc diminution de la \"capacité de travailler\" d'une partie des Français, impact sur la cohésion sociale… Le président de l'Union des employeurs de l'économie sociale et solidaire (Udes) a insisté, ce 22 septembre 2026, sur \"les conséquences&nbsp;économ",
+    "bf_description": "À l'heure où les collectivités territoriales doivent financer la transition écologique, adapter leurs infrastructures au changement climatique et maintenir la qualité des services publics dans un contexte budgétaire de plus en plus contraint, la question du mode de gestion revient au premier plan. R",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
