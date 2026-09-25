@@ -1287,6 +1287,15 @@
     "bf_formulaire": "6"
   },
   {
+    "bf_titre": "Geopark : exploiter les images satellite pour caractériser les parkings et leur potentiel en termes de désimperméabilisation et de photovoltaïque",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/geopark-exploiter-images-satellite-caracteriser-parkings",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Jeudi 24 septembre 2026 Lutte contre l&#039;artificialisation des sols et sobriété foncière, Energies renouvelables terrestres et maritimes Image satellite d&#039;une zone d&#039;activité Les parkings constituent un enjeu pour l’adaptation des territoires face au changement climatique : ce",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "Accessibilité des transports urbains et interurbains : résultats de la 5ème enquête auprès des AOM et collectivités",
     "bf_lien": "https://www.cerema.fr/fr/actualites/accessibilite-transports-urbains-interurbains-resultats-5eme",
     "bf_categorie": "Transitions",
@@ -1323,11 +1332,29 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Le réemploi, une solution pour décarboner les chantiers de travaux publics",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/reemploi-solution-decarboner-chantiers-travaux-publics",
+    "bf_titre": "L&#039;eau, ressource pour la filière hydrogène : état des lieux des enjeux",
+    "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9618-l-eau-ressource-pour-la-filiere-hydrogene-etat-des-lieux-des-enjeux.html",
     "bf_categorie": "Transitions",
-    "bf_description": "Publié le Jeudi 17 septembre 2026 Economie circulaire du BTP Tranchée avec terres axcavées Le territoire du Sillon Rhodanien a mené, avec le Cerema, des expérimentations sur ses chantiers afin d’identifier les potentialités de réemploi des matériaux, valider le réemploi avec tous les acteurs du chan",
-    "bf_tags": "CEREMA",
+    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;&lt;span style=&quot;color:#1d1d1b;&quot;&gt;Cet état des lieux analyse l&#039;importance stratégique de la ressource en eau comme composante essentielle de la production d&#039;hydrogène.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span sty",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Comment partir en vacances en prenant soin de la planète ?",
+    "bf_lien": "https://librairie.ademe.fr/consommer-autrement/9617-comment-partir-en-vacances-en-prenant-soin-de-la-planete-.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;Transport, hébergement, shopping, restauration... l&#039;industrie touristique représente 11 % des émissions de gaz à effet de serre de la France.&lt;br /&gt; &lt;br /&gt; Pour concilier nos envies d&#039;ailleurs et la préservation de l&#039;environnement, cette infographie explique les im",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Bilan thématique déploiement décarbonation de l&#039;industrie",
+    "bf_lien": "https://librairie.ademe.fr/industrie-et-production-durable/9615-bilan-thematique-deploiement-decarbonation-de-l-industrie-9791029727498.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;En date du 1er septembre 2026, 916 projets ont été déposés dont 676 sur France 2030 depuis 2020 sur les appels à projets de France RELANCE (DECARB IND) et France 2030 (DECARB FLASH, DECARB IND, DECARB IND+ et AO GPID).&lt;/p&gt; &lt;p&gt;437 projets dont 297 sont lauréats sur France 2030, c",
+    "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
@@ -1345,33 +1372,6 @@
     "bf_lien": "https://librairie.ademe.fr/changement-climatique/9614-structurer-l-adaptation-territoriale-en-incertitude-profonde-analyse-methodologique-de-la-demarche-tacct.html",
     "bf_categorie": "Transitions",
     "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;Réalisé dans le cadre de la thèse ADEME &lt;em&gt;Agir pour le climat en incertitude profonde&lt;/em&gt;, ce rapport porte sur la démarche TACCT (Trajectoires d’adaptation au changement climatique des territoires), conçue pour accompagner les co",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Acteurs de la gestion des déchets : S&#039;adapter pour faire face au changement climatique",
-    "bf_lien": "https://librairie.ademe.fr/changement-climatique/9613-acteurs-de-la-gestion-des-dechets-s-adapter-pour-faire-face-au-changement-climatique-9791029726729.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Afin d’accompagner les acteurs de la gestion des déchets à construire leur stratégie d’adaptation au changement climatique, l’association RECORD a développé un guide méthodologique dédié, avec l’accompagnement méthodologique et le soutien financier de l’ADEME, le soutien opérationnel du Cit",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Baromètre des transitions : écouter les habitants pour mieux agir",
-    "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9612-barometre-des-transitions-ecouter-les-habitants-pour-mieux-agir.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt;Les collectivités définissent des stratégies territoriales et multiplient les actions en faveur de la transition écologique : rénovation énergétique, mobilités alternatives, réduction des déchets, évolution des pratiques alimentaires... Pourtant,",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Politiques de sobriété en Europe : où en est-on ?",
-    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9611-politiques-de-sobriete-en-europe-ou-en-est-on-.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;La sobriété apparaît aujourd’hui comme une nécessité stratégique pour l’Union européenne dans un contexte de tensions accrues autour des ressources naturelles et de l’énergie et face aux conséquences majeures des bouleversements climatiques qui impactent les territoires. Cette note décrypte",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1422,46 +1422,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "La Banque des Territoires actualise et renforce son dispositif de soutien en faveur du logement abordable",
-    "bf_lien": "https://www.banquedesterritoires.fr/la-banque-des-territoires-actualise-et-renforce-son-dispositif-de-soutien-en-faveur-du-logement?pk_campaign=Flux%20RSS&pk_kwd=2026-09-24&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Le haut-commissariat à la stratégie impulse un plan de modernisation des infrastructures d’aménagement du territoire",
+    "bf_lien": "https://www.banquedesterritoires.fr/le-haut-commissariat-la-strategie-impulse-un-plan-de-modernisation-des-infrastructures-damenagement?pk_campaign=Flux%20RSS&pk_kwd=2026-09-25&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le soutien apporté par la Banque des Territoires au logement abordable n’a jamais été aussi élevé. À Bordeaux, lors du 86e congrès de l’Union sociale de l’habitat, Olivier Sichel, le directeur général de la Caisse des Dépôts, Antoine Saintoyant, directeur de la Banque des Territoires, accompagné de ",
+    "bf_description": "À la manière du plan Freycinet de 1879, le haut-commissariat à la stratégie et au plan (HCSP) appelle à définir, en co-construction avec les collectivités territoriales, et dans le temps long, une planification des grands projets d’infrastructures et de l’aménagement du territoire adaptée aux grands",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Emploi public : la Cour des comptes prône une baisse de 140.000 agents dans les collectivités \"d'ici 2032\"",
-    "bf_lien": "https://www.banquedesterritoires.fr/emploi-public-la-cour-des-comptes-prone-une-baisse-de-140000-agents-dans-les-collectivites-dici?pk_campaign=Flux%20RSS&pk_kwd=2026-09-24&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Numérique pour l'éducation : le ministère détaille le cadre de référence",
+    "bf_lien": "https://www.banquedesterritoires.fr/numerique-pour-leducation-le-ministere-detaille-le-cadre-de-reference?pk_campaign=Flux%20RSS&pk_kwd=2026-09-25&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Dans une note synthétique rendue publique le 21 septembre, la Cour des comptes appelle à des efforts sur la masse salariale des 5,9 millions d'agents publics, par la maîtrise des rémunérations et la réduction des effectifs, notamment dans la fonction publique territoriale.&nbsp;",
+    "bf_description": "Un arrêté du ministère de l'Éducation nationale décline le cadre de référence du numérique pour l'éducation. Il passe en revue les questions de sécurité, d'interopérabilité des systèmes et de numérique responsable. Autant de sujets qui concernent au premier chef les collectivités.",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Règle d'or sur les taxes des carburants : pour les régions, \"ce n'est pas sérieux\"",
-    "bf_lien": "https://www.banquedesterritoires.fr/regle-dor-sur-les-taxes-des-carburants-pour-les-regions-ce-nest-pas-serieux?pk_campaign=Flux%20RSS&pk_kwd=2026-09-24&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Budget 2027 : les intercommunalités redisent leurs inquiétudes",
+    "bf_lien": "https://www.banquedesterritoires.fr/budget-2027-les-intercommunalites-redisent-leurs-inquietudes?pk_campaign=Flux%20RSS&pk_kwd=2026-09-25&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Les régions se disent \"surprises\" des annonces gouvernementales de mardi soir concernant la mise en place d'une \"règle d'or\" sur les prix des carburants. De manière générale, elles dénoncent la politique du fait accompli qui se généralise à l'approche du débat budgétaire, pointant un risque importan",
+    "bf_description": "Comme d'autres associations d'élus, Intercommunalités de France ne peut que constater \"l'incertitude la plus complète\" planant sur les dispositions finances locales du projet de loi de finances qui sera dévoilé la semaine prochaine. En espérant que l'intercommunalité ne sera pas cette fois injusteme",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Refondation de la protection de l'enfance : le comité scientifique identifie \"six grands champs de vulnérabilité\" et une trentaine de mesures prioritaires",
-    "bf_lien": "https://www.banquedesterritoires.fr/refondation-de-la-protection-de-lenfance-le-comite-scientifique-identifie-six-grands-champs-de?pk_campaign=Flux%20RSS&pk_kwd=2026-09-24&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Les associations d'élus et de professionnels (re)montent au créneau pour défendre le fonds chaleur",
+    "bf_lien": "https://www.banquedesterritoires.fr/les-associations-delus-et-de-professionnels-remontent-au-creneau-pour-defendre-le-fonds-chaleur?pk_campaign=Flux%20RSS&pk_kwd=2026-09-25&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "À l'occasion d'un deuxième comité stratégique interministériel de refondation de la protection de l'enfance, le gouvernement a annoncé l'extension de l'expérimentation sur la transformation de l'offre aux départements de&nbsp;l'Essonne et de la Loire-Atlantique,&nbsp;et fait valoir des avancées dans",
+    "bf_description": "Redoutant une baisse du fonds chaleur dans le prochain budget, associations d'élus d'une part, organisations professionnelles de l'énergie de l'autre, montent cette année encore au créneau pour défendre ce dispositif favorisant une énergie décarbonée, compétitive et territorialisée.",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "\"Faire mieux avec moins\" : la gestion déléguée revendique sa place dans la modernisation des services publics",
-    "bf_lien": "https://www.banquedesterritoires.fr/faire-mieux-avec-moins-la-gestion-deleguee-revendique-sa-place-dans-la-modernisation-des-services?pk_campaign=Flux%20RSS&pk_kwd=2026-09-24&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Le versement mobilité régional et rural critiqué à son tour pour \"ses effets anti-économiques\"",
+    "bf_lien": "https://www.banquedesterritoires.fr/le-versement-mobilite-regional-et-rural-critique-son-tour-pour-ses-effets-anti-economiques?pk_campaign=Flux%20RSS&pk_kwd=2026-09-25&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "À l'heure où les collectivités territoriales doivent financer la transition écologique, adapter leurs infrastructures au changement climatique et maintenir la qualité des services publics dans un contexte budgétaire de plus en plus contraint, la question du mode de gestion revient au premier plan. R",
+    "bf_description": "S'il apporte un coup de pouce bienvenu au financement des énormes besoins de financement des régions dans le domaine des transports, le versement mobilité régional et rural (VMRR), récemment instauré par sept régions, n'est guère la panacée, estime le rapporteur général du budget à l'Assemblée natio",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
