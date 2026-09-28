@@ -1287,6 +1287,24 @@
     "bf_formulaire": "6"
   },
   {
+    "bf_titre": "Rencontres Ouvrages d'Art 2026 : tour d'horizon des travaux et projets de la communauté des ouvrages d'art",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/rencontres-ouvrages-art-2026-tour-horizon-travaux-projets",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Lundi 28 septembre 2026 Ouvrages d’art Diagnostic d&#039;ouvrage d&#039;art Les Rencontres Ouvrages d&#039;Art visent à communiquer des informations et à présenter des interventions à finalité opérationnelle, en mettant en évidence leur caractère innovant. Elles offrent un tour d&#039;hori",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Révolution dans l’isolation : des laines végétales acoustiques et résistantes au feu",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/revolution-isolation-laines-vegetales-acoustiques",
+    "bf_categorie": "Transitions",
+    "bf_description": "",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "Geopark : exploiter les images satellite pour caractériser les parkings et leur potentiel en termes de désimperméabilisation et de photovoltaïque",
     "bf_lien": "https://www.cerema.fr/fr/actualites/geopark-exploiter-images-satellite-caracteriser-parkings",
     "bf_categorie": "Transitions",
@@ -1314,20 +1332,38 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Évaluer les \"rues aux enfants\" à Lyon par une analyse spatialisée des usages",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/evaluer-rues-aux-enfants-lyon-analyse-spatialisee-usages",
+    "bf_titre": "Pour une restauration collective responsable",
+    "bf_lien": "https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9621-pour-une-restauration-collective-responsable.html",
     "bf_categorie": "Transitions",
-    "bf_description": "Publié le Vendredi 18 septembre 2026 Connaissance, modélisation et évaluation de la mobilité, Vélo, marche, accessibilité, Aménagement de la voirie et éclairage public rue aux Enfants à Lyon, apaisement de la circulation devant l&#039;école Comment les enfants, parents, quand ils sont cyclistes ou p",
-    "bf_tags": "CEREMA",
+    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;Grâce à son volume d&#039;achat, à son rôle éducatif auprès des convives et à son ancrage territorial, la restauration collective constitue un levier majeur pour soutenir les filières agricoles durables, renforcer la résilience alimentaire des t",
+    "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "L’accessibilité des espaces publics : des données pour les usagers et pour l’action publique",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/accessibilite-espaces-publics-donnees-usagers-action",
+    "bf_titre": "Etude du tri 9 flux dans les bâtiments tertiaires",
+    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9620-etude-du-tri-9-flux-dans-les-batiments-tertiaires.html",
     "bf_categorie": "Transitions",
-    "bf_description": "Publié le Jeudi 17 septembre 2026 Vélo, marche, accessibilité Espace public, place d&#039;un village Chaque commune de plus de 1000 habitants, ou son intercommunalité si elle est compétente, doit ainsi rédiger un Plan de mise en Accessibilité de la Voirie et des aménagements des Espaces publics (PAV",
-    "bf_tags": "CEREMA",
+    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;&lt;span style=&quot;color:#1d1d1b;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;La réglementation française impose aux entreprises tertiaires de trier neuf flux de déchets (papier, carton, plastique, métal, verre, textile, bois, fractio",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Conduire les projets de coopérations territoriales",
+    "bf_lien": "https://librairie.ademe.fr/recherche-et-innovation/9479-conduire-les-projets-de-cooperations-territoriales.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:12pt;&quot;&gt;Ce document est le rapport principal de la recherche RAD-EFC menée au sein du programme&lt;span style=&quot;color:#000000;&quot;&gt; COOPT’ER (&lt;/span&gt;« &lt;span style=&quot;color:#000000;&quot;&gt;Territoires de Services et de Coopérations",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Adapter la sobriété aux territoires ultra-marins : enjeux, pratiques et leviers d&#039;action",
+    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9619-adapter-la-sobriete-aux-territoires-ultra-marins-enjeux-pratiques-et-leviers-d-action.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;Ce rapport et sa synthèse questionne la notion de sobriété, développée par l&#039;ADEME notamment dans son avis &quot;Vers une économie de la sobriété&quot;, à l&#039;aune de quatre territoires ultramarins français : Guyane, Martinique, Réunion et Guadeloupe. Par leurs spécificités liées à ",
+    "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
@@ -1336,42 +1372,6 @@
     "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9618-l-eau-ressource-pour-la-filiere-hydrogene-etat-des-lieux-des-enjeux.html",
     "bf_categorie": "Transitions",
     "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;&lt;span style=&quot;color:#1d1d1b;&quot;&gt;Cet état des lieux analyse l&#039;importance stratégique de la ressource en eau comme composante essentielle de la production d&#039;hydrogène.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span sty",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Comment partir en vacances en prenant soin de la planète ?",
-    "bf_lien": "https://librairie.ademe.fr/consommer-autrement/9617-comment-partir-en-vacances-en-prenant-soin-de-la-planete-.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Transport, hébergement, shopping, restauration... l&#039;industrie touristique représente 11 % des émissions de gaz à effet de serre de la France.&lt;br /&gt; &lt;br /&gt; Pour concilier nos envies d&#039;ailleurs et la préservation de l&#039;environnement, cette infographie explique les im",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Bilan thématique déploiement décarbonation de l&#039;industrie",
-    "bf_lien": "https://librairie.ademe.fr/industrie-et-production-durable/9615-bilan-thematique-deploiement-decarbonation-de-l-industrie-9791029727498.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;En date du 1er septembre 2026, 916 projets ont été déposés dont 676 sur France 2030 depuis 2020 sur les appels à projets de France RELANCE (DECARB IND) et France 2030 (DECARB FLASH, DECARB IND, DECARB IND+ et AO GPID).&lt;/p&gt; &lt;p&gt;437 projets dont 297 sont lauréats sur France 2030, c",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Qualité de l&#039;air intérieur des salles de sport",
-    "bf_lien": "https://librairie.ademe.fr/air/9368-qualite-de-l-air-interieur-des-salles-de-sport.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p style=&quot;margin-left:38px;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;Le projet QAI-Sport est original et présente des résultats sur &lt;strong&gt;la qualité de l’air intérieur de différents types de salles de sport&lt;/strong&gt;.&lt;/span&gt;&lt;/p&gt; &lt;p style=&quot;margin-",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Structurer l&#039;adaptation territoriale en incertitude profonde : analyse méthodologique de la démarche TACCT",
-    "bf_lien": "https://librairie.ademe.fr/changement-climatique/9614-structurer-l-adaptation-territoriale-en-incertitude-profonde-analyse-methodologique-de-la-demarche-tacct.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;Réalisé dans le cadre de la thèse ADEME &lt;em&gt;Agir pour le climat en incertitude profonde&lt;/em&gt;, ce rapport porte sur la démarche TACCT (Trajectoires d’adaptation au changement climatique des territoires), conçue pour accompagner les co",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1423,7 +1423,7 @@
   },
   {
     "bf_titre": "Congrès HLM : le gouvernement consent un effort budgétaire, la fronde sur les APL persiste",
-    "bf_lien": "https://www.banquedesterritoires.fr/congres-hlm-le-gouvernement-consent-un-effort-budgetaire-la-fronde-sur-les-apl-persiste?pk_campaign=Flux%20RSS&pk_kwd=2026-09-27&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_lien": "https://www.banquedesterritoires.fr/congres-hlm-le-gouvernement-consent-un-effort-budgetaire-la-fronde-sur-les-apl-persiste?pk_campaign=Flux%20RSS&pk_kwd=2026-09-28&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
     "bf_description": "Le 86e congrès de l’Union sociale pour l’habitat (USH) s’est conclu le 24 septembre à Bordeaux dans une certaine tension. Si le gouvernement a concédé des assouplissements fiscaux ciblés pour préserver l'outil de production des bailleurs, le gel annoncé des aides au logement et le blocage des crédit",
     "bf_tags": "Banque des Territoires",
@@ -1431,8 +1431,17 @@
     "bf_formulaire": "actu"
   },
   {
+    "bf_titre": "Sénatoriales : nouveau groupe RN, légère érosion LR et PS",
+    "bf_lien": "https://www.banquedesterritoires.fr/senatoriales-nouveau-groupe-rn-legere-erosion-lr-et-ps?pk_campaign=Flux%20RSS&pk_kwd=2026-09-28&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_categorie": "Finances",
+    "bf_description": "Le Rassemblement national formera un groupe parlementaire pour la première fois au Sénat suite aux élections de ce dimanche 27 septembre, perturbant la domination historique de la droite. Ce scrutin a également été marqué par la victoire d'un élu Insoumis, sachant qu'à gauche, on aura constaté une c",
+    "bf_tags": "Banque des Territoires",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "Mobilités professionnelles : le coût de la vie et le climat rebattent les cartes de l’attractivité territoriale",
-    "bf_lien": "https://www.banquedesterritoires.fr/mobilites-professionnelles-le-cout-de-la-vie-rebat-les-cartes-de-lattractivite-territoriale?pk_campaign=Flux%20RSS&pk_kwd=2026-09-27&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_lien": "https://www.banquedesterritoires.fr/mobilites-professionnelles-le-cout-de-la-vie-rebat-les-cartes-de-lattractivite-territoriale?pk_campaign=Flux%20RSS&pk_kwd=2026-09-28&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
     "bf_description": "Le baromètre 2026 de Nextories confirme l’attractivité du Sud et du Sud-Est de la France, tout en révélant un ralentissement des mobilités depuis les grandes métropoles. Hausse du coût de la vie et risques climatiques pèsent désormais davantage dans les choix de déménagement.",
     "bf_tags": "Banque des Territoires",
@@ -1441,7 +1450,7 @@
   },
   {
     "bf_titre": "Économie circulaire : l’emploi progresse, mais les dynamiques restent très territorialisées",
-    "bf_lien": "https://www.banquedesterritoires.fr/economie-circulaire-lemploi-progresse-mais-les-dynamiques-restent-tres-territorialisees?pk_campaign=Flux%20RSS&pk_kwd=2026-09-27&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_lien": "https://www.banquedesterritoires.fr/economie-circulaire-lemploi-progresse-mais-les-dynamiques-restent-tres-territorialisees?pk_campaign=Flux%20RSS&pk_kwd=2026-09-28&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
     "bf_description": "L’emploi lié à l’économie circulaire a progressé près de deux fois plus vite que l’emploi total en France entre 2009 et 2024. Mais cette dynamique reste très inégale selon les territoires. Une étude de La Fabrique de l’industrie met en évidence le rôle de la diversité économique locale et des coopér",
     "bf_tags": "Banque des Territoires",
@@ -1450,18 +1459,9 @@
   },
   {
     "bf_titre": "Rentrée universitaire 2026 : au-delà du repas à 1 euro, du logement… Philippe Baptiste  ouvre le débat sur l'avenir de l'université",
-    "bf_lien": "https://www.banquedesterritoires.fr/rentree-universitaire-2026-au-dela-du-repas-1-euro-du-logement-philippe-baptiste-ouvre-le-debat-sur?pk_campaign=Flux%20RSS&pk_kwd=2026-09-27&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_lien": "https://www.banquedesterritoires.fr/rentree-universitaire-2026-au-dela-du-repas-1-euro-du-logement-philippe-baptiste-ouvre-le-debat-sur?pk_campaign=Flux%20RSS&pk_kwd=2026-09-28&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
     "bf_description": "Le ministre de l'Enseignement supérieur, Philippe Baptiste, a présenté les principaux axes de la rentrée universitaire 2026. Au menu : simplification de l'accès aux aides étudiantes, maintien d'un effort en faveur du logement et poursuite de la généralisation du repas à 1 euro même si, sur ce point,",
-    "bf_tags": "Banque des Territoires",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Santé mentale des agents territoriaux : une étude alerte sur \"l'urgence\" d'agir",
-    "bf_lien": "https://www.banquedesterritoires.fr/sante-mentale-des-agents-territoriaux-une-etude-alerte-sur-lurgence-dagir?pk_campaign=Flux%20RSS&pk_kwd=2026-09-27&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
-    "bf_categorie": "Finances",
-    "bf_description": "Publiée récemment, l'édition 2026 du baromètre de la santé mentale au travail des agents de la fonction publique territoriale met en évidence certaines réalités préoccupantes. 45% des agents territoriaux ayant répondu se déclarent \"épuisés par leur travail au moins une fois par semaine\". Dans le mêm",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
