@@ -1287,6 +1287,24 @@
     "bf_formulaire": "6"
   },
   {
+    "bf_titre": "Descente de Montaigu : l’expertise du Cerema pour sécuriser les poids lourds",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/descente-montaigu-expertise-du-cerema-securiser-poids-lourds",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Mardi 29 septembre 2026 Aménagement de la voirie et éclairage public, Transports intelligents, trafics et régulation, Sécurité routière Descente de Montaigu Le contexte de la descente de Montaigu Situation de la route&amp;nbsp; La RD52 permet l’accès sud à Lons-le-Saunier depuis le plateau",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Eclairage public : la télégestion des installations",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/eclairage-public-telegestion-installations",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Mardi 29 septembre 2026 Aménagement de la voirie et éclairage public, Aménager avec la biodiversité couverture L&#039;éclairage public, qui représente une part non négligeable des dépenses des collectivités, connaît des évolutions des technologiques et doit intégrer de nouvelles contrainte",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "Rencontres Ouvrages d'Art 2026 : tour d'horizon des travaux et projets de la communauté des ouvrages d'art",
     "bf_lien": "https://www.cerema.fr/fr/actualites/rencontres-ouvrages-art-2026-tour-horizon-travaux-projets",
     "bf_categorie": "Transitions",
@@ -1314,64 +1332,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Accessibilité des transports urbains et interurbains : résultats de la 5ème enquête auprès des AOM et collectivités",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/accessibilite-transports-urbains-interurbains-resultats-5eme",
+    "bf_titre": "Avis d&#039;expert sur le recyclage chimique des déchets plastiques",
+    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9272-avis-d-expert-sur-le-recyclage-chimique-des-dechets-plastiques.html",
     "bf_categorie": "Transitions",
-    "bf_description": "Publié le Mardi 22 septembre 2026 Vélo, marche, accessibilité, Transports collectifs, partagés et intermodalité Accessibilité des arrêts de transports en commun Article du 19 février 2026, mis à jour.La DGITM, la Délégation Ministérielle à l’Accessibilité (DMA) et le Cerema remercient une nouvelle f",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Rue de l’Héritan à Mâcon : objectiver les effets d’un sens unique pour sécuriser un itinéraire cyclable",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/rue-heritan-macon-objectiver-effets-sens-unique-securiser",
-    "bf_categorie": "Transitions",
-    "bf_description": "Publié le Lundi 21 septembre 2026 Aménagement durable : revitalisation et renouvellement urbain, Ville et territoires accessibles à tous, Aménagement de la voirie et éclairage public périmètre de l&#039;étude Rue de l&#039;Héritan à Mâcon La Ville de Mâcon s’est interrogée sur l’opportunité de mettr",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Pour une restauration collective responsable",
-    "bf_lien": "https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9621-pour-une-restauration-collective-responsable.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;Grâce à son volume d&#039;achat, à son rôle éducatif auprès des convives et à son ancrage territorial, la restauration collective constitue un levier majeur pour soutenir les filières agricoles durables, renforcer la résilience alimentaire des t",
+    "bf_description": "&lt;p&gt;Le recyclage chimique des plastiques est aujourd’hui présenté comme une solution prometteuse pour traiter des déchets difficiles à recycler par les voies traditionnelles, en permettant de décomposer les polymères pour produire de nouvelles matières premières. Toutefois, derrière cette appel",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Etude du tri 9 flux dans les bâtiments tertiaires",
-    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9620-etude-du-tri-9-flux-dans-les-batiments-tertiaires.html",
+    "bf_titre": "Suppression des contenants alimentaires en plastique et retour à l&#039;assiette - Bretagne",
+    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9629-suppression-des-contenants-alimentaires-en-plastique-et-retour-a-l-assiette-bretagne.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;&lt;span style=&quot;color:#1d1d1b;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;La réglementation française impose aux entreprises tertiaires de trier neuf flux de déchets (papier, carton, plastique, métal, verre, textile, bois, fractio",
+    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;&lt;span style=&quot;background-color:#FFFFFF;&quot;&gt;&lt;span style=&quot;color:#404040;&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt;Ce projet permet au Centre Hospitalier de répondre à ses obligations légales (Loi Egalim, ",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Conduire les projets de coopérations territoriales",
-    "bf_lien": "https://librairie.ademe.fr/recherche-et-innovation/9479-conduire-les-projets-de-cooperations-territoriales.html",
+    "bf_titre": "AGRIPLAS SOTRALENTZ PACKAGING - intégration de matières recyclées dans les emballages - Bretagne",
+    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9628-agriplas-sotralentz-packaging-integration-de-matieres-recyclees-dans-les-emballages-bretagne.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:12pt;&quot;&gt;Ce document est le rapport principal de la recherche RAD-EFC menée au sein du programme&lt;span style=&quot;color:#000000;&quot;&gt; COOPT’ER (&lt;/span&gt;« &lt;span style=&quot;color:#000000;&quot;&gt;Territoires de Services et de Coopérations",
+    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:12pt;&quot;&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt;Face aux enjeux et objectifs fixés par la réglementation, l’entreprise a décidé en 2022 de pousser plus loin ses projets d’incorporation de matières plastiques recyclées en lançant une seconde phase s",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Adapter la sobriété aux territoires ultra-marins : enjeux, pratiques et leviers d&#039;action",
-    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9619-adapter-la-sobriete-aux-territoires-ultra-marins-enjeux-pratiques-et-leviers-d-action.html",
+    "bf_titre": "Qualité de l&#039;air intérieur des logements contaminés par les moisissures",
+    "bf_lien": "https://librairie.ademe.fr/air/9627-qualite-de-l-air-interieur-des-logements-contamines-par-les-moisissures.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Ce rapport et sa synthèse questionne la notion de sobriété, développée par l&#039;ADEME notamment dans son avis &quot;Vers une économie de la sobriété&quot;, à l&#039;aune de quatre territoires ultramarins français : Guyane, Martinique, Réunion et Guadeloupe. Par leurs spécificités liées à ",
+    "bf_description": "&lt;p&gt;La qualité de l&#039;air dans les habitats est un problème majeur en Europe, où les personnes passent une grande partie de leur temps en milieu intérieur. Selon l&#039;OMS, de nombreux habitats sont touchés par l&#039;humidité entraînant le développement de moisissures qui ont des conséquen",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "L&#039;eau, ressource pour la filière hydrogène : état des lieux des enjeux",
-    "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9618-l-eau-ressource-pour-la-filiere-hydrogene-etat-des-lieux-des-enjeux.html",
+    "bf_titre": "Expérimentation de projets d&#039;économie de fonctionnalité et de coopération au sein des coopératives de l&#039;Ouest",
+    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9626-experimentation-de-projets-d-economie-de-fonctionnalite-et-de-cooperation-au-sein-des-cooperatives-de-l-ouest.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;&lt;span style=&quot;color:#1d1d1b;&quot;&gt;Cet état des lieux analyse l&#039;importance stratégique de la ressource en eau comme composante essentielle de la production d&#039;hydrogène.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span sty",
+    "bf_description": "&lt;p&gt;Contribuer à pérenniser les coopératives, en renforçant leur robustesse et leur agilité, et convaincre leurs équipes de gouvernance d’anticiper les enjeux de transition écologique à travers une expérience collective qui rend l’évidence d’agir incontournable.&quot;&lt;/p&gt; &lt;p&gt; &lt;/p",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1422,46 +1422,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Congrès HLM : le gouvernement consent un effort budgétaire, la fronde sur les APL persiste",
-    "bf_lien": "https://www.banquedesterritoires.fr/congres-hlm-le-gouvernement-consent-un-effort-budgetaire-la-fronde-sur-les-apl-persiste?pk_campaign=Flux%20RSS&pk_kwd=2026-09-28&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Jean-Luc Moudenc : \"En dix ans, nos diagnostics se sont largement imposés\"",
+    "bf_lien": "https://www.banquedesterritoires.fr/jean-luc-moudenc-en-dix-ans-nos-diagnostics-se-sont-largement-imposes?pk_campaign=Flux%20RSS&pk_kwd=2026-09-29&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le 86e congrès de l’Union sociale pour l’habitat (USH) s’est conclu le 24 septembre à Bordeaux dans une certaine tension. Si le gouvernement a concédé des assouplissements fiscaux ciblés pour préserver l'outil de production des bailleurs, le gel annoncé des aides au logement et le blocage des crédit",
+    "bf_description": "La Journée nationale de France urbaine marquera ce 1er octobre à Paris les dix ans de l'association. A cette occasion, son président, Jean-Luc Moudenc, maire de Toulouse et président de Toulouse Métropole, revient pour Localtis sur les principaux enjeux autour desquels les élus de grandes villes et ",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Sénatoriales : nouveau groupe RN, légère érosion LR et PS",
-    "bf_lien": "https://www.banquedesterritoires.fr/senatoriales-nouveau-groupe-rn-legere-erosion-lr-et-ps?pk_campaign=Flux%20RSS&pk_kwd=2026-09-28&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Johanna Rolland : \"Nos habitants vivent déjà dans une République des interdépendances\"",
+    "bf_lien": "https://www.banquedesterritoires.fr/johanna-rolland-nos-habitants-vivent-deja-dans-une-republique-des-interdependances?pk_campaign=Flux%20RSS&pk_kwd=2026-09-29&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le Rassemblement national formera un groupe parlementaire pour la première fois au Sénat suite aux élections de ce dimanche 27 septembre, perturbant la domination historique de la droite. Ce scrutin a également été marqué par la victoire d'un élu Insoumis, sachant qu'à gauche, on aura constaté une c",
+    "bf_description": "Maire de Nantes et présidente de Nantes Métropole, Johanna Rolland a porté pendant six ans à la tête de France urbaine l’idée d’\"alliance des territoires\". Combat qu’elle continue de mener en tant que vice-présidente déléguée aux coopérations territoriales et aux politiques contractuelles. Selon ell",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Mobilités professionnelles : le coût de la vie et le climat rebattent les cartes de l’attractivité territoriale",
-    "bf_lien": "https://www.banquedesterritoires.fr/mobilites-professionnelles-le-cout-de-la-vie-rebat-les-cartes-de-lattractivite-territoriale?pk_campaign=Flux%20RSS&pk_kwd=2026-09-28&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Nathalie Appéré : \"L'adaptation au changement climatique doit irriguer l'ensemble des politiques publiques\"",
+    "bf_lien": "https://www.banquedesterritoires.fr/nathalie-appere-ladaptation-au-changement-climatique-doit-irriguer-lensemble-des-politiques?pk_campaign=Flux%20RSS&pk_kwd=2026-09-29&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le baromètre 2026 de Nextories confirme l’attractivité du Sud et du Sud-Est de la France, tout en révélant un ralentissement des mobilités depuis les grandes métropoles. Hausse du coût de la vie et risques climatiques pèsent désormais davantage dans les choix de déménagement.",
+    "bf_description": "Au terme d'un été caniculaire inédit, Nathalie Appéré, première vice-présidente de France urbaine, maire de Rennes et présidente de Rennes Métropole, revient sur les leçons à tirer de cette crise. Nombre de grandes villes ont de longue date engagé des politiques structurelles d'adaptation.&nbsp; Mai",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Économie circulaire : l’emploi progresse, mais les dynamiques restent très territorialisées",
-    "bf_lien": "https://www.banquedesterritoires.fr/economie-circulaire-lemploi-progresse-mais-les-dynamiques-restent-tres-territorialisees?pk_campaign=Flux%20RSS&pk_kwd=2026-09-28&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "François de Mazières : \"Une politique culturelle de qualité nécessite une visibilité à trois ou quatre ans\"",
+    "bf_lien": "https://www.banquedesterritoires.fr/francois-de-mazieres-une-politique-culturelle-de-qualite-necessite-une-visibilite-trois-ou-quatre?pk_campaign=Flux%20RSS&pk_kwd=2026-09-29&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "L’emploi lié à l’économie circulaire a progressé près de deux fois plus vite que l’emploi total en France entre 2009 et 2024. Mais cette dynamique reste très inégale selon les territoires. Une étude de La Fabrique de l’industrie met en évidence le rôle de la diversité économique locale et des coopér",
+    "bf_description": "À l'occasion des dix ans de France urbaine, François de Mazières, maire de Versailles, président de la communauté d'agglomération Versailles Grand Parc et secrétaire général de France urbaine, délégué à la culture, fait le point pour Localtis sur les enjeux de ce secteur et de son financement.",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Rentrée universitaire 2026 : au-delà du repas à 1 euro, du logement… Philippe Baptiste  ouvre le débat sur l'avenir de l'université",
-    "bf_lien": "https://www.banquedesterritoires.fr/rentree-universitaire-2026-au-dela-du-repas-1-euro-du-logement-philippe-baptiste-ouvre-le-debat-sur?pk_campaign=Flux%20RSS&pk_kwd=2026-09-28&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Extinction de la 2G : alors que le rythme s'accélère, 1,7 million de terminaux 2G étaient encore actifs en juin",
+    "bf_lien": "https://www.banquedesterritoires.fr/extinction-de-la-2g-alors-que-le-rythme-saccelere-17-million-de-terminaux-2g-etaient-encore-actifs?pk_campaign=Flux%20RSS&pk_kwd=2026-09-29&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le ministre de l'Enseignement supérieur, Philippe Baptiste, a présenté les principaux axes de la rentrée universitaire 2026. Au menu : simplification de l'accès aux aides étudiantes, maintien d'un effort en faveur du logement et poursuite de la généralisation du repas à 1 euro même si, sur ce point,",
+    "bf_description": "À la fin de l'année, Orange, Bouygues Telecom et SFR auront éteint leur réseau.&nbsp;Côté usages, les cartes SIM et objets connectés dépendants de la 2G baissent, mais encore trop lentement. Avec des risques de pannes sporadiques dans les années à venir.",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
