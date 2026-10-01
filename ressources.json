@@ -1287,6 +1287,24 @@
     "bf_formulaire": "6"
   },
   {
+    "bf_titre": "Zones humides et captages : Des fiches du Cerema sur des actions de protection menées dans les territoires",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/zones-humides-captages-fiches-du-cerema-actions-protection",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Jeudi 1 octobre 2026 Eau et milieux aquatiques dernière fiche Article du 28 février 2025, mis à jour.Les zones humides ont différentes fonctions hydrologiques, biogéochimiques et liées à la biodiversité. Les mesures de protection des zones humides, en particulier sur les zones de captage d",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Prévision des inondations : le Cerema en appui du réseau national Vigicrues",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/prevision-inondations-cerema-appui-du-reseau-national",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Jeudi 1 octobre 2026 Risques inondations et mouvements de terrain Inondation dans les Landes Le Cerema dispose d’une expertise reconnue dans l’évaluation du risque inondations, notamment liées aux crues. Depuis 2007, il intervient à l’échelle nationale, au travers du Groupe d’Appui aux Ser",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "Mettre en œuvre l’obligation d’accessibilité de la chaîne de déplacement: un mandat pour agir",
     "bf_lien": "https://www.cerema.fr/fr/actualites/mettre-oeuvre-obligation-accessibilite-chaine-deplacement",
     "bf_categorie": "Transitions",
@@ -1314,154 +1332,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Rencontres Ouvrages d'Art 2026 : tour d'horizon des travaux et projets de la communauté des ouvrages d'art",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/rencontres-ouvrages-art-2026-tour-horizon-travaux-projets",
-    "bf_categorie": "Transitions",
-    "bf_description": "Publié le Lundi 28 septembre 2026 Ouvrages d’art Diagnostic d&#039;ouvrage d&#039;art Les Rencontres Ouvrages d&#039;Art visent à communiquer des informations et à présenter des interventions à finalité opérationnelle, en mettant en évidence leur caractère innovant. Elles offrent un tour d&#039;hori",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Révolution dans l’isolation : des laines végétales acoustiques et résistantes au feu",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/revolution-isolation-laines-vegetales-acoustiques",
-    "bf_categorie": "Transitions",
-    "bf_description": "",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Animations régionales d&#039;acteurs d&#039;ingénierie publics : retours d&#039;expérience et modèles du projet européen BAOBAP",
-    "bf_lien": "https://librairie.ademe.fr/batiment/9634-animations-regionales-d-acteurs-d-ingenierie-publics-retours-d-experience-et-modeles-du-projet-europeen-baobap.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Ce document est à destination des acteurs régionaux en charge de l&#039;animation de collectivités.&lt;br /&gt; Ce guide présente les retours d’expérience et donne les clés pour mettre en place une animation régionale des structures d’accompagnement publiques, en s’appuyant sur l’expérience",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Structurer et renforcer l&#039;accompagnement à la rénovation des petites collectivités : bilan final du projet BAOBAP",
-    "bf_lien": "https://librairie.ademe.fr/batiment/9633-structurer-et-renforcer-l-accompagnement-a-la-renovation-des-petites-collectivites-bilan-final-du-projet-baobap.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Ce document présente les résultats principaux du projet ainsi que des retours d&#039;expérience, sur les sujets suivants : &lt;br /&gt; - l&#039;animation régionale des structures publiques d&#039;accompagnement&lt;br /&gt; - innover pour renforcer les services d&#039;accompagnement existan",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Bilan final des innovations du projet BAOBAP",
-    "bf_lien": "https://librairie.ademe.fr/batiment/9632-bilan-final-des-innovations-du-projet-baobap.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:15px;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;Ce document est à destination des accompagnateurs de collectivités pour les projets de rénovation énergétiques de bâtiments (syndicats, agence locale de l’énergie et du climat, sociétés publiques loca",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Enquête de perception des Français sur les sites et sols pollués",
-    "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9631-enquete-de-perception-des-francais-sur-les-sites-et-sols-pollues.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;color:#000000;&quot;&gt;La pollution des sols liée aux activités industrielles et de services est au cœur des enjeux de recyclage foncier, de transition écologique et de santé environnementale. &lt;/span&gt;Alors que les politiques publiques en la matière se renforcent ",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "ADEME Magazine n°182 octobre 2026",
-    "bf_lien": "https://librairie.ademe.fr/energies/9616-ademe-magazine-n182-octobre-2026.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:11pt;&quot;&gt;&lt;span style=&quot;font-size:12pt;&quot;&gt;Pétrole, gaz, charbon : notre dépendance aux énergies fossiles est à la fois un enjeu climatique, économique et industriel. Utilisés comme sources d’énergie ou comme matières premières, ils contribue",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Expé URBA SanTé : relever les défis de l&#039;urbanisme favorable à la santé",
-    "bf_lien": "https://librairie.ademe.fr/actualites/expe-urba-sante-relever-les-defis-de-l-urbanisme-favorable-a-la-sante-n33",
-    "bf_categorie": "Transitions",
-    "bf_description": "Entre 2024 et 2025, l’ADEME et l’Ecolab du CGDD (Ministère de la Transition écologique) ont accompagné 8 territoires pour intégrer la santé au cœur de leurs projets urbains.",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Panel usages électrodomestiques  : des données fiables pour comprendre nos consommations",
-    "bf_lien": "https://librairie.ademe.fr/actualites/panel-usages-electrodomestiques-annee-6-des-donnees-fiables-pour-comprendre-nos-consommations-n32",
-    "bf_categorie": "Transitions",
-    "bf_description": "Depuis 6 ans, le projet Panel Elecdom fournit une vision claire, fiable et actualisée des consommations électrodomestiques en France.",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Alimentation et gaspillage alimentaire, publications récentes",
-    "bf_lien": "https://librairie.ademe.fr/actualites/alimentation-et-gaspillage-alimentaire-publications-recentes-n31",
-    "bf_categorie": "Transitions",
-    "bf_description": "Voici une sélection de documents diffusés sur l&#039;alimentation et le gaspillage alimentaire.",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Occitanie : 3 bilans sur la gestion des déchets",
-    "bf_lien": "https://librairie.ademe.fr/actualites/occitanie-3-bilans-sur-la-gestion-des-dechets-n30",
-    "bf_categorie": "Transitions",
-    "bf_description": "L’ADEME Occitanie a publié, fin 2025, trois documents-bilans sur la gestion des déchets (période 2015-2024).",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Forêt, biomasse et produits biosourcés, publications récentes",
-    "bf_lien": "https://librairie.ademe.fr/actualites/foret-biomasse-et-produits-biosources-n29",
-    "bf_categorie": "Transitions",
-    "bf_description": "Voici une sélection de publications diffusées depuis un an sur la forêt, biomasse et les produits biosourcés.",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Modernisation de la sécurité civile : le projet de loi peut désormais être bouclé",
-    "bf_lien": "https://www.banquedesterritoires.fr/modernisation-de-la-securite-civile-le-projet-de-loi-peut-desormais-etre-boucle?pk_campaign=Flux%20RSS&pk_kwd=2026-09-30&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Budget 2027 : les collectivités appelées à un effort de 5,4 milliards d'euros",
+    "bf_lien": "https://www.banquedesterritoires.fr/budget-2027-les-collectivites-appelees-un-effort-de-54-milliards-deuros?pk_campaign=Flux%20RSS&pk_kwd=2026-10-01&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "La mission parlementaire installée cet été pour trouver des solutions nouvelles face aux méga-feux a rendu son rapport au Premier ministre le 28 septembre. Un travail qui a vocation à compléter le projet de loi de modernisation de la sécurité civile partiellement présenté aux syndicats de sapeurs-po",
+    "bf_description": "Le gouvernement a dévoilé sa copie budgétaire ce 30 septembre devant le Comité des finances locales (CFL). Les économies envisagées sur les finances locales s'élèvent à pas moins de 5,4 milliards d'euros. Un résultat qui monte à 7 milliards d'euros, selon le président du CFL, qui inclut aussi la hau",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Budget : Sébastien Lecornu apporte des garanties aux départements",
-    "bf_lien": "https://www.banquedesterritoires.fr/budget-sebastien-lecornu-apporte-des-garanties-aux-departempents?pk_campaign=Flux%20RSS&pk_kwd=2026-09-30&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Les communes politique de la ville dépensent davantage en fonctionnement mais investissent moins",
+    "bf_lien": "https://www.banquedesterritoires.fr/les-communes-politique-de-la-ville-depensent-davantage-en-fonctionnement-mais-investissent-moins?pk_campaign=Flux%20RSS&pk_kwd=2026-10-01&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Dans un courrier adressé aux présidents de départements, le Premier ministre indique que \"l'ensemble des départements disposera de 1,5 milliard d’euros supplémentaires, après l'effort demandé\" et qu'il prévoit d'affecter une part de CSG (pour 300 millions d'euros) pour financer l'allocation personna",
+    "bf_description": "Selon le premier baromètre financier des communes ayant au moins un quartier prioritaire de la politique de la ville (QPV), présenté le 29 septembre par l'Agence France locale (AFL) et l'association Ville &amp; Banlieue, les communes dans lesquelles sont implantées les quelque 1.600 QPV présentent u",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Compétence économique des régions : \"La décentralisation reste largement inachevée\" (Jalil Benabdillah, vice-président de la région Occitanie)",
-    "bf_lien": "https://www.banquedesterritoires.fr/competence-economique-des-regions-la-decentralisation-reste-largement-inachevee-jalil-benabdillah?pk_campaign=Flux%20RSS&pk_kwd=2026-09-30&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Bilan des autorités environnementales : une concrétisation mitigée des trajectoires territoriales d’adaptation",
+    "bf_lien": "https://www.banquedesterritoires.fr/bilan-des-autorites-environnementales-une-concretisation-mitigee-des-trajectoires-territoriales?pk_campaign=Flux%20RSS&pk_kwd=2026-10-01&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le dossier Fibre Excellence illustre à la fois la capacité d’une région à mobiliser des moyens pour préserver un outil industriel stratégique et les limites de ses leviers d’action. Alors que la décentralisation de la compétence économique reste inachevée, selon les régions, la sauvegarde des entrep",
+    "bf_description": "L’Autorité environnementale (Ae) a rendu public son rapport annuel marqué par un afflux de documents d'urbanisme à l’approche des municipales. Les avis rendus en 2025 témoignent d'avancées dans l’appropriation de certaines thématiques, notamment via les schémas de cohérence territoriale (Scot), mais",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Accueils sociaux : qualité et coordination sont nécessaires pour \"éviter l'errance administrative\", selon l'Igas",
-    "bf_lien": "https://www.banquedesterritoires.fr/accueils-sociaux-qualite-et-coordination-sont-necessaires-pour-eviter-lerrance-administrative-selon?pk_campaign=Flux%20RSS&pk_kwd=2026-09-30&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Action coeur de ville : les maires demandent des mesures fiscales pour soutenir le commerce",
+    "bf_lien": "https://www.banquedesterritoires.fr/action-coeur-de-ville-les-maires-demandent-des-mesures-fiscales-pour-soutenir-le-commerce?pk_campaign=Flux%20RSS&pk_kwd=2026-10-01&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le développement du réseau France services a reconstitué un maillage de proximité dont le besoin s'était fortement exprimé en 2018 par le mouvement des gilets jaunes mais n'a pas pour autant imposé un \"guichet unique\" de l'accueil social de premier niveau. Dans un récent rapport, l'inspection généra",
+    "bf_description": "Le commerce de centre-ville reste l'axe \"le plus fragile du programme\" Action coeur de ville, font valoir les maires de villes moyenne, à l'issue d'un comité de pilotage réuni autour des ministres concernés et des financeurs. Ils réclament \"des mesures fiscales et réglementaires&nbsp;conséquentes\".",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Dépenses d'éducation : la France a flirté avec les 200 milliards d'euros en 2025",
-    "bf_lien": "https://www.banquedesterritoires.fr/depenses-deducation-la-france-flirte-avec-les-200-milliards-deuros-en-2025?pk_campaign=Flux%20RSS&pk_kwd=2026-09-30&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "437 projets de transformation de zones commerciales d'entrée de ville identifiés",
+    "bf_lien": "https://www.banquedesterritoires.fr/437-projets-de-transformation-de-zones-commerciales-dentree-de-ville-identifies?pk_campaign=Flux%20RSS&pk_kwd=2026-10-01&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "La France a atteint en 2025 un record de 199 milliards d'euros de dépenses d'éducation. L'État en prend plus de la moitié à sa charge et les collectivités un peu moins d'un quart. Chez ces dernières, les dépenses d'éducation marquent le pas, à l'exception de l'investissement des communes dans le bât",
+    "bf_description": "La deuxième édition du baromètre des entrées de ville commerciales de la Scet et du groupe Icade, présentée le 30 septembre 2026, comptabilise 437 projets de transformation en cours, principalement à l'état d'étude et surtout portés par le privé. Les élus y voient un sujet stratégique pour leur mand",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
