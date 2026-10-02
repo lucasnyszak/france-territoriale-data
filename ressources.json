@@ -1332,46 +1332,136 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Budget 2027 : les collectivités appelées à un effort de 5,4 milliards d'euros",
-    "bf_lien": "https://www.banquedesterritoires.fr/budget-2027-les-collectivites-appelees-un-effort-de-54-milliards-deuros?pk_campaign=Flux%20RSS&pk_kwd=2026-10-01&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Le Re&#039;fil  ton Style - Bretagne",
+    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9642-le-re-fil-ton-style-bretagne.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt;Saint-Brieuc Armor Agglomération et ses partenaires anime un groupe d’acteurs locaux impliqués dans le réemploi des textiles. &lt;/span&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt;&lt;span style=&quot;background-color:#FFFFFF;&quot;&gt;&lt;sp",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Le Réemp&#039; stimulateur du réemploi des matériaux",
+    "bf_lien": "https://librairie.ademe.fr/batiment/9641-le-reemp-stimulateur-du-reemploi-des-materiaux.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:12pt;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt;La Communauté d’Agglomération a porté un programme « Territoire Économe en Ressources » 2022/2025, soutenu par l’ADEME Bretagne. &lt;/span&gt;&lt;span styl",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Pression publicitaire du secteur textile sur les réseaux sociaux",
+    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9639-pression-publicitaire-du-secteur-textile-sur-les-reseaux-sociaux.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:12pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;L’étude a visé à assurer une meilleure connaissance et une analyse de la pression publicitaire dans le secteur textile, appliquée spécifiquement à la publicité sur les réseaux sociaux.&lt;/span&gt;&l",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "ADEME Magazine n°182 octobre 2026",
+    "bf_lien": "https://librairie.ademe.fr/energies/9616-ademe-magazine-n182-octobre-2026.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:11pt;&quot;&gt;&lt;span style=&quot;font-size:12pt;&quot;&gt;Pétrole, gaz, charbon : notre dépendance aux énergies fossiles est à la fois un enjeu climatique, économique et industriel. Utilisés comme sources d’énergie ou comme matières premières, ils contribue",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Enquête de perception des Français sur les sites et sols pollués",
+    "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9631-enquete-de-perception-des-francais-sur-les-sites-et-sols-pollues.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;&lt;span style=&quot;color:#000000;&quot;&gt;La pollution des sols liée aux activités industrielles et de services est au cœur des enjeux de recyclage foncier, de transition écologique et de santé environnementale. &lt;/span&gt;Alors que les politiques publiques en la matière se renforcent ",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Expé URBA SanTé : relever les défis de l&#039;urbanisme favorable à la santé",
+    "bf_lien": "https://librairie.ademe.fr/actualites/expe-urba-sante-relever-les-defis-de-l-urbanisme-favorable-a-la-sante-n33",
+    "bf_categorie": "Transitions",
+    "bf_description": "Entre 2024 et 2025, l’ADEME et l’Ecolab du CGDD (Ministère de la Transition écologique) ont accompagné 8 territoires pour intégrer la santé au cœur de leurs projets urbains.",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Panel usages électrodomestiques  : des données fiables pour comprendre nos consommations",
+    "bf_lien": "https://librairie.ademe.fr/actualites/panel-usages-electrodomestiques-annee-6-des-donnees-fiables-pour-comprendre-nos-consommations-n32",
+    "bf_categorie": "Transitions",
+    "bf_description": "Depuis 6 ans, le projet Panel Elecdom fournit une vision claire, fiable et actualisée des consommations électrodomestiques en France.",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Alimentation et gaspillage alimentaire, publications récentes",
+    "bf_lien": "https://librairie.ademe.fr/actualites/alimentation-et-gaspillage-alimentaire-publications-recentes-n31",
+    "bf_categorie": "Transitions",
+    "bf_description": "Voici une sélection de documents diffusés sur l&#039;alimentation et le gaspillage alimentaire.",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Occitanie : 3 bilans sur la gestion des déchets",
+    "bf_lien": "https://librairie.ademe.fr/actualites/occitanie-3-bilans-sur-la-gestion-des-dechets-n30",
+    "bf_categorie": "Transitions",
+    "bf_description": "L’ADEME Occitanie a publié, fin 2025, trois documents-bilans sur la gestion des déchets (période 2015-2024).",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Forêt, biomasse et produits biosourcés, publications récentes",
+    "bf_lien": "https://librairie.ademe.fr/actualites/foret-biomasse-et-produits-biosources-n29",
+    "bf_categorie": "Transitions",
+    "bf_description": "Voici une sélection de publications diffusées depuis un an sur la forêt, biomasse et les produits biosourcés.",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Budget 2027 : le gouvernement freine sur une plaque de verglas",
+    "bf_lien": "https://www.banquedesterritoires.fr/budget-2027-le-gouvernement-freine-sur-une-plaque-de-verglas?pk_campaign=Flux%20RSS&pk_kwd=2026-10-02&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le gouvernement a dévoilé sa copie budgétaire ce 30 septembre devant le Comité des finances locales (CFL). Les économies envisagées sur les finances locales s'élèvent à pas moins de 5,4 milliards d'euros. Un résultat qui monte à 7 milliards d'euros, selon le président du CFL, qui inclut aussi la hau",
+    "bf_description": "Le gouvernement a transmis au Parlement, ce jeudi 1er octobre, le projet de loi de finances et le projet de financement de la sécurité sociale pour 2027. Deux textes dont il espère 43 milliards d'euros d'économies nouvelles (et 54 milliards d'euros en tenant compte de mesures déjà décidées), afin de",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Les communes politique de la ville dépensent davantage en fonctionnement mais investissent moins",
-    "bf_lien": "https://www.banquedesterritoires.fr/les-communes-politique-de-la-ville-depensent-davantage-en-fonctionnement-mais-investissent-moins?pk_campaign=Flux%20RSS&pk_kwd=2026-10-01&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Budget 2027 : après les annonces sur les finances des collectivités, l'inquiétude est générale chez les élus locaux",
+    "bf_lien": "https://www.banquedesterritoires.fr/budget-2027-apres-les-annonces-sur-les-finances-des-collectivites-linquietude-est-generale-chez-les?pk_campaign=Flux%20RSS&pk_kwd=2026-10-02&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Selon le premier baromètre financier des communes ayant au moins un quartier prioritaire de la politique de la ville (QPV), présenté le 29 septembre par l'Agence France locale (AFL) et l'association Ville &amp; Banlieue, les communes dans lesquelles sont implantées les quelque 1.600 QPV présentent u",
+    "bf_description": "\"Consternation\", \"état de choc\", \"incompréhension\", \"vive inquiétude\"... les élus locaux ne sont vraiment pas restés indifférents à la présentation, le 30 septembre, du plan d'économies sur les budgets locaux qui, selon le gouvernement, doit s'élever à 5,5 milliards d'euros en 2027. Le sujet s'est n",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Bilan des autorités environnementales : une concrétisation mitigée des trajectoires territoriales d’adaptation",
-    "bf_lien": "https://www.banquedesterritoires.fr/bilan-des-autorites-environnementales-une-concretisation-mitigee-des-trajectoires-territoriales?pk_campaign=Flux%20RSS&pk_kwd=2026-10-01&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "PLF 2027 : Monique Barbut met en avant le budget \"globalement stable\" de son ministère",
+    "bf_lien": "https://www.banquedesterritoires.fr/plf-2027-monique-barbut-met-en-avant-le-budget-globalement-stable-de-son-ministere?pk_campaign=Flux%20RSS&pk_kwd=2026-10-02&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "L’Autorité environnementale (Ae) a rendu public son rapport annuel marqué par un afflux de documents d'urbanisme à l’approche des municipales. Les avis rendus en 2025 témoignent d'avancées dans l’appropriation de certaines thématiques, notamment via les schémas de cohérence territoriale (Scot), mais",
+    "bf_description": "Dans un contexte budgétaire \"très contraint\", la ministre de la Transition écologique met en avant le budget \"globalement stable de son ministère\". Dans le détail, le fonds Chaleur voit comme redouté son enveloppe amputée de 300 millions d'euros, alors que celle du fonds vert augmente de 150 million",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Action coeur de ville : les maires demandent des mesures fiscales pour soutenir le commerce",
-    "bf_lien": "https://www.banquedesterritoires.fr/action-coeur-de-ville-les-maires-demandent-des-mesures-fiscales-pour-soutenir-le-commerce?pk_campaign=Flux%20RSS&pk_kwd=2026-10-01&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Rejoint par les étudiants, le mouvement lycéen prend de l'ampleur et le Premier ministre convoque une cellule de crise",
+    "bf_lien": "https://www.banquedesterritoires.fr/rejoint-par-les-etudiants-le-mouvement-lyceen-prend-de-lampleur-et-le-premier-ministre-convoque-une?pk_campaign=Flux%20RSS&pk_kwd=2026-10-02&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le commerce de centre-ville reste l'axe \"le plus fragile du programme\" Action coeur de ville, font valoir les maires de villes moyenne, à l'issue d'un comité de pilotage réuni autour des ministres concernés et des financeurs. Ils réclament \"des mesures fiscales et réglementaires&nbsp;conséquentes\".",
+    "bf_description": "Le mouvement de blocage des lycéens, rejoint par les étudiants pour demander davantage de moyens, a dégénéré ce jeudi 1er octobre dans plusieurs grandes villes de France, contraignant le Premier ministre à convoquer une cellule de crise. Les lycéens revendiquent plus de moyens humains et financiers ",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "437 projets de transformation de zones commerciales d'entrée de ville identifiés",
-    "bf_lien": "https://www.banquedesterritoires.fr/437-projets-de-transformation-de-zones-commerciales-dentree-de-ville-identifies?pk_campaign=Flux%20RSS&pk_kwd=2026-10-01&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Emballages ménagers : Mathieu Lefèvre veut dégager 100 millions d'euros pour les futurs contrats de performance éco-organismes / collectivités",
+    "bf_lien": "https://www.banquedesterritoires.fr/emballages-menagers-mathieu-lefevre-veut-degager-100-millions-deuros-pour-les-futurs-contrats-de?pk_campaign=Flux%20RSS&pk_kwd=2026-10-02&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "La deuxième édition du baromètre des entrées de ville commerciales de la Scet et du groupe Icade, présentée le 30 septembre 2026, comptabilise 437 projets de transformation en cours, principalement à l'état d'étude et surtout portés par le privé. Les élus y voient un sujet stratégique pour leur mand",
+    "bf_description": "Le ministre délégué auprès de la ministre de la Transition écologique a annoncé l'adoption prochaine de l'arrêté permettant la mise en œuvre des \"contrats de performance\" que les collectivités volontaires pourront conclure avec les éco-organismes de la filière Emballages ménagers. 100 millions d'eur",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
