@@ -1332,6 +1332,24 @@
     "bf_formulaire": "actu"
   },
   {
+    "bf_titre": "Un budget vert pour ma collectivité ?",
+    "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9647-un-budget-vert-pour-ma-collectivite-.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;Ce petit guide pratique est à destination d&#039;agents et d&#039;élus qui envisageraient de déployer une &lt;strong&gt;démarche pérenne de budgétisation verte &lt;/strong&gt;au sein de leur collectivité territoriale. Il est issue d&#039;un &lt;strong&gt;retour d’expérience &lt;/strong&gt;d",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Guide pour la réalisation d&#039;une étude d&#039;orientation d&#039;usages pour la reconversion des friches",
+    "bf_lien": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9646-guide-pour-la-realisation-d-une-etude-d-orientation-d-usages-pour-la-reconversion-des-friches.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;Le présent cahier des charges a vocation à accompagner les collectivités et autres porteurs de projets pour évaluer le potentiel de reconversion de friches industrielles. En effet, à la suite des actions d’inventaire ou de recensement des friches sur leurs territoires, les collectivités exp",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "Le Re&#039;fil  ton Style - Bretagne",
     "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9642-le-re-fil-ton-style-bretagne.html",
     "bf_categorie": "Transitions",
@@ -1354,24 +1372,6 @@
     "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9639-pression-publicitaire-du-secteur-textile-sur-les-reseaux-sociaux.html",
     "bf_categorie": "Transitions",
     "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:12pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;L’étude a visé à assurer une meilleure connaissance et une analyse de la pression publicitaire dans le secteur textile, appliquée spécifiquement à la publicité sur les réseaux sociaux.&lt;/span&gt;&l",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "ADEME Magazine n°182 octobre 2026",
-    "bf_lien": "https://librairie.ademe.fr/energies/9616-ademe-magazine-n182-octobre-2026.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:11pt;&quot;&gt;&lt;span style=&quot;font-size:12pt;&quot;&gt;Pétrole, gaz, charbon : notre dépendance aux énergies fossiles est à la fois un enjeu climatique, économique et industriel. Utilisés comme sources d’énergie ou comme matières premières, ils contribue",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Enquête de perception des Français sur les sites et sols pollués",
-    "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9631-enquete-de-perception-des-francais-sur-les-sites-et-sols-pollues.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;color:#000000;&quot;&gt;La pollution des sols liée aux activités industrielles et de services est au cœur des enjeux de recyclage foncier, de transition écologique et de santé environnementale. &lt;/span&gt;Alors que les politiques publiques en la matière se renforcent ",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1422,46 +1422,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Budget 2027 : le gouvernement freine sur une plaque de verglas",
-    "bf_lien": "https://www.banquedesterritoires.fr/budget-2027-le-gouvernement-freine-sur-une-plaque-de-verglas?pk_campaign=Flux%20RSS&pk_kwd=2026-10-02&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "PLFSS 2027 : ce que prévoit le gouvernement en matière d'accès aux soins et d'autonomie",
+    "bf_lien": "https://www.banquedesterritoires.fr/plfss-2027-ce-que-prevoit-le-gouvernement-en-matiere-dacces-aux-soins-et-dautonomie?pk_campaign=Flux%20RSS&pk_kwd=2026-10-03&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le gouvernement a transmis au Parlement, ce jeudi 1er octobre, le projet de loi de finances et le projet de financement de la sécurité sociale pour 2027. Deux textes dont il espère 43 milliards d'euros d'économies nouvelles (et 54 milliards d'euros en tenant compte de mesures déjà décidées), afin de",
+    "bf_description": "Le gouvernement veut diviser par deux le déficit de la sécurité sociale mais affiche une volonté de préserver l'hôpital et de poursuivre le déploiement du réseau France Santé. En matière de financement de l'autonomie, le budget 2027 de la sécurité sociale prévoit des changements structurels, avec 30",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Budget 2027 : après les annonces sur les finances des collectivités, l'inquiétude est générale chez les élus locaux",
-    "bf_lien": "https://www.banquedesterritoires.fr/budget-2027-apres-les-annonces-sur-les-finances-des-collectivites-linquietude-est-generale-chez-les?pk_campaign=Flux%20RSS&pk_kwd=2026-10-02&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Événements climatiques extrêmes :  le Haut-commissariat au plan sur tous les fronts pour tirer les leçons d’un été hors normes",
+    "bf_lien": "https://www.banquedesterritoires.fr/evenements-climatiques-extremes-le-haut-commissariat-au-plan-sur-tous-les-fronts-pour-tirer-les?pk_campaign=Flux%20RSS&pk_kwd=2026-10-03&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "\"Consternation\", \"état de choc\", \"incompréhension\", \"vive inquiétude\"... les élus locaux ne sont vraiment pas restés indifférents à la présentation, le 30 septembre, du plan d'économies sur les budgets locaux qui, selon le gouvernement, doit s'élever à 5,5 milliards d'euros en 2027. Le sujet s'est n",
+    "bf_description": "Sans doute animé par la crainte que le débat ne se referme après ces mois d'événements climatiques extrêmes s'enchaînant à une vitesse inédite, le Haut-commissariat à la stratégie et au plan (HCSP) a proposé, lors d’un webinaire organisé ce 30 septembre, de croiser les regards d’un climatologue, d’u",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "PLF 2027 : Monique Barbut met en avant le budget \"globalement stable\" de son ministère",
-    "bf_lien": "https://www.banquedesterritoires.fr/plf-2027-monique-barbut-met-en-avant-le-budget-globalement-stable-de-son-ministere?pk_campaign=Flux%20RSS&pk_kwd=2026-10-02&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Données publiques : la Dinum accélère sur la simplification en s'alliant avec l'IGN",
+    "bf_lien": "https://www.banquedesterritoires.fr/donnees-publiques-la-dinum-accelere-sur-la-simplification-en-salliant-avec-lign?pk_campaign=Flux%20RSS&pk_kwd=2026-10-03&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Dans un contexte budgétaire \"très contraint\", la ministre de la Transition écologique met en avant le budget \"globalement stable de son ministère\". Dans le détail, le fonds Chaleur voit comme redouté son enveloppe amputée de 300 millions d'euros, alors que celle du fonds vert augmente de 150 million",
+    "bf_description": "Lors du second Forum de la donnée territoriale, le 1ᵉʳ octobre 2026, la Dinum (bientôt Ariane), a annoncé un rapprochement avec l'IGN pour contribuer à simplifier le paysage des plateformes open data. Forte de premiers succès comme le référentiel national des bâtiments ou la centralisation des donné",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Rejoint par les étudiants, le mouvement lycéen prend de l'ampleur et le Premier ministre convoque une cellule de crise",
-    "bf_lien": "https://www.banquedesterritoires.fr/rejoint-par-les-etudiants-le-mouvement-lyceen-prend-de-lampleur-et-le-premier-ministre-convoque-une?pk_campaign=Flux%20RSS&pk_kwd=2026-10-02&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "L'indice minimum des agents publics devrait être relevé le 1er janvier prochain",
+    "bf_lien": "https://www.banquedesterritoires.fr/lindice-minimum-des-agents-publics-devrait-etre-releve-le-1er-janvier-prochain?pk_campaign=Flux%20RSS&pk_kwd=2026-10-03&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le mouvement de blocage des lycéens, rejoint par les étudiants pour demander davantage de moyens, a dégénéré ce jeudi 1er octobre dans plusieurs grandes villes de France, contraignant le Premier ministre à convoquer une cellule de crise. Les lycéens revendiquent plus de moyens humains et financiers ",
+    "bf_description": "Face au regain de l'inflation, le gouvernement a proposé ce 2 octobre une hausse du minimum de traitement à l'indice majoré 372. La proposition a été accueillie fraîchement par les syndicats.",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Emballages ménagers : Mathieu Lefèvre veut dégager 100 millions d'euros pour les futurs contrats de performance éco-organismes / collectivités",
-    "bf_lien": "https://www.banquedesterritoires.fr/emballages-menagers-mathieu-lefevre-veut-degager-100-millions-deuros-pour-les-futurs-contrats-de?pk_campaign=Flux%20RSS&pk_kwd=2026-10-02&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "L'Éducation nationale préservée par le projet de loi de finances pour 2027",
+    "bf_lien": "https://www.banquedesterritoires.fr/leducation-nationale-preservee-par-le-projet-de-loi-de-finances-pour-2027?pk_campaign=Flux%20RSS&pk_kwd=2026-10-03&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le ministre délégué auprès de la ministre de la Transition écologique a annoncé l'adoption prochaine de l'arrêté permettant la mise en œuvre des \"contrats de performance\" que les collectivités volontaires pourront conclure avec les éco-organismes de la filière Emballages ménagers. 100 millions d'eur",
+    "bf_description": "Le budget du ministère de l'Éducation nationale inscrit dans le projet de loi de finances pour 2027 présente une légère hausse par rapport à 2026, une quasi-exception dans un climat de forte austérité budgétaire. La baisse du nombre d'élèves par classe et la hausse du nombre d'accompagnants d'élèves",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
