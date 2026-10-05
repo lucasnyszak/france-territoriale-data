@@ -1287,6 +1287,24 @@
     "bf_formulaire": "6"
   },
   {
+    "bf_titre": "Décarboner les travaux routiers : un Essentiel du Cerema pour les élus et techniciens des collectivités",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/decarboner-travaux-routiers-essentiel-du-cerema-elus",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Lundi 5 octobre 2026 Economie circulaire du BTP couverture L&#039;Essentiel &quot;Décarboner les travaux routiers&quot; s&#039;adresse en priorité aux élus locaux et à leurs équipes, pour leur présenter la démarche de réduction des émissions carbone et des déchets dans les chantiers routie",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Le Cerema affine la connaissance des risques d’inondation dans le Golfe de Saint-Tropez",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/cerema-affine-connaissance-risques-inondation-golfe-saint",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Lundi 5 octobre 2026 Observation, planification et gestion du littoral et de la mer Golfe de Saint-Tropez Les principaux cours d’eau du territoire, comme la Giscle, la Mole, la Garde ou le Bourrian, sont déjà bien documentés et font l’objet de démarches de prévention. En revanche, les peti",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "Zones humides et captages : Des fiches du Cerema sur des actions de protection menées dans les territoires",
     "bf_lien": "https://www.cerema.fr/fr/actualites/zones-humides-captages-fiches-du-cerema-actions-protection",
     "bf_categorie": "Transitions",
@@ -1314,20 +1332,11 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Descente de Montaigu : l’expertise du Cerema pour sécuriser les poids lourds",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/descente-montaigu-expertise-du-cerema-securiser-poids-lourds",
+    "bf_titre": "VELIS ET MOBILITES DURABLES : Usages, freins et leviers à l&#039;adoption",
+    "bf_lien": "https://librairie.ademe.fr/mobilite-et-transports/9648-velis-et-mobilites-durables-usages-freins-et-leviers-a-l-adoption.html",
     "bf_categorie": "Transitions",
-    "bf_description": "Publié le Mardi 29 septembre 2026 Aménagement de la voirie et éclairage public, Transports intelligents, trafics et régulation, Sécurité routière Descente de Montaigu Le contexte de la descente de Montaigu Situation de la route&amp;nbsp; La RD52 permet l’accès sud à Lons-le-Saunier depuis le plateau",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Eclairage public : la télégestion des installations",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/eclairage-public-telegestion-installations",
-    "bf_categorie": "Transitions",
-    "bf_description": "Publié le Mardi 29 septembre 2026 Aménagement de la voirie et éclairage public, Aménager avec la biodiversité couverture L&#039;éclairage public, qui représente une part non négligeable des dépenses des collectivités, connaît des évolutions des technologiques et doit intégrer de nouvelles contrainte",
-    "bf_tags": "CEREMA",
+    "bf_description": "&lt;p&gt;Le projet VIMob (Véhicules Intermédiaires pour les Mobilités du quotidien) s&#039;inscrit dans une démarche d&#039;analyse de la transition écologique des mobilités. Il vise à évaluer le potentiel des Véhicules Légers Intermédiaires (VÉLIs) pour décarboner les déplacements courts du quotidi",
+    "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
@@ -1363,15 +1372,6 @@
     "bf_lien": "https://librairie.ademe.fr/batiment/9641-le-reemp-stimulateur-du-reemploi-des-materiaux.html",
     "bf_categorie": "Transitions",
     "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:12pt;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt;La Communauté d’Agglomération a porté un programme « Territoire Économe en Ressources » 2022/2025, soutenu par l’ADEME Bretagne. &lt;/span&gt;&lt;span styl",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Pression publicitaire du secteur textile sur les réseaux sociaux",
-    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9639-pression-publicitaire-du-secteur-textile-sur-les-reseaux-sociaux.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:12pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;L’étude a visé à assurer une meilleure connaissance et une analyse de la pression publicitaire dans le secteur textile, appliquée spécifiquement à la publicité sur les réseaux sociaux.&lt;/span&gt;&l",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1423,7 +1423,7 @@
   },
   {
     "bf_titre": "PLFSS 2027 : ce que prévoit le gouvernement en matière d'accès aux soins et d'autonomie",
-    "bf_lien": "https://www.banquedesterritoires.fr/plfss-2027-ce-que-prevoit-le-gouvernement-en-matiere-dacces-aux-soins-et-dautonomie?pk_campaign=Flux%20RSS&pk_kwd=2026-10-04&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_lien": "https://www.banquedesterritoires.fr/plfss-2027-ce-que-prevoit-le-gouvernement-en-matiere-dacces-aux-soins-et-dautonomie?pk_campaign=Flux%20RSS&pk_kwd=2026-10-05&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
     "bf_description": "Le gouvernement veut diviser par deux le déficit de la sécurité sociale mais affiche une volonté de préserver l'hôpital et de poursuivre le déploiement du réseau France Santé. En matière de financement de l'autonomie, le budget 2027 de la sécurité sociale prévoit des changements structurels, avec 30",
     "bf_tags": "Banque des Territoires",
@@ -1432,7 +1432,7 @@
   },
   {
     "bf_titre": "Événements climatiques extrêmes :  le Haut-commissariat au plan sur tous les fronts pour tirer les leçons d’un été hors normes",
-    "bf_lien": "https://www.banquedesterritoires.fr/evenements-climatiques-extremes-le-haut-commissariat-au-plan-sur-tous-les-fronts-pour-tirer-les?pk_campaign=Flux%20RSS&pk_kwd=2026-10-04&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_lien": "https://www.banquedesterritoires.fr/evenements-climatiques-extremes-le-haut-commissariat-au-plan-sur-tous-les-fronts-pour-tirer-les?pk_campaign=Flux%20RSS&pk_kwd=2026-10-05&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
     "bf_description": "Sans doute animé par la crainte que le débat ne se referme après ces mois d'événements climatiques extrêmes s'enchaînant à une vitesse inédite, le Haut-commissariat à la stratégie et au plan (HCSP) a proposé, lors d’un webinaire organisé ce 30 septembre, de croiser les regards d’un climatologue, d’u",
     "bf_tags": "Banque des Territoires",
@@ -1441,7 +1441,7 @@
   },
   {
     "bf_titre": "Données publiques : la Dinum accélère sur la simplification en s'alliant avec l'IGN",
-    "bf_lien": "https://www.banquedesterritoires.fr/donnees-publiques-la-dinum-accelere-sur-la-simplification-en-salliant-avec-lign?pk_campaign=Flux%20RSS&pk_kwd=2026-10-04&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_lien": "https://www.banquedesterritoires.fr/donnees-publiques-la-dinum-accelere-sur-la-simplification-en-salliant-avec-lign?pk_campaign=Flux%20RSS&pk_kwd=2026-10-05&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
     "bf_description": "Lors du second Forum de la donnée territoriale, le 1ᵉʳ octobre 2026, la Dinum (bientôt Ariane), a annoncé un rapprochement avec l'IGN pour contribuer à simplifier le paysage des plateformes open data. Forte de premiers succès comme le référentiel national des bâtiments ou la centralisation des donné",
     "bf_tags": "Banque des Territoires",
@@ -1450,7 +1450,7 @@
   },
   {
     "bf_titre": "L'indice minimum des agents publics devrait être relevé le 1er janvier prochain",
-    "bf_lien": "https://www.banquedesterritoires.fr/lindice-minimum-des-agents-publics-devrait-etre-releve-le-1er-janvier-prochain?pk_campaign=Flux%20RSS&pk_kwd=2026-10-04&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_lien": "https://www.banquedesterritoires.fr/lindice-minimum-des-agents-publics-devrait-etre-releve-le-1er-janvier-prochain?pk_campaign=Flux%20RSS&pk_kwd=2026-10-05&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
     "bf_description": "Face au regain de l'inflation, le gouvernement a proposé ce 2 octobre une hausse du minimum de traitement à l'indice majoré 372. La proposition a été accueillie fraîchement par les syndicats.",
     "bf_tags": "Banque des Territoires",
@@ -1459,7 +1459,7 @@
   },
   {
     "bf_titre": "L'Éducation nationale préservée par le projet de loi de finances pour 2027",
-    "bf_lien": "https://www.banquedesterritoires.fr/leducation-nationale-preservee-par-le-projet-de-loi-de-finances-pour-2027?pk_campaign=Flux%20RSS&pk_kwd=2026-10-04&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_lien": "https://www.banquedesterritoires.fr/leducation-nationale-preservee-par-le-projet-de-loi-de-finances-pour-2027?pk_campaign=Flux%20RSS&pk_kwd=2026-10-05&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
     "bf_description": "Le budget du ministère de l'Éducation nationale inscrit dans le projet de loi de finances pour 2027 présente une légère hausse par rapport à 2026, une quasi-exception dans un climat de forte austérité budgétaire. La baisse du nombre d'élèves par classe et la hausse du nombre d'accompagnants d'élèves",
     "bf_tags": "Banque des Territoires",
