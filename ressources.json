@@ -1287,6 +1287,24 @@
     "bf_formulaire": "6"
   },
   {
+    "bf_titre": "Jeux Olympiques et Paralympiques de Paris 2024 : quel impact sur l'accessibilité pour les personnes handicapées ?",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/jeux-olympiques-paralympiques-paris-2024-quel-impact",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Mardi 6 octobre 2026 Ville et territoires accessibles à tous, Accessibilité universelle des bâtiments, Vélo, marche, accessibilité, Aménagement de la voirie et éclairage public, Transports collectifs, partagés et intermodalité Adidas Arena UFR Dans le cadre du programme interministériel d’",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Ventilation dans les maisons individuelles en rénovation énergétique : le projet de recherche Justair apporte des connaissances et outils au service des acteurs du bâtiment",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/ventilation-maisons-individuelles-renovation-energetique",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Mardi 6 octobre 2026 Qualité des environnements intérieurs et ventilation Maison instrumentée dans le cadre du projet Justair Retrouvez dans cet article du Cerema les livrables, ainsi qu&#039;un focus sur les retours d’expérience et la méthode issue de ce projet lancé en fin d’année 2022, ",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "Décarboner les travaux routiers : un Essentiel du Cerema pour les élus et techniciens des collectivités",
     "bf_lien": "https://www.cerema.fr/fr/actualites/decarboner-travaux-routiers-essentiel-du-cerema-elus",
     "bf_categorie": "Transitions",
@@ -1314,20 +1332,20 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Prévision des inondations : le Cerema en appui du réseau national Vigicrues",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/prevision-inondations-cerema-appui-du-reseau-national",
+    "bf_titre": "Projet ORMAT - Objectif Recyclage MATières",
+    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9653-projet-ormat-objectif-recyclage-matieres.html",
     "bf_categorie": "Transitions",
-    "bf_description": "Publié le Jeudi 1 octobre 2026 Risques inondations et mouvements de terrain Inondation dans les Landes Le Cerema dispose d’une expertise reconnue dans l’évaluation du risque inondations, notamment liées aux crues. Depuis 2007, il intervient à l’échelle nationale, au travers du Groupe d’Appui aux Ser",
-    "bf_tags": "CEREMA",
+    "bf_description": "&lt;p&gt;Porté par REVIPLAST et soutenu par l’ADEME, RECYsanté étudie les conditions de recyclage des plastiques non dangereux des établissements de santé en Nouvelle-Aquitaine. Dans la continuité d’EVAPLUS, le projet associe diagnostic et expérimentation de collecte ciblée. Les déchets à risques in",
+    "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Mettre en œuvre l’obligation d’accessibilité de la chaîne de déplacement: un mandat pour agir",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/mettre-oeuvre-obligation-accessibilite-chaine-deplacement",
+    "bf_titre": "Projet de recherche action : ACV PAT (Projets Alimentaires Territoriaux)",
+    "bf_lien": "https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9649-projet-de-recherche-action-acv-pat-projets-alimentaires-territoriaux.html",
     "bf_categorie": "Transitions",
-    "bf_description": "Publié le Mercredi 30 septembre 2026 Vélo, marche, accessibilité Mairie accessible aux personnes à mobilité réduite L’accessibilité constitue une obligation réglementaire, mais aussi un enjeu majeur de qualité de vie et d’égalité d’accès aux services, aux équipements et aux mobilités. Pour un élu lo",
-    "bf_tags": "CEREMA",
+    "bf_description": "&lt;p&gt;Le projet de recherche-action ACV-PAT vise à développer une démarche intégrée permettant d&#039;évaluer les impacts environnementaux des systèmes alimentaires territoriaux et d&#039;accompagner les collectivités dans la construction de stratégies de transition adaptées aux spécificités loca",
+    "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
@@ -1354,24 +1372,6 @@
     "bf_lien": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9646-guide-pour-la-realisation-d-une-etude-d-orientation-d-usages-pour-la-reconversion-des-friches.html",
     "bf_categorie": "Transitions",
     "bf_description": "&lt;p&gt;Le présent cahier des charges a vocation à accompagner les collectivités et autres porteurs de projets pour évaluer le potentiel de reconversion de friches industrielles. En effet, à la suite des actions d’inventaire ou de recensement des friches sur leurs territoires, les collectivités exp",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Le Re&#039;fil  ton Style - Bretagne",
-    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9642-le-re-fil-ton-style-bretagne.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt;Saint-Brieuc Armor Agglomération et ses partenaires anime un groupe d’acteurs locaux impliqués dans le réemploi des textiles. &lt;/span&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt;&lt;span style=&quot;background-color:#FFFFFF;&quot;&gt;&lt;sp",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Le Réemp&#039; stimulateur du réemploi des matériaux",
-    "bf_lien": "https://librairie.ademe.fr/batiment/9641-le-reemp-stimulateur-du-reemploi-des-materiaux.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:12pt;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt;La Communauté d’Agglomération a porté un programme « Territoire Économe en Ressources » 2022/2025, soutenu par l’ADEME Bretagne. &lt;/span&gt;&lt;span styl",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1422,46 +1422,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "PLFSS 2027 : ce que prévoit le gouvernement en matière d'accès aux soins et d'autonomie",
-    "bf_lien": "https://www.banquedesterritoires.fr/plfss-2027-ce-que-prevoit-le-gouvernement-en-matiere-dacces-aux-soins-et-dautonomie?pk_campaign=Flux%20RSS&pk_kwd=2026-10-05&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Mouvement lycéen : Sébastien Lecornu lance cinq chantiers pour \"répondre aux difficultés\"",
+    "bf_lien": "https://www.banquedesterritoires.fr/mouvement-lyceen-sebastien-lecornu-lance-cinq-chantiers-pour-repondre-aux-difficultes?pk_campaign=Flux%20RSS&pk_kwd=2026-10-06&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le gouvernement veut diviser par deux le déficit de la sécurité sociale mais affiche une volonté de préserver l'hôpital et de poursuivre le déploiement du réseau France Santé. En matière de financement de l'autonomie, le budget 2027 de la sécurité sociale prévoit des changements structurels, avec 30",
+    "bf_description": "Le Premier ministre Sébastien Lecornu entend répondre aux actuels blocages de lycées en proposant cinq chantiers, dont celui de la rénovation des lycées en lien avec les conseils régionaux. Les premières décisions et les premiers chiffrages des réformes à venir sont attendus d'ici la fin octobre 202",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Événements climatiques extrêmes :  le Haut-commissariat au plan sur tous les fronts pour tirer les leçons d’un été hors normes",
-    "bf_lien": "https://www.banquedesterritoires.fr/evenements-climatiques-extremes-le-haut-commissariat-au-plan-sur-tous-les-fronts-pour-tirer-les?pk_campaign=Flux%20RSS&pk_kwd=2026-10-05&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Le projet de loi \"casseurs-payeurs\" examiné au Sénat le 27 octobre",
+    "bf_lien": "https://www.banquedesterritoires.fr/le-projet-de-loi-casseurs-payeurs-examine-au-senat-le-27-octobre?pk_campaign=Flux%20RSS&pk_kwd=2026-10-06&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Sans doute animé par la crainte que le débat ne se referme après ces mois d'événements climatiques extrêmes s'enchaînant à une vitesse inédite, le Haut-commissariat à la stratégie et au plan (HCSP) a proposé, lors d’un webinaire organisé ce 30 septembre, de croiser les regards d’un climatologue, d’u",
+    "bf_description": "Le projet de loi \"casseurs-payeurs\" sera examiné en première lecture au Sénat le 27 octobre, a annoncé le gouvernement ce lundi 5 octobre, alors que le mouvement lycéen se poursuit. Dans attendre, le garde des Sceaux a demandé aux procureurs d'engager la responsabilité civile des parents en cas de d",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Données publiques : la Dinum accélère sur la simplification en s'alliant avec l'IGN",
-    "bf_lien": "https://www.banquedesterritoires.fr/donnees-publiques-la-dinum-accelere-sur-la-simplification-en-salliant-avec-lign?pk_campaign=Flux%20RSS&pk_kwd=2026-10-05&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Laurent Nuñez confirme une programmation pluriannuelle des moyens de la sécurité civile",
+    "bf_lien": "https://www.banquedesterritoires.fr/laurent-nunez-confirme-une-programmation-pluriannuelle-des-moyens-de-la-securite-civile?pk_campaign=Flux%20RSS&pk_kwd=2026-10-06&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Lors du second Forum de la donnée territoriale, le 1ᵉʳ octobre 2026, la Dinum (bientôt Ariane), a annoncé un rapprochement avec l'IGN pour contribuer à simplifier le paysage des plateformes open data. Forte de premiers succès comme le référentiel national des bâtiments ou la centralisation des donné",
+    "bf_description": "Le ministre de l'Intérieur a annoncé, dans un message vidéo adressé vendredi 2 octobre aux sapeurs-pompiers réunis en congrès, qu'une enveloppe pluriannuelle d'un milliard d'euros supplémentaire sur cinq ans serait affectée aux Sdis. Cette programmation pluriannuelle figurera dans le projet de loi d",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "L'indice minimum des agents publics devrait être relevé le 1er janvier prochain",
-    "bf_lien": "https://www.banquedesterritoires.fr/lindice-minimum-des-agents-publics-devrait-etre-releve-le-1er-janvier-prochain?pk_campaign=Flux%20RSS&pk_kwd=2026-10-05&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Santé environnementale :   le gouvernement décide de réduire plus rapidement les teneurs en cadmium dans les engrais",
+    "bf_lien": "https://www.banquedesterritoires.fr/sante-environnementale-le-gouvernement-decide-de-reduire-plus-rapidement-les-teneurs-en-cadmium?pk_campaign=Flux%20RSS&pk_kwd=2026-10-06&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Face au regain de l'inflation, le gouvernement a proposé ce 2 octobre une hausse du minimum de traitement à l'indice majoré 372. La proposition a été accueillie fraîchement par les syndicats.",
+    "bf_description": "Le gouvernement a décidé de réduire plus rapidement le taux de cadmium dans les engrais phosphatés, avec un seuil abaissé à 20 milligrammes par kilogramme de phosphore contenu dans les engrais dès 2030, contre 90 mg/kg actuellement.",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "L'Éducation nationale préservée par le projet de loi de finances pour 2027",
-    "bf_lien": "https://www.banquedesterritoires.fr/leducation-nationale-preservee-par-le-projet-de-loi-de-finances-pour-2027?pk_campaign=Flux%20RSS&pk_kwd=2026-10-05&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Violences dans le périscolaire : Édouard Geffray plaide pour un \"continuum de protection\" entre l'école et les communes",
+    "bf_lien": "https://www.banquedesterritoires.fr/violences-dans-le-periscolaire-edouard-geffray-plaide-pour-un-continuum-de-protection-entre-lecole?pk_campaign=Flux%20RSS&pk_kwd=2026-10-06&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le budget du ministère de l'Éducation nationale inscrit dans le projet de loi de finances pour 2027 présente une légère hausse par rapport à 2026, une quasi-exception dans un climat de forte austérité budgétaire. La baisse du nombre d'élèves par classe et la hausse du nombre d'accompagnants d'élèves",
+    "bf_description": "Auditionné le 30 septembre 2026 par la mission d'information du Sénat sur les violences dans le périscolaire, le ministre de l'Éducation nationale, Édouard Geffray, a reconnu l'existence d'une \"zone grise\" entre temps scolaire et temps périscolaire. Défendant plusieurs mesures inscrites dans le proj",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
