@@ -1287,6 +1287,24 @@
     "bf_formulaire": "6"
   },
   {
+    "bf_titre": "Mobilité : quelle marge d’action pour ma collectivité ? Retour sur le Forum Mobilité Sud-Ouest du 1er septembre 2026",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/mobilite-quelle-marge-action-ma-collectivite-retour-forum",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Mercredi 7 octobre 2026 Gouvernance, planification et organisation des mobilités, Transports collectifs, partagés et intermodalité, Vélo, marche, accessibilité Modes actifs à Toulouse La mobilité structure le quotidien des habitants : aller travailler ou étudier, accéder aux services et au",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "L’accessibilité en montagne : focus sur le parcours de l’usager",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/accessibilite-montagne-focus-parcours-usager",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Mercredi 7 octobre 2026 Vélo, marche, accessibilité Accessibilité d&#039;une cabine de téléphérique Le séminaire &quot;En Piste !&quot; a rassemblé plus de 110 participants de divers horizons (services de l’État, élus, mouvements sportifs et experts d&#039;usage) pour faire de l&#039;acces",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "Jeux Olympiques et Paralympiques de Paris 2024 : quel impact sur l'accessibilité pour les personnes handicapées ?",
     "bf_lien": "https://www.cerema.fr/fr/actualites/jeux-olympiques-paralympiques-paris-2024-quel-impact",
     "bf_categorie": "Transitions",
@@ -1314,64 +1332,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Le Cerema affine la connaissance des risques d’inondation dans le Golfe de Saint-Tropez",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/cerema-affine-connaissance-risques-inondation-golfe-saint",
+    "bf_titre": "Projet CEPARER - Caractérisation des émissions de particules remises en suspension par les véhicules routiers",
+    "bf_lien": "https://librairie.ademe.fr/recherche-et-innovation/9659-projet-ceparer-caracterisation-des-emissions-de-particules-remises-en-suspension-par-les-vehicules-routiers.html",
     "bf_categorie": "Transitions",
-    "bf_description": "Publié le Lundi 5 octobre 2026 Observation, planification et gestion du littoral et de la mer Golfe de Saint-Tropez Les principaux cours d’eau du territoire, comme la Giscle, la Mole, la Garde ou le Bourrian, sont déjà bien documentés et font l’objet de démarches de prévention. En revanche, les peti",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Zones humides et captages : Des fiches du Cerema sur des actions de protection menées dans les territoires",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/zones-humides-captages-fiches-du-cerema-actions-protection",
-    "bf_categorie": "Transitions",
-    "bf_description": "Publié le Jeudi 1 octobre 2026 Eau et milieux aquatiques dernière fiche Article du 28 février 2025, mis à jour.Les zones humides ont différentes fonctions hydrologiques, biogéochimiques et liées à la biodiversité. Les mesures de protection des zones humides, en particulier sur les zones de captage d",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Projet ORMAT - Objectif Recyclage MATières",
-    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9653-projet-ormat-objectif-recyclage-matieres.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Porté par REVIPLAST et soutenu par l’ADEME, RECYsanté étudie les conditions de recyclage des plastiques non dangereux des établissements de santé en Nouvelle-Aquitaine. Dans la continuité d’EVAPLUS, le projet associe diagnostic et expérimentation de collecte ciblée. Les déchets à risques in",
+    "bf_description": "&lt;p&gt;La caractérisation des émissions liées à la remise en suspension des particules routières reste un défi scientifique, les méthodologies actuelles présentant des limites, notamment dans la prise en compte de l’effet de la vitesse des véhicules.&lt;br /&gt; Le projet CEPARER a mis en évidence",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Projet de recherche action : ACV PAT (Projets Alimentaires Territoriaux)",
-    "bf_lien": "https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9649-projet-de-recherche-action-acv-pat-projets-alimentaires-territoriaux.html",
+    "bf_titre": "Chaufferie géothermique sur sondes. Ecole Marcel Pagnol. Commune de Pamiers (09)",
+    "bf_lien": "https://librairie.ademe.fr/energies/9658-chaufferie-geothermique-sur-sondes-ecole-marcel-pagnol-commune-de-pamiers-09.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Le projet de recherche-action ACV-PAT vise à développer une démarche intégrée permettant d&#039;évaluer les impacts environnementaux des systèmes alimentaires territoriaux et d&#039;accompagner les collectivités dans la construction de stratégies de transition adaptées aux spécificités loca",
+    "bf_description": "&lt;p style=&quot;margin-right:11px;&quot;&gt;&lt;span style=&quot;font-size:11pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;&lt;span style=&quot;color:#404040;&quot;&gt;Situé sur un îlot entouré par des canaux de l’Ariège, le projet « île aux enfants », porté par la commune de Pamiers,",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "VELIS ET MOBILITES DURABLES : Usages, freins et leviers à l&#039;adoption",
-    "bf_lien": "https://librairie.ademe.fr/mobilite-et-transports/9648-velis-et-mobilites-durables-usages-freins-et-leviers-a-l-adoption.html",
+    "bf_titre": "Etude des enjeux énergétiques des entrepôts",
+    "bf_lien": "https://librairie.ademe.fr/mobilite-et-transports/9657-etude-des-enjeux-energetiques-des-entrepots.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Le projet VIMob (Véhicules Intermédiaires pour les Mobilités du quotidien) s&#039;inscrit dans une démarche d&#039;analyse de la transition écologique des mobilités. Il vise à évaluer le potentiel des Véhicules Légers Intermédiaires (VÉLIs) pour décarboner les déplacements courts du quotidi",
+    "bf_description": "&lt;div&gt; &lt;p&gt;Les entrepôts logistiques de plus de 1 000 m² représentent un parc immobilier de 93,4 millions de m² en France, caractérisé par d’importantes surfaces de toitures et de parkings déjà artificialisés. L’étude met en évidence leur potentiel significatif de production d’énergies ren",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Un budget vert pour ma collectivité ?",
-    "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9647-un-budget-vert-pour-ma-collectivite-.html",
+    "bf_titre": "Intégrer l&#039;effet cocktail en analyse de cycle de vie",
+    "bf_lien": "https://librairie.ademe.fr/recherche-et-innovation/9654-integrer-l-effet-cocktail-en-analyse-de-cycle-de-vie.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Ce petit guide pratique est à destination d&#039;agents et d&#039;élus qui envisageraient de déployer une &lt;strong&gt;démarche pérenne de budgétisation verte &lt;/strong&gt;au sein de leur collectivité territoriale. Il est issue d&#039;un &lt;strong&gt;retour d’expérience &lt;/strong&gt;d",
+    "bf_description": "&lt;p&gt;Ce rapport présente les résultats du projet Tailored, financé par l&#039;ADEME. Les méthodes d&#039;analyse du cycle de vie (ACV) reposent sur des facteurs de caractérisation mono-substance, supposant implicitement que les substances co-émises agissent indépendamment. Cette étude lève cette",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Guide pour la réalisation d&#039;une étude d&#039;orientation d&#039;usages pour la reconversion des friches",
-    "bf_lien": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9646-guide-pour-la-realisation-d-une-etude-d-orientation-d-usages-pour-la-reconversion-des-friches.html",
+    "bf_titre": "Avis de l&#039;ADEME sur la Voiture Electrique et sa recharge",
+    "bf_lien": "https://librairie.ademe.fr/mobilite-et-transports/9581-avis-de-l-ademe-sur-la-voiture-electrique-et-sa-recharge.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Le présent cahier des charges a vocation à accompagner les collectivités et autres porteurs de projets pour évaluer le potentiel de reconversion de friches industrielles. En effet, à la suite des actions d’inventaire ou de recensement des friches sur leurs territoires, les collectivités exp",
+    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;Bien qu’en hausse marquée dans les immatriculations de véhicules neufs en France, la voiture électrique soulève encore des questionnements voire des doutes, à la fois sur son intérêt environnemental, son aptitude à répondre aux besoins de déplac",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1422,46 +1422,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Mouvement lycéen : Sébastien Lecornu lance cinq chantiers pour \"répondre aux difficultés\"",
-    "bf_lien": "https://www.banquedesterritoires.fr/mouvement-lyceen-sebastien-lecornu-lance-cinq-chantiers-pour-repondre-aux-difficultes?pk_campaign=Flux%20RSS&pk_kwd=2026-10-06&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Finances publiques locales : 2026 s'annonce \"en demi-teinte\"",
+    "bf_lien": "https://www.banquedesterritoires.fr/finances-publiques-locales-2026-sannonce-en-demi-teinte?pk_campaign=Flux%20RSS&pk_kwd=2026-10-07&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le Premier ministre Sébastien Lecornu entend répondre aux actuels blocages de lycées en proposant cinq chantiers, dont celui de la rénovation des lycées en lien avec les conseils régionaux. Les premières décisions et les premiers chiffrages des réformes à venir sont attendus d'ici la fin octobre 202",
+    "bf_description": "En dépit de recettes de fonctionnement en hausse limitée (+2,1%), les collectivités devraient tirer leur épingle du jeu cette année, grâce à la maîtrise de leurs dépenses de fonctionnement (+2,2%). C'est ce qui ressort de la dernière note de conjoncture des finances locales présentée ce 6 octobre pa",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Le projet de loi \"casseurs-payeurs\" examiné au Sénat le 27 octobre",
-    "bf_lien": "https://www.banquedesterritoires.fr/le-projet-de-loi-casseurs-payeurs-examine-au-senat-le-27-octobre?pk_campaign=Flux%20RSS&pk_kwd=2026-10-06&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Mélanie Thomin (ANPP) :  \"Il ne faut pas demander aux territoires de faire davantage avec moins d’ingénierie\"",
+    "bf_lien": "https://www.banquedesterritoires.fr/melanie-thomin-anpp-il-ne-faut-pas-demander-aux-territoires-de-faire-davantage-avec-moins?pk_campaign=Flux%20RSS&pk_kwd=2026-10-07&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le projet de loi \"casseurs-payeurs\" sera examiné en première lecture au Sénat le 27 octobre, a annoncé le gouvernement ce lundi 5 octobre, alors que le mouvement lycéen se poursuit. Dans attendre, le garde des Sceaux a demandé aux procureurs d'engager la responsabilité civile des parents en cas de d",
+    "bf_description": "L'Association nationale des pôles territoriaux et des pays (ANPP) tenait les 24 et 25 septembre 2026 son Congrès annuel des pôles territoriaux et des pays (#CAPP26). L'occasion de faire le point avec sa présidente, Mélanie Thomin, sur l'actualité des pays, le projet de stratégie nationale d'aménagem",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Laurent Nuñez confirme une programmation pluriannuelle des moyens de la sécurité civile",
-    "bf_lien": "https://www.banquedesterritoires.fr/laurent-nunez-confirme-une-programmation-pluriannuelle-des-moyens-de-la-securite-civile?pk_campaign=Flux%20RSS&pk_kwd=2026-10-06&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Élus locaux et acteurs de l'énergie appellent à \"ne pas sacrifier les ambitions et les moyens de la transition énergétique\"",
+    "bf_lien": "https://www.banquedesterritoires.fr/elus-locaux-et-acteurs-de-lenergie-appellent-ne-pas-sacrifier-les-ambitions-et-les-moyens-de-la?pk_campaign=Flux%20RSS&pk_kwd=2026-10-07&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le ministre de l'Intérieur a annoncé, dans un message vidéo adressé vendredi 2 octobre aux sapeurs-pompiers réunis en congrès, qu'une enveloppe pluriannuelle d'un milliard d'euros supplémentaire sur cinq ans serait affectée aux Sdis. Cette programmation pluriannuelle figurera dans le projet de loi d",
+    "bf_description": "Dans une lettre ouverte au Premier ministre, publiée ce 5 octobre, plusieurs associations de collectivités (Amorce, France urbaine, ANPP et la Fédération des EPL) et d'acteurs de l'énergie (dont France Renouvelables, Enerplan, le Syndicat des énergies renouvelables et le réseau Cler) appellent à \"ne",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Santé environnementale :   le gouvernement décide de réduire plus rapidement les teneurs en cadmium dans les engrais",
-    "bf_lien": "https://www.banquedesterritoires.fr/sante-environnementale-le-gouvernement-decide-de-reduire-plus-rapidement-les-teneurs-en-cadmium?pk_campaign=Flux%20RSS&pk_kwd=2026-10-06&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Adaptation au changement climatique : une mission de l'Assemblée estime entre 8,75 et 12,3 milliards d'euros les dépenses publiques supplémentaires nécessaires",
+    "bf_lien": "https://www.banquedesterritoires.fr/adaptation-au-changement-climatique-une-mission-de-lassemblee-estime-entre-875-et-123-milliards?pk_campaign=Flux%20RSS&pk_kwd=2026-10-07&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le gouvernement a décidé de réduire plus rapidement le taux de cadmium dans les engrais phosphatés, avec un seuil abaissé à 20 milligrammes par kilogramme de phosphore contenu dans les engrais dès 2030, contre 90 mg/kg actuellement.",
+    "bf_description": "Estimant à 16 milliards d'euros au minimum le coût de l'été caniculaire hors norme qu'a connu la France, la mission flash conduite par le président de la commission des finances de l'Assemblée nationale, Éric Coquerel, plaide pour consacrer une dizaine de milliards d'euros de dépenses publiques supp",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Violences dans le périscolaire : Édouard Geffray plaide pour un \"continuum de protection\" entre l'école et les communes",
-    "bf_lien": "https://www.banquedesterritoires.fr/violences-dans-le-periscolaire-edouard-geffray-plaide-pour-un-continuum-de-protection-entre-lecole?pk_campaign=Flux%20RSS&pk_kwd=2026-10-06&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "France urbaine : des solutions \"à portée de ville\"",
+    "bf_lien": "https://www.banquedesterritoires.fr/france-urbaine-des-solutions-portee-de-ville?pk_campaign=Flux%20RSS&pk_kwd=2026-10-07&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Auditionné le 30 septembre 2026 par la mission d'information du Sénat sur les violences dans le périscolaire, le ministre de l'Éducation nationale, Édouard Geffray, a reconnu l'existence d'une \"zone grise\" entre temps scolaire et temps périscolaire. Défendant plusieurs mesures inscrites dans le proj",
+    "bf_description": "A l'occasion de son 10e anniversaire, l'association a publié un corpus de 15 priorités et 60 propositions représentant à la fois une feuille de route pour le nouveau mandat municipal et intercommunal et une contribution au débat en vue de l'élection présidentielle.",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
