@@ -1287,6 +1287,33 @@
     "bf_formulaire": "6"
   },
   {
+    "bf_titre": "Adapter son village au changement climatique. Un Essentiel du Cerema pour guider les élus locaux",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/adapter-son-village-au-changement-climatique-essentiel-du",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Jeudi 8 octobre 2026 Stratégies, résilience et projets de transition couverture Les villages sont confrontés à des phénomènes liés à l’augmentation des températures et à la modification des précipitations, qui peuvent dégrader l’habitabilité de certains territoires. Face à ces enjeux spéci",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "INTERVIEW – L’amélioration continue de l’accessibilité de la chaîne de déplacement - Océane Sermadiras, adjointe au maire d'Amiens",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/interview-amelioration-continue-accessibilite-chaine",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Jeudi 8 octobre 2026 Vélo, marche, accessibilité, Ville et territoires accessibles à tous Océane SERMADIRAS, Amiens &amp;nbsp;Océane SermadirasAdjointe au maire d&#039;Amiens, en charge de la démocratie locale et de (…) Lire la suite",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Accompagner les propriétaires et gestionnaires de bâtiments lors des événements climatiques : le programme national Accept'Eau",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/accompagner-proprietaires-gestionnaires-batiments-lors",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Jeudi 8 octobre 2026 Solutions d&#039;adaptation des bâtiments au changement climatique, Risques inondations et mouvements de terrain Rue inondée par ruissellement à Paillet en Gironde Le changement climatique amplifie les phénomènes naturels et accroît la vulnérabilité des territoires&amp",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "Mobilité : quelle marge d’action pour ma collectivité ? Retour sur le Forum Mobilité Sud-Ouest du 1er septembre 2026",
     "bf_lien": "https://www.cerema.fr/fr/actualites/mobilite-quelle-marge-action-ma-collectivite-retour-forum",
     "bf_categorie": "Transitions",
@@ -1305,73 +1332,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Jeux Olympiques et Paralympiques de Paris 2024 : quel impact sur l'accessibilité pour les personnes handicapées ?",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/jeux-olympiques-paralympiques-paris-2024-quel-impact",
+    "bf_titre": "Etude ACV comparative de la valorisation des CSR en cimenterie",
+    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9661-etude-acv-comparative-de-la-valorisation-des-csr-en-cimenterie.html",
     "bf_categorie": "Transitions",
-    "bf_description": "Publié le Mardi 6 octobre 2026 Ville et territoires accessibles à tous, Accessibilité universelle des bâtiments, Vélo, marche, accessibilité, Aménagement de la voirie et éclairage public, Transports collectifs, partagés et intermodalité Adidas Arena UFR Dans le cadre du programme interministériel d’",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Ventilation dans les maisons individuelles en rénovation énergétique : le projet de recherche Justair apporte des connaissances et outils au service des acteurs du bâtiment",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/ventilation-maisons-individuelles-renovation-energetique",
-    "bf_categorie": "Transitions",
-    "bf_description": "Publié le Mardi 6 octobre 2026 Qualité des environnements intérieurs et ventilation Maison instrumentée dans le cadre du projet Justair Retrouvez dans cet article du Cerema les livrables, ainsi qu&#039;un focus sur les retours d’expérience et la méthode issue de ce projet lancé en fin d’année 2022, ",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Décarboner les travaux routiers : un Essentiel du Cerema pour les élus et techniciens des collectivités",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/decarboner-travaux-routiers-essentiel-du-cerema-elus",
-    "bf_categorie": "Transitions",
-    "bf_description": "Publié le Lundi 5 octobre 2026 Economie circulaire du BTP couverture L&#039;Essentiel &quot;Décarboner les travaux routiers&quot; s&#039;adresse en priorité aux élus locaux et à leurs équipes, pour leur présenter la démarche de réduction des émissions carbone et des déchets dans les chantiers routie",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Projet CEPARER - Caractérisation des émissions de particules remises en suspension par les véhicules routiers",
-    "bf_lien": "https://librairie.ademe.fr/recherche-et-innovation/9659-projet-ceparer-caracterisation-des-emissions-de-particules-remises-en-suspension-par-les-vehicules-routiers.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;La caractérisation des émissions liées à la remise en suspension des particules routières reste un défi scientifique, les méthodologies actuelles présentant des limites, notamment dans la prise en compte de l’effet de la vitesse des véhicules.&lt;br /&gt; Le projet CEPARER a mis en évidence",
+    "bf_description": "&lt;p&gt;L&#039;industrie cimentière, en France, cherche à substituer l&#039;utilisation du charbon et du coke de pétrole par des combustibles de récupération en vue de réduire leurs émissions de gaz à effet de serre. Aujourd&#039;hui, 12 sites sur 20 utilisent des combustibles solides de récupérati",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Chaufferie géothermique sur sondes. Ecole Marcel Pagnol. Commune de Pamiers (09)",
-    "bf_lien": "https://librairie.ademe.fr/energies/9658-chaufferie-geothermique-sur-sondes-ecole-marcel-pagnol-commune-de-pamiers-09.html",
+    "bf_titre": "Fiche matière première : le nickel",
+    "bf_lien": "https://librairie.ademe.fr/industrie-et-production-durable/9662-fiche-matiere-premiere-le-nickel.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p style=&quot;margin-right:11px;&quot;&gt;&lt;span style=&quot;font-size:11pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;&lt;span style=&quot;color:#404040;&quot;&gt;Situé sur un îlot entouré par des canaux de l’Ariège, le projet « île aux enfants », porté par la commune de Pamiers,",
+    "bf_description": "&lt;p style=&quot;margin-left:48px;&quot;&gt;&lt;span style=&quot;font-size:12pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;Les chaînes de valeurs de la transition écologique sont extrêmement complexes, elles mobilisent un nombre très varié de géographies, d&#039;acteurs et de technolog",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Etude des enjeux énergétiques des entrepôts",
-    "bf_lien": "https://librairie.ademe.fr/mobilite-et-transports/9657-etude-des-enjeux-energetiques-des-entrepots.html",
+    "bf_titre": "Fiche matière première : le niobium",
+    "bf_lien": "https://librairie.ademe.fr/industrie-et-production-durable/9663-fiche-matiere-premiere-le-niobium.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;div&gt; &lt;p&gt;Les entrepôts logistiques de plus de 1 000 m² représentent un parc immobilier de 93,4 millions de m² en France, caractérisé par d’importantes surfaces de toitures et de parkings déjà artificialisés. L’étude met en évidence leur potentiel significatif de production d’énergies ren",
+    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:11pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;Les chaînes de valeurs de la transition écologique sont extrêmement complexes, elles mobilisent un nombre très varié de géographies, d&#039;acteurs et de technologies. Certains maillons sont extrêmem",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Intégrer l&#039;effet cocktail en analyse de cycle de vie",
-    "bf_lien": "https://librairie.ademe.fr/recherche-et-innovation/9654-integrer-l-effet-cocktail-en-analyse-de-cycle-de-vie.html",
+    "bf_titre": "Fiche matière première : le phosphore",
+    "bf_lien": "https://librairie.ademe.fr/industrie-et-production-durable/9664-fiche-matiere-premiere-le-phosphore.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Ce rapport présente les résultats du projet Tailored, financé par l&#039;ADEME. Les méthodes d&#039;analyse du cycle de vie (ACV) reposent sur des facteurs de caractérisation mono-substance, supposant implicitement que les substances co-émises agissent indépendamment. Cette étude lève cette",
+    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:11pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;Les chaînes de valeurs de la transition écologique sont extrêmement complexes, elles mobilisent un nombre très varié de géographies, d&#039;acteurs et de technologies. Certains maillons sont extrêmem",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Avis de l&#039;ADEME sur la Voiture Electrique et sa recharge",
-    "bf_lien": "https://librairie.ademe.fr/mobilite-et-transports/9581-avis-de-l-ademe-sur-la-voiture-electrique-et-sa-recharge.html",
+    "bf_titre": "Fiche matière première :  les platinoïdes",
+    "bf_lien": "https://librairie.ademe.fr/industrie-et-production-durable/9665-fiche-matiere-premiere-les-platinoides.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;Bien qu’en hausse marquée dans les immatriculations de véhicules neufs en France, la voiture électrique soulève encore des questionnements voire des doutes, à la fois sur son intérêt environnemental, son aptitude à répondre aux besoins de déplac",
+    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:11pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;Les chaînes de valeurs de la transition écologique sont extrêmement complexes, elles mobilisent un nombre très varié de géographies, d&#039;acteurs et de technologies. Certains maillons sont extrêmem",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1422,46 +1422,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Finances publiques locales : 2026 s'annonce \"en demi-teinte\"",
-    "bf_lien": "https://www.banquedesterritoires.fr/finances-publiques-locales-2026-sannonce-en-demi-teinte?pk_campaign=Flux%20RSS&pk_kwd=2026-10-07&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "PLF 2027, présidentielle… Amorce sur tous les fronts",
+    "bf_lien": "https://www.banquedesterritoires.fr/plf-2027-presidentielle-amorce-sur-tous-les-fronts?pk_campaign=Flux%20RSS&pk_kwd=2026-10-08&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "En dépit de recettes de fonctionnement en hausse limitée (+2,1%), les collectivités devraient tirer leur épingle du jeu cette année, grâce à la maîtrise de leurs dépenses de fonctionnement (+2,2%). C'est ce qui ressort de la dernière note de conjoncture des finances locales présentée ce 6 octobre pa",
+    "bf_description": "Alors qu'elle a ouvert le 7 octobre son 40e&nbsp;congrès, Amorce ne manque pas de batailles à livrer, à commencer par le projet de loi de finances pour 2027. L'association profite également de l'occasion pour avancer ses pions auprès des candidats déclarés à la future présidentielle. Des proposition",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Mélanie Thomin (ANPP) :  \"Il ne faut pas demander aux territoires de faire davantage avec moins d’ingénierie\"",
-    "bf_lien": "https://www.banquedesterritoires.fr/melanie-thomin-anpp-il-ne-faut-pas-demander-aux-territoires-de-faire-davantage-avec-moins?pk_campaign=Flux%20RSS&pk_kwd=2026-10-07&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "PLF 2027 : une politique d'aménagement du territoire en peau de chagrin",
+    "bf_lien": "https://www.banquedesterritoires.fr/plf-2027-une-politique-damenagement-du-territoire-en-peau-de-chagrin?pk_campaign=Flux%20RSS&pk_kwd=2026-10-08&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "L'Association nationale des pôles territoriaux et des pays (ANPP) tenait les 24 et 25 septembre 2026 son Congrès annuel des pôles territoriaux et des pays (#CAPP26). L'occasion de faire le point avec sa présidente, Mélanie Thomin, sur l'actualité des pays, le projet de stratégie nationale d'aménagem",
+    "bf_description": "Les crédits du PLF 2027 consacrés à l'aménagement du territoire privilégient nettement l'ingénierie sur l'investissement. Parmi les principaux bénéficiaires : les maisons France services (un objectif de 3.000 est visé) et les programmes de revitalisation. 50 postes de chefs de projets Petites villes",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Élus locaux et acteurs de l'énergie appellent à \"ne pas sacrifier les ambitions et les moyens de la transition énergétique\"",
-    "bf_lien": "https://www.banquedesterritoires.fr/elus-locaux-et-acteurs-de-lenergie-appellent-ne-pas-sacrifier-les-ambitions-et-les-moyens-de-la?pk_campaign=Flux%20RSS&pk_kwd=2026-10-07&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "PLF 2027 : les départements disent leur \"incompréhension totale\"",
+    "bf_lien": "https://www.banquedesterritoires.fr/plf-2027-les-departements-disent-leur-incomprehension-totale?pk_campaign=Flux%20RSS&pk_kwd=2026-10-08&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Dans une lettre ouverte au Premier ministre, publiée ce 5 octobre, plusieurs associations de collectivités (Amorce, France urbaine, ANPP et la Fédération des EPL) et d'acteurs de l'énergie (dont France Renouvelables, Enerplan, le Syndicat des énergies renouvelables et le réseau Cler) appellent à \"ne",
+    "bf_description": "Les élus départementaux se réuniront à Reims pour leurs Assises du 14 au 16 octobre. Comme chaque année, les dispositions du projet de loi de finances relatives aux ressources des départements y seront certainement très discutées. Peut-être plus encore cette fois. Le président de Départements de Fra",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Adaptation au changement climatique : une mission de l'Assemblée estime entre 8,75 et 12,3 milliards d'euros les dépenses publiques supplémentaires nécessaires",
-    "bf_lien": "https://www.banquedesterritoires.fr/adaptation-au-changement-climatique-une-mission-de-lassemblee-estime-entre-875-et-123-milliards?pk_campaign=Flux%20RSS&pk_kwd=2026-10-07&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Transition écologique : la Cour des comptes pointe des freins pour faire aboutir la territorialisation",
+    "bf_lien": "https://www.banquedesterritoires.fr/transition-ecologique-la-cour-des-comptes-pointe-des-freins-pour-faire-aboutir-la?pk_campaign=Flux%20RSS&pk_kwd=2026-10-08&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Estimant à 16 milliards d'euros au minimum le coût de l'été caniculaire hors norme qu'a connu la France, la mission flash conduite par le président de la commission des finances de l'Assemblée nationale, Éric Coquerel, plaide pour consacrer une dizaine de milliards d'euros de dépenses publiques supp",
+    "bf_description": "Certes, la planification écologique est mieux structurée –&nbsp;avec entre autres pour point d’orgue en 2026 la publication de la SNBC et de la PPE –&nbsp;mais l’évaluation des besoins financiers et la territorialisation doivent encore être renforcées. Ce constat conduit la Cour des comptes à réitér",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "France urbaine : des solutions \"à portée de ville\"",
-    "bf_lien": "https://www.banquedesterritoires.fr/france-urbaine-des-solutions-portee-de-ville?pk_campaign=Flux%20RSS&pk_kwd=2026-10-07&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Mouvement lycéen : évolution de Parcoursup, suspension de l'usage des grenades assourdissantes...l'exécutif cherche à désamorcer le conflit",
+    "bf_lien": "https://www.banquedesterritoires.fr/mouvement-lyceen-evolution-de-parcoursup-suspension-de-lusage-des-grenades-assourdissanteslexecutif?pk_campaign=Flux%20RSS&pk_kwd=2026-10-08&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "A l'occasion de son 10e anniversaire, l'association a publié un corpus de 15 priorités et 60 propositions représentant à la fois une feuille de route pour le nouveau mandat municipal et intercommunal et une contribution au débat en vue de l'élection présidentielle.",
+    "bf_description": "À la veille d'une nouvelle journée de mobilisation, le gouvernement cherche à désamorcer une contestation lycéenne qui mêle dénonciation des conditions d'études, critiques de Parcoursup et défiance envers les institutions. Alors que le ministre de l'Enseignement supérieur, Philippe Baptiste, exclut ",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
