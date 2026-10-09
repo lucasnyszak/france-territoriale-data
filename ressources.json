@@ -1305,7 +1305,7 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Accompagner les propriétaires et gestionnaires de bâtiments lors des événements climatiques : le programme national Accept'Eau",
+    "bf_titre": "Accompagner les propriétaires et gestionnaires de bâtiments lors des événements climatiques : le programme Accept'Eau",
     "bf_lien": "https://www.cerema.fr/fr/actualites/accompagner-proprietaires-gestionnaires-batiments-lors",
     "bf_categorie": "Transitions",
     "bf_description": "Publié le Jeudi 8 octobre 2026 Solutions d&#039;adaptation des bâtiments au changement climatique, Risques inondations et mouvements de terrain Rue inondée par ruissellement à Paillet en Gironde Le changement climatique amplifie les phénomènes naturels et accroît la vulnérabilité des territoires&amp",
@@ -1328,6 +1328,15 @@
     "bf_categorie": "Transitions",
     "bf_description": "Publié le Mercredi 7 octobre 2026 Vélo, marche, accessibilité Accessibilité d&#039;une cabine de téléphérique Le séminaire &quot;En Piste !&quot; a rassemblé plus de 110 participants de divers horizons (services de l’État, élus, mouvements sportifs et experts d&#039;usage) pour faire de l&#039;acces",
     "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Textile : guide des dispositifs d&#039;aide en Occitanie",
+    "bf_lien": "https://librairie.ademe.fr/industrie-et-production-durable/9679-textile-guide-des-dispositifs-d-aide-en-occitanie.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;Ce guide est à destination des industriels du textile occitan. Il a été élaboré comme une réponse à une étude menée auprès de ces acteurs, relayée notamment par l’Union des Industries Textiles Sud (UIT",
+    "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
@@ -1361,15 +1370,6 @@
   {
     "bf_titre": "Fiche matière première : le phosphore",
     "bf_lien": "https://librairie.ademe.fr/industrie-et-production-durable/9664-fiche-matiere-premiere-le-phosphore.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:11pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;Les chaînes de valeurs de la transition écologique sont extrêmement complexes, elles mobilisent un nombre très varié de géographies, d&#039;acteurs et de technologies. Certains maillons sont extrêmem",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Fiche matière première :  les platinoïdes",
-    "bf_lien": "https://librairie.ademe.fr/industrie-et-production-durable/9665-fiche-matiere-premiere-les-platinoides.html",
     "bf_categorie": "Transitions",
     "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:11pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;Les chaînes de valeurs de la transition écologique sont extrêmement complexes, elles mobilisent un nombre très varié de géographies, d&#039;acteurs et de technologies. Certains maillons sont extrêmem",
     "bf_tags": "ADEME - Librairie",
@@ -1422,46 +1422,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "PLF 2027, présidentielle… Amorce sur tous les fronts",
-    "bf_lien": "https://www.banquedesterritoires.fr/plf-2027-presidentielle-amorce-sur-tous-les-fronts?pk_campaign=Flux%20RSS&pk_kwd=2026-10-08&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Les régions réclament un fonds d'adaptation à la canicule, toute la compétence orientation et moins de coupes budgétaires",
+    "bf_lien": "https://www.banquedesterritoires.fr/les-regions-reclament-un-fonds-dadaptation-la-canicule-toute-la-competence-orientation-et-moins-de?pk_campaign=Flux%20RSS&pk_kwd=2026-10-09&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Alors qu'elle a ouvert le 7 octobre son 40e&nbsp;congrès, Amorce ne manque pas de batailles à livrer, à commencer par le projet de loi de finances pour 2027. L'association profite également de l'occasion pour avancer ses pions auprès des candidats déclarés à la future présidentielle. Des proposition",
+    "bf_description": "Réunies ce 7 octobre à l'initiative du Premier ministre, Sébastien Lecornu, à propos de la mobilisation lycéenne et des conséquences sur le bâti scolaire, les régions ont porté un message plus large : non-remplacement des enseignants, emplois du temps surchargés, Parcoursup et orientation… mais auss",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "PLF 2027 : une politique d'aménagement du territoire en peau de chagrin",
-    "bf_lien": "https://www.banquedesterritoires.fr/plf-2027-une-politique-damenagement-du-territoire-en-peau-de-chagrin?pk_campaign=Flux%20RSS&pk_kwd=2026-10-08&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Service public départemental de l'autonomie : une première rencontre nationale pour valoriser les réussites territoriales",
+    "bf_lien": "https://www.banquedesterritoires.fr/service-public-departemental-de-lautonomie-une-premiere-rencontre-nationale-pour-valoriser-les?pk_campaign=Flux%20RSS&pk_kwd=2026-10-09&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Les crédits du PLF 2027 consacrés à l'aménagement du territoire privilégient nettement l'ingénierie sur l'investissement. Parmi les principaux bénéficiaires : les maisons France services (un objectif de 3.000 est visé) et les programmes de revitalisation. 50 postes de chefs de projets Petites villes",
+    "bf_description": "Généralisé à l'ensemble des départements courant 2025, le service public départemental de l'autonomie (SPDA) entrera dans sa phase opérationnelle en 2027. Pour soutenir la dynamique, la Caisse nationale de solidarité pour l'autonomie (CNSA) a animé une rencontre nationale visant à mettre en avant le",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "PLF 2027 : les départements disent leur \"incompréhension totale\"",
-    "bf_lien": "https://www.banquedesterritoires.fr/plf-2027-les-departements-disent-leur-incomprehension-totale?pk_campaign=Flux%20RSS&pk_kwd=2026-10-08&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Fibre : la filière demande une rallonge d'un à deux euros par prise",
+    "bf_lien": "https://www.banquedesterritoires.fr/fibre-la-filiere-demande-une-rallonge-dun-deux-euros-par-prise?pk_campaign=Flux%20RSS&pk_kwd=2026-10-09&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Les élus départementaux se réuniront à Reims pour leurs Assises du 14 au 16 octobre. Comme chaque année, les dispositions du projet de loi de finances relatives aux ressources des départements y seront certainement très discutées. Peut-être plus encore cette fois. Le président de Départements de Fra",
+    "bf_description": "Réunis à Pau ces 7 et 8 octobre, dans le cadre de l'Université de la transition numérique des territoires (UTNT), les acteurs de l'aménagement numérique ont regretté les lenteurs du régulateur sur la nouvelle grille tarifaire des réseaux d'initiative publique. InfraNum et l'Avicca espèrent que le do",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Transition écologique : la Cour des comptes pointe des freins pour faire aboutir la territorialisation",
-    "bf_lien": "https://www.banquedesterritoires.fr/transition-ecologique-la-cour-des-comptes-pointe-des-freins-pour-faire-aboutir-la?pk_campaign=Flux%20RSS&pk_kwd=2026-10-08&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Une forêt qui continue de s'étendre et de se fragiliser, une production biologique et une captation de carbone qui se stabilisent",
+    "bf_lien": "https://www.banquedesterritoires.fr/une-foret-qui-continue-de-setendre-et-de-se-fragiliser-une-production-biologique-et-une-captation?pk_campaign=Flux%20RSS&pk_kwd=2026-10-09&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Certes, la planification écologique est mieux structurée –&nbsp;avec entre autres pour point d’orgue en 2026 la publication de la SNBC et de la PPE –&nbsp;mais l’évaluation des besoins financiers et la territorialisation doivent encore être renforcées. Ce constat conduit la Cour des comptes à réitér",
+    "bf_description": "L'édition 2026 de l'inventaire forestier national tire à nouveau le constat d'une forêt hexagonale qui continue à la fois de s'étendre et de se fragiliser. En revanche, en baisse ces dernières années, la production biologique et la captation de carbone se stabilisent. L'étude met toutefois en exergu",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Mouvement lycéen : évolution de Parcoursup, suspension de l'usage des grenades assourdissantes...l'exécutif cherche à désamorcer le conflit",
-    "bf_lien": "https://www.banquedesterritoires.fr/mouvement-lyceen-evolution-de-parcoursup-suspension-de-lusage-des-grenades-assourdissanteslexecutif?pk_campaign=Flux%20RSS&pk_kwd=2026-10-08&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Loi Rilhac sur les directeurs d'école : une mise en œuvre \"encore inachevée\"",
+    "bf_lien": "https://www.banquedesterritoires.fr/loi-rilhac-sur-les-directeurs-decole-une-mise-en-oeuvre-encore-inachevee?pk_campaign=Flux%20RSS&pk_kwd=2026-10-09&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "À la veille d'une nouvelle journée de mobilisation, le gouvernement cherche à désamorcer une contestation lycéenne qui mêle dénonciation des conditions d'études, critiques de Parcoursup et défiance envers les institutions. Alors que le ministre de l'Enseignement supérieur, Philippe Baptiste, exclut ",
+    "bf_description": "La mission d'évaluation de la loi de 2021 créant la fonction de directrice ou de directeur d'école a remis un rapport mitigé. Si des avancées sont reconnues, plusieurs dispositions restent lettre morte, dont celles touchant à des responsabilités mal définies entre l'État et les communes.",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
