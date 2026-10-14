@@ -1287,6 +1287,15 @@
     "bf_formulaire": "6"
   },
   {
+    "bf_titre": "Evaluer les impacts de votre projet sur la santé : un appel à manifestation d’intérêt auprès des communes et intercommunalités de Normandie",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/evaluer-impacts-votre-projet-sante-appel-manifestation",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Mercredi 14 octobre 2026 Stratégies, résilience et projets de transition, Aménagement durable : revitalisation et renouvellement urbain Village en Normandie Cet AMI a été élaboré dans le cadre de l’axe 2 du 4ème Plan Régional Santé Environnement (PRSE4) Normandie 2023-2028, qui vise à sout",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "L’évaluation au service de la mise à jour de la doctrine routière : retour sur la matinée d'échanges du 8 septembre 2026",
     "bf_lien": "https://www.cerema.fr/fr/actualites/evaluation-au-service-mise-jour-doctrine-routiere-retour",
     "bf_categorie": "Transitions",
@@ -1323,11 +1332,38 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "INTERVIEW – L’amélioration continue de l’accessibilité de la chaîne de déplacement - Océane Sermadiras, adjointe au maire d'Amiens",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/interview-amelioration-continue-accessibilite-chaine",
+    "bf_titre": "ZIBAC Loire Estuaire - Besoins et ressources en biomasse pour valorisation énergétique",
+    "bf_lien": "https://librairie.ademe.fr/industrie-et-production-durable/9684-zibac-loire-estuaire-besoins-et-ressources-en-biomasse-pour-valorisation-energetique.html",
     "bf_categorie": "Transitions",
-    "bf_description": "Publié le Jeudi 8 octobre 2026 Vélo, marche, accessibilité, Ville et territoires accessibles à tous Océane SERMADIRAS, Amiens &amp;nbsp;Océane SermadirasAdjointe au maire d&#039;Amiens, en charge de la démocratie locale et de (…) Lire la suite",
-    "bf_tags": "CEREMA",
+    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:11pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;Pour le territoire, devenir une Zone Industrielle Bas Carbone, c’est accélérer la décarbonation du secteur industriel qui représente 85% des émissions de CO2 du territoire, assurer la résilience du t",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "ZIBAC Axe Seine - Besoin et ressource en eau à usage industriel",
+    "bf_lien": "https://librairie.ademe.fr/industrie-et-production-durable/9685-zibac-axe-seine-besoin-et-ressource-en-eau-a-usage-industriel.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;L’ambition de la ZIBAC Axe Seine est de favoriser la collaboration des trois ZIP (Zones Industrialo-Portuaires) de l’Axe Seine (Le Havre, Port Jérôme et Rouen) autour des enjeux de décarbonation. Pour cela, une association unique a été créée, SOCRATE, avec pour objectif d&#039;élaborer une ",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "ZIBAC Lyon Vallée de la Chimie - Futurs modes de production et mutualisation des usages de la vapeur décarbonée",
+    "bf_lien": "https://librairie.ademe.fr/industrie-et-production-durable/9686-zibac-lyon-vallee-de-la-chimie-futurs-modes-de-production-et-mutualisation-des-usages-de-la-vapeur-decarbonee.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;Cette étude réalisée par les industriels de la ZI de Lyon Vallée de la chimie vise à étudier les conditions de mutualisations et de maillage d&#039;infrastructure énergétique (vapeur) via un bilan des besoins vapeur, un diagnostic des infrastructures disponibles et l&#039;analyse comparativ",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "ZIBAC Saint Avold - Etude de production d&#039;énergie photovoltaïque sur la plateforme Chemesis",
+    "bf_lien": "https://librairie.ademe.fr/industrie-et-production-durable/9687-zibac-saint-avold-etude-de-production-d-energie-photovoltaique-sur-la-plateforme-chemesis.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:11pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;Le projet Chemesis for Future a pour ambition d’élaborer la stratégie de décarbonation de la ZI Carling Saint Avold en adoptant une trajectoire claire et ambitieuse, tout en intégrant des aspects env",
+    "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
@@ -1336,42 +1372,6 @@
     "bf_lien": "https://librairie.ademe.fr/energies/9680-leviers-pour-accelerer-les-energies-renouvelables-en-bretagne.html",
     "bf_categorie": "Transitions",
     "bf_description": "&lt;p&gt;La transition énergétique interroge les conditions territoriales, sociales, et paysagères dans lesquelles ces infrastructures sont développées. Elle n&#039;implique pas seulement un transfert technologique (des énergies fossiles vers les énergies renouvelables), mais également un changement",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Projet JUSTAIR",
-    "bf_lien": "https://librairie.ademe.fr/batiment/9681-projet-justair.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Le projet JUSTAIR est une initiative importante pour améliorer la qualité de la ventilation dans les maisons individuelles en rénovation. En développant des outils et des référentiels techniques, et en sensibilisant les différents publics, le projet vise à garantir une meilleure QAI, contri",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Étude de l&#039;évolution de l&#039;étanchéité à l&#039;air des bâtiments pendant la première année d&#039;occupation",
-    "bf_lien": "https://librairie.ademe.fr/batiment/9682-etude-de-l-evolution-de-l-etancheite-a-l-air-des-batiments-pendant-la-premiere-annee-d-occupation.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;L’étanchéité à l’air est un paramètre clé de la performance énergétique des bâtiments et du confort de leurs occupants. Les réglementaires (RT2012 puis RE2020) fixent des seuils de perméabilité à l’air à la réception des bâtiments, mais la question de la tenue dans le temps reste peu docume",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Textile : guide des dispositifs d&#039;aide en Occitanie",
-    "bf_lien": "https://librairie.ademe.fr/industrie-et-production-durable/9679-textile-guide-des-dispositifs-d-aide-en-occitanie.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;Ce guide est à destination des industriels du textile occitan. Il a été élaboré comme une réponse à une étude menée auprès de ces acteurs, relayée notamment par l’Union des Industries Textiles Sud (UIT",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Etude ACV comparative de la valorisation des CSR en cimenterie",
-    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9661-etude-acv-comparative-de-la-valorisation-des-csr-en-cimenterie.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;L&#039;industrie cimentière, en France, cherche à substituer l&#039;utilisation du charbon et du coke de pétrole par des combustibles de récupération en vue de réduire leurs émissions de gaz à effet de serre. Aujourd&#039;hui, 12 sites sur 20 utilisent des combustibles solides de récupérati",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1422,46 +1422,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Budget 2027 : en commission, les députés allègent l'effort réclamé aux collectivités... puis retoquent le texte",
-    "bf_lien": "https://www.banquedesterritoires.fr/budget-2027-en-commission-les-deputes-allegent-leffort-reclame-aux-collectivites-puis-retoquent-le?pk_campaign=Flux%20RSS&pk_kwd=2026-10-13&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Retraite des élus locaux : un décret définit les conditions de l'octroi de trimestres supplémentaires",
+    "bf_lien": "https://www.banquedesterritoires.fr/retraite-des-elus-locaux-un-decret-definit-les-conditions-de-loctroi-de-trimestres-supplementaires?pk_campaign=Flux%20RSS&pk_kwd=2026-10-14&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "À une large majorité, la commission des finances a rejeté le 9 octobre le volet \"recettes\" du projet de loi de finances pour 2027, non sans avoir auparavant supprimé les principales ponctions sur les recettes des collectivités, à savoir la contribution progressive à l'effort budgétaire et le coup de",
+    "bf_description": "Un décret très attendu par les élus exerçant ou ayant exercé des fonctions exécutives locales, puisque définissant les modalités de l'attribution en leur faveur de trimestres de durée d'assurance au titre de la retraite, est paru ce 13 octobre au Journal officiel. Avec cependant une date d'entrée en",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Dotations : pour Sébastien Lecornu, les distances doivent compter \"autant que le nombre d’habitants\"",
-    "bf_lien": "https://www.banquedesterritoires.fr/dotations-pour-sebastien-lecornu-les-distances-doivent-compter-autant-que-le-nombre-dhabitants?pk_campaign=Flux%20RSS&pk_kwd=2026-10-13&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Les collectivités dans le halo des aides aux entreprises",
+    "bf_lien": "https://www.banquedesterritoires.fr/les-collectivites-dans-le-halo-des-aides-aux-entreprises?pk_campaign=Flux%20RSS&pk_kwd=2026-10-14&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Dans un message adressé aux maires ruraux réunis en congrès, le 10 octobre à Auch, le Premier ministre a assuré vouloir \"préserver leur capacité d'action sur le terrain\" au moment des discusssions budgétaires. Il est revenu sur la création d'une \"dotation de protection de la nature et des paysages\" ",
+    "bf_description": "Dans un rapport annexé au budget 2027, Bercy évalue à 166 milliards d'euros le montant des aides aux entreprises pour l'année 2024. Un exercice qui aura vocation à être renouvelé chaque année sur la base d'une nouvelle méthodologie fournie par le haut-commissariat à la stratégie et au plan. La part ",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Intentions d'investissement du bloc local : une année 2026 en demi-teinte",
-    "bf_lien": "https://www.banquedesterritoires.fr/intentions-dinvestissement-du-bloc-local-une-annee-2026-en-demi-teinte?pk_campaign=Flux%20RSS&pk_kwd=2026-10-13&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Rénovation locative : 45.000 bailleurs accompagnés par Bail Rénov’",
+    "bf_lien": "https://www.banquedesterritoires.fr/renovation-locative-45000-bailleurs-accompagnes-par-bail-renov?pk_campaign=Flux%20RSS&pk_kwd=2026-10-14&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "L'Observatoire des investissements du bloc local&nbsp;initié par la Banque des Territoires a livré les résultats de sa deuxième édition, portant sur les intentions d'investissement des communes et des intercommunalités en 2026. On y relève notamment une hausse globale de 3,6% des intentions d'invest",
+    "bf_description": "Après deux ans et demi de déploiement national, le programme gratuit d'accompagnement Bail Rénov' a rendu son bilan. Entre levée des freins administratifs, médiation auprès des locataires et expérimentations territoriales, l'association entend transformer son retour de terrain en leviers opérationne",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Nouvelles brigades de gendarmerie : l'objectif ne sera pas atteint",
-    "bf_lien": "https://www.banquedesterritoires.fr/nouvelles-brigades-de-gendarmerie-lobjectif-ne-sera-pas-atteint?pk_campaign=Flux%20RSS&pk_kwd=2026-10-13&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Les préconisations de l'Académie des technologies pour endiguer la crise des vocations dans le secteur du bâtiment",
+    "bf_lien": "https://www.banquedesterritoires.fr/les-preconisations-de-lacademie-des-technologies-pour-endiguer-la-crise-des-vocations-dans-le?pk_campaign=Flux%20RSS&pk_kwd=2026-10-14&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Au regard du projet de loi de finances, vingt nouvelles brigades de gendarmerie devraient être créées en 2027, portant le nombre de créations à 158 depuis 2024. Loin des 239 annoncées par le président de la République il y a tout juste trois ans. Le directeur général de la gendarmerie insiste sur la",
+    "bf_description": "Le dernier rapport en date de l’Académie des technologies se penche sur l’inadéquation entre les besoins de main-d’œuvre induits par les objectifs affichés en matière de rénovation énergétique et la réalité du marché du travail dans le secteur du bâtiment dans son ensemble.",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Masse salariale du bloc communal : une hausse de près de 20% sur le dernier mandat",
-    "bf_lien": "https://www.banquedesterritoires.fr/masse-salariale-du-bloc-communal-une-hausse-de-pres-de-20-sur-le-dernier-mandat?pk_campaign=Flux%20RSS&pk_kwd=2026-10-13&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "La fronde contre les datacenters trouve des relais à l'Assemblée nationale",
+    "bf_lien": "https://www.banquedesterritoires.fr/la-fronde-contre-les-datacenters-trouve-des-relais-lassemblee-nationale?pk_campaign=Flux%20RSS&pk_kwd=2026-10-14&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "La société Adelyce a récemment révélé ce résultat issu de l'analyse d'un échantillon de communes et groupements. Son étude met aussi en évidence le fait qu'une part majoritaire de l'augmentation des coûts salariaux échappe à toute maîtrise de la part des collectivités.",
+    "bf_description": "Le 6 octobre 2026 a été présentée une proposition de résolution réclamant un moratoire sur les datacenters portés par des acteurs extra-européens. Portée par des élus écologistes avec le soutien des communistes, elle se fait le relais d'un mécontentement croissant à l'encontre des giga projets de da",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
