@@ -1287,6 +1287,33 @@
     "bf_formulaire": "6"
   },
   {
+    "bf_titre": "Adapter les bases nautiques aux enjeux de demain : retours d'expériences",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/adapter-bases-nautiques-aux-enjeux-demain-retours",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Vendredi 23 octobre 2026 Economie, transitions et territoires Base nautique à Gerardmer Cet article co-rédigé par le Cerema, l&#039;école nationale de voile et des sports nautiques et Merci pour la Transition ! a été publié par notre partenaire (…) Lire la suite",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Identification des continuités écologiques pyrénéennes : une approche transfrontalière et novatrice",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/identification-continuites-ecologiques-pyreneennes-approche",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Vendredi 23 octobre 2026 Aménager avec la biodiversité, Stratégies, résilience et projets de transition parc national des Pyrénées Comment faire en sorte que les continuités écologiques soient encore fonctionnelles demain ? Comment identifier les espaces naturels à préserver en priorité ? ",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Normalisation des bétons, enrobés et granulats : le Cerema accueille le groupe de travail des experts européens pour une journée technique sur les enrochements",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/normalisation-betons-enrobes-granulats-cerema-accueille",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Jeudi 22 octobre 2026 Economie circulaire du BTP cerema journée technique enrochements 2026 Les membres du groupe de travail &amp;nbsp;WG 10 &quot;Armourstone&quot; (Enrochements) du comité technique européen de normalisation CEN/TC 154 (Granulats), parmi lesquels figurent des représentant",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "Renouveler et densifier les zones d’activité économique : partagez vos expériences du diagnostic à l’action",
     "bf_lien": "https://www.cerema.fr/fr/actualites/renouveler-densifier-zones-activite-economique-partagez-vos",
     "bf_categorie": "Transitions",
@@ -1305,73 +1332,136 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Inciter les propriétaires à renaturer leur foncier dans une perspective d'adaptation au changement climatique : retours d'expérience",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/inciter-proprietaires-renaturer-leur-foncier-perspective",
+    "bf_titre": "Entrepôt fluvial au service d&#039;une distribution durable via la Garonne (EDDGAR)",
+    "bf_lien": "https://librairie.ademe.fr/mobilite-et-transports/9715-entrepot-fluvial-au-service-d-une-distribution-durable-via-la-garonne-eddgar.html",
     "bf_categorie": "Transitions",
-    "bf_description": "Publié le Mardi 20 octobre 2026 Stratégies, résilience et projets de transition, Aménager avec la biodiversité Cour d&#039;immeuble désimperméabilisée Face à l&#039;urgence climatique et à la nécessité de rafraîchir nos villes, la renaturation ne peut plus se limiter au seul espace public. Représent",
-    "bf_tags": "CEREMA",
+    "bf_description": "&lt;p&gt;Dans le cadre de sa politique de décarbonation et de décongestion routière, la Métropole de Bordeaux explore plusieurs solutions alternatives au tout routier. C’est dans ce contexte que des réflexions et expérimentations concernant les flux logistiques ont récemment été initiées. La relance",
+    "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Les Dessinés / Mission réhabilitation : agir pour le bâti ancien.",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/dessines-mission-rehabilitation-agir-bati-ancien",
+    "bf_titre": "Evaluation environnementale de l&#039;impact des jeux vidéo en France",
+    "bf_lien": "https://librairie.ademe.fr/consommer-autrement/9712-evaluation-environnementale-de-l-impact-des-jeux-video-en-france.html",
     "bf_categorie": "Transitions",
-    "bf_description": "Publié le Lundi 19 octobre 2026 Performances environnementales et énergétiques, Qualité des environnements intérieurs et ventilation, Solutions d&#039;adaptation des bâtiments au changement climatique couverture Les bâtiments construits avant 1948 représentent un tiers du parc immobilier. Ils sont c",
-    "bf_tags": "CEREMA",
+    "bf_description": "&lt;p style=&quot;margin-left:38px;&quot;&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;&lt;span style=&quot;color:#1d1d1b;&quot;&gt;Le secteur du jeu vidéo occupe une place croissante dans l’écosystème numérique français. Avec plus de 38 millions de joueurs et une diversification continue des usa",
+    "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Manager la mobilité pour faciliter les déplacements durables : un retour sur la dynamique initiée en Bretagne",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/manager-mobilite-faciliter-deplacements-durables-retour",
+    "bf_titre": "BâtiZoom : Baromètre de la transition écologique du bâtiment en 2025",
+    "bf_lien": "https://librairie.ademe.fr/batiment/9714-batizoom-barometre-de-la-transition-ecologique-du-batiment-en-2025.html",
     "bf_categorie": "Transitions",
-    "bf_description": "Publié le Vendredi 16 octobre 2026 Gouvernance, planification et organisation des mobilités, Enjeux des politiques de mobilités Brest Cette 10ème édition des RNMM sera placée sous le thème : &quot;Le management de la mobilité à toutes les échelles&quot;. Elle mettra à l’honneur la diversité des terr",
-    "bf_tags": "CEREMA",
+    "bf_description": "&lt;p&gt;Comment a évolué le secteur du bâtiment en 2025 au regard de la transition écologique ? C&#039;est à cette question que répond ce baromètre.&lt;/p&gt; &lt;p&gt;Les principaux enseignements sont les suivants : &lt;/p&gt; &lt;ul&gt; &lt;li&gt;La baisse des émissions de Gaz à Effet de Serre se",
+    "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Thibaut Guilluy : \"La bataille de l’emploi se gagne dans les territoires\"",
-    "bf_lien": "https://www.banquedesterritoires.fr/thibaut-guilluy-la-bataille-de-lemploi-se-gagne-dans-les-territoires?pk_campaign=Flux%20RSS&pk_kwd=2026-10-22&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Méthodologie de réalisation des feuilles de route 3R pour l&#039;emballage en plastique à usage unique",
+    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9711-methodologie-de-realisation-des-feuilles-de-route-3r-pour-l-emballage-en-plastique-a-usage-unique.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;Après publication, en 2022, de la Stratégie National 3R sur les emballages en plastique, l’ADEME met à disposition une méthodologie. Son objectif : &lt;strong&gt;accompagner les fédérations à élaborer leur feuille de route sectorielles 3R emballages&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;Cette ",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Financement de la rénovation performante par étapes des logements privés : diagnostic des enjeux techniques et financiers",
+    "bf_lien": "https://librairie.ademe.fr/batiment/9709-financement-de-la-renovation-performante-par-etapes-des-logements-prives-diagnostic-des-enjeux-techniques-et-financiers.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;La rénovation performante des logements constitue un enjeu central de la transition énergétique française. Pourtant, les pratiques de rénovation énergétique en France restent largement orientées vers des monogestes de travaux, non coordonnés et peu efficients énergétiquement. Si la meilleur",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Expé URBA SanTé : relever les défis de l&#039;urbanisme favorable à la santé",
+    "bf_lien": "https://librairie.ademe.fr/actualites/expe-urba-sante-relever-les-defis-de-l-urbanisme-favorable-a-la-sante-n33",
+    "bf_categorie": "Transitions",
+    "bf_description": "Entre 2024 et 2025, l’ADEME et l’Ecolab du CGDD (Ministère de la Transition écologique) ont accompagné 8 territoires pour intégrer la santé au cœur de leurs projets urbains.",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Panel usages électrodomestiques  : des données fiables pour comprendre nos consommations",
+    "bf_lien": "https://librairie.ademe.fr/actualites/panel-usages-electrodomestiques-annee-6-des-donnees-fiables-pour-comprendre-nos-consommations-n32",
+    "bf_categorie": "Transitions",
+    "bf_description": "Depuis 6 ans, le projet Panel Elecdom fournit une vision claire, fiable et actualisée des consommations électrodomestiques en France.",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Alimentation et gaspillage alimentaire, publications récentes",
+    "bf_lien": "https://librairie.ademe.fr/actualites/alimentation-et-gaspillage-alimentaire-publications-recentes-n31",
+    "bf_categorie": "Transitions",
+    "bf_description": "Voici une sélection de documents diffusés sur l&#039;alimentation et le gaspillage alimentaire.",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Occitanie : 3 bilans sur la gestion des déchets",
+    "bf_lien": "https://librairie.ademe.fr/actualites/occitanie-3-bilans-sur-la-gestion-des-dechets-n30",
+    "bf_categorie": "Transitions",
+    "bf_description": "L’ADEME Occitanie a publié, fin 2025, trois documents-bilans sur la gestion des déchets (période 2015-2024).",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Forêt, biomasse et produits biosourcés, publications récentes",
+    "bf_lien": "https://librairie.ademe.fr/actualites/foret-biomasse-et-produits-biosources-n29",
+    "bf_categorie": "Transitions",
+    "bf_description": "Voici une sélection de publications diffusées depuis un an sur la forêt, biomasse et les produits biosourcés.",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Maintien de l’ordre : le Sénat prône un tournant sécuritaire et financier dans le sillage des violences du 17 octobre",
+    "bf_lien": "https://www.banquedesterritoires.fr/maintien-de-lordre-le-senat-prone-un-tournant-securitaire-et-financier-dans-le-sillage-des?pk_campaign=Flux%20RSS&pk_kwd=2026-10-23&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "La loi Plein Emploi de 2023 promettait de territorialiser davantage le service public de l’emploi. Le directeur général de France Travail, Thibaut Guilluy, qui a œuvré à préfigurer cette transformation, dresse un bilan de l’action de l’opérateur à travers la déclinaison dans les territoires des comi",
+    "bf_description": "Installée en début d'année, la mission sénatoriale sur le maintien de l'ordre a rendu ses conclusions mercredi 21 octobre. Quatre jours seulement après les violences et pillages du 17 octobre. Elle formule 30 propositions pour revoir la doctrine d'intervention des forces de l'ordre à l'aune des débo",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "80 présidents d'université réclament un milliard d'euros dès 2027 et des états généraux de la jeunesse",
-    "bf_lien": "https://www.banquedesterritoires.fr/80-presidents-duniversite-reclament-un-milliard-deuros-des-2027-et-des-etats-generaux-de-la?pk_campaign=Flux%20RSS&pk_kwd=2026-10-22&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Quelle fonction publique dans 25 ans ?",
+    "bf_lien": "https://www.banquedesterritoires.fr/quelle-fonction-publique-dans-25-ans?pk_campaign=Flux%20RSS&pk_kwd=2026-10-23&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Alors que lycéens et étudiants sont mobilisés depuis plusieurs semaines, 80 présidents et directeurs d'établissements ont publié mardi 20 octobre 2026 un manifeste. Ils réclament un milliard d'euros supplémentaires dès 2027 et des états généraux de la jeunesse. Le gouvernement, lui, met en avant les",
+    "bf_description": "La direction générale de l'administration et de la fonction publique (DGAFP) vient de dévoiler les conclusions de sa \"Revue stratégique de la fonction publique\". À six mois de l'élection présidentielle, elle y détaille trois scénarios d'évolution possibles : l’alignement sur le droit du travail, le ",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Investissements pour la décarbonation : les collectivités tiennent toujours leur rang, selon I4CE",
-    "bf_lien": "https://www.banquedesterritoires.fr/investissements-pour-la-decarbonation-les-collectivites-tiennent-toujours-leur-rang-selon-i4ce?pk_campaign=Flux%20RSS&pk_kwd=2026-10-22&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Avancement de grade des attachés territoriaux : la réforme ne convainc pas",
+    "bf_lien": "https://www.banquedesterritoires.fr/avancement-de-grade-des-attaches-territoriaux-la-reforme-ne-convainc-pas?pk_campaign=Flux%20RSS&pk_kwd=2026-10-23&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Avec 8,6 milliards d’euros en 2024, &nbsp;soit une augmentation de 59% en valeur depuis 2014, et de 33% en volume, les investissements des collectivités en faveur de la décarbonation des transports, des bâtiments et de l’énergie sont ceux qui ont progressé le plus rapidement, toutes politiques confo",
+    "bf_description": "Les statuts particuliers du cadre d'emplois des attachés territoriaux vont être rénovés au 1er janvier prochain pour réviser les conditions de l'avancement dans le grade \"hors classe\". Il s'agit de transposer des évolutions d'ores et déjà actées pour les attachés d'administration de l'État. Mais le ",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "New deal mobile et complétude fibre : l'Arcep rappelle à l'ordre les opérateurs",
-    "bf_lien": "https://www.banquedesterritoires.fr/new-deal-mobile-et-completude-fibre-larcep-rappelle-lordre-les-operateurs?pk_campaign=Flux%20RSS&pk_kwd=2026-10-22&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Projet de loi Sécurité civile : le CSFPT hostile à l'indemnité pour mutation précoce de sapeurs-pompiers militaires",
+    "bf_lien": "https://www.banquedesterritoires.fr/projet-de-loi-securite-civile-le-csfpt-hostile-lindemnite-pour-mutation-precoce-de-sapeurs-pompiers?pk_campaign=Flux%20RSS&pk_kwd=2026-10-23&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "L'Arcep a publié plusieurs mises en demeure portant sur le New deal mobile, la 4G fixe et la fibre. SFR, objet d'une offre de rachat par ses concurrents, est plus particulièrement visé. Sur la fibre, ces décisions interviennent alors que l'arrêt du cuivre se rapproche.",
+    "bf_description": "Le CSFPT s'est prononcé défavorablement, ce 21 octobre, sur les deux dispositions du futur projet de loi Sécurité civile qui lui étaient soumises. Dont celle visant à contraindre les services de secours recrutant de jeunes sapeurs-pompiers militaires comme professionnels à indemniser les services fo",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Coopératives : un modèle non délocalisable et ancré dans les territoires",
-    "bf_lien": "https://www.banquedesterritoires.fr/cooperatives-un-modele-non-delocalisable-et-ancre-dans-les-territoires?pk_campaign=Flux%20RSS&pk_kwd=2026-10-22&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Failles critiques dans PHP : de nombreux sites publics mis en maintenance préventive",
+    "bf_lien": "https://www.banquedesterritoires.fr/failles-critiques-dans-php-de-nombreux-sites-publics-mis-en-maintenance-preventive?pk_campaign=Flux%20RSS&pk_kwd=2026-10-23&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Bien que marginales dans l'économie française, les coopératives affichent une forte résistance aux chocs et un ancrage territorial rarement égalé. Une étude de l'Institut Terram montre qu’elles jouent un rôle important dans le maintien de l’emploi local et formule plusieurs recommandations pour favo",
+    "bf_description": "Deux vulnérabilités majeures du langage PHP, utilisé par une grande partie du web, ont conduit l’État et des collectivités à retirer des sites du réseau le temps d’appliquer les correctifs. Le correctif est à appliquer sans délai au niveau du serveur.",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
