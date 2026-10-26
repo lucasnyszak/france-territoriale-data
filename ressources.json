@@ -1287,6 +1287,15 @@
     "bf_formulaire": "6"
   },
   {
+    "bf_titre": "Les revêtements : un levier pour optimiser l'éclairage public",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/revetements-levier-optimiser-eclairage-public",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Lundi 26 octobre 2026 Aménager avec la biodiversité, Aménagement de la voirie et éclairage public couverture Issu de 15 ans de recherches et d&#039;échanges entre professionnels de la voirie et de l’éclairage, ce guide présente une méthodologie complète et des recommandations pratiques pou",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "Adapter les bases nautiques aux enjeux de demain : retours d'expériences",
     "bf_lien": "https://www.cerema.fr/fr/actualites/adapter-bases-nautiques-aux-enjeux-demain-retours",
     "bf_categorie": "Transitions",
@@ -1323,11 +1332,38 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "PERMAPYRENEES 2 : Un projet de recherche sur l’évaluation et la gestion du pergélisol face au changement climatique",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/permapyrenees-2-projet-recherche-evaluation-gestion-du",
+    "bf_titre": "Exposition des infrastructures numériques en France aux risques climatiques physiques et solutions d&#039;adaptation",
+    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9719-exposition-des-infrastructures-numeriques-en-france-aux-risques-climatiques-physiques-et-solutions-d-adaptation.html",
     "bf_categorie": "Transitions",
-    "bf_description": "Publié le Jeudi 22 octobre 2026 Risques inondations et mouvements de terrain Zones de pergélisol dans les Pyrénées Les couches gelées des massifs montagneux, notamment le pergélisol, sont très sensibles à l’élévation des températures. L’objectif du projet de recherche Interreg PermaPyréenées, dont l",
-    "bf_tags": "CEREMA",
+    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;Ce rapport repose sur une analyse bibliographique des travaux existants sur les impacts du changement climatique sur les infrastructures et équipements num",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Hôtellerie Corse : Cap sur la Transition Énergétique",
+    "bf_lien": "https://librairie.ademe.fr/batiment/9508-hotellerie-corse-cap-sur-la-transition-energetique.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;Bienvenue sur la mallette ressources de l&#039;ADEME à destination des hôteliers !&lt;/p&gt; &lt;p&gt;Découvrez des recommandations concrètes pour garantir la performance de vos équipements sur le long terme.&lt;/p&gt; &lt;p&gt;La mallette ressources de l&#039;ADEME vulgarise les préconisat",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Référentiel par catégorie de produit (RCP) des produits internet et des objets (IoT)",
+    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9718-referentiel-par-categorie-de-produit-rcp-des-produits-internet-et-des-objets-iot.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;&lt;span style=&quot;color:#1d1d1b;&quot;&gt;Ce référentiel méthodologique pour l’évaluation environnemental fournit la méthode à respecter pour réaliser l’analyse du cycle de vie d’un applicatif numérique.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Outre-Loire : un catamaran volant écoconçu",
+    "bf_lien": "https://librairie.ademe.fr/industrie-et-production-durable/9717-outre-loire-un-catamaran-volant-ecoconcu.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:12pt;&quot;&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt;Fédérant différents acteurs du territoire ligérien rassemblés par le &lt;strong&gt;navigateur nantais Armel Tripon&lt;/strong&gt;, le projet “Outre-Loire” a &lt;/span&gt;&lt;span style=&quot;font-size",
+    "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
@@ -1336,42 +1372,6 @@
     "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9716-guidelines-for-protecting-exposed-workers-to-exposure-to-hazardous-chemicals-during-the-processing-of-sargassum.html",
     "bf_categorie": "Transitions",
     "bf_description": "&lt;p&gt;This guide for the protection of exposed workers is an informational document on the risks associated with operations involving contact with sargassum. It establishes protocols for protecting workers through practical guidelines for various scenarios involving contact with the algae.&lt;/p&",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Entrepôt fluvial au service d&#039;une distribution durable via la Garonne (EDDGAR)",
-    "bf_lien": "https://librairie.ademe.fr/mobilite-et-transports/9715-entrepot-fluvial-au-service-d-une-distribution-durable-via-la-garonne-eddgar.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Dans le cadre de sa politique de décarbonation et de décongestion routière, la Métropole de Bordeaux explore plusieurs solutions alternatives au tout routier. C’est dans ce contexte que des réflexions et expérimentations concernant les flux logistiques ont récemment été initiées. La relance",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Evaluation environnementale de l&#039;impact des jeux vidéo en France",
-    "bf_lien": "https://librairie.ademe.fr/consommer-autrement/9712-evaluation-environnementale-de-l-impact-des-jeux-video-en-france.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p style=&quot;margin-left:38px;&quot;&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;&lt;span style=&quot;color:#1d1d1b;&quot;&gt;Le secteur du jeu vidéo occupe une place croissante dans l’écosystème numérique français. Avec plus de 38 millions de joueurs et une diversification continue des usa",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "BâtiZoom : Baromètre de la transition écologique du bâtiment en 2025",
-    "bf_lien": "https://librairie.ademe.fr/batiment/9714-batizoom-barometre-de-la-transition-ecologique-du-batiment-en-2025.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Comment a évolué le secteur du bâtiment en 2025 au regard de la transition écologique ? C&#039;est à cette question que répond ce baromètre.&lt;/p&gt; &lt;p&gt;Les principaux enseignements sont les suivants : &lt;/p&gt; &lt;ul&gt; &lt;li&gt;La baisse des émissions de Gaz à Effet de Serre se",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Méthodologie de réalisation des feuilles de route 3R pour l&#039;emballage en plastique à usage unique",
-    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9711-methodologie-de-realisation-des-feuilles-de-route-3r-pour-l-emballage-en-plastique-a-usage-unique.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Après publication, en 2022, de la Stratégie National 3R sur les emballages en plastique, l’ADEME met à disposition une méthodologie. Son objectif : &lt;strong&gt;accompagner les fédérations à élaborer leur feuille de route sectorielles 3R emballages&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;Cette ",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1422,17 +1422,17 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Marie Massart, présidente de Terres en Villes : \"L’alimentation est l’un des leviers pour agir sur le réchauffement climatique\"",
-    "bf_lien": "https://www.banquedesterritoires.fr/marie-massart-presidente-de-terres-en-villes-lalimentation-est-lun-des-leviers-pour-agir-sur-le?pk_campaign=Flux%20RSS&pk_kwd=2026-10-25&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Limoges : \"l'État sera là\" pour rebâtir la mairie, promet Sébastien Lecornu",
+    "bf_lien": "https://www.banquedesterritoires.fr/limoges-letat-sera-la-pour-rebatir-la-mairie-promet-sebastien-lecornu?pk_campaign=Flux%20RSS&pk_kwd=2026-10-26&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Les Assises territoriales de l’agroécologie et de l’alimentation 2026 qui se sont tenues à Dijon les 21 et 22 septembre 2026 ont mis en évidence une mobilisation croissante des territoires pour transformer notre système alimentaire. Multiplication des initiatives de démocratie alimentaire, montée en",
+    "bf_description": "Lors d'un bref déplacement à Limoges le 23 octobre au soir, le Premier ministre a exprimé la \"solidarité nationale\" à l'égard de la ville. L'embrasement de l'hôtel de ville du chef-lieu de la Haute-Vienne avait été l'image marquante des violences ayant accompagné les manifestations du 17 octobre. Sé",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
     "bf_titre": "Violences des 17 et 18 octobre : France urbaine met la pression sur le Premier ministre",
-    "bf_lien": "https://www.banquedesterritoires.fr/violences-des-17-et-18-octobre-france-urbaine-met-la-pression-sur-le-premier-ministre?pk_campaign=Flux%20RSS&pk_kwd=2026-10-25&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_lien": "https://www.banquedesterritoires.fr/violences-des-17-et-18-octobre-france-urbaine-met-la-pression-sur-le-premier-ministre?pk_campaign=Flux%20RSS&pk_kwd=2026-10-26&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
     "bf_description": "Participation à la définition des parcours des manifestations et de la doctrine de maintien de l'ordre et de gestion des violences urbaines, demande d'un examen rapide de la loi Polices municipales… Dans une lettre ouverte au Premier ministre, le président de France urbaine est bien décidé à prendre",
     "bf_tags": "Banque des Territoires",
@@ -1440,8 +1440,17 @@
     "bf_formulaire": "actu"
   },
   {
+    "bf_titre": "Marie Massart, présidente de Terres en Villes : \"L’alimentation est l’un des leviers pour agir sur le réchauffement climatique\"",
+    "bf_lien": "https://www.banquedesterritoires.fr/marie-massart-presidente-de-terres-en-villes-lalimentation-est-lun-des-leviers-pour-agir-sur-le?pk_campaign=Flux%20RSS&pk_kwd=2026-10-26&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_categorie": "Finances",
+    "bf_description": "Les Assises territoriales de l’agroécologie et de l’alimentation 2026 qui se sont tenues à Dijon les 21 et 22 septembre 2026 ont mis en évidence une mobilisation croissante des territoires pour transformer notre système alimentaire. Multiplication des initiatives de démocratie alimentaire, montée en",
+    "bf_tags": "Banque des Territoires",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "Le Sénat redonne une assise à la contribution due par les collectivités à l'ONF, en revoyant son assiette",
-    "bf_lien": "https://www.banquedesterritoires.fr/le-senat-redonne-une-assise-la-contribution-due-par-les-collectivites-lonf-en-revoyant-son-assiette?pk_campaign=Flux%20RSS&pk_kwd=2026-10-25&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_lien": "https://www.banquedesterritoires.fr/le-senat-redonne-une-assise-la-contribution-due-par-les-collectivites-lonf-en-revoyant-son-assiette?pk_campaign=Flux%20RSS&pk_kwd=2026-10-26&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
     "bf_description": "Le Sénat a adopté, en première lecture, ce 22 octobre, une proposition de loi redonnant une assise juridique aux frais de garderie et d'administration dus à l'ONF par les collectivités (parmi d'autres). Toutefois, le texte exclut désormais des produits perçus par l'organisme ceux dépourvus de lien a",
     "bf_tags": "Banque des Territoires",
@@ -1450,18 +1459,9 @@
   },
   {
     "bf_titre": "Ingérences étrangères : le Sénat muscle un texte tout en regrettant son manque d'ambition",
-    "bf_lien": "https://www.banquedesterritoires.fr/ingerences-etrangeres-le-senat-muscle-un-texte-tout-en-regrettant-son-manque-dambition?pk_campaign=Flux%20RSS&pk_kwd=2026-10-25&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_lien": "https://www.banquedesterritoires.fr/ingerences-etrangeres-le-senat-muscle-un-texte-tout-en-regrettant-son-manque-dambition?pk_campaign=Flux%20RSS&pk_kwd=2026-10-26&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
     "bf_description": "Adopté à l’unanimité le 20 octobre 2026, le projet de loi étend le référé \"anti-fake news\" à toutes les élections, locales comprises. Il crée aussi un référé hors période électorale, que les sénateurs ont réservé aux seules ingérences étrangères, au risque de le rendre difficile à appliquer.",
-    "bf_tags": "Banque des Territoires",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Licence IV : le Sénat sécurise l'ouverture des bistrots ruraux",
-    "bf_lien": "https://www.banquedesterritoires.fr/licence-iv-le-senat-securise-louverture-des-bistrots-ruraux?pk_campaign=Flux%20RSS&pk_kwd=2026-10-25&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
-    "bf_categorie": "Finances",
-    "bf_description": "Les sénateurs ont à leur tour adopté, jeudi 22 octobre, la proposition de loi visant à faciliter l'ouverture de bistrots dans les communes de moins de 3.500 habitants. Ils ont voulu limiter cette possibilité aux seules communes disposant d'aucun ou d'un seul débit de boissons de quatrième catégorie,",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
