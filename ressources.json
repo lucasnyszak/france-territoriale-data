@@ -1287,6 +1287,15 @@
     "bf_formulaire": "6"
   },
   {
+    "bf_titre": "Diag’TP, un outil numérique pour améliorer la gestion circulaire des matériaux et déchets des travaux publics : premiers retours d’expériences de maîtrises d’ouvrage",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/diag-tp-outil-numerique-ameliorer-gestion-circulaire",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Jeudi 29 octobre 2026 Economie circulaire du BTP Chantier d&#039;enterrement des réseaux en ville Comment gérer et tracer les matériaux issus des chantiers ?Depuis le 22 août 2026, l’article 35 de la loi Climat et résilience impose aux acheteurs publics au moins un critère d’attribution en",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "Décarboner les travaux routiers : retour sur les échanges de la conférence technique territoriale Ouest du 24 septembre 2026",
     "bf_lien": "https://www.cerema.fr/fr/actualites/decarboner-travaux-routiers-retour-echanges-conference",
     "bf_categorie": "Transitions",
@@ -1323,11 +1332,20 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Adapter les bases nautiques aux enjeux de demain : retours d'expériences",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/adapter-bases-nautiques-aux-enjeux-demain-retours",
+    "bf_titre": "Mesure des performances de PAC air/eau et eau/eau installées en maisons individuelles, année 2",
+    "bf_lien": "https://librairie.ademe.fr/batiment/9726-mesure-des-performances-de-pac-air-eau-et-eau-eau-installees-en-maisons-individuelles-annee-2.html",
     "bf_categorie": "Transitions",
-    "bf_description": "Publié le Vendredi 23 octobre 2026 Economie, transitions et territoires Base nautique à Gerardmer Cet article co-rédigé par le Cerema, l&#039;école nationale de voile et des sports nautiques et Merci pour la Transition ! a été publié par notre partenaire (…) Lire la suite",
-    "bf_tags": "CEREMA",
+    "bf_description": "&lt;p&gt;Une campagne de mesure des performances de 100 PAC en maisons individuelles a été menée sur les saisons de chauffe 2023/2024 et 2024/2025 pour mieux connaître les performances réelles, la durée de vie ainsi que le maintien des performances dans le temps de ces équipements.&lt;br /&gt; &lt;b",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Qualité de l&#039;air intérieur et ventilation dans une école en zone rurale",
+    "bf_lien": "https://librairie.ademe.fr/air/9725-qualite-de-l-air-interieur-et-ventilation-dans-une-ecole-en-zone-rurale.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p style=&quot;margin-left:28px;&quot;&gt;&lt;span style=&quot;font-size:11px;&quot;&gt;&lt;span style=&quot;color:#1d1d1b;&quot;&gt;L’étude ANGULAIR a permis d’évaluer la qualité de l’air intérieur dans une école (limitrophe à des parcelles agricoles) située à Angliers une commune au cœur de la ",
+    "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
@@ -1354,24 +1372,6 @@
     "bf_lien": "https://librairie.ademe.fr/batiment/9508-hotellerie-corse-cap-sur-la-transition-energetique.html",
     "bf_categorie": "Transitions",
     "bf_description": "&lt;p&gt;Bienvenue sur la mallette ressources de l&#039;ADEME à destination des hôteliers !&lt;/p&gt; &lt;p&gt;Découvrez des recommandations concrètes pour garantir la performance de vos équipements sur le long terme.&lt;/p&gt; &lt;p&gt;La mallette ressources de l&#039;ADEME vulgarise les préconisat",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Exposition des infrastructures numériques en France aux risques climatiques physiques et solutions d&#039;adaptation",
-    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9719-exposition-des-infrastructures-numeriques-en-france-aux-risques-climatiques-physiques-et-solutions-d-adaptation.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;Ce rapport repose sur une analyse bibliographique des travaux existants sur les impacts du changement climatique sur les infrastructures et équipements num",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Référentiel par catégorie de produit (RCP) des produits internet et des objets (IoT)",
-    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9718-referentiel-par-categorie-de-produit-rcp-des-produits-internet-et-des-objets-iot.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;&lt;span style=&quot;color:#1d1d1b;&quot;&gt;Ce référentiel méthodologique pour l’évaluation environnemental fournit la méthode à respecter pour réaliser l’analyse du cycle de vie d’un applicatif numérique.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1422,46 +1422,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Fin de Parcoursup, classes réduites, postes supplémentaires : le gouvernement tente d'apaiser la colère lycéenne",
-    "bf_lien": "https://www.banquedesterritoires.fr/fin-de-parcoursup-classes-reduites-postes-supplementaires-le-gouvernement-tente-dapaiser-la-colere?pk_campaign=Flux%20RSS&pk_kwd=2026-10-28&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Le Sénat adopte largement le projet de loi \"casseurs-payeurs\", en le durcissant",
+    "bf_lien": "https://www.banquedesterritoires.fr/le-senat-adopte-largement-le-projet-de-loi-casseurs-payeurs-en-le-durcissant?pk_campaign=Flux%20RSS&pk_kwd=2026-10-29&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Après plus d'un mois de blocage lycéen et étudiant, le gouvernement a annoncé un train de mesures qu'il estime en phase avec les revendications. Plusieurs d'entre elles, notamment la fin de Parcoursup et le recrutement d'enseignants, devront faire l'objet d'une adoption au Parlement, et ce dès le vo",
+    "bf_description": "Le Sénat a adopté, ce 27 octobre, en première&nbsp;lecture, le projet de loi \"casseurs-payeurs\" qui vise à faciliter l'indemnisation des victimes des violences \"urbaines\", notamment en introduisant le principe d'une responsabilité civile solidaire entre participants à des groupements et attroupement",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Énergie : les réseaux de chaleur et de froid poursuivent leur développement",
-    "bf_lien": "https://www.banquedesterritoires.fr/energie-les-reseaux-de-chaleur-et-de-froid-poursuivent-leur-developpement?pk_campaign=Flux%20RSS&pk_kwd=2026-10-28&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Commerces dégradés : les aides se multiplient à l’approche de Noël",
+    "bf_lien": "https://www.banquedesterritoires.fr/commerces-degrades-les-aides-se-multiplient-lapproche-de-noel?pk_campaign=Flux%20RSS&pk_kwd=2026-10-29&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "En 2025, la France comptait 1.073 réseaux de chaleur, s'étendant sur 8.395 kilomètres, soit une hausse de 6% par rapport à 2024, et près de 3.000 bâtiments raccordés supplémentaires, selon l'enquête annuelle publiée ce 22 octobre sous la tutelle du service de données et études statistiques (Sdes) de",
+    "bf_description": "Après les manifestations des 17 et 24 octobre 2026, les commerçants font face à des pertes importantes, alors que s’ouvre une période décisive pour leur chiffre d’affaires. Face à des dégâts estimés à plus de 730 millions d’euros, le gouvernement et les collectivités territoriales mobilisent des aid",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Simplification : vers une articulation des demandes d’enregistrement ICPE et d’évolution du document d’urbanisme",
-    "bf_lien": "https://www.banquedesterritoires.fr/simplification-vers-une-articulation-des-demandes-denregistrement-icpe-et-devolution-du-document?pk_campaign=Flux%20RSS&pk_kwd=2026-10-28&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Budget 2027 : l'Assemblée vole au secours des départements",
+    "bf_lien": "https://www.banquedesterritoires.fr/budget-2027-lassemblee-vole-au-secours-des-departements?pk_campaign=Flux%20RSS&pk_kwd=2026-10-29&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Cette évolution permettrait de réduire les délais résultant de l’enchaînement des procédures ICPE et d’urbanisme, en évitant de subordonner systématiquement l’instruction de la demande d’enregistrement à l’achèvement de la procédure d’évolution du document d’urbanisme.",
+    "bf_description": "Après l'examen du projet de loi de financement de la sécurité sociale, l'Assemblée nationale a repris ce 27 octobre le débat en séance sur le projet de loi de finances pour 2027. Avec au programme de nombreux amendements centrés sur les finances des collectivités. Certains visent à soutenir les fina",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Fuites de données : pour l'Anssi, la plupart des incidents étaient évitables",
-    "bf_lien": "https://www.banquedesterritoires.fr/fuites-de-donnees-pour-lanssi-la-plupart-des-incidents-etaient-evitables?pk_campaign=Flux%20RSS&pk_kwd=2026-10-28&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Résilience climatique : la Commission européenne fixe une même toise pour tous",
+    "bf_lien": "https://www.banquedesterritoires.fr/resilience-climatique-la-commission-europeenne-fixe-une-meme-toise-pour-tous?pk_campaign=Flux%20RSS&pk_kwd=2026-10-29&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Authentification lacunaire, défaut de mise à jour et exploitation de failles humaines… dans un retour d’expérience publié le 20 octobre, le Cert-Fr (Anssi) décortique les fuites de données qu’il a traitées en 2025 et livre ses conseils pour les prévenir. Des conseils basiques pour l'essentiel.",
+    "bf_description": "La Commission européenne a présenté, ce 27 octobre, un nouveau \"cadre pour la résilience climatique\", qui prévoit singulièrement de fixer une même trajectoire de référence du réchauffement climatique pour les Vingt-Sept, que ces derniers devront prendre en compte dans de nouveaux \"plans stratégiques",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Zones marines protégées : la Cour des comptes européenne invite à passer du discours à l'action",
-    "bf_lien": "https://www.banquedesterritoires.fr/zones-marines-protegees-la-cour-des-comptes-europeenne-invite-passer-du-discours-laction?pk_campaign=Flux%20RSS&pk_kwd=2026-10-28&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Stratégie nationale pour les aires protégées : un nouveau plan d'action national veut renforcer les dispositifs de protection",
+    "bf_lien": "https://www.banquedesterritoires.fr/strategie-nationale-pour-les-aires-protegees-un-nouveau-plan-daction-national-veut-renforcer-les?pk_campaign=Flux%20RSS&pk_kwd=2026-10-29&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "\"L'Union européenne n'a pas encore mis en place un réseau d'aires marines protégées assurant une protection efficace\", déplore la Cour des comptes européenne dans un rapport publié ce 26 octobre. Non seulement l'objectif de désignation de ces aires est à la traîne, mais plus encore cette \"labellisat",
+    "bf_description": "Le gouvernement a publié ce 28 octobre le deuxième plan d’action national de la stratégie nationale pour les aires protégées (Snap), pour la période 2026-2030. Ce plan vise à poursuivre le développement des aires protégées, notamment celles reconnues en protection forte, tout en améliorant leur effi",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
