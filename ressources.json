@@ -1287,6 +1287,15 @@
     "bf_formulaire": "6"
   },
   {
+    "bf_titre": "Aménager avec le vivant : les trames écologiques au service de la résilience des territoires",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/amenager-vivant-trames-ecologiques-au-service-resilience",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Vendredi 30 octobre 2026 Aménager avec la biodiversité, Stratégies, résilience et projets de transition Bocage en vendée Le 12 octobre 2026, la Direction Territoriale Ouest du Cerema, la Région et la DREAL Pays de la Loire ont organisé une Conférence Technique Territoriale à Nantes. Cet év",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "Diag’TP, un outil numérique pour améliorer la gestion circulaire des matériaux et déchets des travaux publics : premiers retours d’expériences de maîtrises d’ouvrage",
     "bf_lien": "https://www.cerema.fr/fr/actualites/diag-tp-outil-numerique-ameliorer-gestion-circulaire",
     "bf_categorie": "Transitions",
@@ -1323,55 +1332,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Les revêtements : un levier pour optimiser l'éclairage public",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/revetements-levier-optimiser-eclairage-public",
+    "bf_titre": "Engager et impliquer mes élus dans le programme Territoire Engagé Transition Ecologique",
+    "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9733-engager-et-impliquer-mes-elus-dans-le-programme-territoire-engage-transition-ecologique.html",
     "bf_categorie": "Transitions",
-    "bf_description": "Publié le Lundi 26 octobre 2026 Aménager avec la biodiversité, Aménagement de la voirie et éclairage public couverture Issu de 15 ans de recherches et d&#039;échanges entre professionnels de la voirie et de l’éclairage, ce guide présente une méthodologie complète et des recommandations pratiques pou",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Mesure des performances de PAC air/eau et eau/eau installées en maisons individuelles, année 2",
-    "bf_lien": "https://librairie.ademe.fr/batiment/9726-mesure-des-performances-de-pac-air-eau-et-eau-eau-installees-en-maisons-individuelles-annee-2.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Une campagne de mesure des performances de 100 PAC en maisons individuelles a été menée sur les saisons de chauffe 2023/2024 et 2024/2025 pour mieux connaître les performances réelles, la durée de vie ainsi que le maintien des performances dans le temps de ces équipements.&lt;br /&gt; &lt;b",
+    "bf_description": "&lt;p&gt;Infographie sur l&#039;engagement des élus dans le programme TETE qui répond aux 3 questions suivantes : &lt;/p&gt; &lt;p&gt;Que constate t-on ? Pourquoi agir ? Comment agir ?&lt;/p&gt;",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Qualité de l&#039;air intérieur et ventilation dans une école en zone rurale",
-    "bf_lien": "https://librairie.ademe.fr/air/9725-qualite-de-l-air-interieur-et-ventilation-dans-une-ecole-en-zone-rurale.html",
+    "bf_titre": "Biodéchets : comprendre et agir",
+    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9732-biodechets-comprendre-et-agir.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p style=&quot;margin-left:28px;&quot;&gt;&lt;span style=&quot;font-size:11px;&quot;&gt;&lt;span style=&quot;color:#1d1d1b;&quot;&gt;L’étude ANGULAIR a permis d’évaluer la qualité de l’air intérieur dans une école (limitrophe à des parcelles agricoles) située à Angliers une commune au cœur de la ",
+    "bf_description": "&lt;p&gt;Infographie sur les biodéchets qui répond aux 3 questions suivantes : &lt;/p&gt; &lt;p&gt;Que constate t-on ? Pourquoi agir ? Comment agir ?&lt;/p&gt;",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Référentiel par catégorie de produit (RCP) d&#039;un service de diffusion et distribution vidéo",
-    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9723-referentiel-par-categorie-de-produit-rcp-d-un-service-de-diffusion-et-distribution-video.html",
+    "bf_titre": "Sobriété : Comprendre et Agir",
+    "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9730-sobriete-comprendre-et-agir.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;&lt;span style=&quot;color:#1d1d1b;&quot;&gt;Ce référentiel méthodologique pour l’évaluation environnemental fournit la méthode à respecter pour réaliser l’analyse du cycle de vie d’un service de diffusion vidéo, tel que prévu dans le cadre de l&",
+    "bf_description": "&lt;p&gt;Infographie sur la sobriété dans les territoires qui répond aux 3 questions suivantes : &lt;/p&gt; &lt;p&gt;Que constate t-on ? Pourquoi agir ? Comment agir ?&lt;/p&gt;",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Cahier des charges - ENRICO",
-    "bf_lien": "https://librairie.ademe.fr/batiment/9722-cahier-des-charges-enrico.html",
+    "bf_titre": "Acteurs du secteur des travaux publics : S&#039;adapter pour faire face au changement climatique",
+    "bf_lien": "https://librairie.ademe.fr/changement-climatique/9728-acteurs-du-secteur-des-travaux-publics-s-adapter-pour-faire-face-au-changement-climatique.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;&lt;span style=&quot;color:#1d1d1b;&quot;&gt;Ce rapport dresse un état des lieux des approches visant à mieux intégrer les occupants et leurs comportements dans la simulation énergétique et environnementale du bâtiment. &lt;/span&gt;&lt;/span&gt",
+    "bf_description": "&lt;p&gt;Afin d’accompagner les acteurs des travaux publics dans la construction de leur stratégie d’adaptation aux impacts du changement climatique, la Fédération Nationale des Travaux Publics (FNTP) a développé un guide méthodologique dédié au secteur, avec l’accompagnement méthodologique de l’ADE",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Hôtellerie Corse : Cap sur la Transition Énergétique",
-    "bf_lien": "https://librairie.ademe.fr/batiment/9508-hotellerie-corse-cap-sur-la-transition-energetique.html",
+    "bf_titre": "Géothermie : comprendre et agir",
+    "bf_lien": "https://librairie.ademe.fr/energies/9727-geothermie-comprendre-et-agir.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Bienvenue sur la mallette ressources de l&#039;ADEME à destination des hôteliers !&lt;/p&gt; &lt;p&gt;Découvrez des recommandations concrètes pour garantir la performance de vos équipements sur le long terme.&lt;/p&gt; &lt;p&gt;La mallette ressources de l&#039;ADEME vulgarise les préconisat",
+    "bf_description": "&lt;p&gt;Infographie sur la géothermie qui répond aux 3 questions suivantes : &lt;/p&gt; &lt;p&gt;Que constate t-on ? Pourquoi agir ? Comment agir ?&lt;/p&gt;",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1422,46 +1422,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Le Sénat adopte largement le projet de loi \"casseurs-payeurs\", en le durcissant",
-    "bf_lien": "https://www.banquedesterritoires.fr/le-senat-adopte-largement-le-projet-de-loi-casseurs-payeurs-en-le-durcissant?pk_campaign=Flux%20RSS&pk_kwd=2026-10-29&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "À l'Assemblée, les AESH font un premier pas vers la fonctionnarisation",
+    "bf_lien": "https://www.banquedesterritoires.fr/lassemblee-les-aesh-font-un-premier-pas-vers-la-fonctionnarisation?pk_campaign=Flux%20RSS&pk_kwd=2026-10-30&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le Sénat a adopté, ce 27 octobre, en première&nbsp;lecture, le projet de loi \"casseurs-payeurs\" qui vise à faciliter l'indemnisation des victimes des violences \"urbaines\", notamment en introduisant le principe d'une responsabilité civile solidaire entre participants à des groupements et attroupement",
+    "bf_description": "Les députés ont adopté en première lecture une proposition de loi créant un corps de fonctionnaires de catégorie B pour les accompagnants d'élèves en situation de handicap. Le texte laisse toutefois en suspens des questions cruciales que la navette parlementaire devra résoudre.",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Commerces dégradés : les aides se multiplient à l’approche de Noël",
-    "bf_lien": "https://www.banquedesterritoires.fr/commerces-degrades-les-aides-se-multiplient-lapproche-de-noel?pk_campaign=Flux%20RSS&pk_kwd=2026-10-29&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "France 2030 : la Cour des comptes déplore la mise à l'écart des collectivités",
+    "bf_lien": "https://www.banquedesterritoires.fr/france-2030-la-cour-des-comptes-deplore-la-mise-lecart-des-collectivites?pk_campaign=Flux%20RSS&pk_kwd=2026-10-30&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Après les manifestations des 17 et 24 octobre 2026, les commerçants font face à des pertes importantes, alors que s’ouvre une période décisive pour leur chiffre d’affaires. Face à des dégâts estimés à plus de 730 millions d’euros, le gouvernement et les collectivités territoriales mobilisent des aid",
+    "bf_description": "La Cour des comptes juge insuffisante l'association des collectivités territoriales à France 2030 et appelle à une gouvernance davantage territorialisée pour un éventuel futur plan d'investissement.",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Budget 2027 : l'Assemblée vole au secours des départements",
-    "bf_lien": "https://www.banquedesterritoires.fr/budget-2027-lassemblee-vole-au-secours-des-departements?pk_campaign=Flux%20RSS&pk_kwd=2026-10-29&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Face au Sénat, Vincent Jeanbrun tente de défendre un \"budget de responsabilité\" pour le logement",
+    "bf_lien": "https://www.banquedesterritoires.fr/face-au-senat-vincent-jeanbrun-tente-de-defendre-un-budget-de-responsabilite-pour-le-logement?pk_campaign=Flux%20RSS&pk_kwd=2026-10-30&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Après l'examen du projet de loi de financement de la sécurité sociale, l'Assemblée nationale a repris ce 27 octobre le débat en séance sur le projet de loi de finances pour 2027. Avec au programme de nombreux amendements centrés sur les finances des collectivités. Certains visent à soutenir les fina",
+    "bf_description": "Auditionné au Sénat sur le PLF 2027 mercredi 28 octobre, le ministre du Logement a défendu un budget visant à préserver les leviers de la relance immobilière malgré 54 milliards d’euros d’économies. Stabilisation de la RLS, reconduction du PTZ, fiscalité du meublé, gel des APL : si certains arbitrag",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Résilience climatique : la Commission européenne fixe une même toise pour tous",
-    "bf_lien": "https://www.banquedesterritoires.fr/resilience-climatique-la-commission-europeenne-fixe-une-meme-toise-pour-tous?pk_campaign=Flux%20RSS&pk_kwd=2026-10-29&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Assistants familiaux : le gouvernement veut \"élargir le vivier de recrutement\", mais ne convainc pas",
+    "bf_lien": "https://www.banquedesterritoires.fr/assistants-familiaux-le-gouvernement-veut-elargir-le-vivier-de-recrutement-mais-ne-convainc-pas?pk_campaign=Flux%20RSS&pk_kwd=2026-10-30&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "La Commission européenne a présenté, ce 27 octobre, un nouveau \"cadre pour la résilience climatique\", qui prévoit singulièrement de fixer une même trajectoire de référence du réchauffement climatique pour les Vingt-Sept, que ces derniers devront prendre en compte dans de nouveaux \"plans stratégiques",
+    "bf_description": "Pour attirer de nouvelles recrues vers cette activité cruciale pour l'Aide sociale à l'enfance, mais en perte de vitesse, le gouvernement va autoriser les agents publics à l'exercer à titre accessoire. Les syndicats dénoncent \"une mauvaise solution à un vrai problème\".",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Stratégie nationale pour les aires protégées : un nouveau plan d'action national veut renforcer les dispositifs de protection",
-    "bf_lien": "https://www.banquedesterritoires.fr/strategie-nationale-pour-les-aires-protegees-un-nouveau-plan-daction-national-veut-renforcer-les?pk_campaign=Flux%20RSS&pk_kwd=2026-10-29&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Réseau électrique européen : \"Les interconnexions sont des choix souverains\", veut rassurer Maud Bregeon",
+    "bf_lien": "https://www.banquedesterritoires.fr/reseau-electrique-europeen-les-interconnexions-sont-des-choix-souverains-veut-rassurer-maud-bregeon?pk_campaign=Flux%20RSS&pk_kwd=2026-10-30&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le gouvernement a publié ce 28 octobre le deuxième plan d’action national de la stratégie nationale pour les aires protégées (Snap), pour la période 2026-2030. Ce plan vise à poursuivre le développement des aires protégées, notamment celles reconnues en protection forte, tout en améliorant leur effi",
+    "bf_description": "Auditionnée par le Sénat ce 27 octobre, la ministre chargée de l'énergie a assuré que la France ne se fera pas imposer d'interconnexions électriques et ne forcera pas EDF à vendre une partie de son électricité à prix fixe pour valider le financement des EPR2, comme tenterait de l'imposer la Commissi",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
