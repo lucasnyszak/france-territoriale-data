@@ -1341,28 +1341,19 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Biodéchets : comprendre et agir",
-    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9732-biodechets-comprendre-et-agir.html",
+    "bf_titre": "ADEME Position Papers - Generative Artificial Intelligence: Significant Environmental Impacts",
+    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9720-ademe-position-papers-generative-artificial-intelligence-significant-environmental-impacts.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Infographie sur les biodéchets qui répond aux 3 questions suivantes : &lt;/p&gt; &lt;p&gt;Que constate t-on ? Pourquoi agir ? Comment agir ?&lt;/p&gt;",
+    "bf_description": "&lt;p&gt;As a rapidly growing sector, AI is at the center of current news and discussions, and specific regulations are emerging, such as the European Union’s AI Act (European Union, 2024). However, issues related to environmental impacts remain overlooked, with the exception of certain initiatives ",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Sobriété : Comprendre et Agir",
-    "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9730-sobriete-comprendre-et-agir.html",
+    "bf_titre": "Mesure des performances de PAC air/eau et eau/eau installées en maisons individuelles, année 2",
+    "bf_lien": "https://librairie.ademe.fr/batiment/9726-mesure-des-performances-de-pac-air-eau-et-eau-eau-installees-en-maisons-individuelles-annee-2.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Infographie sur la sobriété dans les territoires qui répond aux 3 questions suivantes : &lt;/p&gt; &lt;p&gt;Que constate t-on ? Pourquoi agir ? Comment agir ?&lt;/p&gt;",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Acteurs du secteur des travaux publics : S&#039;adapter pour faire face au changement climatique",
-    "bf_lien": "https://librairie.ademe.fr/changement-climatique/9728-acteurs-du-secteur-des-travaux-publics-s-adapter-pour-faire-face-au-changement-climatique.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Afin d’accompagner les acteurs des travaux publics dans la construction de leur stratégie d’adaptation aux impacts du changement climatique, la Fédération Nationale des Travaux Publics (FNTP) a développé un guide méthodologique dédié au secteur, avec l’accompagnement méthodologique de l’ADE",
+    "bf_description": "&lt;p&gt;Une campagne de mesure des performances de 100 PAC en maisons individuelles a été menée sur les saisons de chauffe 2023/2024 et 2024/2025 pour mieux connaître les performances réelles, la durée de vie ainsi que le maintien des performances dans le temps de ces équipements.&lt;br /&gt; &lt;b",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1372,6 +1363,15 @@
     "bf_lien": "https://librairie.ademe.fr/energies/9727-geothermie-comprendre-et-agir.html",
     "bf_categorie": "Transitions",
     "bf_description": "&lt;p&gt;Infographie sur la géothermie qui répond aux 3 questions suivantes : &lt;/p&gt; &lt;p&gt;Que constate t-on ? Pourquoi agir ? Comment agir ?&lt;/p&gt;",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Sobriété : Comprendre et Agir",
+    "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9730-sobriete-comprendre-et-agir.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;Infographie sur la sobriété dans les territoires qui répond aux 3 questions suivantes : &lt;/p&gt; &lt;p&gt;Que constate t-on ? Pourquoi agir ? Comment agir ?&lt;/p&gt;",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1422,46 +1422,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "À l'Assemblée, les AESH font un premier pas vers la fonctionnarisation",
-    "bf_lien": "https://www.banquedesterritoires.fr/lassemblee-les-aesh-font-un-premier-pas-vers-la-fonctionnarisation?pk_campaign=Flux%20RSS&pk_kwd=2026-10-30&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Amaury Fievez : \"On n'est pas obligé de faire des millions d'euros de travaux pour adapter une école à la canicule\"",
+    "bf_lien": "https://www.banquedesterritoires.fr/amaury-fievez-nest-pas-oblige-de-faire-des-millions-deuros-de-travaux-pour-adapter-une-ecole-la?pk_campaign=Flux%20RSS&pk_kwd=2026-10-31&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Les députés ont adopté en première lecture une proposition de loi créant un corps de fonctionnaires de catégorie B pour les accompagnants d'élèves en situation de handicap. Le texte laisse toutefois en suspens des questions cruciales que la navette parlementaire devra résoudre.",
+    "bf_description": "Chercheur et pilote du programme Racine – pour Recherche sur l'adaptation aux canicules à l'intérieur de nos écoles – au sein du programme &nbsp;Actee (Action des collectivités territoriales pour l'efficacité énergétique), Amaury Fievez expérimente depuis deux ans, dans 30 écoles, des solutions low-",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "France 2030 : la Cour des comptes déplore la mise à l'écart des collectivités",
-    "bf_lien": "https://www.banquedesterritoires.fr/france-2030-la-cour-des-comptes-deplore-la-mise-lecart-des-collectivites?pk_campaign=Flux%20RSS&pk_kwd=2026-10-30&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "L'État abandonne la rénovation des écoles et des bâtiments publics, estime Actee",
+    "bf_lien": "https://www.banquedesterritoires.fr/letat-abandonne-la-renovation-des-ecoles-et-des-batiments-publics-estime-actee?pk_campaign=Flux%20RSS&pk_kwd=2026-10-31&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "La Cour des comptes juge insuffisante l'association des collectivités territoriales à France 2030 et appelle à une gouvernance davantage territorialisée pour un éventuel futur plan d'investissement.",
+    "bf_description": "En mettant un terme au programme Actee, qui finance depuis 2019 l'ingénierie nécessaire à la rénovation énergétique des bâtiments publics, l'État prive les collectivités d'un outil largement mobilisé, en particulier par les communes rurales. La FNCCR et les responsables du dispositif alertent sur le",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Face au Sénat, Vincent Jeanbrun tente de défendre un \"budget de responsabilité\" pour le logement",
-    "bf_lien": "https://www.banquedesterritoires.fr/face-au-senat-vincent-jeanbrun-tente-de-defendre-un-budget-de-responsabilite-pour-le-logement?pk_campaign=Flux%20RSS&pk_kwd=2026-10-30&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Territoires zéro non-recours : un \"effet accélérateur\" de l'expérimentation, mais des incertitudes sur la suite",
+    "bf_lien": "https://www.banquedesterritoires.fr/territoires-zero-non-recours-un-effet-accelerateur-de-lexperimentation-mais-des-incertitudes-sur-la?pk_campaign=Flux%20RSS&pk_kwd=2026-10-31&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Auditionné au Sénat sur le PLF 2027 mercredi 28 octobre, le ministre du Logement a défendu un budget visant à préserver les leviers de la relance immobilière malgré 54 milliards d’euros d’économies. Stabilisation de la RLS, reconduction du PTZ, fiscalité du meublé, gel des APL : si certains arbitrag",
+    "bf_description": "Alors que l'expérimentation Territoires zéro non-recours touche à sa fin, un premier rapport du comité d'évaluation dresse un panorama des réalisations des 39 territoires engagés depuis trois ans : beaucoup&nbsp;d'\"aller-vers\", de la formation professionnelle, du repérage par les données dans seulem",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Assistants familiaux : le gouvernement veut \"élargir le vivier de recrutement\", mais ne convainc pas",
-    "bf_lien": "https://www.banquedesterritoires.fr/assistants-familiaux-le-gouvernement-veut-elargir-le-vivier-de-recrutement-mais-ne-convainc-pas?pk_campaign=Flux%20RSS&pk_kwd=2026-10-30&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Les partenaires sociaux démarrent les négociations sur l’emploi des jeunes",
+    "bf_lien": "https://www.banquedesterritoires.fr/les-partenaires-sociaux-demarrent-les-negociations-sur-lemploi-des-jeunes?pk_campaign=Flux%20RSS&pk_kwd=2026-10-31&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Pour attirer de nouvelles recrues vers cette activité cruciale pour l'Aide sociale à l'enfance, mais en perte de vitesse, le gouvernement va autoriser les agents publics à l'exercer à titre accessoire. Les syndicats dénoncent \"une mauvaise solution à un vrai problème\".",
+    "bf_description": "Syndicats et organisations patronales vont se rencontrer mercredi 4 novembre pour négocier des mesures favorisant l’emploi des jeunes. Mais encore faut-il qu’ils trouvent un terrain d’entente.",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Réseau électrique européen : \"Les interconnexions sont des choix souverains\", veut rassurer Maud Bregeon",
-    "bf_lien": "https://www.banquedesterritoires.fr/reseau-electrique-europeen-les-interconnexions-sont-des-choix-souverains-veut-rassurer-maud-bregeon?pk_campaign=Flux%20RSS&pk_kwd=2026-10-30&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Qualité de l'air en 2025 : des dépassements de normes réglementaires persistants",
+    "bf_lien": "https://www.banquedesterritoires.fr/qualite-de-lair-en-2025-des-depassements-de-normes-reglementaires-persistants?pk_campaign=Flux%20RSS&pk_kwd=2026-10-31&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Auditionnée par le Sénat ce 27 octobre, la ministre chargée de l'énergie a assuré que la France ne se fera pas imposer d'interconnexions électriques et ne forcera pas EDF à vendre une partie de son électricité à prix fixe pour valider le financement des EPR2, comme tenterait de l'imposer la Commissi",
+    "bf_description": "Si les émissions de nombreux polluants ont nettement diminué depuis 2000, des dépassements des normes réglementaires de qualité de l’air et plusieurs épisodes de pollution ont encore marqué l’année 2025, selon le bilan annuel de la qualité de l’air extérieur publié par le ministère de la Transition ",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
