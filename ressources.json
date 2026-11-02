@@ -1287,6 +1287,24 @@
     "bf_formulaire": "6"
   },
   {
+    "bf_titre": "Requalifier et transformer les parcs de stationnement : le Cerema publie un guide de bonnes pratiques",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/requalifier-transformer-parcs-stationnement-cerema-publie",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Lundi 2 novembre 2026 Lutte contre l&#039;artificialisation des sols et sobriété foncière, Energies renouvelables terrestres et maritimes Parking équipé de panneaux photovoltaïques Longtemps pensés pour l’automobile exclusive, les parcs de stationnement de surface représentent d&#039;impor",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Instrumentation des ouvrages d’art : retour sur la journée technique Ouest du 7 octobre 2026",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/instrumentation-ouvrages-art-retour-journee-technique-ouest",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Lundi 2 novembre 2026 Ouvrages d’art Instrumentation par le Cerema du pont de l&#039;Aquitaine Le vieillissement du patrimoine d&#039;infrastructures, l&#039;évolution continue des charges de trafic et les aléas climatiques imposent aux gestionnaires de concilier maintien en service, sécur",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "Aménager avec le vivant : les trames écologiques au service de la résilience des territoires",
     "bf_lien": "https://www.cerema.fr/fr/actualites/amenager-vivant-trames-ecologiques-au-service-resilience",
     "bf_categorie": "Transitions",
@@ -1314,64 +1332,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Observatoire des Politiques Locales de Mobilité - Les données 2026",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/observatoire-politiques-locales-mobilite-donnees-2026",
+    "bf_titre": "Développement de l&#039;outil d&#039;analyse de flux de matières dynamique ODYM France",
+    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9741-developpement-de-l-outil-d-analyse-de-flux-de-matieres-dynamique-odym-france.html",
     "bf_categorie": "Transitions",
-    "bf_description": "Publié le Mercredi 28 octobre 2026 Gouvernance, planification et organisation des mobilités RT 2026 Présentation des principaux enseignements issus de l&#039;analyse des politiques locales de mobilité (…) Lire la suite",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Adapter ses bâtiments aux vagues de chaleur : retour d'expérience sur l'accompagnement du Conseil Départemental des Bouches-du-Rhône",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/adapter-ses-batiments-aux-vagues-chaleur-retour-experience",
-    "bf_categorie": "Transitions",
-    "bf_description": "Publié le Mercredi 28 octobre 2026 Solutions d&#039;adaptation des bâtiments au changement climatique Nouveau collège dans les Bouches-du-Rhône L&#039;étude a porté sur 229 bâtiments : 158 bâtiments de collèges (enseignement et logements de fonction) et 71 bâtiments administratifs et médico-sociaux.",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Engager et impliquer mes élus dans le programme Territoire Engagé Transition Ecologique",
-    "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9733-engager-et-impliquer-mes-elus-dans-le-programme-territoire-engage-transition-ecologique.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Infographie sur l&#039;engagement des élus dans le programme TETE qui répond aux 3 questions suivantes : &lt;/p&gt; &lt;p&gt;Que constate t-on ? Pourquoi agir ? Comment agir ?&lt;/p&gt;",
+    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;&lt;span style=&quot;background-color:#FFFFFF;&quot;&gt;&lt;span style=&quot;color:#004899;&quot;&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;Dans le contexte de la transition vers une économie dé",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "ADEME Position Papers - Generative Artificial Intelligence: Significant Environmental Impacts",
-    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9720-ademe-position-papers-generative-artificial-intelligence-significant-environmental-impacts.html",
+    "bf_titre": "ACV Miscanthus amont (sortie de champs)",
+    "bf_lien": "https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9740-acv-miscanthus-amont-sortie-de-champs.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;As a rapidly growing sector, AI is at the center of current news and discussions, and specific regulations are emerging, such as the European Union’s AI Act (European Union, 2024). However, issues related to environmental impacts remain overlooked, with the exception of certain initiatives ",
+    "bf_description": "&lt;p&gt;Le miscanthus (X Giganteus, hybride stérile non invasif) est une plante à croissance rapide (jusqu’à 4 mètres en quelques mois) de la famille des Poaceas. Cette culture s’inscrit sur le long terme avec une durée d’exploitation de plus de 20 ans. Développée en France réellement depuis une vi",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Mesure des performances de PAC air/eau et eau/eau installées en maisons individuelles, année 2",
-    "bf_lien": "https://librairie.ademe.fr/batiment/9726-mesure-des-performances-de-pac-air-eau-et-eau-eau-installees-en-maisons-individuelles-annee-2.html",
+    "bf_titre": "Datacenters IT &amp; IA Anticiper l&#039;impact à horizon 2035",
+    "bf_lien": "https://librairie.ademe.fr/energies/9739-datacenters-it-ia-anticiper-l-impact-a-horizon-2035.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Une campagne de mesure des performances de 100 PAC en maisons individuelles a été menée sur les saisons de chauffe 2023/2024 et 2024/2025 pour mieux connaître les performances réelles, la durée de vie ainsi que le maintien des performances dans le temps de ces équipements.&lt;br /&gt; &lt;b",
+    "bf_description": "&lt;p&gt;Cartographier et anticiper projets de data centers IA à horizon 2035 :et évaluer les besoins techniques associés (foncier, puissance électrique, refroidissement avancé.&lt;/p&gt; &lt;p&gt;Analyser les besoins de renouvellement des infrastructures existantes (refroidissement, ASI, groupes él",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Géothermie : comprendre et agir",
-    "bf_lien": "https://librairie.ademe.fr/energies/9727-geothermie-comprendre-et-agir.html",
+    "bf_titre": "Rapport d&#039;activité 2025 du Réseau Bâtiment Durable",
+    "bf_lien": "https://librairie.ademe.fr/batiment/9738-rapport-d-activite-2025-du-reseau-batiment-durable.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Infographie sur la géothermie qui répond aux 3 questions suivantes : &lt;/p&gt; &lt;p&gt;Que constate t-on ? Pourquoi agir ? Comment agir ?&lt;/p&gt;",
+    "bf_description": "&lt;p&gt;Le Réseau Bâtiment Durable, animé par l’ADEME et le Plan Bâtiment Durable, a pour objectif de faciliter les synergies et la mutualisation entre structures et professionnels confrontés à des situations diverses, mais souvent comparables.&lt;br /&gt; Il constitue un lieu d’échanges et d’entra",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Sobriété : Comprendre et Agir",
-    "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9730-sobriete-comprendre-et-agir.html",
+    "bf_titre": "Réglage de la loi d&#039;eau d&#039;une PAC air/eau",
+    "bf_lien": "https://librairie.ademe.fr/batiment/9737-reglage-de-la-loi-d-eau-d-une-pac-air-eau.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Infographie sur la sobriété dans les territoires qui répond aux 3 questions suivantes : &lt;/p&gt; &lt;p&gt;Que constate t-on ? Pourquoi agir ? Comment agir ?&lt;/p&gt;",
+    "bf_description": "&lt;p&gt;Ce rapport propose des méthodes alternatives à ce qui existe aujourd&#039;hui pour améliorer le dimensionnement des pompes à chaleur en maison individuelle ainsi que le réglage de la loi d&#039;eau. &lt;/p&gt;",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1423,7 +1423,7 @@
   },
   {
     "bf_titre": "Amaury Fievez : \"On n'est pas obligé de faire des millions d'euros de travaux pour adapter une école à la canicule\"",
-    "bf_lien": "https://www.banquedesterritoires.fr/amaury-fievez-nest-pas-oblige-de-faire-des-millions-deuros-de-travaux-pour-adapter-une-ecole-la?pk_campaign=Flux%20RSS&pk_kwd=2026-11-01&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_lien": "https://www.banquedesterritoires.fr/amaury-fievez-nest-pas-oblige-de-faire-des-millions-deuros-de-travaux-pour-adapter-une-ecole-la?pk_campaign=Flux%20RSS&pk_kwd=2026-11-02&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
     "bf_description": "Chercheur et pilote du programme Racine – pour Recherche sur l'adaptation aux canicules à l'intérieur de nos écoles – au sein du programme &nbsp;Actee (Action des collectivités territoriales pour l'efficacité énergétique), Amaury Fievez expérimente depuis deux ans, dans 30 écoles, des solutions low-",
     "bf_tags": "Banque des Territoires",
@@ -1432,7 +1432,7 @@
   },
   {
     "bf_titre": "L'État abandonne la rénovation des écoles et des bâtiments publics, estime Actee",
-    "bf_lien": "https://www.banquedesterritoires.fr/letat-abandonne-la-renovation-des-ecoles-et-des-batiments-publics-estime-actee?pk_campaign=Flux%20RSS&pk_kwd=2026-11-01&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_lien": "https://www.banquedesterritoires.fr/letat-abandonne-la-renovation-des-ecoles-et-des-batiments-publics-estime-actee?pk_campaign=Flux%20RSS&pk_kwd=2026-11-02&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
     "bf_description": "En mettant un terme au programme Actee, qui finance depuis 2019 l'ingénierie nécessaire à la rénovation énergétique des bâtiments publics, l'État prive les collectivités d'un outil largement mobilisé, en particulier par les communes rurales. La FNCCR et les responsables du dispositif alertent sur le",
     "bf_tags": "Banque des Territoires",
@@ -1441,7 +1441,7 @@
   },
   {
     "bf_titre": "Territoires zéro non-recours : un \"effet accélérateur\" de l'expérimentation, mais des incertitudes sur la suite",
-    "bf_lien": "https://www.banquedesterritoires.fr/territoires-zero-non-recours-un-effet-accelerateur-de-lexperimentation-mais-des-incertitudes-sur-la?pk_campaign=Flux%20RSS&pk_kwd=2026-11-01&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_lien": "https://www.banquedesterritoires.fr/territoires-zero-non-recours-un-effet-accelerateur-de-lexperimentation-mais-des-incertitudes-sur-la?pk_campaign=Flux%20RSS&pk_kwd=2026-11-02&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
     "bf_description": "Alors que l'expérimentation Territoires zéro non-recours touche à sa fin, un premier rapport du comité d'évaluation dresse un panorama des réalisations des 39 territoires engagés depuis trois ans : beaucoup&nbsp;d'\"aller-vers\", de la formation professionnelle, du repérage par les données dans seulem",
     "bf_tags": "Banque des Territoires",
@@ -1450,7 +1450,7 @@
   },
   {
     "bf_titre": "Les partenaires sociaux démarrent les négociations sur l’emploi des jeunes",
-    "bf_lien": "https://www.banquedesterritoires.fr/les-partenaires-sociaux-demarrent-les-negociations-sur-lemploi-des-jeunes?pk_campaign=Flux%20RSS&pk_kwd=2026-11-01&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_lien": "https://www.banquedesterritoires.fr/les-partenaires-sociaux-demarrent-les-negociations-sur-lemploi-des-jeunes?pk_campaign=Flux%20RSS&pk_kwd=2026-11-02&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
     "bf_description": "Syndicats et organisations patronales vont se rencontrer mercredi 4 novembre pour négocier des mesures favorisant l’emploi des jeunes. Mais encore faut-il qu’ils trouvent un terrain d’entente.",
     "bf_tags": "Banque des Territoires",
@@ -1459,7 +1459,7 @@
   },
   {
     "bf_titre": "Qualité de l'air en 2025 : des dépassements de normes réglementaires persistants",
-    "bf_lien": "https://www.banquedesterritoires.fr/qualite-de-lair-en-2025-des-depassements-de-normes-reglementaires-persistants?pk_campaign=Flux%20RSS&pk_kwd=2026-11-01&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_lien": "https://www.banquedesterritoires.fr/qualite-de-lair-en-2025-des-depassements-de-normes-reglementaires-persistants?pk_campaign=Flux%20RSS&pk_kwd=2026-11-02&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
     "bf_description": "Si les émissions de nombreux polluants ont nettement diminué depuis 2000, des dépassements des normes réglementaires de qualité de l’air et plusieurs épisodes de pollution ont encore marqué l’année 2025, selon le bilan annuel de la qualité de l’air extérieur publié par le ministère de la Transition ",
     "bf_tags": "Banque des Territoires",
