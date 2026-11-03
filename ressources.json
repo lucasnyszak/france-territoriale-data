@@ -1287,6 +1287,24 @@
     "bf_formulaire": "6"
   },
   {
+    "bf_titre": "Décliner la transition écologique juste dans son territoire, mode d'emploi pour les collectivités",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/decliner-transition-ecologique-juste-son-territoire-mode",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Mardi 3 novembre 2026 Stratégies, résilience et projets de transition Parc paysager dans un quartier prioritaire à Dieppe A la suite d&#039;un chantier exploratoire mené en 2025, le Cerema, la Dreal Bourgogne Franche Comté et Alterre ont animé un parcours apprenant sur la transition écolog",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Signalisation Horizontale et Signalisation Verticale : retour du Cerema sur la journée technique 2026 du Syndicat des Equipements de la Route",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/signalisation-horizontale-signalisation-verticale-retour-du",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Mardi 3 novembre 2026 Sécurité routière Journée technique signalisation Le Cerema a participé à la nouvelle édition de la Journée Technique Nationale consacrée aux signalisations horizontale et verticale, organisée à Avignon par le Syndicat des Équipements de la Route (SER). Partenaire de ",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "Requalifier et transformer les parcs de stationnement : le Cerema publie un guide de bonnes pratiques",
     "bf_lien": "https://www.cerema.fr/fr/actualites/requalifier-transformer-parcs-stationnement-cerema-publie",
     "bf_categorie": "Transitions",
@@ -1314,20 +1332,11 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Diag’TP, un outil numérique pour améliorer la gestion circulaire des matériaux et déchets des travaux publics : premiers retours d’expériences de maîtrises d’ouvrage",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/diag-tp-outil-numerique-ameliorer-gestion-circulaire",
+    "bf_titre": "Méthodologie ACT Pas-à-Pas - Version 2.1",
+    "bf_lien": "https://librairie.ademe.fr/changement-climatique/9743-methodologie-act-pas-a-pas-version-21.html",
     "bf_categorie": "Transitions",
-    "bf_description": "Publié le Jeudi 29 octobre 2026 Economie circulaire du BTP Chantier d&#039;enterrement des réseaux en ville Comment gérer et tracer les matériaux issus des chantiers ?Depuis le 22 août 2026, l’article 35 de la loi Climat et résilience impose aux acheteurs publics au moins un critère d’attribution en",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Décarboner les travaux routiers : retour sur les échanges de la conférence technique territoriale Ouest du 24 septembre 2026",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/decarboner-travaux-routiers-retour-echanges-conference",
-    "bf_categorie": "Transitions",
-    "bf_description": "Publié le Mercredi 28 octobre 2026 Infrastructures routières et ferroviaires Chantier routier Le Cerema Ouest a organisé le 24 septembre dernier une conférence technique territoriale (CTT) à destination des gestionnaires de réseaux routiers (Etat, collectivités) et entreprises de TP sur la Décarbona",
-    "bf_tags": "CEREMA",
+    "bf_description": "&lt;p&gt;La méthodologie &lt;strong&gt;ACT Pas-à-Pas Climat&lt;/strong&gt;, dans sa seconde version, accompagne les organisations dans la construction d’un plan de transition climatique combinant &lt;strong&gt;décarbonation&lt;/strong&gt; et &lt;strong&gt;adaptation au changement climatique&lt;/stro",
+    "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
@@ -1363,15 +1372,6 @@
     "bf_lien": "https://librairie.ademe.fr/batiment/9738-rapport-d-activite-2025-du-reseau-batiment-durable.html",
     "bf_categorie": "Transitions",
     "bf_description": "&lt;p&gt;Le Réseau Bâtiment Durable, animé par l’ADEME et le Plan Bâtiment Durable, a pour objectif de faciliter les synergies et la mutualisation entre structures et professionnels confrontés à des situations diverses, mais souvent comparables.&lt;br /&gt; Il constitue un lieu d’échanges et d’entra",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Réglage de la loi d&#039;eau d&#039;une PAC air/eau",
-    "bf_lien": "https://librairie.ademe.fr/batiment/9737-reglage-de-la-loi-d-eau-d-une-pac-air-eau.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Ce rapport propose des méthodes alternatives à ce qui existe aujourd&#039;hui pour améliorer le dimensionnement des pompes à chaleur en maison individuelle ainsi que le réglage de la loi d&#039;eau. &lt;/p&gt;",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1422,46 +1422,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Amaury Fievez : \"On n'est pas obligé de faire des millions d'euros de travaux pour adapter une école à la canicule\"",
-    "bf_lien": "https://www.banquedesterritoires.fr/amaury-fievez-nest-pas-oblige-de-faire-des-millions-deuros-de-travaux-pour-adapter-une-ecole-la?pk_campaign=Flux%20RSS&pk_kwd=2026-11-02&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Damien Got (Andes) : \"Je souhaite que le sport devienne une politique publique à part entière\"",
+    "bf_lien": "https://www.banquedesterritoires.fr/damien-got-andes-je-souhaite-que-le-sport-devienne-une-politique-publique-part-entiere?pk_campaign=Flux%20RSS&pk_kwd=2026-11-03&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Chercheur et pilote du programme Racine – pour Recherche sur l'adaptation aux canicules à l'intérieur de nos écoles – au sein du programme &nbsp;Actee (Action des collectivités territoriales pour l'efficacité énergétique), Amaury Fievez expérimente depuis deux ans, dans 30 écoles, des solutions low-",
+    "bf_description": "Damien Got, maire de Margès (Drôme), a été élu président de l'Association nationale des élus en charge du sport (Andes) le 8 octobre dernier. Pour Localtis, il revient sur les axes forts qu'il entend donner à son mandat.",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "L'État abandonne la rénovation des écoles et des bâtiments publics, estime Actee",
-    "bf_lien": "https://www.banquedesterritoires.fr/letat-abandonne-la-renovation-des-ecoles-et-des-batiments-publics-estime-actee?pk_campaign=Flux%20RSS&pk_kwd=2026-11-02&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Démographie : la grande \"bascule\" est perçue différemment selon les générations",
+    "bf_lien": "https://www.banquedesterritoires.fr/demographie-la-grande-bascule-est-percue-differemment-selon-les-generations?pk_campaign=Flux%20RSS&pk_kwd=2026-11-03&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "En mettant un terme au programme Actee, qui finance depuis 2019 l'ingénierie nécessaire à la rénovation énergétique des bâtiments publics, l'État prive les collectivités d'un outil largement mobilisé, en particulier par les communes rurales. La FNCCR et les responsables du dispositif alertent sur le",
+    "bf_description": "Pour une majorité des moins de 35 ans, la baisse de la natalité est autant un problème pour l'économie qu'une&nbsp;\"bonne nouvelle pour l'environnement\", là où les plus âgés sont davantage concentrés sur l'équation économique, selon le&nbsp;sondage Cese-Ipsos sur l'état de la France publié le 28 oct",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Territoires zéro non-recours : un \"effet accélérateur\" de l'expérimentation, mais des incertitudes sur la suite",
-    "bf_lien": "https://www.banquedesterritoires.fr/territoires-zero-non-recours-un-effet-accelerateur-de-lexperimentation-mais-des-incertitudes-sur-la?pk_campaign=Flux%20RSS&pk_kwd=2026-11-02&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Casernes de gendarmerie : le gouvernement met fin à un cadre locatif à bout de souffle",
+    "bf_lien": "https://www.banquedesterritoires.fr/cadre-locatif-des-casernes-de-gendarmerie-les-textes-sont-publies?pk_campaign=Flux%20RSS&pk_kwd=2026-11-03&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Alors que l'expérimentation Territoires zéro non-recours touche à sa fin, un premier rapport du comité d'évaluation dresse un panorama des réalisations des 39 territoires engagés depuis trois ans : beaucoup&nbsp;d'\"aller-vers\", de la formation professionnelle, du repérage par les données dans seulem",
+    "bf_description": "Le décret et l'arrêté portant sur la refonte du cadre locatif des casernes de gendarmerie ont été publiés au Journal officiel. Ils visent à prendre en compte dans les loyers les coûts réels engagés par les bailleurs pour la construction des locaux. Et ils donnent à l'État la possibilité de lever une",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Les partenaires sociaux démarrent les négociations sur l’emploi des jeunes",
-    "bf_lien": "https://www.banquedesterritoires.fr/les-partenaires-sociaux-demarrent-les-negociations-sur-lemploi-des-jeunes?pk_campaign=Flux%20RSS&pk_kwd=2026-11-02&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Suppression de programmes d'accompagnement et de lutte contre la précarité énergétique : des organisations vent debout",
+    "bf_lien": "https://www.banquedesterritoires.fr/suppression-de-programmes-daccompagnement-et-de-lutte-contre-la-precarite-energetique-des?pk_campaign=Flux%20RSS&pk_kwd=2026-11-03&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Syndicats et organisations patronales vont se rencontrer mercredi 4 novembre pour négocier des mesures favorisant l’emploi des jeunes. Mais encore faut-il qu’ils trouvent un terrain d’entente.",
+    "bf_description": "Les organisations porteuses des programmes Slime, Territoires Zéro Exclusion Énergétique et Toits d’Abord et l’opérateur Soliha ont dénoncé ce 29 octobre la décision du gouvernement de \"couper brutalement et sans concertation\" le financement de ces outils, ce qui fragilise selon elles les petites co",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Qualité de l'air en 2025 : des dépassements de normes réglementaires persistants",
-    "bf_lien": "https://www.banquedesterritoires.fr/qualite-de-lair-en-2025-des-depassements-de-normes-reglementaires-persistants?pk_campaign=Flux%20RSS&pk_kwd=2026-11-02&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "PAC 2028–2034 : Annie Genevard se félicite des \"avancées majeures\" obtenues par la France",
+    "bf_lien": "https://www.banquedesterritoires.fr/pac-2028-2034-annie-genevard-se-felicite-des-avancees-majeures-obtenues-par-la-france?pk_campaign=Flux%20RSS&pk_kwd=2026-11-03&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Si les émissions de nombreux polluants ont nettement diminué depuis 2000, des dépassements des normes réglementaires de qualité de l’air et plusieurs épisodes de pollution ont encore marqué l’année 2025, selon le bilan annuel de la qualité de l’air extérieur publié par le ministère de la Transition ",
+    "bf_description": "Le Conseil de l'Union européenne a arrêté, ce 26 octobre, sa position de négociation de la future politique agricole commune, dans laquelle la France a obtenu des \"avancées majeures\", se félicite Annie Genevard. Mais pas l'intégration des collectivités dans la liste des bénéficiaires éligibles aux s",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
