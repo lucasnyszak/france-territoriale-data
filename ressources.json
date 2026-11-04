@@ -1287,6 +1287,15 @@
     "bf_formulaire": "6"
   },
   {
+    "bf_titre": "Prendre en compte la biodiversité dans la planification territoriale, dans les zones de transition entre les plaines et les montagnes : le projet européen PINO",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/prendre-compte-biodiversite-planification-territoriale-zones",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Mercredi 4 novembre 2026 Risques inondations et mouvements de terrain Alpes Les zones de transition entre les plaines et les montagnes sont des milieux d’interface où se côtoient et s’articulent différents espaces urbains, agricoles et naturels. Soumises à de fortes pressions d’aménagement",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "Décliner la transition écologique juste dans son territoire, mode d'emploi pour les collectivités",
     "bf_lien": "https://www.cerema.fr/fr/actualites/decliner-transition-ecologique-juste-son-territoire-mode",
     "bf_categorie": "Transitions",
@@ -1323,11 +1332,20 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Aménager avec le vivant : les trames écologiques au service de la résilience des territoires",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/amenager-vivant-trames-ecologiques-au-service-resilience",
+    "bf_titre": "TRIOMPH : Quel potentiel de transformation des bâtiments tertiaires vacants existants ?",
+    "bf_lien": "https://librairie.ademe.fr/batiment/9746-triomph-quel-potentiel-de-transformation-des-batiments-tertiaires-vacants-existants-.html",
     "bf_categorie": "Transitions",
-    "bf_description": "Publié le Vendredi 30 octobre 2026 Aménager avec la biodiversité, Stratégies, résilience et projets de transition Bocage en vendée Le 12 octobre 2026, la Direction Territoriale Ouest du Cerema, la Région et la DREAL Pays de la Loire ont organisé une Conférence Technique Territoriale à Nantes. Cet év",
-    "bf_tags": "CEREMA",
+    "bf_description": "&lt;p style=&quot;margin-left:38px;&quot;&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;L&lt;span style=&quot;color:#1d1d1b;&quot;&gt;e projet TRIOMPH étudie le potentiel de transformation du parc tertiaire vacant ou sous-utilisé pour répondre aux besoins en logement. Dans un contexte de sobriété ",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Le sol dans les stratégies territoriales : de la planification au projet d&#039;aménagement - Pourquoi et comment ?",
+    "bf_lien": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9744-le-sol-dans-les-strategies-territoriales-de-la-planification-au-projet-d-amenagement-pourquoi-et-comment--9791029727887.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:12pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;Ce guide met à disposition des territoires une méthode opérationnelle pour évaluer les fonctions écologiques des sols et les intégrer dans les stratégies territoriales. &lt;/span&gt;&lt;/span&gt;&lt;",
+    "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
@@ -1354,24 +1372,6 @@
     "bf_lien": "https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9740-acv-miscanthus-amont-sortie-de-champs.html",
     "bf_categorie": "Transitions",
     "bf_description": "&lt;p&gt;Le miscanthus (X Giganteus, hybride stérile non invasif) est une plante à croissance rapide (jusqu’à 4 mètres en quelques mois) de la famille des Poaceas. Cette culture s’inscrit sur le long terme avec une durée d’exploitation de plus de 20 ans. Développée en France réellement depuis une vi",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Datacenters IT &amp; IA Anticiper l&#039;impact à horizon 2035",
-    "bf_lien": "https://librairie.ademe.fr/energies/9739-datacenters-it-ia-anticiper-l-impact-a-horizon-2035.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Cartographier et anticiper projets de data centers IA à horizon 2035 :et évaluer les besoins techniques associés (foncier, puissance électrique, refroidissement avancé.&lt;/p&gt; &lt;p&gt;Analyser les besoins de renouvellement des infrastructures existantes (refroidissement, ASI, groupes él",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Rapport d&#039;activité 2025 du Réseau Bâtiment Durable",
-    "bf_lien": "https://librairie.ademe.fr/batiment/9738-rapport-d-activite-2025-du-reseau-batiment-durable.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Le Réseau Bâtiment Durable, animé par l’ADEME et le Plan Bâtiment Durable, a pour objectif de faciliter les synergies et la mutualisation entre structures et professionnels confrontés à des situations diverses, mais souvent comparables.&lt;br /&gt; Il constitue un lieu d’échanges et d’entra",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1422,46 +1422,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Damien Got (Andes) : \"Je souhaite que le sport devienne une politique publique à part entière\"",
-    "bf_lien": "https://www.banquedesterritoires.fr/damien-got-andes-je-souhaite-que-le-sport-devienne-une-politique-publique-part-entiere?pk_campaign=Flux%20RSS&pk_kwd=2026-11-03&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Bâtiments des collectivités territoriales : la \"taskforce simplification\" s’attaque au corpus de normes",
+    "bf_lien": "https://www.banquedesterritoires.fr/batiments-des-collectivites-territoriales-la-taskforce-simplification-sattaque-au-corpus-de-normes?pk_campaign=Flux%20RSS&pk_kwd=2026-11-04&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Damien Got, maire de Margès (Drôme), a été élu président de l'Association nationale des élus en charge du sport (Andes) le 8 octobre dernier. Pour Localtis, il revient sur les axes forts qu'il entend donner à son mandat.",
+    "bf_description": "Françoise Gatel a reçu, ce 2 novembre, le rapport inter-inspections issu de la \"taskforce\" dédiée à la simplification des normes pour la construction et la rénovation des bâtiments des collectivités territoriales. Cette initiative prolonge les séquences de concertation des \"Roquelaure de la simplifi",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Démographie : la grande \"bascule\" est perçue différemment selon les générations",
-    "bf_lien": "https://www.banquedesterritoires.fr/demographie-la-grande-bascule-est-percue-differemment-selon-les-generations?pk_campaign=Flux%20RSS&pk_kwd=2026-11-03&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "La liste des 200 lycées à rénover en priorité dévoilée par le ministère de l'Education nationale",
+    "bf_lien": "https://www.banquedesterritoires.fr/la-liste-des-200-lycees-renover-en-priorite-devoilee-par-le-ministere-de-leducation-nationale?pk_campaign=Flux%20RSS&pk_kwd=2026-11-04&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Pour une majorité des moins de 35 ans, la baisse de la natalité est autant un problème pour l'économie qu'une&nbsp;\"bonne nouvelle pour l'environnement\", là où les plus âgés sont davantage concentrés sur l'équation économique, selon le&nbsp;sondage Cese-Ipsos sur l'état de la France publié le 28 oct",
+    "bf_description": "Le ministère de l'Éducation nationale a transmis ce 3 novembre 2026 la liste des 200 lycées jugés prioritaires pour des opérations de réparation ou de rénovation, établie à partir de la consultation des lycéens. Les trois régions les plus peuplées – Île-de-France (31), Auvergne-Rhône-Alpes (27) et O",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Casernes de gendarmerie : le gouvernement met fin à un cadre locatif à bout de souffle",
-    "bf_lien": "https://www.banquedesterritoires.fr/cadre-locatif-des-casernes-de-gendarmerie-les-textes-sont-publies?pk_campaign=Flux%20RSS&pk_kwd=2026-11-03&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Les élus de la montagne se tournent vers l'élection présidentielle",
+    "bf_lien": "https://www.banquedesterritoires.fr/lanem-se-tourne-deja-vers-lelection-presidentielle?pk_campaign=Flux%20RSS&pk_kwd=2026-11-04&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le décret et l'arrêté portant sur la refonte du cadre locatif des casernes de gendarmerie ont été publiés au Journal officiel. Ils visent à prendre en compte dans les loyers les coûts réels engagés par les bailleurs pour la construction des locaux. Et ils donnent à l'État la possibilité de lever une",
+    "bf_description": "Quelques jours après le congrès de l'Anem à Gex, le nouveau trio à la tête de l'association a présenté ses priorités pour la mandature 2026-2028, mardi 3 novembre. Les élus s'attèlent à la rédaction d'un \"livre blanc\" destiné aux futurs candidats à l'élection présidentielle. Ils appellent à un \"pact",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Suppression de programmes d'accompagnement et de lutte contre la précarité énergétique : des organisations vent debout",
-    "bf_lien": "https://www.banquedesterritoires.fr/suppression-de-programmes-daccompagnement-et-de-lutte-contre-la-precarite-energetique-des?pk_campaign=Flux%20RSS&pk_kwd=2026-11-03&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Enfin du vent dans les voiles des réserves communales de sécurité civile ?",
+    "bf_lien": "https://www.banquedesterritoires.fr/enfin-du-vent-dans-les-voiles-des-reserves-communales-de-securite-civile?pk_campaign=Flux%20RSS&pk_kwd=2026-11-04&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Les organisations porteuses des programmes Slime, Territoires Zéro Exclusion Énergétique et Toits d’Abord et l’opérateur Soliha ont dénoncé ce 29 octobre la décision du gouvernement de \"couper brutalement et sans concertation\" le financement de ces outils, ce qui fragilise selon elles les petites co",
+    "bf_description": "Le Sénat s'apprête à adopter en séance, ce 5 novembre, une proposition de loi visant à valoriser la réserve communale de sécurité civile, dispositif également promu dans le futur projet de loi de modernisation de la sécurité civile. Jusqu'ici plutôt atone, il semble en outre connaître un regain d'in",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "PAC 2028–2034 : Annie Genevard se félicite des \"avancées majeures\" obtenues par la France",
-    "bf_lien": "https://www.banquedesterritoires.fr/pac-2028-2034-annie-genevard-se-felicite-des-avancees-majeures-obtenues-par-la-france?pk_campaign=Flux%20RSS&pk_kwd=2026-11-03&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Un tiers des Français peinent à payer leurs factures d'énergie, selon le baromètre 2026 du médiateur",
+    "bf_lien": "https://www.banquedesterritoires.fr/un-tiers-des-francais-peinent-payer-leurs-factures-denergie-selon-le-barometre-2026-du-mediateur?pk_campaign=Flux%20RSS&pk_kwd=2026-11-04&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le Conseil de l'Union européenne a arrêté, ce 26 octobre, sa position de négociation de la future politique agricole commune, dans laquelle la France a obtenu des \"avancées majeures\", se félicite Annie Genevard. Mais pas l'intégration des collectivités dans la liste des bénéficiaires éligibles aux s",
+    "bf_description": "Selon le 20ᵉ baromètre énergie-info du médiateur national de l’énergie publié ce 3 novembre, 86% des foyers interrogés en septembre estiment que leurs factures d’énergie pèsent lourdement dans leur budget, un niveau record depuis 2007, et 34% déclarent avoir rencontré des difficultés à payer certain",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
