@@ -1332,6 +1332,15 @@
     "bf_formulaire": "actu"
   },
   {
+    "bf_titre": "Enquête sur les prix des combustibles bois en 2025",
+    "bf_lien": "https://librairie.ademe.fr/energies/9748-enquete-sur-les-prix-des-combustibles-bois-en-2025.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;L&#039;étude présente les prix des combustibles bois en 2025.&lt;br /&gt; Un premier rapport évalue le niveau des prix en 2025 des combustibles bois pour les particuliers (chauffage domestique au bois), pour les combustibles couramment consommés (bois bûches, granulés, bûches et bûchettes r",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "TRIOMPH : Quel potentiel de transformation des bâtiments tertiaires vacants existants ?",
     "bf_lien": "https://librairie.ademe.fr/batiment/9746-triomph-quel-potentiel-de-transformation-des-batiments-tertiaires-vacants-existants-.html",
     "bf_categorie": "Transitions",
@@ -1341,37 +1350,28 @@
     "bf_formulaire": "actu"
   },
   {
+    "bf_titre": "Guide pratique : Identifier et rapporter les dépendances externes des plans de transition climat",
+    "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9736-guide-pratique-identifier-et-rapporter-les-dependances-externes-des-plans-de-transition-climat.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;La réussite des plans de transition climatique des entreprises dépend de nombreux facteurs externes : politiques publiques, disponibilité des technologies, infrastructures, ressources ou encore évolutions des marchés. Identifier ces dépendances est essentiel pour renforcer la robustesse et ",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Rapport sur les politiques publiques environnementales : un levier structurant de la transition climatique des entreprises",
+    "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9721-rapport-sur-les-politiques-publiques-environnementales-un-levier-structurant-de-la-transition-climatique-des-entreprises.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;La réussite des plans de transition climatique des entreprises dépend de nombreux facteurs externes : politiques publiques, disponibilité des technologies, infrastructures, ressources ou encore évolutions des marchés. Identifier ces dépendances est essentiel pour renforcer la robustesse et ",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "Le sol dans les stratégies territoriales : de la planification au projet d&#039;aménagement - Pourquoi et comment ?",
     "bf_lien": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9744-le-sol-dans-les-strategies-territoriales-de-la-planification-au-projet-d-amenagement-pourquoi-et-comment--9791029727887.html",
     "bf_categorie": "Transitions",
     "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:12pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;Ce guide met à disposition des territoires une méthode opérationnelle pour évaluer les fonctions écologiques des sols et les intégrer dans les stratégies territoriales. &lt;/span&gt;&lt;/span&gt;&lt;",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Méthodologie ACT Pas-à-Pas - Version 2.1",
-    "bf_lien": "https://librairie.ademe.fr/changement-climatique/9743-methodologie-act-pas-a-pas-version-21.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;La méthodologie &lt;strong&gt;ACT Pas-à-Pas Climat&lt;/strong&gt;, dans sa seconde version, accompagne les organisations dans la construction d’un plan de transition climatique combinant &lt;strong&gt;décarbonation&lt;/strong&gt; et &lt;strong&gt;adaptation au changement climatique&lt;/stro",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Développement de l&#039;outil d&#039;analyse de flux de matières dynamique ODYM France",
-    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9741-developpement-de-l-outil-d-analyse-de-flux-de-matieres-dynamique-odym-france.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;&lt;span style=&quot;background-color:#FFFFFF;&quot;&gt;&lt;span style=&quot;color:#004899;&quot;&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;Dans le contexte de la transition vers une économie dé",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "ACV Miscanthus amont (sortie de champs)",
-    "bf_lien": "https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9740-acv-miscanthus-amont-sortie-de-champs.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Le miscanthus (X Giganteus, hybride stérile non invasif) est une plante à croissance rapide (jusqu’à 4 mètres en quelques mois) de la famille des Poaceas. Cette culture s’inscrit sur le long terme avec une durée d’exploitation de plus de 20 ans. Développée en France réellement depuis une vi",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1422,46 +1422,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Bâtiments des collectivités territoriales : la \"taskforce simplification\" s’attaque au corpus de normes",
-    "bf_lien": "https://www.banquedesterritoires.fr/batiments-des-collectivites-territoriales-la-taskforce-simplification-sattaque-au-corpus-de-normes?pk_campaign=Flux%20RSS&pk_kwd=2026-11-04&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Stations-service rurales : \"des zones blanches vont fatalement apparaître\"",
+    "bf_lien": "https://www.banquedesterritoires.fr/stations-service-rurales-des-zones-blanches-vont-fatalement-apparaitre?pk_campaign=Flux%20RSS&pk_kwd=2026-11-05&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Françoise Gatel a reçu, ce 2 novembre, le rapport inter-inspections issu de la \"taskforce\" dédiée à la simplification des normes pour la construction et la rénovation des bâtiments des collectivités territoriales. Cette initiative prolonge les séquences de concertation des \"Roquelaure de la simplifi",
+    "bf_description": "La mise sur le marché d'une partie des stocks stratégiques de gazole accroît les distorsions de concurrence avec les petites stations-service, alertent leurs représentants. Malgré les mesures de soutien gouvernementales, ces derniers craignent une aggravation des difficultés économiques et pointent ",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "La liste des 200 lycées à rénover en priorité dévoilée par le ministère de l'Education nationale",
-    "bf_lien": "https://www.banquedesterritoires.fr/la-liste-des-200-lycees-renover-en-priorite-devoilee-par-le-ministere-de-leducation-nationale?pk_campaign=Flux%20RSS&pk_kwd=2026-11-04&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Budget 2026 : le projet de loi de \"fin de gestion\" réduit les dotations à l'investissement local",
+    "bf_lien": "https://www.banquedesterritoires.fr/budget-2026-le-projet-de-loi-de-fin-de-gestion-reduit-les-dotations-linvestissement-local?pk_campaign=Flux%20RSS&pk_kwd=2026-11-05&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le ministère de l'Éducation nationale a transmis ce 3 novembre 2026 la liste des 200 lycées jugés prioritaires pour des opérations de réparation ou de rénovation, établie à partir de la consultation des lycéens. Les trois régions les plus peuplées – Île-de-France (31), Auvergne-Rhône-Alpes (27) et O",
+    "bf_description": "Le ministre de l’Économie, Roland Lescure, et son collègue chargé de l’Action et des Comptes publics, David Amiel, ont présenté ce 4 novembre en conseil des ministres le projet de loi de finances de fin de gestion (PLFG) pour 2026, texte technique qui permet de financer notamment les réponses aux di",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Les élus de la montagne se tournent vers l'élection présidentielle",
-    "bf_lien": "https://www.banquedesterritoires.fr/lanem-se-tourne-deja-vers-lelection-presidentielle?pk_campaign=Flux%20RSS&pk_kwd=2026-11-04&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "PLFSS 2027 : les sénateurs s'engagent à \"tenir le niveau de déficit\" prévu par le gouvernement",
+    "bf_lien": "https://www.banquedesterritoires.fr/plfss-2027-les-senateurs-sengagent-tenir-le-niveau-de-deficit-prevu-par-le-gouvernement?pk_campaign=Flux%20RSS&pk_kwd=2026-11-05&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Quelques jours après le congrès de l'Anem à Gex, le nouveau trio à la tête de l'association a présenté ses priorités pour la mandature 2026-2028, mardi 3 novembre. Les élus s'attèlent à la rédaction d'un \"livre blanc\" destiné aux futurs candidats à l'élection présidentielle. Ils appellent à un \"pact",
+    "bf_description": "À la veille de l'examen en séance du projet de loi de financement de sécurité sociale (PLFSS) pour 2027, les sénateurs de la commission des affaires sociales en ont appelé à la \"responsabilité\". \"Il faut à tout prix un PLFSS pour que notre système de protection sociale continue d'exister\", a affirmé",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Enfin du vent dans les voiles des réserves communales de sécurité civile ?",
-    "bf_lien": "https://www.banquedesterritoires.fr/enfin-du-vent-dans-les-voiles-des-reserves-communales-de-securite-civile?pk_campaign=Flux%20RSS&pk_kwd=2026-11-04&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Congrès des maires : le premier pour certains, le dernier pour d'autres…",
+    "bf_lien": "https://www.banquedesterritoires.fr/congres-des-maires-le-premier-pour-certains-le-dernier-pour-dautres?pk_campaign=Flux%20RSS&pk_kwd=2026-11-05&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le Sénat s'apprête à adopter en séance, ce 5 novembre, une proposition de loi visant à valoriser la réserve communale de sécurité civile, dispositif également promu dans le futur projet de loi de modernisation de la sécurité civile. Jusqu'ici plutôt atone, il semble en outre connaître un regain d'in",
+    "bf_description": "L'Association des maires de France a présenté ce 4 novembre les traits saillants de son 108e congrès qui aura lieu du 23 au 26 novembre. En tenant notamment compte du fait que plus de 40% des maires sont de nouveaux élus. Ce sera donc moins un congrès d'annonces –&nbsp;fin de quinquennat oblige –&nb",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Un tiers des Français peinent à payer leurs factures d'énergie, selon le baromètre 2026 du médiateur",
-    "bf_lien": "https://www.banquedesterritoires.fr/un-tiers-des-francais-peinent-payer-leurs-factures-denergie-selon-le-barometre-2026-du-mediateur?pk_campaign=Flux%20RSS&pk_kwd=2026-11-04&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Gestion des communaux : le Sénat approuve une proposition de loi facilitant dissolution et transfert",
+    "bf_lien": "https://www.banquedesterritoires.fr/gestion-des-communaux-le-senat-approuve-une-proposition-de-loi-facilitant-dissolution-et-transfert?pk_campaign=Flux%20RSS&pk_kwd=2026-11-05&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Selon le 20ᵉ baromètre énergie-info du médiateur national de l’énergie publié ce 3 novembre, 86% des foyers interrogés en septembre estiment que leurs factures d’énergie pèsent lourdement dans leur budget, un niveau record depuis 2007, et 34% déclarent avoir rencontré des difficultés à payer certain",
+    "bf_description": "Les sénateurs ont adopté en première lecture, avec modifications, la proposition de loi visant à améliorer la gestion des biens des sections de commune. La loi de 2013 avait déjà modernisé ce dispositif ancien peu connu, en interdisant la création de nouvelles sections et en facilitant leur transfer",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
