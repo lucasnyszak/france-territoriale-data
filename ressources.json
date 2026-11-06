@@ -1287,6 +1287,24 @@
     "bf_formulaire": "6"
   },
   {
+    "bf_titre": "Retour sur les Rencontres du Réseau vélo et marche  à Nancy du 30 septembre au 2 octobre 2026",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/retour-rencontres-du-reseau-velo-marche-nancy-du-30",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Vendredi 6 novembre 2026 Vélo, marche, accessibilité, Aménagement de la voirie et éclairage public rue piétonne Cette deuxième édition des Rencontres du Réseau vélo et marche (association qui fédère plus de 450 collectivités engagées pour le développement des modes actifs) s’est tenue à Na",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Le Cerema contribue au suivi des Contrats de Performance Energétique, levier d'économies pour les collectivités",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/cerema-contribue-au-suivi-contrats-performance-energetique",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Vendredi 6 novembre 2026 Performances environnementales et énergétiques Isolation par l&#039;extérieur d&#039;un bâtiment tertiaire Introduit en droit européen par la directive 2006/32 du 5 avril 2006, le Contrat de Performance Energétique est une forme contractuelle innovante par laquelle",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "Prendre en compte la biodiversité dans la planification territoriale, dans les zones de transition entre les plaines et les montagnes : le projet européen PINO",
     "bf_lien": "https://www.cerema.fr/fr/actualites/prendre-compte-biodiversite-planification-territoriale-zones",
     "bf_categorie": "Transitions",
@@ -1314,20 +1332,11 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Requalifier et transformer les parcs de stationnement : le Cerema publie un guide de bonnes pratiques",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/requalifier-transformer-parcs-stationnement-cerema-publie",
+    "bf_titre": "Réemploi des emballages : données 2025",
+    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9713-reemploi-des-emballages-donnees-2025-9791029727597.html",
     "bf_categorie": "Transitions",
-    "bf_description": "Publié le Lundi 2 novembre 2026 Lutte contre l&#039;artificialisation des sols et sobriété foncière, Energies renouvelables terrestres et maritimes Parking équipé de panneaux photovoltaïques Longtemps pensés pour l’automobile exclusive, les parcs de stationnement de surface représentent d&#039;impor",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Instrumentation des ouvrages d’art : retour sur la journée technique Ouest du 7 octobre 2026",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/instrumentation-ouvrages-art-retour-journee-technique-ouest",
-    "bf_categorie": "Transitions",
-    "bf_description": "Publié le Lundi 2 novembre 2026 Ouvrages d’art Instrumentation par le Cerema du pont de l&#039;Aquitaine Le vieillissement du patrimoine d&#039;infrastructures, l&#039;évolution continue des charges de trafic et les aléas climatiques imposent aux gestionnaires de concilier maintien en service, sécur",
-    "bf_tags": "CEREMA",
+    "bf_description": "&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;3,29&lt;/span&gt; milliards d&#039;emballages réemployés&lt;/strong&gt; de tous types confondus ont été mis sur le marché en France en 2025, correspondant à&lt;strong&gt; un taux de réemploi de 2,10 %.&lt;/strong&gt;&lt;/p&gt; &lt;p",
+    "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
@@ -1363,15 +1372,6 @@
     "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9721-rapport-sur-les-politiques-publiques-environnementales-un-levier-structurant-de-la-transition-climatique-des-entreprises.html",
     "bf_categorie": "Transitions",
     "bf_description": "&lt;p&gt;La réussite des plans de transition climatique des entreprises dépend de nombreux facteurs externes : politiques publiques, disponibilité des technologies, infrastructures, ressources ou encore évolutions des marchés. Identifier ces dépendances est essentiel pour renforcer la robustesse et ",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Le sol dans les stratégies territoriales : de la planification au projet d&#039;aménagement - Pourquoi et comment ?",
-    "bf_lien": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9744-le-sol-dans-les-strategies-territoriales-de-la-planification-au-projet-d-amenagement-pourquoi-et-comment--9791029727887.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:12pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;Ce guide met à disposition des territoires une méthode opérationnelle pour évaluer les fonctions écologiques des sols et les intégrer dans les stratégies territoriales. &lt;/span&gt;&lt;/span&gt;&lt;",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1422,46 +1422,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Stations-service rurales : \"des zones blanches vont fatalement apparaître\"",
-    "bf_lien": "https://www.banquedesterritoires.fr/stations-service-rurales-des-zones-blanches-vont-fatalement-apparaitre?pk_campaign=Flux%20RSS&pk_kwd=2026-11-05&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "IA dans les collectivités : le retour sur investissement devient la clef",
+    "bf_lien": "https://www.banquedesterritoires.fr/ia-dans-les-collectivites-le-retour-sur-investissement-devient-la-clef?pk_campaign=Flux%20RSS&pk_kwd=2026-11-06&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "La mise sur le marché d'une partie des stocks stratégiques de gazole accroît les distorsions de concurrence avec les petites stations-service, alertent leurs représentants. Malgré les mesures de soutien gouvernementales, ces derniers craignent une aggravation des difficultés économiques et pointent ",
+    "bf_description": "Lors des sixièmes Assises de l’IA et des territoires, le 4 novembre 2026 à Paris, les collectivités les plus avancées sur l'IA ont comparé leurs façons de déployer la technologie : prototypage rapide d'un côté, cahier des charges et marchés publics de l'autre. Avec une question commune : comment mes",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Budget 2026 : le projet de loi de \"fin de gestion\" réduit les dotations à l'investissement local",
-    "bf_lien": "https://www.banquedesterritoires.fr/budget-2026-le-projet-de-loi-de-fin-de-gestion-reduit-les-dotations-linvestissement-local?pk_campaign=Flux%20RSS&pk_kwd=2026-11-05&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Budget 2027 : l'Assemblée nationale rejette le texte à l'unanimité",
+    "bf_lien": "https://www.banquedesterritoires.fr/thomas-3?pk_campaign=Flux%20RSS&pk_kwd=2026-11-06&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le ministre de l’Économie, Roland Lescure, et son collègue chargé de l’Action et des Comptes publics, David Amiel, ont présenté ce 4 novembre en conseil des ministres le projet de loi de finances de fin de gestion (PLFG) pour 2026, texte technique qui permet de financer notamment les réponses aux di",
+    "bf_description": "Par 458 voix contre et aucune voix pour, les députés ont repoussé en séance le 4 novembre la première partie du projet de loi de finances pour 2027, consacrée aux recettes. Un texte qui avait été profondément modifié au cours de la discussion, notamment s'agissant des dispositions concernant les col",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "PLFSS 2027 : les sénateurs s'engagent à \"tenir le niveau de déficit\" prévu par le gouvernement",
-    "bf_lien": "https://www.banquedesterritoires.fr/plfss-2027-les-senateurs-sengagent-tenir-le-niveau-de-deficit-prevu-par-le-gouvernement?pk_campaign=Flux%20RSS&pk_kwd=2026-11-05&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Liste des 200 lycées à rénover : Régions de France dénonce une \"méthode inacceptable\"",
+    "bf_lien": "https://www.banquedesterritoires.fr/liste-des-200-lycees-renover-regions-de-france-denonce-une-methode-inacceptable?pk_campaign=Flux%20RSS&pk_kwd=2026-11-06&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "À la veille de l'examen en séance du projet de loi de financement de sécurité sociale (PLFSS) pour 2027, les sénateurs de la commission des affaires sociales en ont appelé à la \"responsabilité\". \"Il faut à tout prix un PLFSS pour que notre système de protection sociale continue d'exister\", a affirmé",
+    "bf_description": "Dans un courrier à l’attention du ministre de l'Éducation nationale en cours de signature ce jeudi 5 novembre après-midi, les présidents de région fustigent la publication par le ministère de l'Éducation nationale d'une liste de 200 lycées \"prioritaires\" pour des travaux, établie à partir de la plat",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Congrès des maires : le premier pour certains, le dernier pour d'autres…",
-    "bf_lien": "https://www.banquedesterritoires.fr/congres-des-maires-le-premier-pour-certains-le-dernier-pour-dautres?pk_campaign=Flux%20RSS&pk_kwd=2026-11-05&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Déchets : un nouveau rapport parlementaire préconise de mieux contrôler les éco-organismes pour plus d'efficacité",
+    "bf_lien": "https://www.banquedesterritoires.fr/dechets-un-nouveau-rapport-parlementaire-preconise-de-mieux-controler-les-eco-organismes-pour-plus?pk_campaign=Flux%20RSS&pk_kwd=2026-11-06&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "L'Association des maires de France a présenté ce 4 novembre les traits saillants de son 108e congrès qui aura lieu du 23 au 26 novembre. En tenant notamment compte du fait que plus de 40% des maires sont de nouveaux élus. Ce sera donc moins un congrès d'annonces –&nbsp;fin de quinquennat oblige –&nb",
+    "bf_description": "Les éco-organismes, financés par les industriels pour soutenir les collectivités dans la réduction de leurs déchets, doivent être davantage contrôlés et sanctionnés, estime un rapport parlementaire publié ce 3 novembre, qui critique \"l'opacité\" de leur gestion et la non-atteinte de leurs objectifs. ",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Gestion des communaux : le Sénat approuve une proposition de loi facilitant dissolution et transfert",
-    "bf_lien": "https://www.banquedesterritoires.fr/gestion-des-communaux-le-senat-approuve-une-proposition-de-loi-facilitant-dissolution-et-transfert?pk_campaign=Flux%20RSS&pk_kwd=2026-11-05&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "\"On ne construit plus des maisons, on construit des dossiers administratifs\" : les députés cherchent la sortie de crise",
+    "bf_lien": "https://www.banquedesterritoires.fr/ne-construit-plus-des-maisons-construit-des-dossiers-administratifs-les-deputes-cherchent-la-sortie?pk_campaign=Flux%20RSS&pk_kwd=2026-11-06&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Les sénateurs ont adopté en première lecture, avec modifications, la proposition de loi visant à améliorer la gestion des biens des sections de commune. La loi de 2013 avait déjà modernisé ce dispositif ancien peu connu, en interdisant la création de nouvelles sections et en facilitant leur transfer",
+    "bf_description": "Construire coûte toujours plus cher, les entreprises du bâtiment perdent des emplois et les mises en chantier s'effondrent. Face à cette crise, les députés Thierry Benoit et Éric Michoux veulent s'attaquer à la flambée des prix des matériaux, à la complexité réglementaire et au système des aides à l",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
