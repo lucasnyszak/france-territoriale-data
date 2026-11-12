@@ -1287,6 +1287,24 @@
     "bf_formulaire": "6"
   },
   {
+    "bf_titre": "Modéliser, planifier et évaluer les mobilités de demain : retour sur le rendez-vous mobilités du 24 septembre 2026",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/modeliser-planifier-evaluer-mobilites-demain-retour-rendez",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Jeudi 12 novembre 2026 Gouvernance, planification et organisation des mobilités, Connaissance, modélisation et évaluation de la mobilité Mobilités actives et transports en commun à Toulon La prospective territoriale en des temps incertains…&amp;nbsp;Ce Rendez-vous mobilité a été introduit ",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Bâtiments publics : prêts pour le climat de demain",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/batiments-publics-prets-climat-demain",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Jeudi 12 novembre 2026 Solutions d&#039;adaptation des bâtiments au changement climatique, Risques inondations et mouvements de terrain couverture Multiplication et intensification des canicules, épisodes de sécheresse, pluies extrêmes ou encore tempêtes, modifient durablement leurs condit",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "Exercer la Gemapi dans le cadre d’une gestion globale de l’eau : retours d'expérience des 15 territoires accompagnés",
     "bf_lien": "https://www.cerema.fr/fr/actualites/exercer-gemapi-cadre-gestion-globale-eau-retours-experience",
     "bf_categorie": "Transitions",
@@ -1314,64 +1332,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Retour sur les Rencontres du Réseau vélo et marche  à Nancy du 30 septembre au 2 octobre 2026",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/retour-rencontres-du-reseau-velo-marche-nancy-du-30",
+    "bf_titre": "Lutte contre le brûlage des déchets verts : Comprendre et Agir",
+    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9765-lutte-contre-le-brulage-des-dechets-verts-comprendre-et-agir.html",
     "bf_categorie": "Transitions",
-    "bf_description": "Publié le Vendredi 6 novembre 2026 Vélo, marche, accessibilité, Aménagement de la voirie et éclairage public rue piétonne Cette deuxième édition des Rencontres du Réseau vélo et marche (association qui fédère plus de 450 collectivités engagées pour le développement des modes actifs) s’est tenue à Na",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Le Cerema contribue au suivi des Contrats de Performance Energétique, levier d'économies pour les collectivités",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/cerema-contribue-au-suivi-contrats-performance-energetique",
-    "bf_categorie": "Transitions",
-    "bf_description": "Publié le Vendredi 6 novembre 2026 Performances environnementales et énergétiques Isolation par l&#039;extérieur d&#039;un bâtiment tertiaire Introduit en droit européen par la directive 2006/32 du 5 avril 2006, le Contrat de Performance Energétique est une forme contractuelle innovante par laquelle",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "ADEME Strategy No.75 - July 2026",
-    "bf_lien": "https://librairie.ademe.fr/industrie-et-production-durable/9761-ademe-strategy-no75-july-2026.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:12pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;More than 70% of France’s industrial emissions come from around ten areas that are home to strategically important industries, including steelmaking, chemicals, refining, energy generation, and logis",
+    "bf_description": "&lt;p&gt;Infographie sur le brûlage des déchets verts qui répond aux 3 questions suivantes : &lt;/p&gt; &lt;p&gt;Que constate t-on ? Pourquoi agir ? Comment agir ?&lt;/p&gt;",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "METHODOLOGICAL GUIDE TO SCOPING DECARBONISATION PATHWAY STUDIES FOR LOW-CARBON INDUSTRIAL ZONES (ZIBAC)",
-    "bf_lien": "https://librairie.ademe.fr/industrie-et-production-durable/9760-methodological-guide-to-scoping-decarbonisation-pathway-studies-for-low-carbon-industrial-zones-zibac.html",
+    "bf_titre": "Sols : Comprendre et Agir",
+    "bf_lien": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9764-sols-comprendre-et-agir.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;In 2022, the government invited industrial zones across France to apply for the newly created “ZIBaC” (“Low Carbon Industrial Zone”) status, as part of the ‘France 2030’ national investment programme. ",
+    "bf_description": "&lt;p&gt;Infographie sur les sols qui répond aux 3 questions suivantes : &lt;/p&gt; &lt;p&gt;Que constate t-on ? Pourquoi agir ? Comment agir ?&lt;/p&gt;",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Reports of BAOBAP project",
-    "bf_lien": "https://librairie.ademe.fr/batiment/9759-reports-of-baobap-project.html",
+    "bf_titre": "LA STRATÉGIE ÉNERGÉTIQUE DES BIG TECH ÉTATS-UNIENNES",
+    "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9763-la-strategie-energetique-des-big-tech-etats-uniennes.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;The project BAOBAP had three main objectives: &lt;/span&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;Establish a Regional Renovation Support Package for small and mid-size municipalities in the regions of Auve",
+    "bf_description": "&lt;p style=&quot;margin-left:38px;&quot;&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;&lt;span style=&quot;color:#1d1d1b;&quot;&gt;La révolution de l’IA est en train de modifier profondément les équilibres entre numérique et énergie. Longtemps considérées comme de simples consommatrices d’électr",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Tobacco products: data 2024",
-    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9758-tobacco-products-data-2024-9791029726064.html",
+    "bf_titre": "Le ZAN, exutoire d&#039;une crise structurelle de l&#039;aménagement ?",
+    "bf_lien": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9762-le-zan-exutoire-d-une-crise-structurelle-de-l-amenagement-.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:11pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;Alcome, the producer responsibility organisation in the tobacco products EPR scheme, had entered into contracts with 1,242 local authorities or local authority groupings to collect waste in public sp",
+    "bf_description": "&lt;div&gt; &lt;p&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;Ce projet de recherche vise à analyser l’intégration de l’objectif « Zéro Artificialisation Nette » (ZAN) dans les politiques de planification et d’urbanisme des territoires ruraux « ordina",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Vehicles: data 2023",
-    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9757-vehicles-data-2023-9791029726101.html",
+    "bf_titre": "Guide méthodologique - Etudes d&#039;infrastructures chaleur, hydrogène et CO2 pour décarboner les zones industrielles",
+    "bf_lien": "https://librairie.ademe.fr/industrie-et-production-durable/9724-guide-methodologique-etudes-d-infrastructures-chaleur-hydrogene-et-co2-pour-decarboner-les-zones-industrielles.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:11pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;Nearly two million vehicles were placed on the market and more than one million end-of-life vehicles (ELVs) were handled in 2023, representing 1.2 million tonnes in total. The &lt;strong&gt;reuse and",
+    "bf_description": "&lt;p&gt;[MISE A JOUR] L&#039;appel à projet ZIBaC (Zones Industrielles Bas Carbone) a été initié en 2022 dans le cadre du programme France 2030. Il vise à accompagner des territoires industriels dans leur transformation écologique et énergétique afin de gagner en résilience, en compétitivité et en ",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1423,7 +1423,7 @@
   },
   {
     "bf_titre": "L'\"Atlas des centres\" raconte en cartes la transformation des villes moyennes",
-    "bf_lien": "https://www.banquedesterritoires.fr/latlas-des-centres-raconte-la-transformation-des-villes-moyennes?pk_campaign=Flux%20RSS&pk_kwd=2026-11-11&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_lien": "https://www.banquedesterritoires.fr/latlas-des-centres-raconte-la-transformation-des-villes-moyennes?pk_campaign=Flux%20RSS&pk_kwd=2026-11-12&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
     "bf_description": "Longtemps, la santé d'un centre-ville s'est mesurée au nombre de boutiques ouvertes ou fermées. L'Atlas des centres, publié par la Fnau et la Banque des Territoires, invite à changer de regard. Vieillissement, pauvreté, habitat, accès aux soins, culture ou encore adaptation climatique : l'étude mont",
     "bf_tags": "Banque des Territoires",
@@ -1432,7 +1432,7 @@
   },
   {
     "bf_titre": "Période électorale : quelles précautions les agents publics doivent-ils suivre ?",
-    "bf_lien": "https://www.banquedesterritoires.fr/periode-electorale-quelles-precautions-les-agents-publics-doivent-ils-suivre?pk_campaign=Flux%20RSS&pk_kwd=2026-11-11&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_lien": "https://www.banquedesterritoires.fr/periode-electorale-quelles-precautions-les-agents-publics-doivent-ils-suivre?pk_campaign=Flux%20RSS&pk_kwd=2026-11-12&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
     "bf_description": "Alors que se profile l'élection présidentielle, une circulaire vient rappeller les obligations déontologiques auxquelles les agents publics – notamment ceux qui souhaitent s'engager dans la campagne électorale – doivent être attentifs.&nbsp;",
     "bf_tags": "Banque des Territoires",
@@ -1441,7 +1441,7 @@
   },
   {
     "bf_titre": "Quand l'origine sociale et géographique pèse sur la scolarité",
-    "bf_lien": "https://www.banquedesterritoires.fr/quand-lorigine-sociale-et-geographique-pese-sur-la-scolarite?pk_campaign=Flux%20RSS&pk_kwd=2026-11-11&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_lien": "https://www.banquedesterritoires.fr/quand-lorigine-sociale-et-geographique-pese-sur-la-scolarite?pk_campaign=Flux%20RSS&pk_kwd=2026-11-12&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
     "bf_description": "Les dernières statistiques de la Depp mettent en avant les facteurs socio-économiques et géographiques des résultats scolaires et de l'orientation des élèves... et démontrent que résultats et orientation ne vont pas toujours de pair.",
     "bf_tags": "Banque des Territoires",
@@ -1450,7 +1450,7 @@
   },
   {
     "bf_titre": "Logement abordable : le Sénat met en garde contre les effets du futur règlement européen sur les pouvoirs locaux",
-    "bf_lien": "https://www.banquedesterritoires.fr/logement-abordable-le-senat-met-en-garde-contre-les-effets-du-futur-reglement-europeen-sur-les?pk_campaign=Flux%20RSS&pk_kwd=2026-11-11&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_lien": "https://www.banquedesterritoires.fr/logement-abordable-le-senat-met-en-garde-contre-les-effets-du-futur-reglement-europeen-sur-les?pk_campaign=Flux%20RSS&pk_kwd=2026-11-12&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
     "bf_description": "Dans un rapport présenté le 5 novembre, les sénateurs contestent la base juridique et les modalités du projet de règlement européen sur le logement abordable. Ils estiment que le texte empiète sur les compétences nationales et risque notamment de fragiliser les outils dont disposent les maires pour ",
     "bf_tags": "Banque des Territoires",
@@ -1459,7 +1459,7 @@
   },
   {
     "bf_titre": "Le Conseil de la famille du HCFEA préconise d'ouvrir le RSA aux 18-25 ans ayant \"rompu avec le foyer parental\"",
-    "bf_lien": "https://www.banquedesterritoires.fr/le-conseil-de-la-famille-du-hcfea-preconise-douvrir-le-rsa-aux-18-25-ans-ayant-rompu-avec-le-foyer?pk_campaign=Flux%20RSS&pk_kwd=2026-11-11&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_lien": "https://www.banquedesterritoires.fr/le-conseil-de-la-famille-du-hcfea-preconise-douvrir-le-rsa-aux-18-25-ans-ayant-rompu-avec-le-foyer?pk_campaign=Flux%20RSS&pk_kwd=2026-11-12&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
     "bf_description": "Dans un rapport soulignant les limites du système socio-fiscal français par rapport à la diversité de situations que connaissent les jeunes adultes d'aujourd'hui, le Conseil de la famille du HCFEA formule des propositions pour ouvrir davantage le bénéfice de certaines aides aux jeunes qui en auraien",
     "bf_tags": "Banque des Territoires",
