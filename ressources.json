@@ -1332,6 +1332,24 @@
     "bf_formulaire": "actu"
   },
   {
+    "bf_titre": "Ecolabel Européen (L&#039;)",
+    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9768-ecolabel-europeen-l-.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p&gt;L&#039;Ecolabel Européen (EE) est unsystème volontairetraduisant la qualité environnementale de produits et services (24 catégories couvertes, Cf. Annexe 1). Il est le seul garant de la qualité écologique des produits qui soit officiel etutilisable dans tous les pays membres de l&#039;Union",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "SAS Regain. Entreprise de tricotage et de confection textile. Labruguière (81)",
+    "bf_lien": "https://librairie.ademe.fr/energies/9767-sas-regain-entreprise-de-tricotage-et-de-confection-textile-labruguiere-81.html",
+    "bf_categorie": "Transitions",
+    "bf_description": "&lt;p style=&quot;margin-left:11px;margin-right:11px;&quot;&gt;&lt;span style=&quot;font-size:11pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;&lt;span style=&quot;color:#404040;&quot;&gt;La Société Regain est spécialisée dans le tricotage et la confection de façon responsable de vêtemen",
+    "bf_tags": "ADEME - Librairie",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "Lutte contre le brûlage des déchets verts : Comprendre et Agir",
     "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9765-lutte-contre-le-brulage-des-dechets-verts-comprendre-et-agir.html",
     "bf_categorie": "Transitions",
@@ -1354,24 +1372,6 @@
     "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9763-la-strategie-energetique-des-big-tech-etats-uniennes.html",
     "bf_categorie": "Transitions",
     "bf_description": "&lt;p style=&quot;margin-left:38px;&quot;&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;&lt;span style=&quot;color:#1d1d1b;&quot;&gt;La révolution de l’IA est en train de modifier profondément les équilibres entre numérique et énergie. Longtemps considérées comme de simples consommatrices d’électr",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Le ZAN, exutoire d&#039;une crise structurelle de l&#039;aménagement ?",
-    "bf_lien": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9762-le-zan-exutoire-d-une-crise-structurelle-de-l-amenagement-.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;div&gt; &lt;p&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;Ce projet de recherche vise à analyser l’intégration de l’objectif « Zéro Artificialisation Nette » (ZAN) dans les politiques de planification et d’urbanisme des territoires ruraux « ordina",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Guide méthodologique - Etudes d&#039;infrastructures chaleur, hydrogène et CO2 pour décarboner les zones industrielles",
-    "bf_lien": "https://librairie.ademe.fr/industrie-et-production-durable/9724-guide-methodologique-etudes-d-infrastructures-chaleur-hydrogene-et-co2-pour-decarboner-les-zones-industrielles.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;[MISE A JOUR] L&#039;appel à projet ZIBaC (Zones Industrielles Bas Carbone) a été initié en 2022 dans le cadre du programme France 2030. Il vise à accompagner des territoires industriels dans leur transformation écologique et énergétique afin de gagner en résilience, en compétitivité et en ",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1422,46 +1422,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "L'\"Atlas des centres\" raconte en cartes la transformation des villes moyennes",
-    "bf_lien": "https://www.banquedesterritoires.fr/latlas-des-centres-raconte-la-transformation-des-villes-moyennes?pk_campaign=Flux%20RSS&pk_kwd=2026-11-12&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Agriculture : les projets d’avenir imbriqués dans le plan de relance du gouvernement",
+    "bf_lien": "https://www.banquedesterritoires.fr/agriculture-les-projets-davenir-imbriques-dans-le-plan-de-relance-du-gouvernement?pk_campaign=Flux%20RSS&pk_kwd=2026-11-13&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Longtemps, la santé d'un centre-ville s'est mesurée au nombre de boutiques ouvertes ou fermées. L'Atlas des centres, publié par la Fnau et la Banque des Territoires, invite à changer de regard. Vieillissement, pauvreté, habitat, accès aux soins, culture ou encore adaptation climatique : l'étude mont",
+    "bf_description": "A l'issue des Conférences de la souveraineté alimentaire, le gouvernement a lancé un plan de relance de 725 millions d'euros pour l'agriculture autour de trois priorités : adaptation au changement climatique, reconquête de la souveraineté alimentaire et transmission des exploitations. Au coeur de ce",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Période électorale : quelles précautions les agents publics doivent-ils suivre ?",
-    "bf_lien": "https://www.banquedesterritoires.fr/periode-electorale-quelles-precautions-les-agents-publics-doivent-ils-suivre?pk_campaign=Flux%20RSS&pk_kwd=2026-11-12&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Le gouvernement présente sa réforme de \"l'intégrité publique\"",
+    "bf_lien": "https://www.banquedesterritoires.fr/le-gouvernement-presente-sa-reforme-de-lintegrite-publique?pk_campaign=Flux%20RSS&pk_kwd=2026-11-13&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Alors que se profile l'élection présidentielle, une circulaire vient rappeller les obligations déontologiques auxquelles les agents publics – notamment ceux qui souhaitent s'engager dans la campagne électorale – doivent être attentifs.&nbsp;",
+    "bf_description": "Le gouvernement a déposé deux projets de loi \"portant diverses dispositions relatives à l'intégrité publique\" en vue de conforter la mission de prévention exercée par la Haute aAtorité pour la transparence de la vie publique (HATVP). Les déclarations d'intérêts et de situation patrimoniale des respo",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Quand l'origine sociale et géographique pèse sur la scolarité",
-    "bf_lien": "https://www.banquedesterritoires.fr/quand-lorigine-sociale-et-geographique-pese-sur-la-scolarite?pk_campaign=Flux%20RSS&pk_kwd=2026-11-12&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Inégalités face au changement climatique : le CAE avance dix recommandations pour réduire la fracture",
+    "bf_lien": "https://www.banquedesterritoires.fr/inegalites-face-au-changement-climatique-le-cae-avance-dix-recommandations-pour-reduire-la-fracture?pk_campaign=Flux%20RSS&pk_kwd=2026-11-13&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Les dernières statistiques de la Depp mettent en avant les facteurs socio-économiques et géographiques des résultats scolaires et de l'orientation des élèves... et démontrent que résultats et orientation ne vont pas toujours de pair.",
+    "bf_description": "Le Conseil d'analyse économique (CAE) a présenté ce 10 novembre une note dressant une cartographie des inégalités face au changement climatique. L'étude montre comment les profils les plus exposés varient selon les risques et les territoires et examine aussi pourquoi, à exposition comparable, les do",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Logement abordable : le Sénat met en garde contre les effets du futur règlement européen sur les pouvoirs locaux",
-    "bf_lien": "https://www.banquedesterritoires.fr/logement-abordable-le-senat-met-en-garde-contre-les-effets-du-futur-reglement-europeen-sur-les?pk_campaign=Flux%20RSS&pk_kwd=2026-11-12&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Violences dans les lycées : le gouvernement annonce la judiciarisation systématique des actes délictueux visant les personnels de l'Éducation nationale",
+    "bf_lien": "https://www.banquedesterritoires.fr/violences-dans-les-lycees-le-gouvernement-annonce-la-judiciarisation-systematique-des-actes?pk_campaign=Flux%20RSS&pk_kwd=2026-11-13&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Dans un rapport présenté le 5 novembre, les sénateurs contestent la base juridique et les modalités du projet de règlement européen sur le logement abordable. Ils estiment que le texte empiète sur les compétences nationales et risque notamment de fragiliser les outils dont disposent les maires pour ",
+    "bf_description": "Face à la persistance de violences dans plusieurs lycées, le gouvernement annonce une judiciarisation systématique des actes délictueux visant les personnels de l'Éducation nationale. La région Île-de-France a annoncé quant à elle la mise en place de caméras de vidéoprotection dans les circulations ",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Le Conseil de la famille du HCFEA préconise d'ouvrir le RSA aux 18-25 ans ayant \"rompu avec le foyer parental\"",
-    "bf_lien": "https://www.banquedesterritoires.fr/le-conseil-de-la-famille-du-hcfea-preconise-douvrir-le-rsa-aux-18-25-ans-ayant-rompu-avec-le-foyer?pk_campaign=Flux%20RSS&pk_kwd=2026-11-12&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Compromis trouvé sur le dernier budget de la programmation 2021-2027 de l'UE",
+    "bf_lien": "https://www.banquedesterritoires.fr/compromis-trouve-sur-le-dernier-budget-de-la-programmation-2021-2027-de-lue?pk_campaign=Flux%20RSS&pk_kwd=2026-11-13&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Dans un rapport soulignant les limites du système socio-fiscal français par rapport à la diversité de situations que connaissent les jeunes adultes d'aujourd'hui, le Conseil de la famille du HCFEA formule des propositions pour ouvrir davantage le bénéfice de certaines aides aux jeunes qui en auraien",
+    "bf_description": "Le Conseil de l'UE et le Parlement européen ont trouvé un accord sur le budget 2027 de l'Union européenne, qui scelle la fin de l'actuelle programmation. Si la PAC et la politique de cohésion s'y taillent logiquement la part du lion, le soutien à l'Ukraine et le remboursement des intérêts de l'empru",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
