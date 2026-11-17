@@ -1287,6 +1287,15 @@
     "bf_formulaire": "6"
   },
   {
+    "bf_titre": "LIAttoral : l'intelligence artificielle pour digitaliser le sentier du littoral à partir des images prises par drone",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/liattoral-intelligence-artificielle-digitaliser-sentier-du",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Mardi 17 novembre 2026 Observation, planification et gestion du littoral et de la mer Port Vendres vue drone Dans un contexte marqué par l’érosion côtière, les risques de submersion et une fréquentation touristique croissante, disposer d’une cartographie fiable et régulièrement actualisée ",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "Une stratégie de mobilité construite au travers d’une approche pluridisciplinaire et à différentes échelles : retour sur la démarche de Le Muy (83)",
     "bf_lien": "https://www.cerema.fr/fr/actualites/strategie-mobilite-construite-au-travers-approche",
     "bf_categorie": "Transitions",
@@ -1323,55 +1332,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Exercer la Gemapi dans le cadre d’une gestion globale de l’eau : retours d'expérience des 15 territoires accompagnés",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/exercer-gemapi-cadre-gestion-globale-eau-retours-experience",
+    "bf_titre": "Changement de comportement tri des biodéchets - Guide",
+    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9650-changement-de-comportement-tri-des-biodechets-guide.html",
     "bf_categorie": "Transitions",
-    "bf_description": "Publié le Mardi 10 novembre 2026 Eau et milieux aquatiques Marais de la Tour Carbonnière L&#039;aménagement, levier majeur pour réduire la vulnérabilité des territoires face aux inondationsRéduire la vulnérabilité des territoires face aux inondations passe par l&#039;aménagement : les choix d’’aména",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Indice environnemental vidéo",
-    "bf_lien": "https://librairie.ademe.fr/industrie-et-production-durable/9772-indice-environnemental-video.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;&lt;span style=&quot;color:#1d1d1b;&quot;&gt;La notice détaille pour l’ensemble des critères pris en compte dans le calcul de l’indice d’écoconception pour les services audiovisuels concernés par l’art. 26 de la loi de réduction de l’empreinte en",
+    "bf_description": "&lt;div style=&quot;margin-left:0;margin-right:0;&quot;&gt;La réglementation sur la généralisation du tri à la source des biodéchets de 2024 a conduit les acteurs publics à proposer des actions pour accompagner ce nouveau geste de tri. Les collectivités accompagnent les citoyens vers ces nouvelles p",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Bilan carbone du mix électrique de Guyane",
-    "bf_lien": "https://librairie.ademe.fr/energies/9771-bilan-carbone-du-mix-electrique-de-guyane.html",
+    "bf_titre": "Retours d&#039;expérience de porteurs de projets engagés dans une démarche de transition écologique en Guyane",
+    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9776-retours-d-experience-de-porteurs-de-projets-engages-dans-une-demarche-de-transition-ecologique-en-guyane-9791029727382.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Cette étude porte sur le bilan carbone du mix électrique du littoral guyanais afin d’actualiser et publier le facteur d’émission du mix électrique. Elle permet aux entreprises, collectivités, administrations et producteurs de disposer de ce facteur d’émission pour évaluer leurs émissions de",
+    "bf_description": "&lt;p&gt;Face aux défis climatiques, énergétiques, environnementaux et sociaux, les communes ont un rôle essentiel à jouer dans la transition écologique.&lt;br /&gt; À travers ce livret, l’ADEME et l’OFB souhaitent accompagner les élus dans leurs nouveaux mandats en leur proposant des exemples concr",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Entreprise robuste",
-    "bf_lien": "https://librairie.ademe.fr/batiment/9770-entreprise-robuste.html",
+    "bf_titre": "Consommation de sacs plastiques légers en France - Données 2024",
+    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9774-consommation-de-sacs-plastiques-legers-en-france-donnees-2024.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;&lt;span style=&quot;font-size:11pt;&quot;&gt;&lt;span style=&quot;font-size:10pt;&quot;&gt;Le bâtiment est le premier consommateur d&#039;énergie de France et l&#039;un des plus gros émetteurs de gaz à effet de serre. Rénover le parc, l&#039;adapter au climat, lutter contre la précarité én",
+    "bf_description": "&lt;p&gt;La décision d&#039;exécution (UE) 2018/896 de la Commission, établissant la méthode de calcul de la consommation annuelle de sacs en plastique légers et modifiant la décision 2005/270/CE, impose aux États membres de calculer et déclarer leurs données sur la consommation annuelle de sacs en ",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Foyer de vie, ADPEP du Gers, Le Houga (32)",
-    "bf_lien": "https://librairie.ademe.fr/energies/9769-foyer-de-vie-adpep-du-gers-le-houga-32.html",
+    "bf_titre": "Changement de comportement tri des biodéchets - REX",
+    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9652-changement-de-comportement-tri-des-biodechets-rex.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Les PEP (Pupilles de l’Enseignement Public) regroupent 99 associations de proximité fédérées au sein d’une fédération générale, qui œuvrent pour une société inclusive fondée sur les valeurs de laïcité, de solidarité, d’égalité et de citoyenneté.&lt;/p&gt; &lt;p&gt;Au Houga, dans le Gers, l’",
+    "bf_description": "&lt;div style=&quot;margin-left:0;margin-right:0;&quot;&gt;La réglementation sur la généralisation du tri à la source des biodéchets de 2024 a conduit les acteurs publics à proposer des actions pour accompagner ce nouveau geste de tri. Les collectivités accompagnent les citoyens vers ces nouvelles p",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Ecolabel Européen (L&#039;)",
-    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9768-ecolabel-europeen-l-.html",
+    "bf_titre": "Changement de comportement tri des biodéchets - Outils",
+    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9651-changement-de-comportement-tri-des-biodechets-outils.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;L&#039;Ecolabel Européen (EE) est unsystème volontairetraduisant la qualité environnementale de produits et services (24 catégories couvertes, Cf. Annexe 1). Il est le seul garant de la qualité écologique des produits qui soit officiel etutilisable dans tous les pays membres de l&#039;Union",
+    "bf_description": "&lt;div style=&quot;margin-left:0;margin-right:0;&quot;&gt;La réglementation sur la généralisation du tri à la source des biodéchets de 2024 a conduit les acteurs publics à proposer des actions pour accompagner ce nouveau geste de tri. Les collectivités accompagnent les citoyens vers ces nouvelles p",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1422,46 +1422,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Périscolaire, cantine, numérique : les communes marquent leur territoire éducatif",
-    "bf_lien": "https://www.banquedesterritoires.fr/periscolaire-cantine-numerique-les-communes-marquent-leur-territoire-educatif?pk_campaign=Flux%20RSS&pk_kwd=2026-11-16&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Murielle Fabre : \"Il est temps de donner un nouveau cadre à notre organisation territoriale\"",
+    "bf_lien": "https://www.banquedesterritoires.fr/murielle-fabre-il-est-temps-de-donner-un-nouveau-cadre-notre-organisation-territoriale?pk_campaign=Flux%20RSS&pk_kwd=2026-11-17&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le dernier baromètre de l'Andev lève le voile sur la place que les communes ont prise dans l'enseignement primaire. Leur investissement va bien au-delà des seules obligations légales puisqu'elles sont nombreuses à s'impliquer dans des thématiques purement éducatives à travers les temps périscolaires",
+    "bf_description": "Secrétaire générale de l'Association des maires de France (AMF) et maire de Lampertheim&nbsp;(Bas-Rhin), Murielle Fabre estime qu'une réforme de la décentralisation venant conforter le rôle des maires s'impose plus que jamais. Le prochain Congrès des maires sera selon elle l'occasion de le réaffirme",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Budget 2027 : le Sénat entend ramener l'effort des collectivités à \"entre 2 et 2,5 milliards d'euros\"",
-    "bf_lien": "https://www.banquedesterritoires.fr/budget-2027-le-senat-entend-ramener-leffort-des-collectivites-entre-2-et-25-milliards-deuros?pk_campaign=Flux%20RSS&pk_kwd=2026-11-16&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "\"On ne peut pas en rester là\" : les régions remettent la pression sur l'État en matière d'orientation",
+    "bf_lien": "https://www.banquedesterritoires.fr/ne-peut-pas-en-rester-la-les-regions-remettent-la-pression-sur-letat-en-matiere-dorientation?pk_campaign=Flux%20RSS&pk_kwd=2026-11-17&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "La commission des finances de la Chambre haute a commencé ses travaux en première lecture sur le projet de loi de finances pour 2027. Des amendements adoptés le 12 novembre sur le volet des recettes conduisent à une baisse des ponctions sur les collectivités de \"près de 3 milliards d'euros\" par rapp",
+    "bf_description": "A l’occasion des 5es rencontres inter-régions sur l’orientation qui se sont tenues à Rouen vendredi 13 novembre, François Bonneau, président de la région Centre-Val de Loire et président de la commission éducation, orientation, formation et emploi de l’association Régions de France, a réaffirmé la v",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Pour le Secours Catholique, une politique ambitieuse de lutte contre la pauvreté \"protège l'ensemble de la société\"",
-    "bf_lien": "https://www.banquedesterritoires.fr/pour-le-secours-catholique-une-politique-ambitieuse-de-lutte-contre-la-pauvrete-protege-lensemble?pk_campaign=Flux%20RSS&pk_kwd=2026-11-16&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "NIS2 : les dispositions adoptées par les députés concernant les collectivités",
+    "bf_lien": "https://www.banquedesterritoires.fr/nis2-les-dispositions-adoptees-par-les-deputes-concernant-les-collectivites?pk_campaign=Flux%20RSS&pk_kwd=2026-11-17&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Près de 60.000 bénévoles du Secours Catholique ont accueilli en France plus d'1 million de personnes pauvres en 2025. A partir de l'analyse des situations dans leur diversité et d'un sondage sur la perception de la pauvreté dans la société, le mouvement associatif estime que les Français ont une app",
+    "bf_description": "L'Assemblée nationale vote ce mardi 17 novembre 2026 le projet de loi \"Résilience des infrastructures critiques et renforcement de la cybersécurité\", qui transpose la directive NIS2. Le texte issu des débats a été sensiblement modifié pour ce qui concerne les collectivités. Il reste à savoir ce qu'e",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Fonction publique : hausse du Smic, points d'indice en plus, réforme des carrières… Les annonces du gouvernement",
-    "bf_lien": "https://www.banquedesterritoires.fr/fonction-publique-hausse-du-smic-points-dindice-en-plus-reforme-des-carrieres-les-annonces-du?pk_campaign=Flux%20RSS&pk_kwd=2026-11-16&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Solaire thermique : le gouvernement lance un plan d'action pour accélérer le développement de la filière",
+    "bf_lien": "https://www.banquedesterritoires.fr/solaire-thermique-le-gouvernement-lance-un-plan-daction-pour-accelerer-le-developpement-de-la?pk_campaign=Flux%20RSS&pk_kwd=2026-11-17&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Lors d'une réunion ce 13 novembre à Matignon avec les syndicats de la fonction publique, le Premier ministre et le ministre de l'Action et des Comptes publics ont annoncé l'application de la hausse du Smic aux agents publics et, surtout, l'attribution de points d'indice supplémentaires pour les agen",
+    "bf_description": "Le gouvernement a annoncé ce 13 novembre le lancement d'un plan d’action national pour la filière solaire thermique destiné à accélérer le développement de cette énergie renouvelable et la décarbonation de la production de chaleur. En cohérence avec la programmation pluriannuelle de l’énergie, l’obj",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Artisanat : les créations battent un nouveau record, mais les transmissions restent à la peine",
-    "bf_lien": "https://www.banquedesterritoires.fr/artisanat-les-creations-battent-un-nouveau-record-mais-les-transmissions-restent-la-peine?pk_campaign=Flux%20RSS&pk_kwd=2026-11-16&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Infrastructures de transports : la Cour des comptes ne veut – presque – plus de projets nouveaux",
+    "bf_lien": "https://www.banquedesterritoires.fr/infrastructures-de-transports-la-cour-des-comptes-ne-veut-presque-plus-de-projets-nouveaux?pk_campaign=Flux%20RSS&pk_kwd=2026-11-17&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Avec près de 292.000 nouvelles entreprises en 2025, l'artisanat confirme son rôle moteur dans l'entrepreneuriat français. Cette dynamique profite particulièrement aux territoires ruraux et ultramarins. Mais la stagnation des transmissions d'entreprises, malgré le vieillissement des dirigeants, inqui",
+    "bf_description": "Dans une note thématique publiée ce 16 novembre sur les investissements de l'Etat dans les infrastructures de transport, la Cour des comptes plaide pour mettre les grands projets nouveaux sur \"pause\", au moins pendant le prochain quinquennat. À l'exception des Serm, bien que ces derniers restent pou",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
