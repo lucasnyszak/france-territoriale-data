@@ -1287,6 +1287,24 @@
     "bf_formulaire": "6"
   },
   {
+    "bf_titre": "Trop d’eau, pas assez d’eau : des diagnostics territoriaux sur les risques naturels à la résilience des territoires. Retour sur la journée risques et territoires du 06 octobre 2026 à Bordeaux",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/trop-eau-pas-assez-eau-diagnostics-territoriaux-risques",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Mercredi 18 novembre 2026 Risques inondations et mouvements de terrain, Stratégies, résilience et projets de transition Inondation en Nouvelle-Aquitaine L’année 2026 marque pour le Sud-Ouest une illustration de ce qui devient la norme : des hivers aux précipitations abondantes, suivis de l",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Comment exploiter les données des applications de mobilité, et pour quels usages ? Retour sur les travaux de l'observatoire du Maas",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/comment-exploiter-donnees-applications-mobilite-quels-usages",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Mercredi 18 novembre 2026 Connaissance, modélisation et évaluation de la mobilité, Transports collectifs, partagés et intermodalité, Transports intelligents, trafics et régulation Infographie de Maas Dans le cadre de l’observatoire des MaaS qui permet de mobiliser un collectif sur les suje",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "LIAttoral : l'intelligence artificielle pour digitaliser le sentier du littoral à partir des images prises par drone",
     "bf_lien": "https://www.cerema.fr/fr/actualites/liattoral-intelligence-artificielle-digitaliser-sentier-du",
     "bf_categorie": "Transitions",
@@ -1296,8 +1314,8 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Une stratégie de mobilité construite au travers d’une approche pluridisciplinaire et à différentes échelles : retour sur la démarche de Le Muy (83)",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/strategie-mobilite-construite-au-travers-approche",
+    "bf_titre": "Repenser les espaces publics avec une approche pluridisciplinaire et à différentes échelles : retour sur la démarche au Muy (83)",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/repenser-espaces-publics-approche-pluridisciplinaire",
     "bf_categorie": "Transitions",
     "bf_description": "Publié le Lundi 16 novembre 2026 Aménagement durable : revitalisation et renouvellement urbain, Vélo, marche, accessibilité Carrefour à le Muy La question des mobilités et du stationnement est au cœur du projet de revitalisation du territoire initié dans le cadre du programme national Petite Ville d",
     "bf_tags": "CEREMA",
@@ -1314,64 +1332,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Modéliser, planifier et évaluer les mobilités de demain : retour sur le rendez-vous mobilités du 24 septembre 2026",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/modeliser-planifier-evaluer-mobilites-demain-retour-rendez",
+    "bf_titre": "ReNouveau Paysan : infographie",
+    "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9781-renouveau-paysan-infographie.html",
     "bf_categorie": "Transitions",
-    "bf_description": "Publié le Jeudi 12 novembre 2026 Gouvernance, planification et organisation des mobilités, Connaissance, modélisation et évaluation de la mobilité Mobilités actives et transports en commun à Toulon La prospective territoriale en des temps incertains…&amp;nbsp;Ce Rendez-vous mobilité a été introduit ",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Bâtiments publics : prêts pour le climat de demain",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/batiments-publics-prets-climat-demain",
-    "bf_categorie": "Transitions",
-    "bf_description": "Publié le Jeudi 12 novembre 2026 Solutions d&#039;adaptation des bâtiments au changement climatique, Risques inondations et mouvements de terrain couverture Multiplication et intensification des canicules, épisodes de sécheresse, pluies extrêmes ou encore tempêtes, modifient durablement leurs condit",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Changement de comportement tri des biodéchets - Guide",
-    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9650-changement-de-comportement-tri-des-biodechets-guide.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;div style=&quot;margin-left:0;margin-right:0;&quot;&gt;La réglementation sur la généralisation du tri à la source des biodéchets de 2024 a conduit les acteurs publics à proposer des actions pour accompagner ce nouveau geste de tri. Les collectivités accompagnent les citoyens vers ces nouvelles p",
+    "bf_description": "&lt;p&gt;Réhabiliter les fermes en logements sociaux paysans. Une boîte à outils collaborative pour expérimenter la création de logements sociaux paysans, selon différents scénarios adaptés aux contextes locaux, en privilégiant lorsque cela est possible la réhabilitation de fermes traditionnelles po",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Retours d&#039;expérience de porteurs de projets engagés dans une démarche de transition écologique en Guyane",
-    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9776-retours-d-experience-de-porteurs-de-projets-engages-dans-une-demarche-de-transition-ecologique-en-guyane-9791029727382.html",
+    "bf_titre": "HABIT&amp;R : infographie",
+    "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9780-habitr-infographie.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Face aux défis climatiques, énergétiques, environnementaux et sociaux, les communes ont un rôle essentiel à jouer dans la transition écologique.&lt;br /&gt; À travers ce livret, l’ADEME et l’OFB souhaitent accompagner les élus dans leurs nouveaux mandats en leur proposant des exemples concr",
+    "bf_description": "&lt;p&gt;Une plateforme à destination des acteurs de l’habitat participatifs, structurée en 5 espaces : (1) un centre de ressource (ex. modèle de montage juridique, REX de vie en collectif…) ; (2) un observatoire des travaux de recherche sur l’habitat participatif ; (3) une cartographie des projets ",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Consommation de sacs plastiques légers en France - Données 2024",
-    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9774-consommation-de-sacs-plastiques-legers-en-france-donnees-2024.html",
+    "bf_titre": "Atelier défis de la construction : infographie",
+    "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9779-atelier-defis-de-la-construction-infographie.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;La décision d&#039;exécution (UE) 2018/896 de la Commission, établissant la méthode de calcul de la consommation annuelle de sacs en plastique légers et modifiant la décision 2005/270/CE, impose aux États membres de calculer et déclarer leurs données sur la consommation annuelle de sacs en ",
+    "bf_description": "&lt;p&gt;Comprendre les impacts environnementaux d’un projet de construction ou de rénovation. Un jeu sérieux collaboratif dans lequel les participants conçoivent un projet de bâtiment et prennent successivement des décisions :&lt;br /&gt; (1) terrain, maîtrise d’oeuvre et densité ; (2) programme, l",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Changement de comportement tri des biodéchets - REX",
-    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9652-changement-de-comportement-tri-des-biodechets-rex.html",
+    "bf_titre": "Concevoir et mettre en oeuvre le rafraîchissement urbain de votre territoire avec la Mission Adaptation",
+    "bf_lien": "https://librairie.ademe.fr/changement-climatique/9778-concevoir-et-mettre-en-oeuvre-le-rafraichissement-urbain-de-votre-territoire-avec-la-mission-adaptation.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;div style=&quot;margin-left:0;margin-right:0;&quot;&gt;La réglementation sur la généralisation du tri à la source des biodéchets de 2024 a conduit les acteurs publics à proposer des actions pour accompagner ce nouveau geste de tri. Les collectivités accompagnent les citoyens vers ces nouvelles p",
+    "bf_description": "&lt;p&gt;Face à l’intensification des vagues de chaleur, la Mission Adaptation – pilotée par le ministère de la Transition écologique et coordonnée par l’ADEME et le Cerema – propose aux collectivités un parcours guidé pour agir contre la surchauffe urbaine et mettre en place des projets de rafraîch",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Changement de comportement tri des biodéchets - Outils",
-    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9651-changement-de-comportement-tri-des-biodechets-outils.html",
+    "bf_titre": "ONPE Tableau de bord de la précarité énergétique - 2026",
+    "bf_lien": "https://librairie.ademe.fr/batiment/9766-onpe-tableau-de-bord-de-la-precarite-energetique-2026.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;div style=&quot;margin-left:0;margin-right:0;&quot;&gt;La réglementation sur la généralisation du tri à la source des biodéchets de 2024 a conduit les acteurs publics à proposer des actions pour accompagner ce nouveau geste de tri. Les collectivités accompagnent les citoyens vers ces nouvelles p",
+    "bf_description": "&lt;p&gt;En 2024, &lt;strong&gt;3,5 millions de ménages (soit 11,5 %) sont en situation de précarité énergétique&lt;/strong&gt;, c&#039;est-à-dire qu&#039;ils consacrent plus de 8 % de leur revenu disponible aux dépenses d&#039;énergie de leur logement, tout en appartenant aux 30 % des ménages les p",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1422,46 +1422,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Murielle Fabre : \"Il est temps de donner un nouveau cadre à notre organisation territoriale\"",
-    "bf_lien": "https://www.banquedesterritoires.fr/murielle-fabre-il-est-temps-de-donner-un-nouveau-cadre-notre-organisation-territoriale?pk_campaign=Flux%20RSS&pk_kwd=2026-11-17&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Un rapport d'experts rejette la création d'un nouvel impôt local sur la résidence",
+    "bf_lien": "https://www.banquedesterritoires.fr/un-rapport-dexperts-rejette-la-creation-dun-nouvel-impot-local-sur-la-residence?pk_campaign=Flux%20RSS&pk_kwd=2026-11-18&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Secrétaire générale de l'Association des maires de France (AMF) et maire de Lampertheim&nbsp;(Bas-Rhin), Murielle Fabre estime qu'une réforme de la décentralisation venant conforter le rôle des maires s'impose plus que jamais. Le prochain Congrès des maires sera selon elle l'occasion de le réaffirme",
+    "bf_description": "Dans un volumineux rapport sur la fiscalité locale, le Conseil des prélèvements obligatoires prend le contre-pied de nombreux élus locaux adeptes de la réinstauration d'une contribution territoriale qui serait acquittée par tous les habitants. L'organisme présidé par la première présidente de la Cou",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "\"On ne peut pas en rester là\" : les régions remettent la pression sur l'État en matière d'orientation",
-    "bf_lien": "https://www.banquedesterritoires.fr/ne-peut-pas-en-rester-la-les-regions-remettent-la-pression-sur-letat-en-matiere-dorientation?pk_campaign=Flux%20RSS&pk_kwd=2026-11-17&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Transition écologique : \"Les maires ne peuvent avancer aussi vite qu'ils le voudraient\", estime Jean-François Vigier",
+    "bf_lien": "https://www.banquedesterritoires.fr/transition-ecologique-les-maires-ne-peuvent-avancer-aussi-vite-quils-le-voudraient-estime-jean?pk_campaign=Flux%20RSS&pk_kwd=2026-11-18&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "A l’occasion des 5es rencontres inter-régions sur l’orientation qui se sont tenues à Rouen vendredi 13 novembre, François Bonneau, président de la région Centre-Val de Loire et président de la commission éducation, orientation, formation et emploi de l’association Régions de France, a réaffirmé la v",
+    "bf_description": "Si la transition écologique se conduit à l'échelon local, les maires voient leurs efforts entravés par l'absence de ressources financières et des normes toujours plus nombreuses, imposées sans aucune concertation, déplore Jean-François Vigier, maire de Bures-sur-Yvette (Essonne) et vice-président de",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "NIS2 : les dispositions adoptées par les députés concernant les collectivités",
-    "bf_lien": "https://www.banquedesterritoires.fr/nis2-les-dispositions-adoptees-par-les-deputes-concernant-les-collectivites?pk_campaign=Flux%20RSS&pk_kwd=2026-11-17&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Communication locale : le papier rassure, l'IA progresse mais suscite la méfiance",
+    "bf_lien": "https://www.banquedesterritoires.fr/communication-locale-le-papier-rassure-lia-progresse-mais-suscite-la-mefiance?pk_campaign=Flux%20RSS&pk_kwd=2026-11-18&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "L'Assemblée nationale vote ce mardi 17 novembre 2026 le projet de loi \"Résilience des infrastructures critiques et renforcement de la cybersécurité\", qui transpose la directive NIS2. Le texte issu des débats a été sensiblement modifié pour ce qui concerne les collectivités. Il reste à savoir ce qu'e",
+    "bf_description": "Malgré l'essor continu des usages numériques, les supports traditionnels restent le socle de l'information locale. Selon la neuvième édition du baromètre Epiceum &amp; Toluna Harris Interactive de la communication locale, le bouche-à-oreille, les journaux des collectivités et les sites internet inst",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Solaire thermique : le gouvernement lance un plan d'action pour accélérer le développement de la filière",
-    "bf_lien": "https://www.banquedesterritoires.fr/solaire-thermique-le-gouvernement-lance-un-plan-daction-pour-accelerer-le-developpement-de-la?pk_campaign=Flux%20RSS&pk_kwd=2026-11-17&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Soutiens de l'État à la production d'énergie : la Cour des comptes repasse une couche",
+    "bf_lien": "https://www.banquedesterritoires.fr/soutiens-de-letat-la-production-denergie-la-cour-des-comptes-repasse-une-couche?pk_campaign=Flux%20RSS&pk_kwd=2026-11-18&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le gouvernement a annoncé ce 13 novembre le lancement d'un plan d’action national pour la filière solaire thermique destiné à accélérer le développement de cette énergie renouvelable et la décarbonation de la production de chaleur. En cohérence avec la programmation pluriannuelle de l’énergie, l’obj",
+    "bf_description": "La Cour des comptes recommande une nouvelle fois à l'État de revoir les modalités de ses soutiens à la production d'énergie, qu'elle juge insuffisamment pilotés et devisés. Sans changement, \"atteindre les objectifs de la transition énergétique devrait entraîner une hausse importante des dépenses de ",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Infrastructures de transports : la Cour des comptes ne veut – presque – plus de projets nouveaux",
-    "bf_lien": "https://www.banquedesterritoires.fr/infrastructures-de-transports-la-cour-des-comptes-ne-veut-presque-plus-de-projets-nouveaux?pk_campaign=Flux%20RSS&pk_kwd=2026-11-17&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Associations sportives : les difficultés financières se creusent sur fond de baisse des subventions",
+    "bf_lien": "https://www.banquedesterritoires.fr/associations-sportives-les-difficultes-financieres-se-creusent-sur-fond-de-baisse-des-subventions?pk_campaign=Flux%20RSS&pk_kwd=2026-11-18&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Dans une note thématique publiée ce 16 novembre sur les investissements de l'Etat dans les infrastructures de transport, la Cour des comptes plaide pour mettre les grands projets nouveaux sur \"pause\", au moins pendant le prochain quinquennat. À l'exception des Serm, bien que ces derniers restent pou",
+    "bf_description": "Le dernier baromètre du Cosmos met en évidence la fragilité financière des associations sportives, liée aux baisses de subventions publiques. Pour améliorer leur situation, les associations attendent plus du secteur privé que des acteurs publics.",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
