@@ -1287,6 +1287,33 @@
     "bf_formulaire": "6"
   },
   {
+    "bf_titre": "Intégrer la sécurité des déplacements dans la planification de la mobilité : quelles obligations pour les collectivités ?",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/integrer-securite-deplacements-planification-mobilite",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Jeudi 19 novembre 2026 Sécurité routière Tramway et vélo à Nice Le plan de mobilité et la sécurité des déplacementsLe plan de mobilité (PDM), qui a remplacé le plan de déplacements urbains (PDU) avec la loi d’orientation des mobilités (LOM) de 2019, répond à 11 objectifs définis à l’articl",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Adapter son territoire aux vagues de chaleur : une formation du Cerema pour les acteurs de l’aménagement",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/adapter-son-territoire-aux-vagues-chaleur-formation-du",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Jeudi 19 novembre 2026 Stratégies, résilience et projets de transition Surchauffe urbaine Cet été, la France a connu plusieurs canicules dont la première dès le mois de mai. Ces chaleurs interrogent l’aménagement de la ville et des espaces publics confrontés à la surchauffe urbaine. De nom",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Améliorer la résilience des littoraux aux changements globaux : le projet CORAI (2026-2030) s'intéresse aux stratégies d'adaptation",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/ameliorer-resilience-littoraux-aux-changements-globaux",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Jeudi 19 novembre 2026 Observation, planification et gestion du littoral et de la mer Port de Douarnenez Les territoires littoraux sont particulièrement exposés aux effets du changement climatique et aux changements globaux. Élévation du niveau marin, érosion côtière, submersion marine, év",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "Trop d’eau, pas assez d’eau : des diagnostics territoriaux sur les risques naturels à la résilience des territoires. Retour sur la journée risques et territoires du 06 octobre 2026 à Bordeaux",
     "bf_lien": "https://www.cerema.fr/fr/actualites/trop-eau-pas-assez-eau-diagnostics-territoriaux-risques",
     "bf_categorie": "Transitions",
@@ -1301,168 +1328,6 @@
     "bf_categorie": "Transitions",
     "bf_description": "Publié le Mercredi 18 novembre 2026 Connaissance, modélisation et évaluation de la mobilité, Transports collectifs, partagés et intermodalité, Transports intelligents, trafics et régulation Infographie de Maas Dans le cadre de l’observatoire des MaaS qui permet de mobiliser un collectif sur les suje",
     "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "LIAttoral : l'intelligence artificielle pour digitaliser le sentier du littoral à partir des images prises par drone",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/liattoral-intelligence-artificielle-digitaliser-sentier-du",
-    "bf_categorie": "Transitions",
-    "bf_description": "Publié le Mardi 17 novembre 2026 Observation, planification et gestion du littoral et de la mer Port Vendres vue drone Dans un contexte marqué par l’érosion côtière, les risques de submersion et une fréquentation touristique croissante, disposer d’une cartographie fiable et régulièrement actualisée ",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Repenser les espaces publics avec une approche pluridisciplinaire et à différentes échelles : retour sur la démarche au Muy (83)",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/repenser-espaces-publics-approche-pluridisciplinaire",
-    "bf_categorie": "Transitions",
-    "bf_description": "Publié le Lundi 16 novembre 2026 Aménagement durable : revitalisation et renouvellement urbain, Vélo, marche, accessibilité Carrefour à le Muy La question des mobilités et du stationnement est au cœur du projet de revitalisation du territoire initié dans le cadre du programme national Petite Ville d",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "L'éclairage public au cœur d’arbitrages complexes : de nouveaux outils pour répondre aux besoins des collectivités",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/eclairage-public-au-coeur-arbitrages-complexes-nouveaux",
-    "bf_categorie": "Transitions",
-    "bf_description": "Publié le Lundi 16 novembre 2026 Aménager avec la biodiversité, Aménagement de la voirie et éclairage public éclairage nocturne à Lyon Cet article du Cerema a été publié par notre partenaire Techni (…) Lire la suite",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "ReNouveau Paysan : infographie",
-    "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9781-renouveau-paysan-infographie.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Réhabiliter les fermes en logements sociaux paysans. Une boîte à outils collaborative pour expérimenter la création de logements sociaux paysans, selon différents scénarios adaptés aux contextes locaux, en privilégiant lorsque cela est possible la réhabilitation de fermes traditionnelles po",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "HABIT&amp;R : infographie",
-    "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9780-habitr-infographie.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Une plateforme à destination des acteurs de l’habitat participatifs, structurée en 5 espaces : (1) un centre de ressource (ex. modèle de montage juridique, REX de vie en collectif…) ; (2) un observatoire des travaux de recherche sur l’habitat participatif ; (3) une cartographie des projets ",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Atelier défis de la construction : infographie",
-    "bf_lien": "https://librairie.ademe.fr/societe-et-politiques-publiques/9779-atelier-defis-de-la-construction-infographie.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Comprendre les impacts environnementaux d’un projet de construction ou de rénovation. Un jeu sérieux collaboratif dans lequel les participants conçoivent un projet de bâtiment et prennent successivement des décisions :&lt;br /&gt; (1) terrain, maîtrise d’oeuvre et densité ; (2) programme, l",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Concevoir et mettre en oeuvre le rafraîchissement urbain de votre territoire avec la Mission Adaptation",
-    "bf_lien": "https://librairie.ademe.fr/changement-climatique/9778-concevoir-et-mettre-en-oeuvre-le-rafraichissement-urbain-de-votre-territoire-avec-la-mission-adaptation.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Face à l’intensification des vagues de chaleur, la Mission Adaptation – pilotée par le ministère de la Transition écologique et coordonnée par l’ADEME et le Cerema – propose aux collectivités un parcours guidé pour agir contre la surchauffe urbaine et mettre en place des projets de rafraîch",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "ONPE Tableau de bord de la précarité énergétique - 2026",
-    "bf_lien": "https://librairie.ademe.fr/batiment/9766-onpe-tableau-de-bord-de-la-precarite-energetique-2026.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;En 2024, &lt;strong&gt;3,5 millions de ménages (soit 11,5 %) sont en situation de précarité énergétique&lt;/strong&gt;, c&#039;est-à-dire qu&#039;ils consacrent plus de 8 % de leur revenu disponible aux dépenses d&#039;énergie de leur logement, tout en appartenant aux 30 % des ménages les p",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Expé URBA SanTé : relever les défis de l&#039;urbanisme favorable à la santé",
-    "bf_lien": "https://librairie.ademe.fr/actualites/expe-urba-sante-relever-les-defis-de-l-urbanisme-favorable-a-la-sante-n33",
-    "bf_categorie": "Transitions",
-    "bf_description": "Entre 2024 et 2025, l’ADEME et l’Ecolab du CGDD (Ministère de la Transition écologique) ont accompagné 8 territoires pour intégrer la santé au cœur de leurs projets urbains.",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Panel usages électrodomestiques  : des données fiables pour comprendre nos consommations",
-    "bf_lien": "https://librairie.ademe.fr/actualites/panel-usages-electrodomestiques-annee-6-des-donnees-fiables-pour-comprendre-nos-consommations-n32",
-    "bf_categorie": "Transitions",
-    "bf_description": "Depuis 6 ans, le projet Panel Elecdom fournit une vision claire, fiable et actualisée des consommations électrodomestiques en France.",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Alimentation et gaspillage alimentaire, publications récentes",
-    "bf_lien": "https://librairie.ademe.fr/actualites/alimentation-et-gaspillage-alimentaire-publications-recentes-n31",
-    "bf_categorie": "Transitions",
-    "bf_description": "Voici une sélection de documents diffusés sur l&#039;alimentation et le gaspillage alimentaire.",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Occitanie : 3 bilans sur la gestion des déchets",
-    "bf_lien": "https://librairie.ademe.fr/actualites/occitanie-3-bilans-sur-la-gestion-des-dechets-n30",
-    "bf_categorie": "Transitions",
-    "bf_description": "L’ADEME Occitanie a publié, fin 2025, trois documents-bilans sur la gestion des déchets (période 2015-2024).",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Forêt, biomasse et produits biosourcés, publications récentes",
-    "bf_lien": "https://librairie.ademe.fr/actualites/foret-biomasse-et-produits-biosources-n29",
-    "bf_categorie": "Transitions",
-    "bf_description": "Voici une sélection de publications diffusées depuis un an sur la forêt, biomasse et les produits biosourcés.",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Un rapport d'experts rejette la création d'un nouvel impôt local sur la résidence",
-    "bf_lien": "https://www.banquedesterritoires.fr/un-rapport-dexperts-rejette-la-creation-dun-nouvel-impot-local-sur-la-residence?pk_campaign=Flux%20RSS&pk_kwd=2026-11-18&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
-    "bf_categorie": "Finances",
-    "bf_description": "Dans un volumineux rapport sur la fiscalité locale, le Conseil des prélèvements obligatoires prend le contre-pied de nombreux élus locaux adeptes de la réinstauration d'une contribution territoriale qui serait acquittée par tous les habitants. L'organisme présidé par la première présidente de la Cou",
-    "bf_tags": "Banque des Territoires",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Transition écologique : \"Les maires ne peuvent avancer aussi vite qu'ils le voudraient\", estime Jean-François Vigier",
-    "bf_lien": "https://www.banquedesterritoires.fr/transition-ecologique-les-maires-ne-peuvent-avancer-aussi-vite-quils-le-voudraient-estime-jean?pk_campaign=Flux%20RSS&pk_kwd=2026-11-18&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
-    "bf_categorie": "Finances",
-    "bf_description": "Si la transition écologique se conduit à l'échelon local, les maires voient leurs efforts entravés par l'absence de ressources financières et des normes toujours plus nombreuses, imposées sans aucune concertation, déplore Jean-François Vigier, maire de Bures-sur-Yvette (Essonne) et vice-président de",
-    "bf_tags": "Banque des Territoires",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Communication locale : le papier rassure, l'IA progresse mais suscite la méfiance",
-    "bf_lien": "https://www.banquedesterritoires.fr/communication-locale-le-papier-rassure-lia-progresse-mais-suscite-la-mefiance?pk_campaign=Flux%20RSS&pk_kwd=2026-11-18&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
-    "bf_categorie": "Finances",
-    "bf_description": "Malgré l'essor continu des usages numériques, les supports traditionnels restent le socle de l'information locale. Selon la neuvième édition du baromètre Epiceum &amp; Toluna Harris Interactive de la communication locale, le bouche-à-oreille, les journaux des collectivités et les sites internet inst",
-    "bf_tags": "Banque des Territoires",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Soutiens de l'État à la production d'énergie : la Cour des comptes repasse une couche",
-    "bf_lien": "https://www.banquedesterritoires.fr/soutiens-de-letat-la-production-denergie-la-cour-des-comptes-repasse-une-couche?pk_campaign=Flux%20RSS&pk_kwd=2026-11-18&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
-    "bf_categorie": "Finances",
-    "bf_description": "La Cour des comptes recommande une nouvelle fois à l'État de revoir les modalités de ses soutiens à la production d'énergie, qu'elle juge insuffisamment pilotés et devisés. Sans changement, \"atteindre les objectifs de la transition énergétique devrait entraîner une hausse importante des dépenses de ",
-    "bf_tags": "Banque des Territoires",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Associations sportives : les difficultés financières se creusent sur fond de baisse des subventions",
-    "bf_lien": "https://www.banquedesterritoires.fr/associations-sportives-les-difficultes-financieres-se-creusent-sur-fond-de-baisse-des-subventions?pk_campaign=Flux%20RSS&pk_kwd=2026-11-18&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
-    "bf_categorie": "Finances",
-    "bf_description": "Le dernier baromètre du Cosmos met en évidence la fragilité financière des associations sportives, liée aux baisses de subventions publiques. Pour améliorer leur situation, les associations attendent plus du secteur privé que des acteurs publics.",
-    "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   }
