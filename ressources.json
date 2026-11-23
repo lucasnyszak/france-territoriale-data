@@ -1287,6 +1287,33 @@
     "bf_formulaire": "6"
   },
   {
+    "bf_titre": "Adaptation des ouvrages d'art existants à de nouveaux usages : un guide pour mener les démarches de la conception à la réalisation",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/adaptation-ouvrages-art-existants-nouveaux-usages-guide",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Lundi 23 novembre 2026 Ouvrages d’art, Aménagement de la voirie et éclairage public couverture Le guide Adaptation des ouvrages d&#039;art existants à de nouveaux usages, s&#039;adresse principalement aux maîtres d&#039;ouvrage, aux maîtres d&#039;œuvre, ainsi qu&#039;aux entreprises prest",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Zones humides et captages : Des fiches du Cerema sur des actions de protection menées dans les territoires",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/zones-humides-captages-fiches-du-cerema-actions-protection",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Lundi 23 novembre 2026 Eau et milieux aquatiques dernière fiche Article du 28 février 2025, mis à jour.Les zones humides ont différentes fonctions hydrologiques, biogéochimiques et liées à la biodiversité. Les mesures de protection des zones humides, en particulier sur les zones de captage",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Comment aménager avec les crises et leurs incertitudes : retour sur les ateliers collaboratifs des Rencontres Nationales de l'Aménagement",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/comment-amenager-crises-leurs-incertitudes-retour-ateliers",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Lundi 23 novembre 2026 Stratégies, résilience et projets de transition, Economie, transitions et territoires Atelier RNA Le changement climatique, les crises telles que la crise énergétique, la crise socio-économique, la disponibilité des ressources, impactent les territoires et la manière",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "Salon de l'industrie minérale 2026 : le Cerema présente ses solutions pour l'économie circulaire des matériaux du BTP",
     "bf_lien": "https://www.cerema.fr/fr/actualites/salon-industrie-minerale-2026-cerema-presente-ses-solutions",
     "bf_categorie": "Transitions",
@@ -1300,33 +1327,6 @@
     "bf_lien": "https://www.cerema.fr/fr/actualites/solutions-amenagement-concretes-gestion-eaux-pluviales-defis",
     "bf_categorie": "Transitions",
     "bf_description": "Publié le Vendredi 20 novembre 2026 Stratégies, résilience et projets de transition, Aménager avec la biodiversité, Eau et milieux aquatiques gestion des eaux pluviales, désimperméabilisation Dans un contexte de changement climatique, les épisodes de pluie sont appelés à devenir plus intenses et plu",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Données pour une analYse des Nouvelles mobilités Actives : Modélisation et Optimisation. Retour sur le congrès DYNAM0 2026",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/donnees-analyse-nouvelles-mobilites-actives-modelisation",
-    "bf_categorie": "Transitions",
-    "bf_description": "Publié le Vendredi 20 novembre 2026 Aménagement de la voirie et éclairage public, Vélo, marche, accessibilité infographie des déplacements urbains Organisée par le Cerema Sud-Ouest et Bordeaux INP, avec l&#039;appui du réseau régional de recherche R3Mob et du pôle de compétitivité ID4MOBILITY, cette",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Intégrer la sécurité des déplacements dans la planification de la mobilité : quelles obligations pour les collectivités ?",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/integrer-securite-deplacements-planification-mobilite",
-    "bf_categorie": "Transitions",
-    "bf_description": "Publié le Jeudi 19 novembre 2026 Sécurité routière Tramway et vélo à Nice Le plan de mobilité et la sécurité des déplacementsLe plan de mobilité (PDM), qui a remplacé le plan de déplacements urbains (PDU) avec la loi d’orientation des mobilités (LOM) de 2019, répond à 11 objectifs définis à l’articl",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Adapter son territoire aux vagues de chaleur : une formation du Cerema pour les acteurs de l’aménagement",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/adapter-son-territoire-aux-vagues-chaleur-formation-du",
-    "bf_categorie": "Transitions",
-    "bf_description": "Publié le Jeudi 19 novembre 2026 Stratégies, résilience et projets de transition Surchauffe urbaine Cet été, la France a connu plusieurs canicules dont la première dès le mois de mai. Ces chaleurs interrogent l’aménagement de la ville et des espaces publics confrontés à la surchauffe urbaine. De nom",
     "bf_tags": "CEREMA",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1422,46 +1422,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Jérôme Neveux : \"L'IA peut être une alliée pour décider mieux, pas pour décider à notre place\"",
-    "bf_lien": "https://www.banquedesterritoires.fr/jerome-neveux-lia-peut-etre-une-alliee-pour-decider-mieux-pas-pour-decider-notre-place?pk_campaign=Flux%20RSS&pk_kwd=2026-11-22&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Congrès des maires 2026 – Vieillissement, exode des jeunes, explosion démographique : les outre-mer face au défi démographique",
+    "bf_lien": "https://www.banquedesterritoires.fr/congres-des-maires-2026-vieillissement-exode-des-jeunes-explosion-demographique-les-outre-mer-face?pk_campaign=Flux%20RSS&pk_kwd=2026-11-23&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "L'IA est désormais une réalité dans la plupart des communes même si les usages restent assez basiques, avec une grande part de \"shadow IA\".&nbsp; Jérôme Neveux, maire de Jaunay-Marigny et président de l'Association des maires de la Vienne, plaide pour encadrer l'IA plutôt que l’interdire. Interrogé ",
+    "bf_description": "Vieillissement accéléré aux Antilles, forte croissance démographique en Guyane et à Mayotte, cumul des deux phénomènes à La Réunion : les collectivités ultramarines sont confrontées à des trajectoires démographiques très contrastées. Réunis ce 23 novembre lors de la journée Outre-Mer du Congrès des ",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Violences d'octobre : l'aide aux commerces est lancée, les assureurs évaluent les dégâts à 207 millions d'euros",
-    "bf_lien": "https://www.banquedesterritoires.fr/commerce-assurances?pk_campaign=Flux%20RSS&pk_kwd=2026-11-22&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Enquête AMF-Cevipof 2026 – Les maires six mois après les municipales : un moral en berne, des finances sous pression",
+    "bf_lien": "https://www.banquedesterritoires.fr/enquete-amf-cevipof-2026-les-maires-six-mois-apres-les-municipales-un-moral-en-berne-des-finances?pk_campaign=Flux%20RSS&pk_kwd=2026-11-23&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Un mois après les violences et pillages qui ont émaillé les manifestations contre la vie chère, le gouvernement concrétise l'une de ses principales promesses de soutien aux commerces. Un décret publié ce 20 novembre crée une aide exceptionnelle pouvant atteindre 10.000 euros pour les petits commerce",
+    "bf_description": "Six mois après les municipales de mars, les maires abordent leur mandat sans euphorie. Selon l'enquête AMF-Cevipof/Sciences Po publiée à l'occasion du 108e Congrès des maires, les élus mettent une note de 4,9 sur 10 quant à l'évolution de leur commune sur les cinq dernières années, soit la note la p",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Le fonds vert, l'arbuste qui cache la coupe rase ?",
-    "bf_lien": "https://www.banquedesterritoires.fr/le-fonds-vert-larbuste-qui-cache-la-coupe-rase?pk_campaign=Flux%20RSS&pk_kwd=2026-11-22&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Identifiant 113 villes moyennes \"vulnérables\", le Plan propose d'en finir avec le \"prêt-à-porter\"",
+    "bf_lien": "https://www.banquedesterritoires.fr/identifiant-113-villes-moyennes-vulnerables-le-plan-propose-den-finir-avec-le-pret-porter?pk_campaign=Flux%20RSS&pk_kwd=2026-11-23&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le Sénat instruisait en commission, ce 18 novembre, le procès du fonds vert. Une \"subvention bienvenue\", mais qui ne répond pas aux enjeux, ont déploré de concert les participants. Un arbre qui cache la coupe rase opérée dans les ressources locales.",
+    "bf_description": "A la veille des annonces attendues du gouvernement sur un acte III d'Action cœur de ville (ACV), un rapport du Haut-commissaire à la Stratégie et au Plan, réalisé avec l'Institut Terram, invite à sortir des réponses standardisées aux villes moyennes et à l'empilement des programmes. Identifiant 113 ",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Face à la gravité de la menace, le gouvernement priorise la cybersécurité sur les autres projets numériques",
-    "bf_lien": "https://www.banquedesterritoires.fr/face-la-gravite-de-la-menace-le-gouvernement-priorise-la-cybersecurite-sur-les-autres-projets?pk_campaign=Flux%20RSS&pk_kwd=2026-11-22&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Attachés territoriaux : le gouvernement concède un assouplissement de la réforme de l'avancement de grade",
+    "bf_lien": "https://www.banquedesterritoires.fr/conseil-superieur-de-la-fonction-publique-territoriale?pk_campaign=Flux%20RSS&pk_kwd=2026-11-23&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le Premier ministre, Sébastien Lecornu, a annoncé le 19 novembre 2026 concentrer les moyens de l'État sur la cybersécurité. Il a priorisé un contrôle des dispositifs connectés et promis une publication rapide des décrets de la loi Résilience (NIS2), sitôt adoptée par le Parlement.&nbsp;Le même jour,",
+    "bf_description": "Le Conseil supérieur de la fonction publique territoriale a examiné le 18 novembre une version légèrement amendée du projet de révision des modalités d'avancement de grade des attachés territoriaux. Le gouvernement a accepté d'accorder davantage de possibilités d'avancement dans le grade hors classe",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Le New Deal mobile a-t-il vraiment mis fin aux zones blanches ?",
-    "bf_lien": "https://www.banquedesterritoires.fr/le-new-deal-mobile-t-il-vraiment-mis-fin-aux-zones-blanches?pk_campaign=Flux%20RSS&pk_kwd=2026-11-22&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Violences à l'école : le cloisonnement des temps scolaire et périscolaire au cœur du débat",
+    "bf_lien": "https://www.banquedesterritoires.fr/violences-lecole-le-cloisonnement-des-temps-scolaire-et-periscolaire-au-coeur-du-debat?pk_campaign=Flux%20RSS&pk_kwd=2026-11-23&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Huit ans après le lancement du New Deal mobile, l’État considère la question des zones blanches comme résiduelle. Au Trip de l’Avicca, le 17 novembre 2026, les collectivités ont affirmé le contraire. Elles refusent cependant de payer les pylônes et s'inquiètent du devenir du dossier avec le passage ",
+    "bf_description": "Dans son premier rapport, la déléguée à la protection des enfants à l'école met en exergue les difficultés posées par la juxtaposition des temps scolaire et périscolaire dans le traitement des violences à l'école. Elle demande une coopération renforcée entre Éducation nationale et collectivités pour",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
