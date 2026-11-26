@@ -1287,6 +1287,24 @@
     "bf_formulaire": "6"
   },
   {
+    "bf_titre": "Le Cerema accueille une délégation vietnamienne sur la planification territoriale et l’adaptation",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/cerema-accueille-delegation-vietnamienne-planification",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Jeudi 26 novembre 2026 Observation, planification et gestion du littoral et de la mer, Stratégies, résilience et projets de transition délégation vietnamienne Une visite d’étude dans le cadre d’un projet financé par l’Union Européenne pour le renforcement de la gouvernance territoriale au ",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Zones à trafic limité, voies à accès réservé : le Cerema fait le point sur le cadre réglementaire et la mise en oeuvre",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/zones-trafic-limite-voies-acces-reserve-cerema-fait-point",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Jeudi 26 novembre 2026 Sécurité routière, Aménagement de la voirie et éclairage public Voie à accès réservé de Lyon Une voie à accès réservé - Zone à trafic limité (VAR-ZTL) [1] peut se définir comme un secteur urbain ou une rue, dans lequel l’accès et la circulation des véhicules motorisé",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "Les drones : la donnée au service des territoires",
     "bf_lien": "https://www.cerema.fr/fr/actualites/drones-donnee-au-service-territoires",
     "bf_categorie": "Transitions",
@@ -1314,20 +1332,20 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Journées géotechnique 2025 du Réseau Scientifique et Technique : retour sur les présentations",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/journees-geotechnique-2025-du-reseau-scientifique-technique",
+    "bf_titre": "Évaluation des GES du Fonds Économie Circulaire de l&#039;ADEME",
+    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9793-evaluation-des-ges-du-fonds-economie-circulaire-de-l-ademe.html",
     "bf_categorie": "Transitions",
-    "bf_description": "Publié le Mercredi 25 novembre 2026 Infrastructures routières et ferroviaires, Risques inondations et mouvements de terrain Glissement de terrain dans le var Les Journées de Géotechnique 2025 du Réseau Scientifique et Technique (RST) des ministères de l’Aménagement du Territoire et de la Décentralis",
-    "bf_tags": "CEREMA",
+    "bf_description": "&lt;p style=&quot;margin-left:38px;&quot;&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;&lt;span style=&quot;color:#1d1d1b;&quot;&gt; L’ADEME a réalisé une première évaluation de l’impact sur les émissions de gaz à effet de serre (GES) des projets soutenus par son Fonds Économie Circulaire (ECi), ",
+    "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Le Cerema ouvre la plateforme des enquêtes mobilité certifiées Cerema (EMC²) : toutes les ressources en un seul espace",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/cerema-ouvre-plateforme-enquetes-mobilite-certifiees-cerema",
+    "bf_titre": "Projet AF Filières",
+    "bf_lien": "https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9777-projet-af-filieres.html",
     "bf_categorie": "Transitions",
-    "bf_description": "Publié le Mercredi 25 novembre 2026 Connaissance, modélisation et évaluation de la mobilité Vue d&#039;un arrêt de tram à Lyon avec des gens traversant la voie Le Cerema met en ligne le centre de ressources des enquêtes mobilité certifiées Cerema (EMC²). Il rassemble en un point d&#039;accès unique ",
-    "bf_tags": "CEREMA",
+    "bf_description": "&lt;p&gt;Le projet AF Filières vise en premier lieu à fournir aux régions françaises un outil de gestion durable des filières biomasse (filières forêt-bois, agricoles et alimentaires), cohérent avec la vision nationale, à travers l’analyse systématique des flux de matières qu’elles mobilisent. Ce cœ",
+    "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
@@ -1354,24 +1372,6 @@
     "bf_lien": "https://librairie.ademe.fr/industrie-et-production-durable/9689-zibac-fos-sur-mer-trajectoires-de-decarbonation-intersectorielles.html",
     "bf_categorie": "Transitions",
     "bf_description": "&lt;p&gt;Cette étude réalisée par les industriels de la ZI de Fos Sur Mer présente différentes trajectoires de décarbonation du tissu industriel local. Pour y parvenir, des études ont été menées sur les technologies et infrastructures pertinentes à développer, les ressources disponibles, les opportu",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Matières premières pour le bâtiment : quels besoins ?",
-    "bf_lien": "https://librairie.ademe.fr/batiment/9785-matieres-premieres-pour-le-batiment-quels-besoins-.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;div&gt; &lt;div&gt; &lt;p&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;Le secteur du bâtiment est fortement dépendant des ressources disponibles, notamment des matériaux comme le gypse, l&#039;acier, le sable et les granulats. La sécurisation de l&",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Fiches Rex PPTE Nord (HDF, Normandie, IdF)",
-    "bf_lien": "https://librairie.ademe.fr/changement-climatique/9787-fiches-rex-ppte-nord-hdf-normandie-idf.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Le plan de paysage est un projet de paysage dans lequel est mise en œuvre une démarche paysagère à l&#039;échelle d&#039;un territoire, souvent une intercommunalité ou une commune. C&#039;est un moment de dialogue constant entre les différents acteurs du territoire pour réfléchir à la trans",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1422,46 +1422,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Congrès des maires  – Entre début de mandat municipal et fin de mandat présidentiel...",
-    "bf_lien": "https://www.banquedesterritoires.fr/congres-des-maires-entre-debut-de-mandat-municipal-et-fin-de-mandat-presidentiel?pk_campaign=Flux%20RSS&pk_kwd=2026-11-25&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Simplification : le troisième méga-décret est paru",
+    "bf_lien": "https://www.banquedesterritoires.fr/simplification-un-troisieme-mega-decret-est-paru?pk_campaign=Flux%20RSS&pk_kwd=2026-11-26&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le 108e Congrès des maires s'est ouvert ce mardi 24 novembre. Au coeur des premiers échanges, encore et toujours, cette décentralisation que les élus appellent de leurs voeux mais qui n'aurait eu de cesse de reculer depuis dix ans. Entre début de mandat municipal et fin de mandat présidentiel, l'heu",
+    "bf_description": "Le chantier de \"simplification administrative\", dont Matignon a fait une priorité depuis plusieurs mois, vient de s’étoffer d’un troisième \"méga-décret\" d'une soixantaine d'articles pour alléger les normes applicables aux collectivités, paru ce 25 novembre, au lendemain de l’ouverture du 108e Congrè",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Congrès des maires –  Une étude appuie les arguments des élus hostiles à l'effort budgétaire demandé aux collectivités",
-    "bf_lien": "https://www.banquedesterritoires.fr/congres-des-maires-une-etude-appuie-les-arguments-des-elus-hostiles-leffort-budgetaire-demande-aux?pk_campaign=Flux%20RSS&pk_kwd=2026-11-25&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Congrès des maires – Relations élus-Éducation nationale : en progrès mais peut mieux faire",
+    "bf_lien": "https://www.banquedesterritoires.fr/congres-des-maires-relations-elus-education-nationale-en-progres-mais-peut-mieux-faire?pk_campaign=Flux%20RSS&pk_kwd=2026-11-26&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Ce 24 novembre, au premier jour du 108e congrès des maires de France qui se tient à la porte de Versailles à Paris, La Banque postale, l'Observatoire des finances et de la gestion publique locales (OFGL) et l'Association des maires de France (AMF) ont dévoilé des études sur la situation financière d",
+    "bf_description": "La rencontre entre maires et directeurs académiques à l'occasion du Congrès des maires a mis en avant des améliorations dans leur dialogue autour de l'élaboration de la carte scolaire. Mais plusieurs points d'accroche demeurent, notamment sur la question des déplacements des élèves en milieu rural.",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Congrès des maires – Pour agir sur l'offre de soins, le volontarisme des élus est nécessaire mais pas toujours suffisant",
-    "bf_lien": "https://www.banquedesterritoires.fr/congres-des-maires-pour-agir-sur-loffre-de-soins-le-volontarisme-des-elus-est-necessaire-mais-pas?pk_campaign=Flux%20RSS&pk_kwd=2026-11-25&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Congrès des maires – Projet de loi polices municipales : \"C'est 'En attendant Godot'\" grincent les élus",
+    "bf_lien": "https://www.banquedesterritoires.fr/congres-des-maires-projet-de-loi-polices-municipales-cest-en-attendant-godot-grincent-les-elus?pk_campaign=Flux%20RSS&pk_kwd=2026-11-26&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Soutenir l'exercice libéral coordonné, embaucher des médecins dans le cadre d'un centre de santé, ouvrir une antenne de téléconsultations accompagnées, se coordonner avec les communes voisines ou impulser une démarche à l'échelle départementale… En matière d'accès aux soins, nombreuses sont désormai",
+    "bf_description": "Le forum consacré au continuum de sécurité montre que les communes, poussées par leur population, prennent déjà plus que leur part dans ce domaine régalien. Elles sont même prêtes à aller plus loin, à la condition que l'État leur fasse confiance, leur donne réellement les moyens d'agir… et cesse de ",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Salon des maires – Logement social : 70% des maires envisagent de développer leur parc",
-    "bf_lien": "https://www.banquedesterritoires.fr/salon-des-maires-logement-social-70-des-maires-envisagent-de-developper-leur-parc?pk_campaign=Flux%20RSS&pk_kwd=2026-11-25&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Congrès des maires – \"La gendarmerie, c'est la police municipale de 90% des communes\"",
+    "bf_lien": "https://www.banquedesterritoires.fr/congres-des-maires-la-gendarmerie-cest-la-police-municipale-de-90-des-communes?pk_campaign=Flux%20RSS&pk_kwd=2026-11-26&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Présentée à l'occasion du Salon des maires et des collectivités locales 2026, une étude Ifop réalisée pour la Caisse d'épargne et le Groupe Habitat en Région met en lumière les ambitions des élus en matière de logement social. Si sept maires sur dix souhaitent développer l'offre dans leur commune, l",
+    "bf_description": "Conscients que leur \"partenariat\" avec les maires est fondamental pour les communes, ultra-majoritaires, qui ne sont pas dotées d'une police municipale, les gendarmes multiplient les outils pour protéger et aider ces derniers. Mais rien ne remplace la qualité de la relation humaine, est-il rappelé.",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Salon des maires 2026 – \"La situation de la jeunesse se dégrade à tous les niveaux\", alerte l’Union nationale des missions locales",
-    "bf_lien": "https://www.banquedesterritoires.fr/la-situation-de-la-jeunesse-se-degrade-tous-les-niveaux-alerte-lunion-nationale-des-missions?pk_campaign=Flux%20RSS&pk_kwd=2026-11-25&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Congrès des maires – Sport : les recettes de l'ANS pour accompagner les équipements sportifs par temps de disette budgétaire",
+    "bf_lien": "https://www.banquedesterritoires.fr/congres-des-maires-sport-les-recettes-de-lans-pour-accompagner-les-equipements-sportifs-par-temps?pk_campaign=Flux%20RSS&pk_kwd=2026-11-26&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "En marge du Congrès des maires et présidents d’intercommunalités de France, le président de l’Union nationale des missions locales, Stéphane Valli, a rappelé la hausse alarmante du chômage des jeunes et les difficultés aggravées qu’ils subissent sur fond d’inflation et d’une conjoncture économique d",
+    "bf_description": "L'Agence nationale du sport annonce la fin des aides aux équipements sportifs mais souhaite demeurer aux côtés des collectivités pour les accompagner dans des projets \"à impact\" territorial. Les élus locaux balancent entre fatalisme et scepticisme.",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
