@@ -1287,6 +1287,33 @@
     "bf_formulaire": "6"
   },
   {
+    "bf_titre": "Des villages aux villes moyennes : passer à l'action pour apaiser l'espace public. retour sur la journée France Mobilités Grand Est du 10 novembre 2026",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/villages-aux-villes-moyennes-passer-action-apaiser-espace",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Vendredi 27 novembre 2026 Vélo, marche, accessibilité, Aménagement de la voirie et éclairage public Colmar place piétonne Les cellules régionales France Mobilités apportent des outils aux acteurs locaux pour développer les mobilités et l&#039;accessibilité des territoires. Cette journée te",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Plan de circulation hors agglomération favorable aux modes actifs : Retour sur le Rendez-vous Mobilités du 12 novembre 2026 consacré aux travaux sur la méthode",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/plan-circulation-hors-agglomeration-favorable-aux-modes",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Vendredi 27 novembre 2026 Vélo, marche, accessibilité, Gouvernance, planification et organisation des mobilités Voie cyclable en zone peu dense Le plan de circulation, outil de gestion des circulations au service de l’équilibrage de l’usage de la voirie&amp;nbsp;En introduisant ce rendez-v",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
+    "bf_titre": "Mettre en œuvre le réseau Vélo Île-de-France : préconisations et enseignements à mi-parcours de la démarche. Retour sur le webinaire du 4 novembre",
+    "bf_lien": "https://www.cerema.fr/fr/actualites/mettre-oeuvre-reseau-velo-ile-france-preconisations",
+    "bf_categorie": "Transitions",
+    "bf_description": "Publié le Vendredi 27 novembre 2026 Vélo, marche, accessibilité vélo &amp; marche Le défi du développement du réseau Vélo Île-de-France (VIF) réside dans le partage de sa mise en œuvre entre les différents territoires maîtres d’ouvrage. La démarche vise à aménager 750 km du réseau cyclable, et 400 k",
+    "bf_tags": "CEREMA",
+    "bf_type": "Actualite",
+    "bf_formulaire": "actu"
+  },
+  {
     "bf_titre": "Le Cerema accueille une délégation vietnamienne sur la planification territoriale et l’adaptation",
     "bf_lien": "https://www.cerema.fr/fr/actualites/cerema-accueille-delegation-vietnamienne-planification",
     "bf_categorie": "Transitions",
@@ -1305,37 +1332,19 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Les drones : la donnée au service des territoires",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/drones-donnee-au-service-territoires",
+    "bf_titre": "Valorisation des emballages en France - Données 2024",
+    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9797-valorisation-des-emballages-en-france-donnees-2024.html",
     "bf_categorie": "Transitions",
-    "bf_description": "Publié le Mercredi 25 novembre 2026 Stratégies, résilience et projets de transition, Observation, planification et gestion du littoral et de la mer, Ouvrages d’art, Risques inondations et mouvements de terrain couverture Le drone permet d&#039;améliorer la connaissance du territoire, le suivi de don",
-    "bf_tags": "CEREMA",
+    "bf_description": "&lt;p&gt;Ce rapport présente l&#039;actualisation, pour 2024, des données sur la &lt;strong&gt;mise en marché des emballages et la gestion des déchets d&#039;emballages&lt;/strong&gt; ainsi que les&lt;strong&gt; taux de recyclage&lt;/strong&gt; et de &lt;strong&gt;valorisation &lt;/strong&gt;dans le",
+    "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Massifier la pratique du covoiturage : le Cerema propose une méthode pour construire une stratégie territoriale",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/massifier-pratique-du-covoiturage-cerema-propose-methode",
+    "bf_titre": "Vers un commun numérique de l&#039;adaptation au changement climatique ?",
+    "bf_lien": "https://librairie.ademe.fr/changement-climatique/9796-vers-un-commun-numerique-de-l-adaptation-au-changement-climatique-.html",
     "bf_categorie": "Transitions",
-    "bf_description": "Publié le Mercredi 25 novembre 2026 Transports collectifs, partagés et intermodalité couverture Le covoiturage peut contribuer à répondre à plusieurs enjeux de mobilité : réduire l’usage individuel de la voiture et les consommations énergétiques, diminuer les émissions de gaz à effet de serre et amé",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Massifier la pratique du covoiturage : le Cerema publie des synthèses thématiques",
-    "bf_lien": "https://www.cerema.fr/fr/actualites/massifier-pratique-du-covoiturage-cerema-publie-syntheses",
-    "bf_categorie": "Transitions",
-    "bf_description": "Publié le Mercredi 25 novembre 2026 Transports collectifs, partagés et intermodalité Arrêt de covoiturage Afin d’accompagner le développement du covoiturage dans les territoires, le Cerema a lancé un appel à partenariats à l’automne 2023 sur la thématique des stratégies permettant de massifier le co",
-    "bf_tags": "CEREMA",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "Évaluation des GES du Fonds Économie Circulaire de l&#039;ADEME",
-    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9793-evaluation-des-ges-du-fonds-economie-circulaire-de-l-ademe.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p style=&quot;margin-left:38px;&quot;&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;&lt;span style=&quot;color:#1d1d1b;&quot;&gt; L’ADEME a réalisé une première évaluation de l’impact sur les émissions de gaz à effet de serre (GES) des projets soutenus par son Fonds Économie Circulaire (ECi), ",
+    "bf_description": "&lt;p&gt;Afin d’accompagner la massification des diagnostics de risques climatiques tout en participant à la montée en qualité des analyses réalisées, l’ADEME a étudié le besoin et la faisabilité d’une base de données nationale et publique de seuils de vulnérabilité climatique qui permettrait de fac",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1350,28 +1359,19 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Les activités physiques et sportives (APS) au défi du changement climatique",
-    "bf_lien": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9795-les-activites-physiques-et-sportives-aps-au-defi-du-changement-climatique.html",
+    "bf_titre": "Évaluation des GES du Fonds Économie Circulaire de l&#039;ADEME",
+    "bf_lien": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9793-evaluation-des-ges-du-fonds-economie-circulaire-de-l-ademe.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Les activités physiques et sportives sont essentielles pour la santé physique et mentale. Mais les pratiquer va devenir de plus en plus difficile : canicule, crise énergétique, sécheresse, fonte des glaces ou encore déclin de la biodiversité, sont de nouveaux freins.&lt;br /&gt; Comment con",
+    "bf_description": "&lt;p style=&quot;margin-left:38px;&quot;&gt;&lt;span style=&quot;font-size:9pt;&quot;&gt;&lt;span style=&quot;color:#1d1d1b;&quot;&gt; L’ADEME a réalisé une première évaluation de l’impact sur les émissions de gaz à effet de serre (GES) des projets soutenus par son Fonds Économie Circulaire (ECi), ",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "La Mission Adaptation",
-    "bf_lien": "https://librairie.ademe.fr/changement-climatique/9794-la-mission-adaptation.html",
+    "bf_titre": "Fiches Rex Plan de Paysage Transition Energétique - Nord (HDF, Normandie, IdF)",
+    "bf_lien": "https://librairie.ademe.fr/changement-climatique/9787-fiches-rex-plan-de-paysage-transition-energetique-nord-hdf-normandie-idf.html",
     "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Face au changement climatique, par où commencer ?&lt;/p&gt; &lt;p&gt;Fortes chaleurs, sécheresses, inondations, évolution des milieux naturels… Les collectivités font face à de nombreux défis pour adapter leur territoire aux effets du changement climatique.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Co",
-    "bf_tags": "ADEME - Librairie",
-    "bf_type": "Actualite",
-    "bf_formulaire": "actu"
-  },
-  {
-    "bf_titre": "ZIBAC Fos Sur Mer - Trajectoires de décarbonation intersectorielles",
-    "bf_lien": "https://librairie.ademe.fr/industrie-et-production-durable/9689-zibac-fos-sur-mer-trajectoires-de-decarbonation-intersectorielles.html",
-    "bf_categorie": "Transitions",
-    "bf_description": "&lt;p&gt;Cette étude réalisée par les industriels de la ZI de Fos Sur Mer présente différentes trajectoires de décarbonation du tissu industriel local. Pour y parvenir, des études ont été menées sur les technologies et infrastructures pertinentes à développer, les ressources disponibles, les opportu",
+    "bf_description": "&lt;p&gt;Le plan de paysage est un projet de paysage dans lequel est mise en œuvre une démarche paysagère à l&#039;échelle d&#039;un territoire, souvent une intercommunalité ou une commune. C&#039;est un moment de dialogue constant entre les différents acteurs du territoire pour réfléchir à la trans",
     "bf_tags": "ADEME - Librairie",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
@@ -1422,46 +1422,46 @@
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Simplification : le troisième méga-décret est paru",
-    "bf_lien": "https://www.banquedesterritoires.fr/simplification-un-troisieme-mega-decret-est-paru?pk_campaign=Flux%20RSS&pk_kwd=2026-11-26&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Congrès des maires – Fin de quinquennat... et fin d'un \"système\" ?",
+    "bf_lien": "https://www.banquedesterritoires.fr/congres-des-maires-fin-de-quinquennat-et-fin-dun-systeme?pk_campaign=Flux%20RSS&pk_kwd=2026-11-27&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le chantier de \"simplification administrative\", dont Matignon a fait une priorité depuis plusieurs mois, vient de s’étoffer d’un troisième \"méga-décret\" d'une soixantaine d'articles pour alléger les normes applicables aux collectivités, paru ce 25 novembre, au lendemain de l’ouverture du 108e Congrè",
+    "bf_description": "La résolution générale présentée ce 26 novembre en clôture du Congrès des maires dresse un bilan sévère quant au sort des communes au terme de dix années de \"recentralisation\" institutionnelle et financière. Dans un format inédit de table ronde avec David Lisnard, fraîchement réélu président de l'As",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Congrès des maires – Relations élus-Éducation nationale : en progrès mais peut mieux faire",
-    "bf_lien": "https://www.banquedesterritoires.fr/congres-des-maires-relations-elus-education-nationale-en-progres-mais-peut-mieux-faire?pk_campaign=Flux%20RSS&pk_kwd=2026-11-26&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Congrès des maires – Débat Finances locales : l'AMF demande une loi de programmation",
+    "bf_lien": "https://www.banquedesterritoires.fr/congres-des-maires-debat-finances-locales-lamf-demande-une-loi-de-programmation?pk_campaign=Flux%20RSS&pk_kwd=2026-11-27&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "La rencontre entre maires et directeurs académiques à l'occasion du Congrès des maires a mis en avant des améliorations dans leur dialogue autour de l'élaboration de la carte scolaire. Mais plusieurs points d'accroche demeurent, notamment sur la question des déplacements des élèves en milieu rural.",
+    "bf_description": "Ce 26 novembre, au cours du traditionnel débat du congrès de l'Association des maires de France consacré aux finances locales, les maires et présidents d'intercommunalité ont répété combien ils ont besoin de visibilité financière pour élaborer leurs budgets et conduire les politiques locales. Et du ",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Congrès des maires – Projet de loi polices municipales : \"C'est 'En attendant Godot'\" grincent les élus",
-    "bf_lien": "https://www.banquedesterritoires.fr/congres-des-maires-projet-de-loi-polices-municipales-cest-en-attendant-godot-grincent-les-elus?pk_campaign=Flux%20RSS&pk_kwd=2026-11-26&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Congrès des maires – Crise du logement : \"N'attendez pas plus de l'État, espérez qu'il n'y aura pas moins !\"",
+    "bf_lien": "https://www.banquedesterritoires.fr/congres-des-maires-crise-du-logement-nattendez-pas-plus-de-letat-esperez-quil-ny-aura-pas-moins?pk_campaign=Flux%20RSS&pk_kwd=2026-11-27&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Le forum consacré au continuum de sécurité montre que les communes, poussées par leur population, prennent déjà plus que leur part dans ce domaine régalien. Elles sont même prêtes à aller plus loin, à la condition que l'État leur fasse confiance, leur donne réellement les moyens d'agir… et cesse de ",
+    "bf_description": "Face à une crise du logement qui s'aggrave et à un État jugé de moins en moins présent, 62% des maires se disent impuissants. Réunis lors d'un forum dans le cadre du Congrès des maires, les élus ont dressé le constat d'un décalage croissant entre les besoins des habitants et l'offre disponible. Bail",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Congrès des maires – \"La gendarmerie, c'est la police municipale de 90% des communes\"",
-    "bf_lien": "https://www.banquedesterritoires.fr/congres-des-maires-la-gendarmerie-cest-la-police-municipale-de-90-des-communes?pk_campaign=Flux%20RSS&pk_kwd=2026-11-26&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Congrès des maires – Adapter les écoles au changement climatique : avant la clim', les communes testent les solutions sobres",
+    "bf_lien": "https://www.banquedesterritoires.fr/congres-des-maires-adapter-les-ecoles-au-changement-climatique-avant-la-clim-les-communes-testent?pk_campaign=Flux%20RSS&pk_kwd=2026-11-27&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "Conscients que leur \"partenariat\" avec les maires est fondamental pour les communes, ultra-majoritaires, qui ne sont pas dotées d'une police municipale, les gendarmes multiplient les outils pour protéger et aider ces derniers. Mais rien ne remplace la qualité de la relation humaine, est-il rappelé.",
+    "bf_description": "Après une fin d'année scolaire où 4.000 écoles ont fermé et 11.000 autres ont dû adapter leur fonctionnement, le Congrès des maires 2026 a consacré une table ronde à la rénovation des bâtiments scolaires. Élus et experts y ont défendu des solutions sobres – protections solaires, brasseurs d'air, cou",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
   },
   {
-    "bf_titre": "Congrès des maires – Sport : les recettes de l'ANS pour accompagner les équipements sportifs par temps de disette budgétaire",
-    "bf_lien": "https://www.banquedesterritoires.fr/congres-des-maires-sport-les-recettes-de-lans-pour-accompagner-les-equipements-sportifs-par-temps?pk_campaign=Flux%20RSS&pk_kwd=2026-11-26&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
+    "bf_titre": "Congrès des maires – Entre extinction sans encombre des vieux réseaux et nouvelles craintes sur la couverture fixe et mobile",
+    "bf_lien": "https://www.banquedesterritoires.fr/congres-des-maires-entre-extinction-sans-encombre-des-vieux-reseaux-et-nouvelles-craintes-sur-la?pk_campaign=Flux%20RSS&pk_kwd=2026-11-27&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS",
     "bf_categorie": "Finances",
-    "bf_description": "L'Agence nationale du sport annonce la fin des aides aux équipements sportifs mais souhaite demeurer aux côtés des collectivités pour les accompagner dans des projets \"à impact\" territorial. Les élus locaux balancent entre fatalisme et scepticisme.",
+    "bf_description": "Orange, l'Arcep et l'État se sont montrés rassurants sur la fermeture des anciens réseaux. Les maires ont surtout relayé la persistance de zones blanches alors que le New Deal mobile et le plan France très haut débit s’achèvent. Les acteurs des réseaux d'initiative publique (RIP) s’alarment par voie",
     "bf_tags": "Banque des Territoires",
     "bf_type": "Actualite",
     "bf_formulaire": "actu"
